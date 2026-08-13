@@ -59,6 +59,17 @@ MAX_FAILS = 3
 
 # Hosts there is no point loading in a browser.
 SKIP_SCHEMES = {"magnet", "mailto", "ftp", "irc", "ircs", "tg", "javascript"}
+
+# Cloudflare and friends serve a challenge page to datacentre IPs. It carries no
+# ads, so scoring it gives a false A+ — the worst possible failure mode here,
+# since it flatters exactly the sites most likely to be ad-heavy.
+CHALLENGE_MARKERS = (
+    "just a moment", "attention required", "checking your browser",
+    "verifying you are human", "verify you are human", "one moment, please",
+    "access denied", "security check", "ddos-guard", "are you a robot",
+    "please wait...", "cf-challenge", "bot verification",
+)
+CHALLENGE_STATUSES = {401, 403, 405, 429, 503}
 SKIP_HOST_SUFFIXES = (".onion", ".i2p", ".loki", ".bit",
                       ".google.com", ".googleusercontent.com")
 SKIP_HOSTS = {
@@ -190,6 +201,20 @@ def build_queue(index: dict, state: dict, limit: int) -> list[tuple[str, dict]]:
 # ---------------------------------------------------------------------------
 
 
+def _is_challenge(r: Result) -> bool:
+    """A page that is a bot wall rather than the real site."""
+    if r.status in CHALLENGE_STATUSES:
+        return True
+    title = (r.title or "").lower()
+    if any(m in title for m in CHALLENGE_MARKERS):
+        return True
+    # A page with no title, no ads and almost no weight is usually an
+    # interstitial rather than a genuinely clean site.
+    if not title and r.page_kb < 8 and r.total_requests < 4:
+        return True
+    return False
+
+
 async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
                scroll: bool) -> dict[str, Result]:
     try:
@@ -230,6 +255,11 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
                     res = Result(url=info["url"],
                                  error=f"{type(e).__name__}: {str(e)[:100]}")
                     res = score_result(res)
+
+                if res.ok and _is_challenge(res):
+                    res.ok = False
+                    res.error = "blocked: bot challenge page"
+
                 out[host] = res
                 done += 1
                 tag = res.grade if res.ok else "ERR"
@@ -288,7 +318,8 @@ def write_outputs(state: dict, index: dict):
                           encoding="utf-8")
 
     # Compact app-facing map. Short keys keep the download small for the app:
-    #   s=score  g=grade  a=ad requests  n=ad slots  p=popups  k=sticky  d=date
+    #   s=score  g=grade  a=ad requests  n=ad slots  p=popups  k=sticky
+    #   r=how many FMHY entries point here  c=FMHY categories  d=date checked
     compact = {}
     for host, st in state.items():
         if not st.get("ok"):
@@ -297,6 +328,7 @@ def write_outputs(state: dict, index: dict):
             "s": st["score"], "g": st["grade"],
             "a": st["ad_requests"], "n": st["ad_slots"],
             "p": st["popups"], "k": st["sticky_ads"],
+            "r": st.get("refs", 0), "c": st.get("pages", [])[:4],
             "d": (st.get("checked_utc") or "")[:10],
         }
 
@@ -311,6 +343,7 @@ def write_outputs(state: dict, index: dict):
                          if rated else 0,
         "legend": {"s": "score 0-100", "g": "grade A+..F", "a": "ad requests",
                    "n": "ad slots", "p": "popups", "k": "sticky ads",
+                   "r": "FMHY references", "c": "FMHY categories",
                    "d": "date checked"},
         "hosts": compact,
     }, separators=(",", ":"), sort_keys=True), encoding="utf-8")
