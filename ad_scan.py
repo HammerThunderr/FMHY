@@ -70,6 +70,102 @@ CHALLENGE_MARKERS = (
     "please wait...", "cf-challenge", "bot verification",
 )
 CHALLENGE_STATUSES = {401, 403, 405, 429, 503}
+
+# FMHY's 14 pages are too coarse to filter by — "Streaming" covers films, live
+# sport and subtitle tools alike. The wiki's section headings carry the real
+# topic, so each host is tagged from page + section instead.
+#
+# Rules are (substring of section, topic) and are tried in order; the first
+# match wins, and anything unmatched falls back to the page's own label.
+TOPIC_RULES: dict[str, list[tuple[str, str]]] = {
+    "Streaming": [
+        ("live tv", "Live TV & Sports"),
+        ("sport", "Live TV & Sports"),
+        ("smart tv", "Smart TV"),
+        ("specialty", "Anime & Specialty"),
+        ("anime", "Anime & Specialty"),
+        ("subtitle", "Subtitles"),
+        ("download", "Video Downloads"),
+        ("torrent", "Torrents"),
+        ("tracking", "Trackers & Databases"),
+        ("database", "Trackers & Databases"),
+        ("tool", "Video Tools"),
+        ("", "Movies & TV"),
+    ],
+    "Reading": [
+        ("audiobook", "Audiobooks"),
+        ("visual media", "Comics & Manga"),
+        ("comic", "Comics & Manga"),
+        ("manga", "Comics & Manga"),
+        ("educational", "Textbooks"),
+        ("document", "Articles & Docs"),
+        ("article", "Articles & Docs"),
+        ("news", "Articles & Docs"),
+        ("tracking", "Trackers & Databases"),
+        ("database", "Trackers & Databases"),
+        ("", "Ebooks"),
+    ],
+    "Music": [
+        ("radio", "Radio"),
+        ("rip", "Music Downloads"),
+        ("torrent", "Music Downloads"),
+        ("download", "Music Downloads"),
+        ("tool", "Audio Tools"),
+        ("edit", "Audio Tools"),
+        ("tracking", "Trackers & Databases"),
+        ("database", "Trackers & Databases"),
+        ("", "Music Streaming"),
+    ],
+    "Gaming": [
+        ("browser", "Browser Games"),
+        ("emulation", "Emulation & ROMs"),
+        ("rom", "Emulation & ROMs"),
+        ("puzzle", "Browser Games"),
+        ("tabletop", "Tabletop Games"),
+        ("download", "Game Downloads"),
+        ("torrent", "Game Downloads"),
+        ("", "Games"),
+    ],
+    "Educational": [
+        ("course", "Courses"),
+        ("learn", "Courses"),
+        ("language", "Languages"),
+        ("science", "Science & Maths"),
+        ("math", "Science & Maths"),
+        ("", "Learning"),
+    ],
+    "Mobile": [
+        ("ios", "iOS Apps"),
+        ("apple", "iOS Apps"),
+        ("", "Android Apps"),
+    ],
+}
+
+# Used when a page has no rules, or no rule matched.
+PAGE_TOPICS = {
+    "Streaming": "Movies & TV",
+    "Reading": "Ebooks",
+    "Music": "Music Streaming",
+    "Gaming": "Games",
+    "Educational": "Learning",
+    "Mobile": "Android Apps",
+    "Downloading": "Downloads",
+    "Torrenting": "Torrents",
+    "Artificial-Intelligence": "AI Tools",
+    "Linux": "Linux & Mac",
+    "Storage": "File Storage",
+    "Adblock": "Adblocking",
+    "Non-Eng": "Non-English",
+    "Misc": "Everything Else",
+}
+
+
+def topic_for(page: str, section: str | None) -> str:
+    sec = (section or "").lower()
+    for needle, topic in TOPIC_RULES.get(page, []):
+        if needle == "" or needle in sec:
+            return topic
+    return PAGE_TOPICS.get(page, page.replace("-", " "))
 SKIP_HOST_SUFFIXES = (".onion", ".i2p", ".loki", ".bit",
                       ".google.com", ".googleusercontent.com")
 SKIP_HOSTS = {
@@ -128,12 +224,14 @@ def build_host_index(page_filter: str | None, starred_only: bool) -> dict:
             return
 
         m = meta.setdefault(host, {"refs": 0, "starred": 0, "pages": set(),
+                                   "topics": set(),
                                    "title": rec.get("title") or host})
         m["refs"] += 1
         if rec.get("starred"):
             m["starred"] += 1
         if rec.get("page"):
             m["pages"].add(rec["page"])
+            m["topics"].add(topic_for(rec["page"], rec.get("section")))
         url_counts[host][url] += 1
 
     for rec in records:
@@ -154,6 +252,7 @@ def build_host_index(page_filter: str | None, starred_only: bool) -> dict:
             "refs": m["refs"],
             "starred": m["starred"],
             "pages": sorted(m["pages"]),
+            "topics": sorted(m["topics"]),
             "title": m["title"][:80],
             "url": best[0][0] if best else f"https://{host}/",
         }
@@ -308,6 +407,7 @@ def merge_state(state: dict, index: dict, results: dict[str, Result]) -> dict:
             "refs": index.get(host, {}).get("refs", prev.get("refs", 0)),
             "starred": index.get(host, {}).get("starred", prev.get("starred", 0)),
             "pages": index.get(host, {}).get("pages", prev.get("pages", [])),
+            "topics": index.get(host, {}).get("topics", prev.get("topics", [])),
         }
     return state
 
@@ -328,7 +428,10 @@ def write_outputs(state: dict, index: dict):
             "s": st["score"], "g": st["grade"],
             "a": st["ad_requests"], "n": st["ad_slots"],
             "p": st["popups"], "k": st["sticky_ads"],
-            "r": st.get("refs", 0), "c": st.get("pages", [])[:4],
+            "r": st.get("refs", 0),
+            "c": (index.get(host, {}).get("topics")
+                  or st.get("topics")
+                  or st.get("pages", []))[:4],
             "d": (st.get("checked_utc") or "")[:10],
         }
 
