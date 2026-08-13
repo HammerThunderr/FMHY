@@ -1,0 +1,87 @@
+name: Ad Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Hosts to scan this run"
+        default: "250"
+      concurrency:
+        description: "Parallel pages"
+        default: "4"
+      page:
+        description: "Optional FMHY page filter (e.g. Streaming)"
+        default: ""
+      starred_only:
+        description: "Only community-starred links"
+        type: boolean
+        default: false
+  schedule:
+    # Every 6 hours -> ~1,000 hosts/day -> full index covered in ~11 days,
+    # after which it rolls into continuous re-checking.
+    - cron: "40 1,7,13,19 * * *"
+
+permissions:
+  contents: write
+
+# Never let two scans run at once - they would both commit the state file.
+concurrency:
+  group: ad-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Scan batch
+        env:
+          LIMIT: ${{ inputs.limit || '250' }}
+          CONC: ${{ inputs.concurrency || '4' }}
+          PAGE: ${{ inputs.page }}
+          STARRED: ${{ inputs.starred_only }}
+        run: |
+          ARGS="--limit $LIMIT --concurrency $CONC --timeout 35"
+          [ -n "$PAGE" ] && ARGS="$ARGS --page $PAGE"
+          [ "$STARRED" = "true" ] && ARGS="$ARGS --starred-only"
+          python ad_scan.py $ARGS | tee scan.log
+
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "## FMHY ad scan"
+            echo ""
+            echo '```'
+            head -c 60000 scan.log
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json
+          if git diff --staged --quiet; then
+            echo "No change."
+          else
+            git commit -m "data: ad ratings $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # The FMHY data workflow may have pushed while this ran.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
