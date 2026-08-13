@@ -473,6 +473,28 @@ def write_outputs(state: dict, index: dict):
 # ---------------------------------------------------------------------------
 
 
+def sanitise_state(state: dict) -> int:
+    """Retro-flag hosts already scored before challenge detection existed.
+
+    Without this, a Cloudflare wall recorded as a perfect A+ keeps its score
+    until its 30-day recheck, sitting at the top of "Cleanest" the whole time.
+    Flipping ok to False drops it from the ratings and requeues it for a retry.
+    """
+    fixed = 0
+    for host, st in state.items():
+        if not st.get("ok"):
+            continue
+        title = (st.get("title") or "").lower()
+        blocked = any(m in title for m in CHALLENGE_MARKERS)
+        if not blocked and not title and st.get("page_kb", 0) < 8:
+            blocked = True
+        if blocked:
+            st["ok"] = False
+            st["error"] = "blocked: bot challenge page"
+            fixed += 1
+    return fixed
+
+
 def main():
     ap = argparse.ArgumentParser(description="Batch ad-rate the FMHY link index.")
     ap.add_argument("--limit", type=int, default=250,
@@ -488,6 +510,10 @@ def main():
     index = build_host_index(args.page, args.starred_only)
     state = json.loads(STATE_FILE.read_text(encoding="utf-8")) \
         if STATE_FILE.exists() else {}
+
+    cleaned = sanitise_state(state)
+    if cleaned:
+        print(f"Dropped {cleaned} previously scored bot-challenge pages.\n")
 
     queue = build_queue(index, state, args.limit)
     rated = sum(1 for s in state.values() if s.get("ok"))
