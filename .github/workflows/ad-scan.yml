@@ -32,7 +32,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 55
 
     steps:
       - uses: actions/checkout@v4
@@ -55,7 +55,9 @@ jobs:
           PAGE: ${{ inputs.page }}
           STARRED: ${{ inputs.starred_only }}
         run: |
-          ARGS="--limit $LIMIT --concurrency $CONC --timeout 35"
+          # Stop scanning at 45 min so there is always time to
+          # commit before the 55-min job cap kills the run.
+          ARGS="--limit $LIMIT --concurrency $CONC --timeout 30 --budget 2700"
           [ -n "$PAGE" ] && ARGS="$ARGS --page $PAGE"
           [ "$STARRED" = "true" ] && ARGS="$ARGS --starred-only"
           python ad_scan.py $ARGS | tee scan.log
