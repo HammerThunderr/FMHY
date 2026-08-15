@@ -315,7 +315,7 @@ def _is_challenge(r: Result) -> bool:
 
 
 async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
-               scroll: bool) -> dict[str, Result]:
+               scroll: bool, budget_s: int = 0) -> dict[str, Result]:
     try:
         from playwright.async_api import async_playwright
     except ImportError:
@@ -325,6 +325,8 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
     sem = asyncio.Semaphore(concurrency)
     done = 0
     total = len(queue)
+    deadline = time.time() + budget_s if budget_s else None
+    stopped_early = False
 
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=True, args=[
@@ -346,8 +348,14 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
         context.set_default_timeout(timeout * 1000)
 
         async def worker(host: str, info: dict):
-            nonlocal done
+            nonlocal done, stopped_early
             async with sem:
+                # Once the budget is spent, drain the rest of the queue without
+                # scanning so the run commits what it has and exits cleanly,
+                # rather than being killed mid-write by the CI timeout.
+                if deadline and time.time() > deadline:
+                    stopped_early = True
+                    return
                 try:
                     res = await analyse_browser(context, info["url"], timeout, scroll)
                 except Exception as e:
@@ -369,6 +377,10 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
         await asyncio.gather(*(worker(h, i) for h, i in queue))
         await context.close()
         await browser.close()
+
+    if stopped_early:
+        print(f"\nStopped on time budget after {len(out)} hosts "
+              f"({total - len(out)} left in queue for next run).")
 
     return out
 
@@ -504,6 +516,9 @@ def main():
     ap.add_argument("--page", help="only hosts from one FMHY page, e.g. Streaming")
     ap.add_argument("--starred-only", action="store_true")
     ap.add_argument("--no-scroll", action="store_true")
+    ap.add_argument("--budget", type=int, default=0,
+                    help="stop scanning after N seconds, commit what is done "
+                         "(0 = no limit)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -534,7 +549,7 @@ def main():
 
     t0 = time.time()
     results = asyncio.run(scan(queue, args.concurrency, args.timeout,
-                               not args.no_scroll))
+                               not args.no_scroll, args.budget))
     state = merge_state(state, index, results)
     write_outputs(state, index)
 
