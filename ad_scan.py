@@ -374,9 +374,18 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
                       f"ads={res.ad_requests:<4} slots={res.ad_slots:<3} "
                       f"pop={res.popups}  {host[:45]}", flush=True)
 
-        await asyncio.gather(*(worker(h, i) for h, i in queue))
-        await context.close()
-        await browser.close()
+        try:
+            await asyncio.gather(*(worker(h, i) for h, i in queue))
+        finally:
+            # Close in a finally so a hung task cannot leave the browser alive.
+            try:
+                await context.close()
+            except Exception:
+                pass
+            try:
+                await browser.close()
+            except Exception:
+                pass
 
     if stopped_early:
         print(f"\nStopped on time budget after {len(out)} hosts "
