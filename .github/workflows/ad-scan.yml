@@ -17,14 +17,11 @@ on:
         type: boolean
         default: false
   schedule:
-    # Every 6 hours -> ~1,000 hosts/day -> full index covered in ~11 days,
-    # after which it rolls into continuous re-checking.
     - cron: "40 1,7,13,19 * * *"
 
 permissions:
   contents: write
 
-# Never let two scans run at once - they would both commit the state file.
 concurrency:
   group: ad-scan
   cancel-in-progress: false
@@ -32,7 +29,9 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    # Generous cap; the scanner's own --budget stops work long before this,
+    # so the commit step is never the thing that gets cancelled.
+    timeout-minutes: 60
 
     steps:
       - uses: actions/checkout@v4
@@ -55,12 +54,29 @@ jobs:
           PAGE: ${{ inputs.page }}
           STARRED: ${{ inputs.starred_only }}
         run: |
-          # Stop scanning at 45 min so there is always time to
-          # commit before the 55-min job cap kills the run.
-          ARGS="--limit $LIMIT --concurrency $CONC --timeout 30 --budget 2700"
+          # Stop scanning at 40 min. With a 60-min job cap that leaves 20 min
+          # of headroom for install + commit, so a slow batch can never eat
+          # into the commit step.
+          ARGS="--limit $LIMIT --concurrency $CONC --timeout 30 --budget 2400"
           [ -n "$PAGE" ] && ARGS="$ARGS --page $PAGE"
           [ "$STARRED" = "true" ] && ARGS="$ARGS --starred-only"
           python ad_scan.py $ARGS | tee scan.log
+
+      # Commit runs even if the scan step failed or was cancelled, so partial
+      # progress is always saved rather than lost with the runner.
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json
+          if git diff --staged --quiet; then
+            echo "No change to commit."
+          else
+            git commit -m "data: ad ratings $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
 
       - name: Job summary
         if: always()
@@ -69,21 +85,6 @@ jobs:
             echo "## FMHY ad scan"
             echo ""
             echo '```'
-            head -c 60000 scan.log
+            tail -c 30000 scan.log 2>/dev/null || echo "(no log)"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
-
-      - name: Commit results
-        if: always()
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json
-          if git diff --staged --quiet; then
-            echo "No change."
-          else
-            git commit -m "data: ad ratings $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # The FMHY data workflow may have pushed while this ran.
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
-            git push
-          fi
