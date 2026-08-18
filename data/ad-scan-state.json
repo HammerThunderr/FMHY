@@ -1016,6 +1016,37 @@
   "url": "https://an1.com/",
   "verdict": "Effectively ad-free"
  },
+ "anicine.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4255,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AniCine \u2013 Watch Free Movies, TV Shows & Anime Online HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://anicine.xyz/",
+  "verdict": "Very clean"
+ },
  "anidap.lol": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -1073,6 +1104,39 @@
   "trackers": 0,
   "url": "https://anikku-app.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "anikototv.to": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 63.5,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 646,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.5,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anikoto - Watch Anime Online, Free Anime Streaming",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://anikototv.to/",
+  "verdict": "Moderate advertising"
  },
  "anilist.co": {
   "ad_domains": 86,
@@ -1322,6 +1386,37 @@
   "trackers": 1,
   "url": "https://animex.one/",
   "verdict": "Very clean"
+ },
+ "anistream.one": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 48.8,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 339,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Anime Online for Free with English Subtitles and Dubbed - Anistream",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://anistream.one/",
+  "verdict": "Light advertising"
  },
  "anixx.fun": {
   "ad_domains": 1,
@@ -1985,6 +2080,48 @@
   "trackers": 0,
   "url": "https://apps.kde.org/spectacle/",
   "verdict": "Effectively ad-free"
+ },
+ "apps.npr.org": {
+  "ad_domains": 45,
+  "ad_requests": 143,
+  "ad_slots": 2,
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "c.amazon-adsystem.com",
+   "cdn.doubleverify.com",
+   "cdn.indexww.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "direct.adsrvr.org",
+   "dpm.demdex.net",
+   "dsum-sec.casalemedia.com"
+  ],
+  "ok": true,
+  "page_kb": 13312,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 27.9,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NPR : Books We Love",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 4,
+  "url": "https://apps.npr.org/best-books/",
+  "verdict": "Ad-saturated / hostile"
  },
  "appstorrent.ru": {
   "ad_domains": 0,
@@ -4129,6 +4266,37 @@
   "url": "https://chat.qwen.ai/",
   "verdict": "Very clean"
  },
+ "chat.together.ai": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 550,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.5,
+  "starred": 2,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Together Chat",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.together.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "chat.z.ai": {
   "ad_domains": 2,
   "ad_requests": 7,
@@ -4209,6 +4377,38 @@
   "title": "Home - Chemistry LibreTexts",
   "trackers": 5,
   "url": "https://chem.libretexts.org",
+  "verdict": "Very clean"
+ },
+ "cherryai.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.2,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4124,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.4,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cherry Studio - The All-in-One AI Workstation",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://cherryai.com/",
   "verdict": "Very clean"
  },
  "chesstempo.com": {
@@ -10318,6 +10518,37 @@
   "url": "https://geminigen.ai/app/video-gen/",
   "verdict": "Light advertising"
  },
+ "geminiwatermarkremover.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 62.9,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 263,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.5,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Gemini Watermark Remover & Cleaner | Remove Gemini Logo Online",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 8,
+  "url": "https://geminiwatermarkremover.io/",
+  "verdict": "Light advertising"
+ },
  "genderdysphoria.fyi": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11834,6 +12065,37 @@
   "trackers": 0,
   "url": "https://hayase.watch/",
   "verdict": "Effectively ad-free"
+ },
+ "hdhub4u.ec": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 54.9,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 276,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "HDHub4u",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://hdhub4u.ec/",
+  "verdict": "Light advertising"
  },
  "hdhub4u.tv": {
   "ad_domains": 0,
@@ -13778,6 +14040,66 @@
   ],
   "trackers": 0,
   "url": "https://kayoanime.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "kazora.cc": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1616,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.9,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Anime Online Free \u2014 Stream Sub & Dub HD | Kazora",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://kazora.cc/",
+  "verdict": "Very clean"
+ },
+ "keeb-finder.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 942,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KeebFinder - Mechanical keyboards and keycap set comparison",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://keeb-finder.com/",
   "verdict": "Effectively ad-free"
  },
  "keepa.com": {
@@ -15761,6 +16083,35 @@
   "url": "https://lmstudio.ai/download",
   "verdict": "Effectively ad-free"
  },
+ "loadix.fun": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 855,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Loadix \u00b7 Index francophone",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://loadix.fun/",
+  "verdict": "Effectively ad-free"
+ },
  "lossless.wtf": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -17115,6 +17466,38 @@
   "trackers": 0,
   "url": "https://mixplorer.com/beta/",
   "verdict": "Effectively ad-free"
+ },
+ "mizumath.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.2,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 14794,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.9,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "study - mizu",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://mizumath.com/study.html",
+  "verdict": "Very clean"
  },
  "mkissa.to": {
   "ad_domains": 1,
@@ -19530,6 +19913,35 @@
   "url": "https://octavestreaming.com/",
   "verdict": "Effectively ad-free"
  },
+ "octopart.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 297,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "NanoReview",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://octopart.com/",
+  "verdict": "Effectively ad-free"
+ },
  "ocw.mit.edu": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -21340,6 +21752,44 @@
   "url": "https://phet.colorado.edu/",
   "verdict": "Very clean"
  },
+ "phonedb.net": {
+  "ad_domains": 8,
+  "ad_requests": 63,
+  "ad_slots": 5,
+  "ad_weight_pct": 66.6,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1674,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "PhoneDB - The Largest Phone Specs Database",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://phonedb.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "photojournal.jpl.nasa.gov": {
   "ad_domains": 1,
   "ad_requests": 5,
@@ -22187,6 +22637,37 @@
   "trackers": 0,
   "url": "https://pokerogue.net/",
   "verdict": "Effectively ad-free"
+ },
+ "popcornmovies.ac": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3812,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.8,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PopcornMovies",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://popcornmovies.ac/",
+  "verdict": "Very clean"
  },
  "popcornmovies.io": {
   "ad_domains": 0,
@@ -23461,6 +23942,35 @@
   "trackers": 1,
   "url": "https://readlang.com/",
   "verdict": "Very clean"
+ },
+ "reanime.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4843,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Re:ANIME \u2014 Stream Anime Free Online",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://reanime.to/",
+  "verdict": "Effectively ad-free"
  },
  "receive-sms.cc": {
   "ad_domains": 56,
@@ -27882,6 +28392,79 @@
   "url": "https://teamwood.itch.io/super-auto-pets",
   "verdict": "Very clean"
  },
+ "technical.city": {
+  "ad_domains": 92,
+  "ad_requests": 1008,
+  "ad_slots": 11,
+  "ad_weight_pct": 30.8,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "aax.amazon-adsystem.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "bidline-us-east.bidswitch.net",
+   "c.amazon-adsystem.com"
+  ],
+  "ok": true,
+  "page_kb": 8497,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Unbiased hardware comparisons",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 7,
+  "url": "https://technical.city/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "techspecs.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 26.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 470,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TechSpecs - Home",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 9,
+  "url": "https://techspecs.io/",
+  "verdict": "Light advertising"
+ },
  "telegram.dog": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -32230,6 +32813,37 @@
   "url": "https://www.airnavradar.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.alexotos.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 1,
+  "ad_weight_pct": 9.9,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4653,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 81.5,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Keyboard Vendor List - alexotos - Where to buy keyboard parts",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.alexotos.com/keyboard-vendor-list/",
+  "verdict": "Light advertising"
+ },
  "www.alfredapp.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -32409,6 +33023,37 @@
   "trackers": 2,
   "url": "https://www.animefillerlist.com/",
   "verdict": "Heavy advertising"
+ },
+ "www.antutu.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.3,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1262,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.3,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ranking - Smartphone Performance - AnTuTu Benchmark - AnTuTu Benchmark",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.antutu.com/en/ranking/rank1.htm",
+  "verdict": "Very clean"
  },
  "www.anydecentmusic.com": {
   "ad_domains": 1,
@@ -36027,6 +36672,48 @@
   "url": "https://www.gsmarena.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.gsmchoice.com": {
+  "ad_domains": 18,
+  "ad_requests": 40,
+  "ad_slots": 3,
+  "ad_weight_pct": 61.5,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.id5-sync.com",
+   "dis.eu.criteo.com",
+   "dsum-sec.casalemedia.com",
+   "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "pagead2.googlesyndication.com",
+   "pixel.quantserve.com",
+   "pixel.rubiconproject.com"
+  ],
+  "ok": true,
+  "page_kb": 1316,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 14.5,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GSMchoice.com :: The biggest mobile phones catalogue",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.gsmchoice.com/en/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.gutenberg.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -36840,6 +37527,48 @@
   "trackers": 0,
   "url": "https://www.kimai.org/",
   "verdict": "Effectively ad-free"
+ },
+ "www.kimovil.com": {
+  "ad_domains": 16,
+  "ad_requests": 29,
+  "ad_slots": 0,
+  "ad_weight_pct": 32.1,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ads.yieldmo.com",
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cs.media.net",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "sync-tm.everesttech.net"
+  ],
+  "ok": true,
+  "page_kb": 1513,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 28.5,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cell phones: best smartphones with the cheapest price - Kimovil",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.kimovil.com/en/",
+  "verdict": "Very heavy advertising"
  },
  "www.kongregate.com": {
   "ad_domains": 8,
@@ -37855,6 +38584,35 @@
   "url": "https://www.motionmountain.net/index.html",
   "verdict": "Light advertising"
  },
+ "www.movy.bz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3311,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Movy - Watch Free Movies & TV Shows Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://www.movy.bz/",
+  "verdict": "Effectively ad-free"
+ },
  "www.mp3tag.de": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -38357,6 +39115,48 @@
   "trackers": 0,
   "url": "https://www.notebookcast.com/",
   "verdict": "Very heavy advertising"
+ },
+ "www.notebookcheck.net": {
+  "ad_domains": 90,
+  "ad_requests": 397,
+  "ad_slots": 1,
+  "ad_weight_pct": 42.4,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "1af5e47beb082e33b5cbc7412b4ad068.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax.amazon-adsystem.com",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "bidline-us-east.bidswitch.net",
+   "c.amazon-adsystem.com"
+  ],
+  "ok": true,
+  "page_kb": 2855,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Benchmarks / Tech - Notebookcheck Tech",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.notebookcheck.net/Benchmarks-Tech.123.0.html",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.notrace.how": {
   "ad_domains": 0,
@@ -41336,6 +42136,35 @@
   "trackers": 1,
   "url": "https://www.supercook.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.survivorlibrary.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-18T17:13:07+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2010,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Survivor Library",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.survivorlibrary.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.svgrepo.com": {
   "ad_domains": 0,
