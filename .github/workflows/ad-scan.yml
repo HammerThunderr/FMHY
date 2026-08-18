@@ -29,8 +29,6 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    # Generous cap; the scanner's own --budget stops work long before this,
-    # so the commit step is never the thing that gets cancelled.
     timeout-minutes: 60
 
     steps:
@@ -47,6 +45,32 @@ jobs:
       - name: Install Chromium
         run: python -m playwright install --with-deps chromium
 
+      # Commit whatever is on disk, every 2 minutes, in the background. The
+      # scanner flushes partial results to data/ every 25 hosts, so this loop
+      # keeps pushing them up even if the job is later cancelled — a cancelled
+      # GitHub job does NOT run normal or always() steps, so periodic commits
+      # from inside a running step are the only thing that survives it.
+      - name: Start autosave loop
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cat > /tmp/autosave.sh <<'SH'
+          #!/usr/bin/env bash
+          while true; do
+            sleep 120
+            git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json 2>/dev/null
+            if ! git diff --staged --quiet 2>/dev/null; then
+              git commit -m "data: ad ratings (autosave $(date -u +'%H:%M UTC'))" >/dev/null 2>&1
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" >/dev/null 2>&1
+              git push >/dev/null 2>&1 && echo "autosave pushed at $(date -u +'%H:%M:%S')"
+            fi
+          done
+          SH
+          chmod +x /tmp/autosave.sh
+          nohup /tmp/autosave.sh >/tmp/autosave.log 2>&1 &
+          echo $! > /tmp/autosave.pid
+          echo "autosave started (pid $(cat /tmp/autosave.pid))"
+
       - name: Scan batch
         env:
           LIMIT: ${{ inputs.limit || '250' }}
@@ -54,24 +78,19 @@ jobs:
           PAGE: ${{ inputs.page }}
           STARRED: ${{ inputs.starred_only }}
         run: |
-          # Stop scanning at 40 min. With a 60-min job cap that leaves 20 min
-          # of headroom for install + commit, so a slow batch can never eat
-          # into the commit step.
           ARGS="--limit $LIMIT --concurrency $CONC --timeout 30 --budget 2400"
           [ -n "$PAGE" ] && ARGS="$ARGS --page $PAGE"
           [ "$STARRED" = "true" ] && ARGS="$ARGS --starred-only"
           python ad_scan.py $ARGS | tee scan.log
 
-      # Commit runs even if the scan step failed or was cancelled, so partial
-      # progress is always saved rather than lost with the runner.
-      - name: Commit results
+      # Final commit for the last flush the autosave loop may not have caught.
+      - name: Final commit
         if: always()
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json
-          if git diff --staged --quiet; then
-            echo "No change to commit."
+          kill "$(cat /tmp/autosave.pid 2>/dev/null)" 2>/dev/null || true
+          git add data/ad-ratings.json data/ad-ratings.csv data/ad-scan-state.json 2>/dev/null || true
+          if git diff --staged --quiet 2>/dev/null; then
+            echo "Nothing new since last autosave."
           else
             git commit -m "data: ad ratings $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
