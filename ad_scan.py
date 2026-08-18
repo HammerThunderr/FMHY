@@ -315,7 +315,8 @@ def _is_challenge(r: Result) -> bool:
 
 
 async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
-               scroll: bool, budget_s: int = 0) -> dict[str, Result]:
+               scroll: bool, budget_s: int = 0, on_batch=None,
+               flush_every: int = 25) -> dict[str, Result]:
     try:
         from playwright.async_api import async_playwright
     except ImportError:
@@ -327,6 +328,7 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
     total = len(queue)
     deadline = time.time() + budget_s if budget_s else None
     stopped_early = False
+    since_flush = 0
 
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=True, args=[
@@ -348,7 +350,7 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
         context.set_default_timeout(timeout * 1000)
 
         async def worker(host: str, info: dict):
-            nonlocal done, stopped_early
+            nonlocal done, stopped_early, since_flush
             async with sem:
                 # Once the budget is spent, drain the rest of the queue without
                 # scanning so the run commits what it has and exits cleanly,
@@ -369,10 +371,23 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
 
                 out[host] = res
                 done += 1
+                since_flush += 1
                 tag = res.grade if res.ok else "ERR"
                 print(f"  [{done}/{total}] {tag:>3} {res.score:>5}  "
                       f"ads={res.ad_requests:<4} slots={res.ad_slots:<3} "
                       f"pop={res.popups}  {host[:45]}", flush=True)
+
+                # Persist partway through, so a cancelled run keeps everything
+                # scanned up to the last flush. GitHub does not run cleanup
+                # steps on a cancelled job, so waiting until the end loses the
+                # whole batch — this is what stops that.
+                if on_batch and since_flush >= flush_every:
+                    since_flush = 0
+                    try:
+                        on_batch(dict(out))
+                        print(f"    …saved {len(out)} so far", flush=True)
+                    except Exception as e:
+                        print(f"    (flush failed: {e})", flush=True)
 
         try:
             await asyncio.gather(*(worker(h, i) for h, i in queue))
@@ -399,16 +414,52 @@ async def scan(queue: list[tuple[str, dict]], concurrency: int, timeout: int,
 # ---------------------------------------------------------------------------
 
 
+# Errors that mean the site is genuinely gone, not just blocking a bot or
+# briefly down — the domain does not resolve, refuses connection, or the TLS
+# is broken. These get marked dead so the app can hide or flag them.
+DEAD_MARKERS = (
+    "err_name_not_resolved", "name_not_resolved", "enotfound",
+    "err_connection_refused", "connection_refused", "econnrefused",
+    "err_address_unreachable", "err_connection_closed",
+    "err_cert_", "ssl_error", "err_ssl", "certificate",
+    "net::err_connection_timed_out", "dns",
+)
+
+
+def classify(r: Result, fails: int) -> str:
+    """One of: online, offline, blocked, error.
+
+    online  — scanned fine.
+    offline — domain looks dead (DNS/refused/cert), or failed many times.
+    blocked — a bot wall answered; the site is probably alive, just unscannable.
+    error   — something else went wrong; worth retrying.
+    """
+    if r.ok:
+        return "online"
+    err = (r.error or "").lower()
+    if "bot challenge" in err:
+        return "blocked"
+    if any(m in err for m in DEAD_MARKERS):
+        return "offline"
+    # Repeated failure of any kind eventually counts as offline, so a dead site
+    # that times out rather than refusing does not retry forever.
+    if fails >= MAX_FAILS:
+        return "offline"
+    return "error"
+
+
 def merge_state(state: dict, index: dict, results: dict[str, Result]) -> dict:
     stamp = now_utc().isoformat(timespec="seconds")
     for host, r in results.items():
         prev = state.get(host, {})
         fails = prev.get("fails", 0)
         fails = fails + 1 if not r.ok else 0
+        status = classify(r, fails)
 
         state[host] = {
             "checked_utc": stamp,
             "ok": r.ok,
+            "status": status,
             "fails": fails,
             "error": r.error,
             "url": r.url,
@@ -457,31 +508,47 @@ def write_outputs(state: dict, index: dict):
         }
 
     rated = [s for s in state.values() if s.get("ok")]
+
+    # Hosts confirmed dead — surfaced so the app can label them "offline" or
+    # hide them, rather than silently dropping them as if never scanned.
+    offline = sorted(h for h, st in state.items()
+                     if st.get("status") == "offline")
+
+    status_counts = {}
+    for st in state.values():
+        s = st.get("status", "online" if st.get("ok") else "error")
+        status_counts[s] = status_counts.get(s, 0) + 1
+
     RATINGS_FILE.write_text(json.dumps({
         "generated_utc": now_utc().isoformat(timespec="seconds"),
         "source": "https://github.com/HammerThunderr/FMHY",
         "hosts_in_index": len(index),
         "hosts_rated": len(compact),
+        "hosts_offline": len(offline),
         "coverage_pct": round(len(compact) / max(1, len(index)) * 100, 1),
         "average_score": round(sum(s["score"] for s in rated) / len(rated), 1)
                          if rated else 0,
+        "status_counts": status_counts,
         "legend": {"s": "score 0-100", "g": "grade A+..F", "a": "ad requests",
                    "n": "ad slots", "p": "popups", "k": "sticky ads",
                    "r": "FMHY references", "c": "FMHY categories",
                    "d": "date checked"},
+        "offline": offline,
         "hosts": compact,
     }, separators=(",", ":"), sort_keys=True), encoding="utf-8")
 
-    cols = ["host", "grade", "score", "verdict", "ad_requests", "ad_domains",
-            "ad_slots", "sticky_ads", "popups", "trackers", "ad_weight_pct",
-            "refs", "starred", "pages", "url", "checked_utc", "error"]
+    cols = ["host", "status", "grade", "score", "verdict", "ad_requests",
+            "ad_domains", "ad_slots", "sticky_ads", "popups", "trackers",
+            "ad_weight_pct", "refs", "starred", "pages", "url", "checked_utc",
+            "error"]
     rows = sorted(state.items(), key=lambda kv: (kv[1].get("ok") is not True,
                                                  kv[1].get("score", 0)))
     with open(CSV_FILE, "w", newline="", encoding="utf-8-sig") as f:
         wr = csv.writer(f)
         wr.writerow(cols)
         for host, st in rows:
-            wr.writerow([host, st.get("grade", ""), st.get("score", ""),
+            wr.writerow([host, st.get("status", ""), st.get("grade", ""),
+                         st.get("score", ""),
                          st.get("verdict", ""), st.get("ad_requests", ""),
                          st.get("ad_domains", ""), st.get("ad_slots", ""),
                          st.get("sticky_ads", ""), st.get("popups", ""),
@@ -557,17 +624,29 @@ def main():
         return
 
     t0 = time.time()
+
+    # Flush partial progress to disk every 25 hosts. A cancelled GitHub job
+    # skips all cleanup/commit steps, so without this the whole batch is lost;
+    # with it, a cancellation loses at most the last 25 scans. The workflow's
+    # post-scan commit then just picks up whatever is already on disk.
+    def flush(partial: dict):
+        merged = merge_state(dict(state), index, partial)
+        write_outputs(merged, index)
+
     results = asyncio.run(scan(queue, args.concurrency, args.timeout,
-                               not args.no_scroll, args.budget))
+                               not args.no_scroll, args.budget,
+                               on_batch=flush, flush_every=25))
     state = merge_state(state, index, results)
     write_outputs(state, index)
 
     ok = [r for r in results.values() if r.ok]
     total_rated = sum(1 for s in state.values() if s.get("ok"))
+    offline = sum(1 for s in state.values() if s.get("status") == "offline")
     print(f"\nScanned {len(results)} in {time.time() - t0:.0f}s "
           f"({len(ok)} ok, {len(results) - len(ok)} failed)")
     print(f"Coverage now {total_rated}/{len(index)} "
-          f"({total_rated / max(1, len(index)) * 100:.1f}%)")
+          f"({total_rated / max(1, len(index)) * 100:.1f}%) | "
+          f"{offline} offline")
     if ok:
         worst = sorted(ok, key=lambda r: r.score)[:5]
         print("\nWorst this batch:")
