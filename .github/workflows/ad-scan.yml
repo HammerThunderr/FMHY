@@ -8,7 +8,7 @@ on:
         default: "250"
       concurrency:
         description: "Parallel pages"
-        default: "4"
+        default: "8"
       page:
         description: "Optional FMHY page filter (e.g. Streaming)"
         default: ""
@@ -74,11 +74,11 @@ jobs:
       - name: Scan batch
         env:
           LIMIT: ${{ inputs.limit || '250' }}
-          CONC: ${{ inputs.concurrency || '4' }}
+          CONC: ${{ inputs.concurrency || '8' }}
           PAGE: ${{ inputs.page }}
           STARRED: ${{ inputs.starred_only }}
         run: |
-          ARGS="--limit $LIMIT --concurrency $CONC --timeout 30 --budget 2400"
+          ARGS="--limit $LIMIT --concurrency $CONC --timeout 20 --budget 2400"
           [ -n "$PAGE" ] && ARGS="$ARGS --page $PAGE"
           [ "$STARRED" = "true" ] && ARGS="$ARGS --starred-only"
           python ad_scan.py $ARGS | tee scan.log
