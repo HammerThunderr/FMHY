@@ -4,7 +4,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://0xacab.org/leap/bitmask-vpn\", waiting until \"d",
   "fails": 1,
   "grade": "A+",
@@ -266,7 +266,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1172,7 +1172,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1428,7 +1428,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 0.6,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -1554,6 +1554,74 @@
   "url": "https://aidoku.app/",
   "verdict": "Effectively ad-free"
  },
+ "aidungeon.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1287,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Dungeon | Free AI Text Adventure Game",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://aidungeon.com/",
+  "verdict": "Very clean"
+ },
+ "aifreevideo.com": {
+  "ad_domains": 7,
+  "ad_requests": 64,
+  "ad_slots": 2,
+  "ad_weight_pct": 5.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 20716,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 30.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "#1 Free AI Video Generator Online - No Watermark | AIFreeVideo.com",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://aifreevideo.com/",
+  "verdict": "Very heavy advertising"
+ },
  "aimp.ru": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -1613,7 +1681,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1636,6 +1704,69 @@
   "trackers": 0,
   "url": "https://aistudio.xiaomimimo.com/",
   "verdict": "Effectively ad-free"
+ },
+ "aiva.ai": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 8167,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AIVA, the AI Music Generation Assistant",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://aiva.ai/",
+  "verdict": "Very clean"
+ },
+ "aivocal.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2003,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AIVocal - AI Voice Generator | Voice Cloning | Audiobook Online Free",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://aivocal.io/",
+  "verdict": "Very clean"
  },
  "akouzoukos.com": {
   "ad_domains": 0,
@@ -2123,7 +2254,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -3266,6 +3397,37 @@
   "url": "https://anymex.vercel.app/",
   "verdict": "Very clean"
  },
+ "anythingllm.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8546,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AnythingLLM \u2014 On-device AI for productivity | Local & Private",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://anythingllm.com/",
+  "verdict": "Very clean"
+ },
  "anyvoicelab.com": {
   "ad_domains": 3,
   "ad_requests": 220,
@@ -3418,6 +3580,37 @@
   "url": "https://apolloreborn.app/",
   "verdict": "Effectively ad-free"
  },
+ "app.artificialstudio.ai": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.6,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 775,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Tools - Image & Video Generation | Artificial Studio",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://app.artificialstudio.ai/tools",
+  "verdict": "Light advertising"
+ },
  "app.atlasobscura.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -3506,6 +3699,41 @@
   "trackers": 1,
   "url": "https://app.rawgraphs.io/",
   "verdict": "Very clean"
+ },
+ "app.reve.com": {
+  "ad_domains": 5,
+  "ad_requests": 20,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4912,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 45.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Reve Image - Model",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 6,
+  "url": "https://app.reve.com",
+  "verdict": "Heavy advertising"
  },
  "app.toolbaz.com": {
   "ad_domains": 1,
@@ -4210,6 +4438,37 @@
   "url": "https://arena.ai/text/direct",
   "verdict": "Very clean"
  },
+ "arena.ai4bharat.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 981,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Indic TTS Arena",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://arena.ai4bharat.org/#/tts",
+  "verdict": "Very clean"
+ },
  "areweanticheatyet.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -4778,6 +5037,35 @@
   "url": "https://audio-file.org/foobar2000-list-of-components/",
   "verdict": "Ad-saturated / hostile"
  },
+ "audio.z.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9479,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free AI powered by CogTTS & CogTTS-Voice Cloning",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://audio.z.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "audioalter.com": {
   "ad_domains": 4,
   "ad_requests": 33,
@@ -4811,6 +5099,35 @@
   "trackers": 0,
   "url": "https://audioalter.com/",
   "verdict": "Very heavy advertising"
+ },
+ "audioarena.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4044,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AudioArena - Which AI would you call?",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://audioarena.ai/",
+  "verdict": "Effectively ad-free"
  },
  "audiobookbay.lu": {
   "ad_domains": 1,
@@ -4991,7 +5308,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5020,7 +5337,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5631,7 +5948,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5653,6 +5970,35 @@
   ],
   "trackers": 1,
   "url": "https://berty.tech/",
+  "verdict": "Effectively ad-free"
+ },
+ "beta.4wall.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 286,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 96.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "4Wall AI | Chat with AI Characters",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 8,
+  "url": "https://beta.4wall.ai/",
   "verdict": "Effectively ad-free"
  },
  "beta.distrochooser.de": {
@@ -5688,7 +6034,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5949,7 +6295,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6095,7 +6441,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6360,6 +6706,38 @@
   "url": "https://bookracy.com/",
   "verdict": "Effectively ad-free"
  },
+ "boomy.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2870,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Boomy - Make Generative Music with Artificial Intelligence",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://boomy.com/",
+  "verdict": "Very clean"
+ },
  "bootleg.fm": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -6474,7 +6852,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6503,7 +6881,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -6753,7 +7131,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6899,7 +7277,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6990,7 +7368,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7486,7 +7864,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7515,7 +7893,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7544,7 +7922,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7598,7 +7976,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -7627,7 +8005,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7656,7 +8034,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 93.4,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -7690,7 +8068,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7927,7 +8305,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -8517,6 +8895,48 @@
   "url": "https://citywalks.live/",
   "verdict": "Ad-saturated / hostile"
  },
+ "civitai.com": {
+  "ad_domains": 18,
+  "ad_requests": 22,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "fastlane.rubiconproject.com",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "ib.adnxs.com",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "onetag-sys.com"
+  ],
+  "ok": true,
+  "page_kb": 12106,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 42.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Civitai | Discover and Create AI Art",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://civitai.com/",
+  "verdict": "Very heavy advertising"
+ },
  "clarasguide.valeena.workers.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -8649,7 +9069,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 8.6,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -8825,6 +9245,35 @@
   ],
   "trackers": 0,
   "url": "https://clonehero.scorespy.online",
+  "verdict": "Effectively ad-free"
+ },
+ "cloud.zyphra.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3298,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zyphra Cloud",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://cloud.zyphra.com/audio-playground",
   "verdict": "Effectively ad-free"
  },
  "cloudstream.miraheze.org": {
@@ -9342,12 +9791,44 @@
   "url": "https://comparisontabl.es/",
   "verdict": "Moderate advertising"
  },
+ "computer.tldraw.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.5,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 847,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "computer \u00b7 tldraw | Visual computing on a canvas",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://computer.tldraw.com/",
+  "verdict": "Light advertising"
+ },
  "console.upstage.ai": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -9461,7 +9942,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -9729,6 +10210,35 @@
   "trackers": 0,
   "url": "https://countdown.tv/",
   "verdict": "Light advertising"
+ },
+ "countless.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 49,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Countless.dev | AI Model Comparison - Compare LLM Prices & Features",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://countless.dev/",
+  "verdict": "Effectively ad-free"
  },
  "couponscorpion.com": {
   "ad_domains": 5,
@@ -10578,7 +11088,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -10814,7 +11324,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11246,6 +11756,35 @@
   "url": "https://ddlbase.net/",
   "verdict": "Moderate advertising"
  },
+ "ddpn08.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1690,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Screenshots | Radiata documentation",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://ddpn08.github.io/Radiata/en/",
+  "verdict": "Effectively ad-free"
+ },
  "deadbeef.sourceforge.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11400,7 +11939,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11651,7 +12190,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11984,7 +12523,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12233,7 +12772,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12291,7 +12830,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12349,7 +12888,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12462,7 +13001,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12491,7 +13030,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12542,6 +13081,37 @@
   "trackers": 0,
   "url": "https://docs.manim.community/en/stable/faq/installation.html#different-versions",
   "verdict": "Effectively ad-free"
+ },
+ "docs.miku.gg": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 32.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 515,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Overview | miku.gg documentation",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://docs.miku.gg/",
+  "verdict": "Light advertising"
  },
  "docs.plain.icu": {
   "ad_domains": 0,
@@ -12602,7 +13172,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12686,7 +13256,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -14011,6 +14581,35 @@
   "url": "https://easiestsolve.com/",
   "verdict": "Heavy advertising"
  },
+ "easydiffusion.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 435,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Easy Diffusion v3 | A simple 1-click way to create beautiful images on your computer, by i",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://easydiffusion.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "easypeasymethod.org": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -14422,6 +15021,40 @@
   "trackers": 1,
   "url": "https://ekvis.com/",
   "verdict": "Light advertising"
+ },
+ "elevenlabs.io": {
+  "ad_domains": 4,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.9,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3781,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free AI Voice Generator & Voice Agents Platform | ElevenLabs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 9,
+  "url": "https://elevenlabs.io/",
+  "verdict": "Moderate advertising"
  },
  "elevenreader.io": {
   "ad_domains": 1,
@@ -15283,7 +15916,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -15729,6 +16362,37 @@
   "url": "https://eylenburg.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "ezstems.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 71.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 398,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ezstems: Create audio stems online with Spleeter in seconds.",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://ezstems.com/",
+  "verdict": "Light advertising"
+ },
  "eztvx.to": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -15822,6 +16486,38 @@
   "trackers": 0,
   "url": "https://facilmap.org/",
   "verdict": "Effectively ad-free"
+ },
+ "fakeyou.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 36.1,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 519,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FakeYou Celebrity Voice Generator | FakeYou",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://fakeyou.com/",
+  "verdict": "Light advertising"
  },
  "fakinthefunk.net": {
   "ad_domains": 2,
@@ -16506,6 +17202,40 @@
   "trackers": 0,
   "url": "https://firefly-iii.org/",
   "verdict": "Effectively ad-free"
+ },
+ "fish.audio": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 35691,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Best AI Text To Speech & Free Voice Cloning | Fish Audio",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 9,
+  "url": "https://fish.audio/",
+  "verdict": "Light advertising"
  },
  "fishshell.com": {
   "ad_domains": 0,
@@ -18085,6 +18815,48 @@
   "url": "https://freesocks.org/",
   "verdict": "Effectively ad-free"
  },
+ "freetts.com": {
+  "ad_domains": 16,
+  "ad_requests": 123,
+  "ad_slots": 2,
+  "ad_weight_pct": 82.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "b1sync.outbrain.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "dis.criteo.com",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "partners.tremorhub.com",
+   "s0.2mdn.net",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com"
+  ],
+  "ok": true,
+  "page_kb": 1752,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 14.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "FreeTTS - Text to Speech and Free Audio Tools",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://freetts.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "fretflip.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -18470,7 +19242,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18963,7 +19735,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 10.4,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -19147,6 +19919,40 @@
   "url": "https://geti2p.net/en/",
   "verdict": "Effectively ad-free"
  },
+ "getleon.ai": {
+  "ad_domains": 4,
+  "ad_requests": 4,
+  "ad_slots": 1,
+  "ad_weight_pct": 11.7,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1418,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Leon - Your Open-Source Personal Assistant",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://getleon.ai/",
+  "verdict": "Moderate advertising"
+ },
  "getmusicbee.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -19177,7 +19983,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 72.3,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -19243,7 +20049,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -20039,6 +20845,35 @@
   "url": "https://goaty.gg/",
   "verdict": "Effectively ad-free"
  },
+ "gobble.bot": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 55,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gobble Bot - All your content digested into one text file",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://gobble.bot/",
+  "verdict": "Effectively ad-free"
+ },
  "gobsmacked.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -20157,6 +20992,39 @@
   "trackers": 0,
   "url": "https://google.com/aimode",
   "verdict": "Effectively ad-free"
+ },
+ "goose-docs.ai": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2912,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "goose | Your open source AI agent",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://goose-docs.ai/",
+  "verdict": "Light advertising"
  },
  "gopeed.com": {
   "ad_domains": 1,
@@ -20448,7 +21316,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 29.9,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -21524,6 +22392,39 @@
   "url": "https://hizsearch.pages.dev/",
   "verdict": "Effectively ad-free"
  },
+ "hkchengrex.com": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2345,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MMAudio",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://hkchengrex.com/MMAudio/",
+  "verdict": "Light advertising"
+ },
  "hminnovations.org": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -21643,6 +22544,40 @@
   "trackers": 0,
   "url": "https://homarr.dev/",
   "verdict": "Effectively ad-free"
+ },
+ "home.eapy.io": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.5,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 15557,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "eapy Slide | Create Stunning Music EPKs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 8,
+  "url": "https://home.eapy.io/",
+  "verdict": "Light advertising"
  },
  "hoofoot.ru": {
   "ad_domains": 9,
@@ -22167,7 +23102,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -22372,7 +23307,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 10.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -22778,6 +23713,35 @@
   "url": "https://iloader.app/",
   "verdict": "Effectively ad-free"
  },
+ "imagepromptguru.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Image to Prompt Generator \u2013 No Login Needed",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://imagepromptguru.net/",
+  "verdict": "Effectively ad-free"
+ },
  "images-of-elements.com": {
   "ad_domains": 4,
   "ad_requests": 36,
@@ -22837,6 +23801,35 @@
   "trackers": 1,
   "url": "https://images.nasa.gov/",
   "verdict": "Very clean"
+ },
+ "imgsys.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 88,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "imgsys.org | an image model arena by fal.ai",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://imgsys.org/",
+  "verdict": "Effectively ad-free"
  },
  "impactor.claration.dev": {
   "ad_domains": 0,
@@ -23261,7 +24254,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -23290,7 +24283,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -23871,6 +24864,37 @@
   "url": "https://itch.io/games/free/platform-web",
   "verdict": "Very clean"
  },
+ "itsbetterwithai.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2670,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | It's Better With AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://itsbetterwithai.com/",
+  "verdict": "Very clean"
+ },
  "ivanceras.github.io": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -23907,7 +24931,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -24385,7 +25409,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -24995,7 +26019,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25103,6 +26127,37 @@
   "trackers": 0,
   "url": "https://kicad.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "kikivoice.ai": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 93.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 176,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free AI Voice Cloning Online, 75+ Languages, No Sign-up - KikiVoice",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 4,
+  "url": "https://kikivoice.ai/",
+  "verdict": "Light advertising"
  },
  "kindlemodshelf.me": {
   "ad_domains": 0,
@@ -25283,6 +26338,38 @@
   "url": "https://kitsu.io/",
   "verdict": "Very clean"
  },
+ "klipy.com": {
+  "ad_domains": 2,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 41.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1248,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 69.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GIF Maker | AI GIF Generator | AI GIF Maker | KLIPY",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
+  "url": "https://klipy.com/create/gif-maker/",
+  "verdict": "Moderate advertising"
+ },
  "klz9.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -25456,6 +26543,35 @@
   "trackers": 4,
   "url": "https://knowt.com/",
   "verdict": "Very clean"
+ },
+ "koboldai.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 74,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KoboldAI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://koboldai.com/",
+  "verdict": "Effectively ad-free"
  },
  "koboldplus.club": {
   "ad_domains": 0,
@@ -25747,7 +26863,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25776,7 +26892,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25911,6 +27027,35 @@
   ],
   "trackers": 0,
   "url": "https://kylecorry.com/Trail-Sense/",
+  "verdict": "Effectively ad-free"
+ },
+ "kyutai.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 912,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kyutai TTS",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://kyutai.org/next/tts",
   "verdict": "Effectively ad-free"
  },
  "l-lists.com": {
@@ -26066,7 +27211,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26173,6 +27318,35 @@
   ],
   "trackers": 0,
   "url": "https://lawnchair.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "lazypy.ro": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 28,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Text-to-Speech (TTS) StreamElements Demo Simulator Emulator Generator Tool Thing",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lazypy.ro/tts/",
   "verdict": "Effectively ad-free"
  },
  "leagueofcomicgeeks.com": {
@@ -26497,6 +27671,35 @@
   ],
   "trackers": 0,
   "url": "https://lemmy.world/u/perchance",
+  "verdict": "Effectively ad-free"
+ },
+ "lemonade-server.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2783,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lemonade: Local AI for Text, Images, and Speech",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lemonade-server.ai/",
   "verdict": "Effectively ad-free"
  },
  "lendrive.web.id": {
@@ -26958,7 +28161,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -27549,6 +28752,35 @@
   "url": "https://lite.duckduckgo.com/",
   "verdict": "Effectively ad-free"
  },
+ "lite.koboldai.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KoboldAI Lite",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lite.koboldai.net/",
+  "verdict": "Effectively ad-free"
+ },
  "liteapks.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -27876,6 +29108,95 @@
   "url": "https://llm-explorer.com/",
   "verdict": "Light advertising"
  },
+ "llm.datasette.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LLM: A CLI utility and Python library for interacting with Large Language Models",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://llm.datasette.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "llmresourceshub.vercel.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 126,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LLM Resource Hub",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://llmresourceshub.vercel.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "lmcouncil.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 389,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Model Benchmarks Aug 2026 | Compare GPT-5.5, Claude Opus, Gemini 3, Grok 4 | LM Council",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lmcouncil.ai/benchmarks",
+  "verdict": "Effectively ad-free"
+ },
  "lmms.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -27966,7 +29287,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 49.5,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -27992,6 +29313,64 @@
   "trackers": 2,
   "url": "https://lobechat.com/chat",
   "verdict": "Light advertising"
+ },
+ "localai.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1032,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LocalAI \u00b7 Make AI run on every machine",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://localai.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "locallyuncensored.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 576,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Locally Uncensored \u2014 All-in-One Local AI Studio: Chat, Image, Video, Code",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://locallyuncensored.com/",
+  "verdict": "Effectively ad-free"
  },
  "loigiaihay.com": {
   "ad_domains": 8,
@@ -28030,6 +29409,35 @@
   "trackers": 7,
   "url": "https://loigiaihay.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "lollms.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LoLLMs \u2013 One tool to rule them all",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lollms.com/",
+  "verdict": "Effectively ad-free"
  },
  "longcat.chat": {
   "ad_domains": 0,
@@ -28115,6 +29523,35 @@
   ],
   "trackers": 0,
   "url": "https://lostmediawiki.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "lovo.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Deployment Paused",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lovo.ai/",
   "verdict": "Effectively ad-free"
  },
  "lowtein.com": {
@@ -28317,12 +29754,41 @@
   "url": "https://lumalabs.ai/genie",
   "verdict": "Light advertising"
  },
+ "lumiverse.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3344,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lumiverse \u2014 Continue Your Story",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lumiverse.chat/",
+  "verdict": "Effectively ad-free"
+ },
  "lumo.proton.me": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -28953,7 +30419,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -28976,6 +30442,38 @@
   "trackers": 0,
   "url": "https://mailvelope.com/",
   "verdict": "Effectively ad-free"
+ },
+ "makeayo.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2044,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Makeayo",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://makeayo.com",
+  "verdict": "Very clean"
  },
  "man.archlinux.org": {
   "ad_domains": 0,
@@ -29630,7 +31128,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -31024,7 +32522,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 19.8,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -31215,7 +32713,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -31597,7 +33095,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -31649,6 +33147,40 @@
   "trackers": 0,
   "url": "https://mt2.cn/",
   "verdict": "Effectively ad-free"
+ },
+ "mubert.com": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2137,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u227b Mubert AI Music Generator \u2014 Royalty Free Music \u2713 Best AI Music Generator",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
+  "url": "https://mubert.com/",
+  "verdict": "Moderate advertising"
  },
  "mullvad.net": {
   "ad_domains": 0,
@@ -31957,6 +33489,39 @@
   ],
   "trackers": 3,
   "url": "https://musicforprogramming.net/latest/",
+  "verdict": "Light advertising"
+ },
+ "musicgpt.com": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 110520,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MusicGPT",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 12,
+  "url": "https://musicgpt.com/",
   "verdict": "Light advertising"
  },
  "musicsandbooks.org": {
@@ -33108,7 +34673,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 70.2,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -33224,7 +34789,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -33344,7 +34909,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34419,7 +35984,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34582,6 +36147,35 @@
   ],
   "trackers": 0,
   "url": "https://odcrawler.xyz/",
+  "verdict": "Effectively ad-free"
+ },
+ "odysseus-dev.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3512,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Odysseus \u2014 A Self-Hosted AI Workspace",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://odysseus-dev.github.io/odysseus/",
   "verdict": "Effectively ad-free"
  },
  "oec.world": {
@@ -34816,6 +36410,35 @@
   "url": "https://old.repair.wiki/",
   "verdict": "Effectively ad-free"
  },
+ "ollama.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 181,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ollama",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://ollama.com/",
+  "verdict": "Effectively ad-free"
+ },
  "omniglot.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -34842,6 +36465,37 @@
   "trackers": 0,
   "url": "https://omniglot.com/",
   "verdict": "Light advertising"
+ },
+ "ondoku3.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2748,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "English Text-to-speech software | Ondoku",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://ondoku3.com/en/",
+  "verdict": "Very clean"
  },
  "one.one.one.one": {
   "ad_domains": 0,
@@ -35181,6 +36835,35 @@
   "url": "https://openboard.ch/index.en.html",
   "verdict": "Effectively ad-free"
  },
+ "openclaw.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1972,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenClaw \u2014 Personal AI Assistant",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://openclaw.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "openfront.io": {
   "ad_domains": 112,
   "ad_requests": 695,
@@ -35449,6 +37132,37 @@
   "url": "https://openscrobbler.com/",
   "verdict": "Very clean"
  },
+ "opensourcegen.com": {
+  "ad_domains": 1,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 56825,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenSourceGen - Free AI Image and Video Generator | Text to Image & Video AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://opensourcegen.com/",
+  "verdict": "Light advertising"
+ },
  "openstax.org": {
   "ad_domains": 3,
   "ad_requests": 4,
@@ -35627,7 +37341,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 55.6,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -36035,6 +37749,40 @@
   "url": "https://ourworldindata.org/",
   "verdict": "Light advertising"
  },
+ "output.com": {
+  "ad_domains": 4,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3060,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Output Sample Pack Generator - Build a free custom sample pack.",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 8,
+  "url": "https://output.com/products/pack-generator",
+  "verdict": "Moderate advertising"
+ },
  "outsidesimulator.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -36433,7 +38181,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36921,12 +38669,43 @@
   "url": "https://personaldata.info/",
   "verdict": "Effectively ad-free"
  },
+ "petals.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 57.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 283,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Petals \u2013 Run LLMs at home, BitTorrent-style",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://petals.dev/",
+  "verdict": "Light advertising"
+ },
  "phantom.lol": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -37162,6 +38941,37 @@
   "trackers": 3,
   "url": "https://phonedb.net/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "photogpt.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4114,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PhotoGPT \u2013 Free AI Product Photography, Photo Editor & Ecommerce Listing Studio",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://photogpt.io/",
+  "verdict": "Very clean"
  },
  "photojournal.jpl.nasa.gov": {
   "ad_domains": 1,
@@ -37575,6 +39385,38 @@
   "url": "https://pixeldrain-bypass.gamedrive.to/",
   "verdict": "Effectively ad-free"
  },
+ "pixverse.ai": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 99915,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Generative Core Behind Digital Worlds and Experiences | PixVerse",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://pixverse.ai/",
+  "verdict": "Very clean"
+ },
  "pixwlk.itch.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -37790,6 +39632,35 @@
   "url": "https://play-cs.com/",
   "verdict": "Effectively ad-free"
  },
+ "play.cartesia.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://play.cartesia.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "play.pocketcasts.com": {
   "ad_domains": 2,
   "ad_requests": 7,
@@ -37920,7 +39791,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -37942,6 +39813,35 @@
   ],
   "trackers": 0,
   "url": "https://playground.allenai.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "playground.microsoft.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 519,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MAI Playground | Microsoft AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://playground.microsoft.ai/chat",
   "verdict": "Effectively ad-free"
  },
  "playground.tensorflow.org": {
@@ -38958,7 +40858,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 81.2,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -39078,7 +40978,7 @@
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 76.5,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -39140,7 +41040,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 43.5,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -39165,6 +41065,35 @@
   "trackers": 1,
   "url": "https://privategpt.dev/",
   "verdict": "Light advertising"
+ },
+ "privatiser.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Privatiser \u2014 Anonymize sensitive data before sharing with AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://privatiser.net/",
+  "verdict": "Effectively ad-free"
  },
  "privnote.com": {
   "ad_domains": 68,
@@ -39450,7 +41379,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -39479,7 +41408,7 @@
   "ad_requests": 24,
   "ad_slots": 2,
   "ad_weight_pct": 45.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -39513,7 +41442,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 68.4,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -39545,7 +41474,7 @@
   "ad_requests": 26,
   "ad_slots": 2,
   "ad_weight_pct": 67.5,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -39579,7 +41508,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 28.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -39662,7 +41591,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -40808,6 +42737,40 @@
   "url": "https://readlang.com/",
   "verdict": "Very clean"
  },
+ "readwise.io": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.1,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2293,
+  "pages": [
+   "Artificial-Intelligence",
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Readwise Reader | The first read-it-later app built for power readers.",
+  "topics": [
+   "AI Tools",
+   "Android Apps"
+  ],
+  "trackers": 2,
+  "url": "https://readwise.io/read",
+  "verdict": "Light advertising"
+ },
  "realfight.top": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -41025,7 +42988,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.7,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -41554,7 +43517,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42911,7 +44874,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -42968,7 +44931,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43058,7 +45021,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43298,6 +45261,40 @@
   "url": "https://scnlog.me/",
   "verdict": "Light advertising"
  },
+ "screenpi.pe": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.4,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10020,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "screenpipe \u2014 computer history for every AI agent",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://screenpi.pe/",
+  "verdict": "Light advertising"
+ },
  "screenscape.me": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -43482,7 +45479,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://search.davidovski.xyz/instances.php\nCall log:\n  - navigating to \"https",
   "fails": 1,
   "grade": "A+",
@@ -43540,7 +45537,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43569,7 +45566,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43686,7 +45683,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://seclists.org/\", waiting until \"domcontentloade",
   "fails": 1,
   "grade": "A+",
@@ -45073,7 +47070,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -45315,7 +47312,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -45545,6 +47542,82 @@
   "url": "https://soundcloud.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "soundoftext.com": {
+  "ad_domains": 29,
+  "ad_requests": 113,
+  "ad_slots": 6,
+  "ad_weight_pct": 60.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "32c91765f846860b5cc66718beb0aa61.safeframe.googlesyndication.com",
+   "a5810.casalemedia.com",
+   "aax.amazon-adsystem.com",
+   "ad.doubleclick.net",
+   "bcp.crwdcntrl.net",
+   "cm.g.doubleclick.net",
+   "direct.adsrvr.org",
+   "fastlane.rubiconproject.com",
+   "g2.gumgum.com",
+   "googleads.g.doubleclick.net",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com"
+  ],
+  "ok": true,
+  "page_kb": 1247,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "Sound of Text",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://soundoftext.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "soundraw.io": {
+  "ad_domains": 4,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.2,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4772,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 63.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SOUNDRAW | AI Music Generator \u2013 Royalty Free Beats",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 11,
+  "url": "https://soundraw.io/",
+  "verdict": "Moderate advertising"
+ },
  "source.mapcomplete.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -45601,6 +47674,40 @@
   "trackers": 0,
   "url": "https://source.openmpt.org/",
   "verdict": "Effectively ad-free"
+ },
+ "space.coze.cn": {
+  "ad_domains": 4,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.6,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8360,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u6263\u5b50 Coze - \u5b57\u8282\u8df3\u52a8\u65d7\u4e0b\u804c\u573aAI\u4f19\u4f34\u6263\u5b50\u4e0e\u4e00\u7ad9\u5f0fAI\u5f00\u53d1\u5e73\u53f0\u6263\u5b50\u7f16\u7a0b PPT\u6570\u636e\u5206\u6790\u5c0f\u7a0b\u5e8f\u5f00\u53d1APP\u5f00\u53d1\u7f51\u9875\u5f00\u53d1\u5e73\u9762\u8bbe\u8ba1\u6559\u5b66\u5907\u8bfe\u62a5\u544a\u5199\u4f5c\u81ea\u5a92\u4f53\u64ad\u5ba2\u89c6\u9891\u667a\u80fd\u4f53\u5de5\u4f5c\u6d41",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://space.coze.cn/",
+  "verdict": "Light advertising"
  },
  "spacedashboard.com": {
   "ad_domains": 0,
@@ -45718,6 +47825,48 @@
   "trackers": 2,
   "url": "https://spectrum.ieee.org/",
   "verdict": "Very heavy advertising"
+ },
+ "speechma.com": {
+  "ad_domains": 70,
+  "ad_requests": 453,
+  "ad_slots": 7,
+  "ad_weight_pct": 36.9,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aax-eu.amazon-adsystem.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "c1.adform.net",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com",
+   "ce.lijit.com",
+   "cf9b8580172ea6636df4b99fdaf12f79.safeframe.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 3522,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SPEECHMA - Free Online Text to Speech | Unlimited AI Voices | Commercial TTS 2025",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
+  "url": "https://speechma.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "speedcubedb.com": {
   "ad_domains": 0,
@@ -46329,7 +48478,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -46410,6 +48559,35 @@
   ],
   "trackers": 0,
   "url": "https://st.suckless.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "stablehorde.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2664,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Horde",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://stablehorde.net/",
   "verdict": "Effectively ad-free"
  },
  "starbestfit.com": {
@@ -46742,7 +48920,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -47134,7 +49312,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -48050,6 +50228,35 @@
   "url": "https://swiftgram.app/",
   "verdict": "Effectively ad-free"
  },
+ "sygil-dev.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 187,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sygil WebUI | Sygil WebUI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://sygil-dev.github.io/sygil-webui/",
+  "verdict": "Effectively ad-free"
+ },
  "syncler.net": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -48391,7 +50598,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -48415,6 +50622,35 @@
   ],
   "trackers": 0,
   "url": "https://tatsumoto-ren.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "tavernai.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 539,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TavernAI 2 - Official Website",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://tavernai.net/",
   "verdict": "Effectively ad-free"
  },
  "tblock.me": {
@@ -49317,6 +51553,35 @@
   "url": "https://thepiratebay.org/search.php?q=top100:100",
   "verdict": "Very clean"
  },
+ "theresanaiforthat.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3598,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Image Editor - (Free, No Signup AI Tool)",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://theresanaiforthat.com/@taaft/image-to-image-generator/",
+  "verdict": "Effectively ad-free"
+ },
  "theresonanceteam.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -49474,7 +51739,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49690,7 +51955,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49778,7 +52043,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -49922,6 +52187,35 @@
   "trackers": 2,
   "url": "https://tolkiengateway.net/",
   "verdict": "Light advertising"
+ },
+ "tones.wolfram.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1367,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WolframTones",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://tones.wolfram.com/",
+  "verdict": "Effectively ad-free"
  },
  "toolbaz.com": {
   "ad_domains": 53,
@@ -50387,7 +52681,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -50626,6 +52920,35 @@
   "url": "https://travel-remotely.netlify.app/",
   "verdict": "Very clean"
  },
+ "treblo.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 202,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Treblo | Free AI Music Generator",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://treblo.com/",
+  "verdict": "Effectively ad-free"
+ },
  "tria.ge": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50797,6 +53120,38 @@
   "trackers": 2,
   "url": "https://tsunagarujp.mext.go.jp/?lang_id=EN",
   "verdict": "Effectively ad-free"
+ },
+ "ttswebui.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2543,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TTS WebUI - Text-to-Speech Web Interface",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://ttswebui.com/",
+  "verdict": "Very clean"
  },
  "tubitv.com": {
   "ad_domains": 2,
@@ -51283,6 +53638,35 @@
   "url": "https://ulauncher.io/",
   "verdict": "Effectively ad-free"
  },
+ "ultimatevocalremover.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 411,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Ultimate Vocal Remover Application",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://ultimatevocalremover.com/",
+  "verdict": "Effectively ad-free"
+ },
  "uncensored.ai": {
   "ad_domains": 4,
   "ad_requests": 7,
@@ -51715,7 +54099,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -51823,6 +54207,35 @@
   ],
   "trackers": 0,
   "url": "http://vegetatv.duckdns.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "verba.ink": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3406,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Verba",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://verba.ink/",
   "verdict": "Effectively ad-free"
  },
  "versefy.app": {
@@ -52057,6 +54470,35 @@
   ],
   "trackers": 3,
   "url": "https://vi-control.net/community/",
+  "verdict": "Effectively ad-free"
+ },
+ "vibes.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 138,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vibes",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://vibes.ai/",
   "verdict": "Effectively ad-free"
  },
  "vidbox.dev": {
@@ -52593,6 +55035,102 @@
   "url": "https://vndoc.com/",
   "verdict": "Moderate advertising"
  },
+ "vocali.se": {
+  "ad_domains": 5,
+  "ad_requests": 32,
+  "ad_slots": 1,
+  "ad_weight_pct": 30.4,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2762,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 33.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Separate vocals and music from any song, in seconds! \u2014 Vocali.se",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 4,
+  "url": "https://vocali.se/en",
+  "verdict": "Very heavy advertising"
+ },
+ "vocalremover.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vocal Remover and Isolation [AI]",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://vocalremover.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "voice-models.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 25.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 647,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Browse 30,000+ AI Voice Models for RVC",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 4,
+  "url": "https://voice-models.com/",
+  "verdict": "Light advertising"
+ },
  "voice.woitaschek.de": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -52762,7 +55300,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53646,7 +56184,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53949,7 +56487,7 @@
   "ad_requests": 14,
   "ad_slots": 0,
   "ad_weight_pct": 9.4,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -53983,7 +56521,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54760,7 +57298,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54789,7 +57327,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 17.6,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -54908,7 +57446,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 84.5,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -56016,6 +58554,35 @@
   "trackers": 1,
   "url": "https://www.alfredapp.com/",
   "verdict": "Light advertising"
+ },
+ "www.allvoicelab.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 113793,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "All Voice Lab: High Fidelity Voice Cloning & Text-to-Speech",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.allvoicelab.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.alphaxiv.org": {
   "ad_domains": 0,
@@ -57801,6 +60368,35 @@
   "url": "https://www.cagematch.net/",
   "verdict": "Effectively ad-free"
  },
+ "www.canirun.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 216,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CanIRun.ai \u2014 Can your machine run AI models?",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.canirun.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "www.cantonese.sheik.co.uk": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -58473,7 +61069,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -59833,7 +62429,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -60276,7 +62872,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61246,6 +63842,40 @@
   "url": "https://www.flowfi.app/",
   "verdict": "Very clean"
  },
+ "www.flowmusic.app": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.6,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 57008,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Google Flow Music",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.flowmusic.app/",
+  "verdict": "Light advertising"
+ },
  "www.fmovies.gd": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -61830,6 +64460,37 @@
   "trackers": 0,
   "url": "https://www.gamingonlinux.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.genmo.ai": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 63234,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | Genmo",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://www.genmo.ai/",
+  "verdict": "Very clean"
  },
  "www.genymotion.com": {
   "ad_domains": 1,
@@ -63062,6 +65723,40 @@
   "url": "https://www.htmlhobbyist.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.hume.ai": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 25.1,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1930,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 62.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hume AI - Human Feedback for Voice, Speech, and Conversational AI | Hume AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
+  "url": "https://www.hume.ai/",
+  "verdict": "Moderate advertising"
+ },
  "www.hybridcalisthenics.com": {
   "ad_domains": 5,
   "ad_requests": 13,
@@ -63510,6 +66205,38 @@
   "url": "https://www.internetchemistry.com/search.php",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.iopaint.com": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 5262,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "IOPaint \u2013 IOPaint",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.iopaint.com/",
+  "verdict": "Light advertising"
+ },
  "www.iptvsmarters.com": {
   "ad_domains": 7,
   "ad_requests": 71,
@@ -63904,7 +66631,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 48.8,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -64158,7 +66885,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -64753,7 +67480,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -65045,6 +67772,35 @@
   ],
   "trackers": 0,
   "url": "https://www.macintoshrepository.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.mage.space": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 43885,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mage | Unlimited AI Image & Video Generator \u2014 Free to Start",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://www.mage.space/",
   "verdict": "Effectively ad-free"
  },
  "www.malwarebytes.com": {
@@ -65380,6 +68136,40 @@
   "trackers": 0,
   "url": "https://www.math.umd.edu/~immortal/",
   "verdict": "Effectively ad-free"
+ },
+ "www.mazmazika.com": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 42.7,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 460,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mazmazika \u2014 the ultimate music universe",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.mazmazika.com/",
+  "verdict": "Moderate advertising"
  },
  "www.mcmusiceditor.com": {
   "ad_domains": 0,
@@ -65842,7 +68632,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66387,6 +69177,35 @@
   "url": "https://www.natomanga.com/",
   "verdict": "Very clean"
  },
+ "www.naturalreaders.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 183,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Text to Speech with Gemini and ChatGPT AI Voices",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.naturalreaders.com/online/",
+  "verdict": "Effectively ad-free"
+ },
  "www.ndpsoftware.com": {
   "ad_domains": 4,
   "ad_requests": 13,
@@ -66761,6 +69580,40 @@
   "trackers": 4,
   "url": "https://www.nitrome.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.nomic.ai": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 38.6,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1269,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GPT4All - Private & Local AI Chatbot | Nomic",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.nomic.ai/gpt4all",
+  "verdict": "Moderate advertising"
  },
  "www.nomoreransom.org": {
   "ad_domains": 1,
@@ -67427,7 +70280,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 49.6,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -67455,6 +70308,35 @@
   "trackers": 3,
   "url": "https://www.onyx.app/",
   "verdict": "Moderate advertising"
+ },
+ "www.openai.fm": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.openai.fm/",
+  "verdict": "Effectively ad-free"
  },
  "www.openculture.com": {
   "ad_domains": 94,
@@ -67533,7 +70415,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -68009,7 +70891,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -68684,6 +71566,39 @@
   "url": "https://www.projectlumen.app/",
   "verdict": "Light advertising"
  },
+ "www.promptfoo.dev": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.4,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 703,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Build Secure AI Applications | Promptfoo",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.promptfoo.dev/",
+  "verdict": "Moderate advertising"
+ },
  "www.promptingguide.ai": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -68709,6 +71624,38 @@
   "title": "Prompt Engineering Guide | Prompt Engineering Guide",
   "trackers": 1,
   "url": "https://www.promptingguide.ai",
+  "verdict": "Light advertising"
+ },
+ "www.prompy.me": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 5663,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Curated GPT-5 AI Prompts for Stunning Visuals | Prompy",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.prompy.me/",
   "verdict": "Light advertising"
  },
  "www.protondb.com": {
@@ -68746,7 +71693,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -69306,6 +72253,39 @@
   "url": "https://www.receive-sms-online.info/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.recraft.ai": {
+  "ad_domains": 3,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4908,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 71.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Recraft | AI for designers, creatives, sellers, and teams",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 11,
+  "url": "https://www.recraft.ai/",
+  "verdict": "Moderate advertising"
+ },
  "www.refseek.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -69357,6 +72337,47 @@
   "trackers": 0,
   "url": "https://www.rekhtadictionary.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.remove-vocals.com": {
+  "ad_domains": 11,
+  "ad_requests": 109,
+  "ad_slots": 3,
+  "ad_weight_pct": 76.5,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "d.agkn.com",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1792,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 4.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "Remove Vocals | Make karaoke instrumentals for FREE !",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.remove-vocals.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.researchgate.net": {
   "ad_domains": 0,
@@ -69506,7 +72527,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70103,6 +73124,37 @@
   "trackers": 0,
   "url": "https://www.serializd.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.sesame.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8341,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Crossing the uncanny valley of conversational voice | Sesame",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo",
+  "verdict": "Very clean"
  },
  "www.seterra.com": {
   "ad_domains": 1,
@@ -71289,7 +74341,7 @@
   "ad_requests": 13,
   "ad_slots": 1,
   "ad_weight_pct": 23.3,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -71316,6 +74368,37 @@
   "trackers": 1,
   "url": "https://www.sslsecureproxy.com/",
   "verdict": "Heavy advertising"
+ },
+ "www.stableaudio.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.8,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4348,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Stable Audio \u2014 AI music and sound generation",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.stableaudio.com/",
+  "verdict": "Very clean"
  },
  "www.startpage.com": {
   "ad_domains": 0,
@@ -72543,7 +75626,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -72603,7 +75686,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -73071,7 +76154,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 36.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -73428,6 +76511,35 @@
   ],
   "trackers": 0,
   "url": "https://www.vals.ai/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.vanillavoice.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 87,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VanillaVoice - Turn Text into Human-Sounding Speech",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.vanillavoice.com/",
   "verdict": "Effectively ad-free"
  },
  "www.ventusky.com": {
@@ -75225,7 +78337,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "checked_utc": "2026-08-19T08:13:26+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75641,6 +78753,35 @@
   ],
   "trackers": 0,
   "url": "https://yuzono.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "z-gen-turbo.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:13:26+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 236,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Z-GEN TURBO | AI Image Generator",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://z-gen-turbo.vercel.app/",
   "verdict": "Effectively ad-free"
  },
  "z-lib.fm": {
