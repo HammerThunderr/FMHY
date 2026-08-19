@@ -1,4 +1,33 @@
 {
+ "0xacab.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://0xacab.org/leap/bitmask-vpn\", waiting until \"d",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Bitmask",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://0xacab.org/leap/bitmask-vpn",
+  "verdict": "Effectively ad-free"
+ },
  "0xerr0r.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -230,6 +259,35 @@
   ],
   "trackers": 0,
   "url": "https://2fa.directory/",
+  "verdict": "Effectively ad-free"
+ },
+ "2fas.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 457,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "2FAS \u2014 Authenticator and Password Manager",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://2fas.com/",
   "verdict": "Effectively ad-free"
  },
  "32bit.cafe": {
@@ -1109,6 +1167,35 @@
   "url": "https://adguard.com/en/adguard-ios/overview.html",
   "verdict": "Very clean"
  },
+ "adguardteam.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anonymous Redirect / Referrer | AnonymousRedirect",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://adguardteam.github.io/AnonymousRedirect/",
+  "verdict": "Effectively ad-free"
+ },
  "adrama.app": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -1336,6 +1423,40 @@
   "url": "https://africam.com/our-locations/",
   "verdict": "Light advertising"
  },
+ "agent.minimax.io": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.6,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 58245,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MiniMax Agent: Minimize Effort, Maximize Intelligence",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
+  "url": "https://agent.minimax.io/",
+  "verdict": "Light advertising"
+ },
  "agnai.chat": {
   "ad_domains": 48,
   "ad_requests": 156,
@@ -1485,6 +1606,35 @@
   "title": "AirVPN - The air to breathe the real Internet - AirVPN",
   "trackers": 0,
   "url": "https://airvpn.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "aistudio.xiaomimimo.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5566,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Xiaomi MiMo Studio",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://aistudio.xiaomimimo.com/",
   "verdict": "Effectively ad-free"
  },
  "akouzoukos.com": {
@@ -1966,6 +2116,35 @@
   ],
   "trackers": 0,
   "url": "https://an1.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "anara.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1328,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anara | AI you can trust",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://anara.com/",
   "verdict": "Effectively ad-free"
  },
  "androeed.store": {
@@ -4807,6 +4986,64 @@
   "url": "https://auroraoss.com/",
   "verdict": "Heavy advertising"
  },
+ "authenticator.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 32,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Authenticator Extension",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://authenticator.cc/",
+  "verdict": "Effectively ad-free"
+ },
+ "authme.levminer.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 348,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Authme",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://authme.levminer.com/",
+  "verdict": "Effectively ad-free"
+ },
  "automatag.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -5389,6 +5626,35 @@
   "url": "https://beatboss.thevolecitor.qzz.io/",
   "verdict": "Effectively ad-free"
  },
+ "berty.tech": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 965,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Berty \u00b7 Berty Technologies",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://berty.tech/",
+  "verdict": "Effectively ad-free"
+ },
  "beta.distrochooser.de": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -5415,6 +5681,35 @@
   ],
   "trackers": 0,
   "url": "https://beta.distrochooser.de/",
+  "verdict": "Effectively ad-free"
+ },
+ "beta.ish.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 58,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ISH Chat - because why not!",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://beta.ish.chat/",
   "verdict": "Effectively ad-free"
  },
  "beta.maps.apple.com": {
@@ -5649,6 +5944,35 @@
   "url": "https://bingr.one/",
   "verdict": "Effectively ad-free"
  },
+ "bitmask.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1729,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bitmask",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://bitmask.net/",
+  "verdict": "Effectively ad-free"
+ },
  "blatants.fyi": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -5765,6 +6089,35 @@
   "trackers": 2,
   "url": "https://blog.planter.garden/",
   "verdict": "Moderate advertising"
+ },
+ "blog.trailofbits.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 972,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Meet Algo, the VPN that works - The Trail of Bits Blog",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
+  "verdict": "Effectively ad-free"
  },
  "bluemaxima.org": {
   "ad_domains": 0,
@@ -6116,6 +6469,64 @@
   "url": "https://brave.com/",
   "verdict": "Very clean"
  },
+ "breachdetective.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 228,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Breach Detective | Data Breach Search Engine",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://breachdetective.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "breachdirectory.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 7,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://breachdirectory.org",
+  "verdict": "Effectively ad-free"
+ },
  "breathball.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -6337,6 +6748,35 @@
   "url": "https://browserfps.com/",
   "verdict": "Light advertising"
  },
+ "browserleaks.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 65,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Browserleaks - Check your browser for privacy leaks",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://browserleaks.com/",
+  "verdict": "Effectively ad-free"
+ },
  "bsky.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -6454,6 +6894,35 @@
   "url": "https://bt.etree.org/",
   "verdict": "Effectively ad-free"
  },
+ "build.nvidia.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1795,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Models | Try NVIDIA NIM APIs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://build.nvidia.com/models",
+  "verdict": "Effectively ad-free"
+ },
  "buildlist.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -6515,6 +6984,35 @@
   "trackers": 0,
   "url": "https://bulma.io/",
   "verdict": "Very clean"
+ },
+ "cabal.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 337,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "index | cabal",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://cabal.chat/",
+  "verdict": "Effectively ad-free"
  },
  "cal.com": {
   "ad_domains": 4,
@@ -6983,6 +7481,93 @@
   "url": "https://cemu.cfw.guide/",
   "verdict": "Ad-saturated / hostile"
  },
+ "censortracker.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2112,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Censor Tracker | \u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043e\u0431\u0445\u043e\u0434\u0430 \u0446\u0435\u043d\u0437\u0443\u0440\u044b",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://censortracker.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "chat.arcee.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 302,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Arcee Platform",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.arcee.ai/chat",
+  "verdict": "Effectively ad-free"
+ },
+ "chat.cerebras.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1154,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cerebras Inference",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.cerebras.ai/chat",
+  "verdict": "Effectively ad-free"
+ },
  "chat.deepseek.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -7006,6 +7591,127 @@
   "title": "DeepSeek - Into the Unknown",
   "trackers": 0,
   "url": "https://chat.deepseek.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "chat.inceptionlabs.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.inceptionlabs.ai/",
+  "verdict": "Effectively ad-free"
+ },
+ "chat.mistral.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 277,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vibe",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://chat.mistral.ai",
+  "verdict": "Effectively ad-free"
+ },
+ "chat.motiftech.io": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 93.4,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 337,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chat Motif",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://chat.motiftech.io/chat",
+  "verdict": "Moderate advertising"
+ },
+ "chat.poolside.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 44,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Poolside Chat",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.poolside.ai/",
   "verdict": "Effectively ad-free"
  },
  "chat.qwen.ai": {
@@ -7214,6 +7920,35 @@
   "title": "Introduction - OWASP Cheat Sheet Series",
   "trackers": 0,
   "url": "https://cheatsheetseries.owasp.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "checksocks5.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 12,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "checksocks5.com | 522: Connection timed out",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://checksocks5.com/",
   "verdict": "Effectively ad-free"
  },
  "chem.libretexts.org": {
@@ -7909,6 +8644,38 @@
   "url": "https://classics.nascar.com/",
   "verdict": "Moderate advertising"
  },
+ "claude.ai": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5242,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sign in - Claude",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://claude.ai/",
+  "verdict": "Light advertising"
+ },
  "client.eaglercraft.win": {
   "ad_domains": 4,
   "ad_requests": 10,
@@ -8575,6 +9342,35 @@
   "url": "https://comparisontabl.es/",
   "verdict": "Moderate advertising"
  },
+ "console.upstage.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Playground - Upstage",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://console.upstage.ai/playground/chat",
+  "verdict": "Effectively ad-free"
+ },
  "consumerrights.wiki": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -8658,6 +9454,35 @@
   ],
   "trackers": 6,
   "url": "https://cooked.wiki/",
+  "verdict": "Effectively ad-free"
+ },
+ "copilot.microsoft.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1691,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Microsoft Copilot: Your AI companion",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://copilot.microsoft.com",
   "verdict": "Effectively ad-free"
  },
  "copypastatext.com": {
@@ -9748,6 +10573,35 @@
   "url": "https://damitv.st/",
   "verdict": "Effectively ad-free"
  },
+ "damus.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5127,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Damus",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://damus.io/",
+  "verdict": "Effectively ad-free"
+ },
  "dan-ball.jp": {
   "ad_domains": 2,
   "ad_requests": 11,
@@ -9953,6 +10807,35 @@
   ],
   "trackers": 0,
   "url": "https://darkpatternstipline.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "dashboard.sarvam.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 140,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Indus by Sarvam",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://dashboard.sarvam.ai/chat",
   "verdict": "Effectively ad-free"
  },
  "dashboardicons.com": {
@@ -10512,6 +11395,35 @@
   "url": "https://deflock.org/",
   "verdict": "Effectively ad-free"
  },
+ "delta.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 113,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Delta Chat, decentralized secure messenger - Delta Chat",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://delta.chat/",
+  "verdict": "Effectively ad-free"
+ },
  "deluge-torrent.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -10732,6 +11644,35 @@
   "title": "IP addresses \u00b7 Cloudflare 1.1.1.1 docs",
   "trackers": 0,
   "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
+  "verdict": "Effectively ad-free"
+ },
+ "developers.yubico.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1078,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "yubioath-flutter",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://developers.yubico.com/yubioath-flutter/",
   "verdict": "Effectively ad-free"
  },
  "dgm.sh": {
@@ -11038,6 +11979,35 @@
   "url": "https://discuss.privacyguides.net/",
   "verdict": "Effectively ad-free"
  },
+ "disroot.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 395,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Email | Disroot.org",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://disroot.org/en/services/email",
+  "verdict": "Effectively ad-free"
+ },
  "distro.tv": {
   "ad_domains": 6,
   "ad_requests": 7,
@@ -11258,6 +12228,35 @@
   "url": "https://dlhd.st/",
   "verdict": "Effectively ad-free"
  },
+ "dnmx.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 252,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Anonymous Email Service For The Dark Net - DNMX",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://dnmx.cc/",
+  "verdict": "Effectively ad-free"
+ },
  "dnsspeedtest.online": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11287,6 +12286,35 @@
   "url": "https://dnsspeedtest.online/",
   "verdict": "Effectively ad-free"
  },
+ "dnstt.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2841,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DNSTT.XYZ - DNS Tunneling App",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://dnstt.xyz/",
+  "verdict": "Effectively ad-free"
+ },
  "dnswarden.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11314,6 +12342,35 @@
   ],
   "trackers": 0,
   "url": "https://dnswarden.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "docs.2fauth.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1594,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - 2FAuth Docs",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://docs.2fauth.app/",
   "verdict": "Effectively ad-free"
  },
  "docs.ankiweb.net": {
@@ -11400,6 +12457,64 @@
   "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview",
   "verdict": "Effectively ad-free"
  },
+ "docs.clearurls.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 527,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ClearURLs",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://docs.clearurls.xyz",
+  "verdict": "Effectively ad-free"
+ },
+ "docs.cwtch.im": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 338354,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cwtch | Cwtch",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://docs.cwtch.im",
+  "verdict": "Effectively ad-free"
+ },
  "docs.manim.community": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11482,6 +12597,37 @@
   "url": "https://docs.sanaei.dev/",
   "verdict": "Effectively ad-free"
  },
+ "docs.searxng.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 35,
+  "pages": [
+   "Adblock",
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SearXNG Documentation (2026.8.17+374939b88)",
+  "topics": [
+   "Adblocking",
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://docs.searxng.org/",
+  "verdict": "Effectively ad-free"
+ },
  "docs.sillytavern.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -11533,6 +12679,35 @@
   ],
   "trackers": 0,
   "url": "https://docs.tandoor.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "docs.titaniumnetwork.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 184,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scramjet",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://docs.titaniumnetwork.org/proxies/scramjet/",
   "verdict": "Effectively ad-free"
  },
  "docs.unsloth.ai": {
@@ -14101,6 +15276,35 @@
   ],
   "trackers": 0,
   "url": "https://everythingmoe.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "exa.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 876,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Exa Agent",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://exa.ai/search",
   "verdict": "Effectively ad-free"
  },
  "examcbt.thevolecitor.qzz.io": {
@@ -17261,6 +18465,35 @@
   "url": "https://gamebounty.world/",
   "verdict": "Effectively ad-free"
  },
+ "gameindustry.eu": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 659,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GameIndustry.eu - Gaming Analytics, Reviews & Top Genres",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://gameindustry.eu/en/",
+  "verdict": "Effectively ad-free"
+ },
  "gamersnexus.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -17725,6 +18958,39 @@
   "url": "https://geotips.net/",
   "verdict": "Light advertising"
  },
+ "geph.io": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.4,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1397,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Geph",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://geph.io/",
+  "verdict": "Light advertising"
+ },
  "getaegis.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -17906,6 +19172,37 @@
   "url": "https://getmusicbee.com/",
   "verdict": "Effectively ad-free"
  },
+ "getoutline.org": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 72.3,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 463,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Outline",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://getoutline.org/",
+  "verdict": "Light advertising"
+ },
  "getsentinel.io": {
   "ad_domains": 5,
   "ad_requests": 6,
@@ -17940,6 +19237,35 @@
   "trackers": 2,
   "url": "https://getsentinel.io/",
   "verdict": "Moderate advertising"
+ },
+ "getsession.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 215,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Session | Send Messages, Not Metadata. | Private Messenger",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://getsession.org/",
+  "verdict": "Effectively ad-free"
  },
  "getwacup.com": {
   "ad_domains": 1,
@@ -19116,6 +20442,39 @@
   "trackers": 0,
   "url": "https://grocy.info/",
   "verdict": "Effectively ad-free"
+ },
+ "grok.com": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 29.9,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1057,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 68.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Grok",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://grok.com/",
+  "verdict": "Moderate advertising"
  },
  "grow.google": {
   "ad_domains": 2,
@@ -20803,6 +22162,35 @@
   "url": "http://hydrogen-music.org/",
   "verdict": "Effectively ad-free"
  },
+ "hyper.space": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 44942,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "HYPERSPACE \u2014 Where Agents Work",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://hyper.space/",
+  "verdict": "Effectively ad-free"
+ },
  "hyperphysics.phy-astr.gsu.edu": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -20978,6 +22366,38 @@
   "trackers": 2,
   "url": "https://iamthecu.be/",
   "verdict": "Effectively ad-free"
+ },
+ "iask.ai": {
+  "ad_domains": 2,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2087,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ask Ai Questions (iAsk) - Learn Anything Alongside AI - Question Ai, Homework Helper: AI Q",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://iask.ai/",
+  "verdict": "Light advertising"
  },
  "ibroadcast.com": {
   "ad_domains": 1,
@@ -21836,6 +23256,64 @@
   "url": "https://intellectual.insprill.net/",
   "verdict": "Effectively ad-free"
  },
+ "inteltechniques.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 620,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "IntelTechniques Data Removal Workbook",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://inteltechniques.com/workbook.html",
+  "verdict": "Effectively ad-free"
+ },
+ "intelx.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 92,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Intelligence X",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://intelx.io/",
+  "verdict": "Effectively ad-free"
+ },
  "internetcheckpoint.page": {
   "ad_domains": 1,
   "ad_requests": 8,
@@ -22424,6 +23902,35 @@
   "url": "https://ivanceras.github.io/svgbob-editor/",
   "verdict": "Light advertising"
  },
+ "jami.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2287,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jami",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://jami.net/",
+  "verdict": "Effectively ad-free"
+ },
  "jan.ai": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -22871,6 +24378,35 @@
   ],
   "trackers": 0,
   "url": "https://js13kgames.com/entries",
+  "verdict": "Effectively ad-free"
+ },
+ "jshelter.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 813,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "JShelter: Home",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://jshelter.org/",
   "verdict": "Effectively ad-free"
  },
  "justanime.to": {
@@ -23453,6 +24989,35 @@
   "trackers": 0,
   "url": "https://kernelsu.org/",
   "verdict": "Moderate advertising"
+ },
+ "keybase.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6050,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Keybase",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://keybase.io/",
+  "verdict": "Effectively ad-free"
  },
  "keyboard.futo.org": {
   "ad_domains": 0,
@@ -24177,6 +25742,64 @@
   "url": "https://krunker.io/",
   "verdict": "Light advertising"
  },
+ "kuber.studio": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 48,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "I didn't set a cookie.",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://kuber.studio/cookie/",
+  "verdict": "Effectively ad-free"
+ },
+ "kumu.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 334,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VPN Relationships \u2022 VPN Company Relationships / The VPN Industry \u2022 Kumu",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://kumu.io/Windscribe/vpn-relationships",
+  "verdict": "Effectively ad-free"
+ },
  "kuroiru.co": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -24437,6 +26060,35 @@
   "trackers": 2,
   "url": "https://lands.io/",
   "verdict": "Very clean"
+ },
+ "lantern.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1132,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lantern | Unlock the full internet",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://lantern.io/",
+  "verdict": "Effectively ad-free"
  },
  "lardbit.github.io": {
   "ad_domains": 0,
@@ -25299,6 +26951,35 @@
   ],
   "trackers": 0,
   "url": "https://libre.fm/",
+  "verdict": "Effectively ad-free"
+ },
+ "librechat.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 186,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LibreChat - The Open-Source AI Platform",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://librechat.ai/",
   "verdict": "Effectively ad-free"
  },
  "libredns.gr": {
@@ -26280,6 +27961,38 @@
   "url": "https://loadix.fun/",
   "verdict": "Effectively ad-free"
  },
+ "lobechat.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 49.5,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 368,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sign In",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://lobechat.com/chat",
+  "verdict": "Light advertising"
+ },
  "loigiaihay.com": {
   "ad_domains": 8,
   "ad_requests": 30,
@@ -26603,6 +28316,35 @@
   "trackers": 5,
   "url": "https://lumalabs.ai/genie",
   "verdict": "Light advertising"
+ },
+ "lumo.proton.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 882,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lumo: Privacy-first AI assistant where chats stay confidential",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://lumo.proton.me/",
+  "verdict": "Effectively ad-free"
  },
  "lutris.net": {
   "ad_domains": 0,
@@ -27204,6 +28946,35 @@
   ],
   "trackers": 0,
   "url": "https://maid.zone/soundcloak/instances.html",
+  "verdict": "Effectively ad-free"
+ },
+ "mailvelope.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16242,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mailvelope: PGP for Gmail & Webmail",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://mailvelope.com/",
   "verdict": "Effectively ad-free"
  },
  "man.archlinux.org": {
@@ -27853,6 +29624,35 @@
   "trackers": 0,
   "url": "https://may.as/moat/",
   "verdict": "Light advertising"
+ },
+ "mayakron.altervista.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "What is Acrylic?",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://mayakron.altervista.org/",
+  "verdict": "Effectively ad-free"
  },
  "mb.srb2.org": {
   "ad_domains": 0,
@@ -29219,6 +31019,38 @@
   "url": "https://moneymanagerex.org/",
   "verdict": "Heavy advertising"
  },
+ "monitor.mozilla.org": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.8,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 933,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mozilla Monitor",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 6,
+  "url": "https://monitor.mozilla.org/",
+  "verdict": "Light advertising"
+ },
  "monochrome.samidy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -29377,6 +31209,35 @@
   "trackers": 1,
   "url": "https://morphe.software/",
   "verdict": "Very clean"
+ },
+ "mosermichael.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1194,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "search tool based on duckduckgo !bang commands",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://mosermichael.github.io/duckduckbang/html/main.html",
+  "verdict": "Effectively ad-free"
  },
  "mousectrl.com": {
   "ad_domains": 2,
@@ -29729,6 +31590,35 @@
   ],
   "trackers": 0,
   "url": "https://msft-store.tplant.com.au/",
+  "verdict": "Effectively ad-free"
+ },
+ "msty.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2137,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Msty \u2014 Private AI for real work",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://msty.app/",
   "verdict": "Effectively ad-free"
  },
  "mt2.cn": {
@@ -31213,6 +33103,37 @@
   "url": "https://nextdns.io",
   "verdict": "Effectively ad-free"
  },
+ "nginxproxymanager.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 70.2,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 222,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nginx Proxy Manager",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://nginxproxymanager.com",
+  "verdict": "Light advertising"
+ },
  "ngp.re": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -31296,6 +33217,35 @@
   "title": "Nicotine+ | Graphical client for Soulseek",
   "trackers": 0,
   "url": "https://nicotine-plus.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "nilch.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 144,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "nilch",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://nilch.org/",
   "verdict": "Effectively ad-free"
  },
  "nnmclub.to": {
@@ -31387,6 +33337,35 @@
   ],
   "trackers": 0,
   "url": "https://node-snapdrop.onrender.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "noib.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4343,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | Noi",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://noib.app/",
   "verdict": "Effectively ad-free"
  },
  "noirx.live": {
@@ -32433,6 +34412,35 @@
   ],
   "trackers": 0,
   "url": "https://oceanofpdf.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "ocserv.gitlab.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1126,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenConnect VPN Server",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://ocserv.gitlab.io/www/index.html",
   "verdict": "Effectively ad-free"
  },
  "octavestreaming.com": {
@@ -33614,6 +35622,39 @@
   "url": "https://openvim.com/",
   "verdict": "Effectively ad-free"
  },
+ "openvpn.net": {
+  "ad_domains": 3,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 55.6,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1253,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 63.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Secure VPN Solutions for Business & Remote Access | OpenVPN",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 7,
+  "url": "https://openvpn.net/",
+  "verdict": "Moderate advertising"
+ },
  "openwebui.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -34387,6 +36428,35 @@
   "url": "https://papeer.tech/",
   "verdict": "Effectively ad-free"
  },
+ "paper2gal.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11766,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Paper2Galgame | Turn Papers into Visual Novels",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://paper2gal.com/",
+  "verdict": "Effectively ad-free"
+ },
  "paperback.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -34849,6 +36919,35 @@
   ],
   "trackers": 0,
   "url": "https://personaldata.info/",
+  "verdict": "Effectively ad-free"
+ },
+ "phantom.lol": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9775,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "IXL | Math, Language Arts, Science, Social Studies, and Spanish",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 4,
+  "url": "https://phantom.lol/",
   "verdict": "Effectively ad-free"
  },
  "phantomcodex9.github.io": {
@@ -35815,6 +37914,35 @@
   "trackers": 0,
   "url": "https://player.bfi.org.uk/free",
   "verdict": "Light advertising"
+ },
+ "playground.allenai.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6810,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ai2 Playground",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://playground.allenai.org/",
+  "verdict": "Effectively ad-free"
  },
  "playground.tensorflow.org": {
   "ad_domains": 0,
@@ -36825,6 +38953,37 @@
   "url": "https://primewire.zip/",
   "verdict": "Effectively ad-free"
  },
+ "pritunl.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 81.2,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 186,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pritunl - Enterprise VPN Server",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://pritunl.com/",
+  "verdict": "Light advertising"
+ },
  "privacidad.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -36914,6 +39073,40 @@
   "url": "https://privacyguides.github.io/privacyguides.org/",
   "verdict": "Effectively ad-free"
  },
+ "privadovpn.com": {
+  "ad_domains": 4,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 76.5,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1055,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 56.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free VPN (10GB/month) | Unlimited Devices | PrivadoVPN",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 3,
+  "url": "https://privadovpn.com/freevpn",
+  "verdict": "Heavy advertising"
+ },
  "privateers.wiki": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -36941,6 +39134,37 @@
   "trackers": 0,
   "url": "https://privateers.wiki/",
   "verdict": "Effectively ad-free"
+ },
+ "privategpt.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 43.5,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 385,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PrivateGPT.dev",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://privategpt.dev/",
+  "verdict": "Light advertising"
  },
  "privnote.com": {
   "ad_domains": 68,
@@ -37221,6 +39445,166 @@
   "url": "https://proxx.app/",
   "verdict": "Effectively ad-free"
  },
+ "proxy-checker.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 393,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u041f\u0440\u043e\u043a\u0441\u0438 \u0427\u0435\u043a\u0435\u0440: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043f\u0440\u043e\u043a\u0441\u0438 \u043e\u043d\u043b\u0430\u0439\u043d \u043d\u0430 Proxy Checker",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://proxy-checker.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "proxyium.com": {
+  "ad_domains": 4,
+  "ad_requests": 24,
+  "ad_slots": 2,
+  "ad_weight_pct": 45.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1760,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 32.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free web proxy - browse fast & anonymously",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://proxyium.com/",
+  "verdict": "Very heavy advertising"
+ },
+ "proxyof2.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.4,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 225,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 74.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Proxy Of All Websites | Breaking all censorships and firewalls",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 3,
+  "url": "https://proxyof2.com/",
+  "verdict": "Light advertising"
+ },
+ "proxypal.net": {
+  "ad_domains": 4,
+  "ad_requests": 26,
+  "ad_slots": 2,
+  "ad_weight_pct": 67.5,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1041,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 32.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ProxyPal - Free Web Proxy",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://proxypal.net/",
+  "verdict": "Very heavy advertising"
+ },
+ "psiphon.ca": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 28.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1014,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Psiphon | Uncensored Internet access for Windows and Mobile",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 3,
+  "url": "https://psiphon.ca/",
+  "verdict": "Light advertising"
+ },
  "psvitavpk.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -37271,6 +39655,35 @@
   "title": "Periodic Table - Ptable - Properties",
   "trackers": 0,
   "url": "https://ptable.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "publicai.co": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 61,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Public AI Inference Utility",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://publicai.co/chat",
   "verdict": "Effectively ad-free"
  },
  "pudding.cool": {
@@ -38607,6 +41020,37 @@
   "url": "https://rednuht.org/genetic_cars_2/",
   "verdict": "Effectively ad-free"
  },
+ "reflect4.me": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.7,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2038,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Web proxy for everyone! - Reflect4",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://reflect4.me/",
+  "verdict": "Very clean"
+ },
  "releases.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -39103,6 +41547,35 @@
   ],
   "trackers": 0,
   "url": "https://rips.cc/",
+  "verdict": "Effectively ad-free"
+ },
+ "riseup.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 29,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VPN - riseup.net",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://riseup.net/en/vpn",
   "verdict": "Effectively ad-free"
  },
  "rivestream.ru": {
@@ -40433,6 +42906,35 @@
   "url": "https://sc.maid.zone/",
   "verdict": "Effectively ad-free"
  },
+ "scamalytics.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://scamalytics.com/",
+  "verdict": "Effectively ad-free"
+ },
  "scanlibs.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -40459,6 +42961,35 @@
   ],
   "trackers": 0,
   "url": "https://scanlibs.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "scatteredsecrets.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 146,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ScatteredSecrets.com - Find Your Hacked Passwords",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://scatteredsecrets.com/",
   "verdict": "Effectively ad-free"
  },
  "schismtracker.org": {
@@ -40521,6 +43052,35 @@
   "trackers": 2,
   "url": "https://schizoduckie.github.io/DuckieTV/",
   "verdict": "Very clean"
+ },
+ "sci-bot.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 352,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "sci-bot",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://sci-bot.ru/",
+  "verdict": "Effectively ad-free"
  },
  "sci-hub.red": {
   "ad_domains": 0,
@@ -40917,6 +43477,35 @@
   "url": "https://search.brave.com/",
   "verdict": "Effectively ad-free"
  },
+ "search.davidovski.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://search.davidovski.xyz/instances.php\nCall log:\n  - navigating to \"https",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "offline",
+  "sticky_ads": 0,
+  "title": "LibreY",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://search.davidovski.xyz/instances.php",
+  "verdict": "Effectively ad-free"
+ },
  "search.extto.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -40944,6 +43533,64 @@
   ],
   "trackers": 0,
   "url": "https://search.extto.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "search.tiago.zip": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 973,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "search!",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://search.tiago.zip/",
+  "verdict": "Effectively ad-free"
+ },
+ "searchengine.party": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 12,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search Engine Party",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://searchengine.party/",
   "verdict": "Effectively ad-free"
  },
  "searchthearxiv.com": {
@@ -41032,6 +43679,35 @@
   ],
   "trackers": 0,
   "url": "https://sebschaef.bitbucket.io/podify/",
+  "verdict": "Effectively ad-free"
+ },
+ "seclists.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://seclists.org/\", waiting until \"domcontentloade",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "SecLists",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://seclists.org/",
   "verdict": "Effectively ad-free"
  },
  "selectstarsql.com": {
@@ -42392,6 +45068,35 @@
   "url": "https://snapgen.ai/app/imagen",
   "verdict": "Moderate advertising"
  },
+ "snowflake.torproject.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 288,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Snowflake",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://snowflake.torproject.org/",
+  "verdict": "Effectively ad-free"
+ },
  "soaratlas.com": {
   "ad_domains": 4,
   "ad_requests": 8,
@@ -42603,6 +45308,35 @@
   ],
   "trackers": 0,
   "url": "https://sol.ospfranco.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "solar-chat.upstage.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "403 Forbidden",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://solar-chat.upstage.ai/",
   "verdict": "Effectively ad-free"
  },
  "somafm.com": {
@@ -43590,6 +46324,35 @@
   "url": "https://ssd.eff.org/",
   "verdict": "Effectively ad-free"
  },
+ "sshuttle.readthedocs.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "sshuttle 1.3.2 documentation",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://sshuttle.readthedocs.io/en",
+  "verdict": "Effectively ad-free"
+ },
  "ssrmovies.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -43974,6 +46737,35 @@
   "url": "https://stolendrone.info/",
   "verdict": "Very clean"
  },
+ "storage.googleapis.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 3,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Amnezia",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://storage.googleapis.com/amnezia/amnezia.org",
+  "verdict": "Effectively ad-free"
+ },
  "store.rg-adguard.net": {
   "ad_domains": 8,
   "ad_requests": 26,
@@ -44335,6 +47127,35 @@
   ],
   "trackers": 0,
   "url": "https://streetcomplete.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "streisand.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Streisand | Flexible Proxy Client",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://streisand.pages.dev/",
   "verdict": "Effectively ad-free"
  },
  "stremio.ar0.eu": {
@@ -45565,6 +48386,37 @@
   "url": "https://tastedive.com/",
   "verdict": "Effectively ad-free"
  },
+ "tatsumoto-ren.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 191,
+  "pages": [
+   "Adblock",
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "All Japanese All The Time | AJATT",
+  "topics": [
+   "Adblocking",
+   "Courses"
+  ],
+  "trackers": 0,
+  "url": "https://tatsumoto-ren.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "tblock.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -46617,6 +49469,35 @@
   "url": "https://thewiki.moe/",
   "verdict": "Effectively ad-free"
  },
+ "throneproj.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1846,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Throne",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://throneproj.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "thu-tram.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -46804,6 +49685,35 @@
   "url": "https://tildearrow.org/furnace/",
   "verdict": "Effectively ad-free"
  },
+ "timst.cfd": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2672,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TimStreams | Watch Live Sports Free",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://timst.cfd/",
+  "verdict": "Effectively ad-free"
+ },
  "timstreams.st": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -46862,6 +49772,35 @@
   "trackers": 2,
   "url": "https://tinywow.com/",
   "verdict": "Light advertising"
+ },
+ "titaniumnetwork.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://titaniumnetwork.org/services/",
+  "verdict": "Effectively ad-free"
  },
  "tivimate.com": {
   "ad_domains": 0,
@@ -47441,6 +50380,35 @@
   ],
   "trackers": 0,
   "url": "https://toustream.xyz/",
+  "verdict": "Effectively ad-free"
+ },
+ "tox.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 727,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "A New Kind of Instant Messaging",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://tox.chat/",
   "verdict": "Effectively ad-free"
  },
  "tr4ker.net": {
@@ -48742,6 +51710,35 @@
   "url": "https://usenet.rexum.space/tree",
   "verdict": "Effectively ad-free"
  },
+ "v2.hysteria.network": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 462,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - Hysteria 2",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://v2.hysteria.network/",
+  "verdict": "Effectively ad-free"
+ },
  "vads.ac.uk": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -49760,6 +52757,35 @@
   "url": "https://voz.vn/",
   "verdict": "Ad-saturated / hostile"
  },
+ "vpn.techlore.tech": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 127,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VPN Comparison: IVPN, Mullvad, Proton VPN & more | Techlore",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://vpn.techlore.tech/",
+  "verdict": "Effectively ad-free"
+ },
  "vrdb.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50615,6 +53641,35 @@
   "url": "https://web860x.faselhdx.life/",
   "verdict": "Effectively ad-free"
  },
+ "webbkoll.5july.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 33,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Analyze | Webbkoll - 5july.net",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://webbkoll.5july.net/",
+  "verdict": "Effectively ad-free"
+ },
  "webextension.org": {
   "ad_domains": 6,
   "ad_requests": 20,
@@ -50887,6 +53942,69 @@
   ],
   "trackers": 0,
   "url": "https://wfty.link/",
+  "verdict": "Effectively ad-free"
+ },
+ "wgdashboard.dev": {
+  "ad_domains": 4,
+  "ad_requests": 14,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.4,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5242,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WGDashboard | Simple dashboard to manage WireGuard VPN",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://wgdashboard.dev/",
+  "verdict": "Moderate advertising"
+ },
+ "wgtunnel.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 206,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WG Tunnel",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://wgtunnel.com/",
   "verdict": "Effectively ad-free"
  },
  "whatsamook.games": {
@@ -51637,6 +54755,67 @@
   "url": "https://windscribe.com",
   "verdict": "Effectively ad-free"
  },
+ "wire.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1148,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Download Wire",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://wire.com/en/download/",
+  "verdict": "Effectively ad-free"
+ },
+ "wiresock.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.6,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 875,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WireSock Secure Connect - Advanced VPN Client",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://wiresock.net/",
+  "verdict": "Light advertising"
+ },
  "wispydocs.pages.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -51723,6 +54902,39 @@
   "trackers": 0,
   "url": "https://woogles.io/",
   "verdict": "Effectively ad-free"
+ },
+ "woozlit.com": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 84.5,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 486,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Woozlit \u2014 Free AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://woozlit.com/",
+  "verdict": "Moderate advertising"
  },
  "wordle-analyzer.com": {
   "ad_domains": 0,
@@ -55256,6 +58468,35 @@
   "url": "https://www.citywalki.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.clashverge.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 925,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u7b80\u4ecb - Clash Verge Rev Docs",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.clashverge.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "www.classcentral.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -56587,6 +59828,35 @@
   "url": "https://www.docplus.com/",
   "verdict": "Very clean"
  },
+ "www.docsgpt.cloud": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 61,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DocsGPT - Open Source AI Assistant",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.docsgpt.cloud/",
+  "verdict": "Effectively ad-free"
+ },
  "www.documentaryarea.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -56999,6 +60269,35 @@
   ],
   "trackers": 0,
   "url": "https://www.eggnog.ai/entertimeportal",
+  "verdict": "Effectively ad-free"
+ },
+ "www.emailprivacytester.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 60,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Email Privacy Tester",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.emailprivacytester.com/",
   "verdict": "Effectively ad-free"
  },
  "www.emule-project.com": {
@@ -60600,6 +63899,38 @@
   "url": "https://www.justtherecipe.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.k2think.ai": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 48.8,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 390,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 74.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "K2 Think - MBZUAI - Guest",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.k2think.ai/",
+  "verdict": "Light advertising"
+ },
  "www.kaggle.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -60820,6 +64151,35 @@
   ],
   "trackers": 0,
   "url": "https://www.kimai.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.kimi.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3302,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kimi AI with K3 | Built for Agentic Coding & Knowledge Work",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.kimi.com/",
   "verdict": "Effectively ad-free"
  },
  "www.kimovil.com": {
@@ -61387,6 +64747,38 @@
   "trackers": 0,
   "url": "https://www.linguee.es/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.linphone.org": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 13679,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Linphone - Communication en temps r\u00e9el",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 4,
+  "url": "https://www.linphone.org/",
+  "verdict": "Very clean"
  },
  "www.linuxcommand.org": {
   "ad_domains": 0,
@@ -62444,6 +65836,35 @@
   "trackers": 2,
   "url": "https://www.modernhn.com/",
   "verdict": "Very clean"
+ },
+ "www.mojeek.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 286,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mojeek",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.mojeek.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.moondownload.com": {
   "ad_domains": 0,
@@ -64001,6 +67422,40 @@
   "url": "https://www.onionhop.de/",
   "verdict": "Effectively ad-free"
  },
+ "www.onyx.app": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 49.6,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 697,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Onyx AI | Open Source Enterprise Search & AI Assistant",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.onyx.app/",
+  "verdict": "Moderate advertising"
+ },
  "www.openculture.com": {
   "ad_domains": 94,
   "ad_requests": 625,
@@ -64071,6 +67526,35 @@
   ],
   "trackers": 0,
   "url": "https://www.openml.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.openpgp.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 306,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Email Encryption - OpenPGP",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.openpgp.org/software/",
   "verdict": "Effectively ad-free"
  },
  "www.openstreetmap.org": {
@@ -64519,6 +68003,35 @@
   "trackers": 2,
   "url": "https://www.periodic-table.org/",
   "verdict": "Very heavy advertising"
+ },
+ "www.perplexity.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 706,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Perplexity",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.perplexity.ai/",
+  "verdict": "Effectively ad-free"
  },
  "www.phoronix.com": {
   "ad_domains": 0,
@@ -65227,6 +68740,35 @@
   "trackers": 2,
   "url": "https://www.protondb.com/",
   "verdict": "Light advertising"
+ },
+ "www.proxifier.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 948,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Proxifier - The Most Advanced Proxy Client",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.proxifier.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.pubmeeple.com": {
   "ad_domains": 1,
@@ -65957,6 +69499,35 @@
   ],
   "trackers": 0,
   "url": "https://www.retrosix.wiki/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.ricochetrefresh.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3001,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ricochet Refresh",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.ricochetrefresh.net/",
   "verdict": "Effectively ad-free"
  },
  "www.riffle.studio": {
@@ -67713,6 +71284,39 @@
   "url": "https://www.srrdb.com",
   "verdict": "Effectively ad-free"
  },
+ "www.sslsecureproxy.com": {
+  "ad_domains": 3,
+  "ad_requests": 13,
+  "ad_slots": 1,
+  "ad_weight_pct": 23.3,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2185,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 54.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SSL Proxy | Secure Proxy - SSLSecureProxy.com",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://www.sslsecureproxy.com/",
+  "verdict": "Heavy advertising"
+ },
  "www.startpage.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -68934,6 +72538,35 @@
   "url": "https://www.timer.coffee",
   "verdict": "Effectively ad-free"
  },
+ "www.tinc-vpn.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 146,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "tinc",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.tinc-vpn.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.tldraw.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -68964,6 +72597,35 @@
   "trackers": 2,
   "url": "https://www.tldraw.com/",
   "verdict": "Very clean"
+ },
+ "www.tofuauth.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1476,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tofu Authenticator for iOS",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://www.tofuauth.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.tokyoinsider.com": {
   "ad_domains": 0,
@@ -69403,6 +73065,40 @@
   "trackers": 3,
   "url": "https://www.tunemymusic.com/",
   "verdict": "Very clean"
+ },
+ "www.twingate.com": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 36.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 978,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Twingate:\u00a0It's time to ditch your VPN",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 8,
+  "url": "https://www.twingate.com/",
+  "verdict": "Moderate advertising"
  },
  "www.twitch.tv": {
   "ad_domains": 6,
@@ -71523,6 +75219,35 @@
   "trackers": 1,
   "url": "https://xyzstreams.st/",
   "verdict": "Light advertising"
+ },
+ "yacy.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-19T08:11:37+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11047,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - YaCy",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://yacy.net/",
+  "verdict": "Effectively ad-free"
  },
  "yazi-rs.github.io": {
   "ad_domains": 0,
