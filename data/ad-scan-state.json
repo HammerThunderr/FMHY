@@ -1214,7 +1214,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1404,7 +1404,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -2091,6 +2091,35 @@
   "url": "https://adrama.app/",
   "verdict": "Very clean"
  },
+ "adsb.im": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1168,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ADSB.im",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://adsb.im/",
+  "verdict": "Effectively ad-free"
+ },
  "adv-r.hadley.nz": {
   "ad_domains": 1,
   "ad_requests": 3,
@@ -2186,7 +2215,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -3350,7 +3379,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 11.7,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -3931,7 +3960,7 @@
   "ad_requests": 198,
   "ad_slots": 1,
   "ad_weight_pct": 66.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -5609,6 +5638,39 @@
   "url": "https://anythingllm.com/",
   "verdict": "Very clean"
  },
+ "anytrip.com.au": {
+  "ad_domains": 3,
+  "ad_requests": 12,
+  "ad_slots": 1,
+  "ad_weight_pct": 11.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4312,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 60.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Real-time Sydney / NSW Transport Live Map | AnyTrip Sydney / NSW",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://anytrip.com.au/",
+  "verdict": "Moderate advertising"
+ },
  "anyvoicelab.com": {
   "ad_domains": 3,
   "ad_requests": 220,
@@ -6163,7 +6225,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6220,7 +6282,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -6324,7 +6386,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6868,7 +6930,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -8504,6 +8566,35 @@
   "url": "https://authme.levminer.com/",
   "verdict": "Effectively ad-free"
  },
+ "autocatalogarchive.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://autocatalogarchive.com/",
+  "verdict": "Effectively ad-free"
+ },
  "autokey.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -9355,7 +9446,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -9827,7 +9918,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -10290,6 +10381,38 @@
   "trackers": 0,
   "url": "https://bigpictures.xyz/",
   "verdict": "Effectively ad-free"
+ },
+ "bikesharingworldmap.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 262,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Meddin Bike-sharing World Map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://bikesharingworldmap.com/",
+  "verdict": "Light advertising"
  },
  "billiards.tailuge.workers.dev": {
   "ad_domains": 0,
@@ -11017,6 +11140,37 @@
   "trackers": 0,
   "url": "https://bluemaxima.org/kahvibreak/",
   "verdict": "Effectively ad-free"
+ },
+ "bluew.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2847,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BlueW",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://bluew.org/",
+  "verdict": "Very clean"
  },
  "boardgamegeek.com": {
   "ad_domains": 8,
@@ -12147,7 +12301,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12317,6 +12471,35 @@
   ],
   "trackers": 0,
   "url": "https://bt.etree.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "budgetduo.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 243,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BudgetDuo",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://budgetduo.com/",
   "verdict": "Effectively ad-free"
  },
  "bugguide.net": {
@@ -12752,6 +12935,35 @@
   "trackers": 2,
   "url": "https://calculusmadeeasy.org",
   "verdict": "Light advertising"
+ },
+ "calendariociclismo.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 446,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Calendario Ciclismo App",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://calendariociclismo.app/en/",
+  "verdict": "Effectively ad-free"
  },
  "calf-studio-gear.org": {
   "ad_domains": 2,
@@ -13833,7 +14045,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -13920,7 +14132,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -14006,6 +14218,37 @@
   "trackers": 0,
   "url": "https://characterdesignreferences.com/visual-library",
   "verdict": "Very clean"
+ },
+ "charm.li": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Misc",
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Car Service Manuals from Operation CHARM \u2014 No strings attached!",
+  "topics": [
+   "Everything Else",
+   "Textbooks"
+  ],
+  "trackers": 0,
+  "url": "https://charm.li/",
+  "verdict": "Effectively ad-free"
  },
  "chat.arcee.ai": {
   "ad_domains": 0,
@@ -14399,7 +14642,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -15011,7 +15254,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -16110,7 +16353,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -17163,7 +17406,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18018,7 +18261,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18331,6 +18574,35 @@
   "trackers": 2,
   "url": "https://craft.hira.im/",
   "verdict": "Light advertising"
+ },
+ "crashatlas.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 353,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CrashAtlas - Aviation Accident Database & Crash Map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://crashatlas.com/",
+  "verdict": "Effectively ad-free"
  },
  "crawl.develz.org": {
   "ad_domains": 0,
@@ -19026,6 +19298,35 @@
   "trackers": 2,
   "url": "https://cubedesk.io/",
   "verdict": "Moderate advertising"
+ },
+ "cubetrek.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8104,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CubeTrek",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://cubetrek.com/",
+  "verdict": "Effectively ad-free"
  },
  "cuckoo.cert.ee": {
   "ad_domains": 0,
@@ -19756,7 +20057,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -19809,6 +20110,35 @@
   "trackers": 0,
   "url": "https://darkpatternstipline.org/",
   "verdict": "Effectively ad-free"
+ },
+ "darkridedatabase.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 14,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2333,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DRdb - Dark Ride Database",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://darkridedatabase.com/",
+  "verdict": "Moderate advertising"
  },
  "darksitefinder.com": {
   "ad_domains": 11,
@@ -20510,6 +20840,38 @@
   "url": "https://davidotek.github.io/protonup-qt/",
   "verdict": "Effectively ad-free"
  },
+ "dawarich.app": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "ad.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3518,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dawarich \u2014 Your Timeline, Forever | Dawarich",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://dawarich.app/",
+  "verdict": "Very clean"
+ },
  "ddlbase.net": {
   "ad_domains": 2,
   "ad_requests": 6,
@@ -21206,7 +21568,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -21772,7 +22134,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -23758,7 +24120,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -24314,7 +24676,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -24678,6 +25040,38 @@
   "url": "https://droidify.app/",
   "verdict": "Effectively ad-free"
  },
+ "dropkickd.com": {
+  "ad_domains": 2,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 3156,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "dropkickd - wrestling ratings",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://dropkickd.com/",
+  "verdict": "Light advertising"
+ },
  "drumbit.app": {
   "ad_domains": 5,
   "ad_requests": 28,
@@ -24975,7 +25369,7 @@
   "ad_requests": 629,
   "ad_slots": 3,
   "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -26891,6 +27285,42 @@
   "url": "https://en.namu.wiki/",
   "verdict": "Effectively ad-free"
  },
+ "en.nearbywiki.org": {
+  "ad_domains": 6,
+  "ad_requests": 30,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 15309,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 43.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NearbyWiki: Wikipedia places nearby",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 12,
+  "url": "https://en.nearbywiki.org/",
+  "verdict": "Very heavy advertising"
+ },
  "en.uncyclopedia.co": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -27016,7 +27446,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 8.1,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -27317,6 +27747,35 @@
   "url": "https://ente.com/",
   "verdict": "Effectively ad-free"
  },
+ "entryconditions.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 193,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Entry Conditions \u2014 Official Visa Requirements, Verified",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://entryconditions.com/",
+  "verdict": "Effectively ad-free"
+ },
  "epdf.pub": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -27615,7 +28074,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 24.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -27797,6 +28256,37 @@
   "url": "https://esahubble.org/",
   "verdict": "Light advertising"
  },
+ "esimdb.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 32.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 515,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "eSIMDB: Find and Compare Best Travel eSIMs for Your Trip",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://esimdb.com/",
+  "verdict": "Light advertising"
+ },
  "esite.ch": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -27853,6 +28343,35 @@
   ],
   "trackers": 0,
   "url": "https://esperanto12.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "esphome.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4235,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ESPHome - Smart Home Made Simple",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://esphome.io/",
   "verdict": "Effectively ad-free"
  },
  "ethw.org": {
@@ -28053,7 +28572,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -29965,7 +30484,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -30271,7 +30790,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.4,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -30420,7 +30939,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 22.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -31812,6 +32331,35 @@
   "url": "https://forebears.io/",
   "verdict": "Very heavy advertising"
  },
+ "formula-timer.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://formula-timer.com/livetiming",
+  "verdict": "Effectively ad-free"
+ },
  "forum.agoraroad.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -32464,7 +33012,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 12.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -32591,6 +33139,38 @@
   "url": "https://freecoursesites.com/",
   "verdict": "Moderate advertising"
  },
+ "freedomhouse.org": {
+  "ad_domains": 2,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 37.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1332,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 66.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Explore the Map | Freedom House",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 10,
+  "url": "https://freedomhouse.org/explore-the-map",
+  "verdict": "Moderate advertising"
+ },
  "freeforstudents.org": {
   "ad_domains": 3,
   "ad_requests": 26,
@@ -32631,7 +33211,7 @@
   "ad_requests": 48,
   "ad_slots": 3,
   "ad_weight_pct": 88.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -32849,7 +33429,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 4.7,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -32912,7 +33492,7 @@
   "ad_requests": 50,
   "ad_slots": 2,
   "ad_weight_pct": 33.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -33049,6 +33629,48 @@
   "trackers": 7,
   "url": "https://fretflip.com/",
   "verdict": "Light advertising"
+ },
+ "frightfind.com": {
+  "ad_domains": 12,
+  "ad_requests": 49,
+  "ad_slots": 3,
+  "ad_weight_pct": 18.5,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "akl-navvy.media.net",
+   "cm.g.doubleclick.net",
+   "contextual.media.net",
+   "cs.media.net",
+   "googleads.g.doubleclick.net",
+   "hblg.media.net",
+   "hbx.media.net",
+   "lg3.media.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4935,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 16.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Find Haunted Houses Near You - FrightFind",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 9,
+  "url": "https://frightfind.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "fsh.zone": {
   "ad_domains": 0,
@@ -34297,6 +34919,43 @@
   "url": "https://garticphone.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "gasprices.aaa.com": {
+  "ad_domains": 7,
+  "ad_requests": 15,
+  "ad_slots": 0,
+  "ad_weight_pct": 43.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "c2c7aeb13d7b6f6c7e46b55af8885347.safeframe.googlesyndication.com",
+   "insight.adsrvr.org",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 1528,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 40.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AAA Fuel Prices",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://gasprices.aaa.com/",
+  "verdict": "Very heavy advertising"
+ },
  "gats.io": {
   "ad_domains": 3,
   "ad_requests": 8,
@@ -34888,6 +35547,37 @@
   "url": "https://getaegis.app/",
   "verdict": "Effectively ad-free"
  },
+ "getchipdrop.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.9,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3152,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Wood Chip Mulch from ChipDrop",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://getchipdrop.com/",
+  "verdict": "Light advertising"
+ },
  "getcomics.org": {
   "ad_domains": 21,
   "ad_requests": 45,
@@ -35144,7 +35834,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35590,7 +36280,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -35875,7 +36565,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -37011,7 +37701,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -37073,7 +37763,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -37128,12 +37818,41 @@
   "url": "https://gpop.io/",
   "verdict": "Light advertising"
  },
+ "gpx.studio": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1153,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "gpx.studio \u2014 the online GPX file editor",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://gpx.studio/",
+  "verdict": "Effectively ad-free"
+ },
  "grabfreegames.com": {
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 87.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -38042,7 +38761,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollIntoView')\n    at scrollTo (https://guitarix.or",
   "fails": 1,
   "grade": "A",
@@ -38401,7 +39120,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 43.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -38521,7 +39240,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38846,7 +39565,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -40097,6 +40816,35 @@
   "url": "https://hkdict.megaexplorer.net/",
   "verdict": "Light advertising"
  },
+ "hktransit3d.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 341,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u9999\u6e2f Transit 3D \u2014 a living map of Hong Kong in motion",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://hktransit3d.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "hminnovations.org": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -40528,6 +41276,39 @@
   ],
   "trackers": 1,
   "url": "https://howhttps.works/",
+  "verdict": "Light advertising"
+ },
+ "howmanyplants.com": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5546,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "How Many Plants - Indoor and House Plant Resource",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://howmanyplants.com/",
   "verdict": "Light advertising"
  },
  "howtolinux.vercel.app": {
@@ -41319,7 +42100,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42026,6 +42807,48 @@
   "url": "https://ifwizz.de/if-en.html",
   "verdict": "Effectively ad-free"
  },
+ "igcd.net": {
+  "ad_domains": 33,
+  "ad_requests": 95,
+  "ad_slots": 2,
+  "ad_weight_pct": 95.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "63bb2e4b1e419a495b998f239665c12f.safeframe.googlesyndication.com",
+   "aax.amazon-adsystem.com",
+   "ade.googlesyndication.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "bid.g.doubleclick.net",
+   "c.amazon-adsystem.com",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "d.agkn.com"
+  ],
+  "ok": true,
+  "page_kb": 16870,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 20.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "IGCD.net - Internet Game Cars Database",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://igcd.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "igcse.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -42171,6 +42994,35 @@
   "url": "https://ikemen-engine.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "ikuyo.kenrick95.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 571,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ikuyo!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://ikuyo.kenrick95.org/",
+  "verdict": "Effectively ad-free"
+ },
  "iloader.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -42234,7 +43086,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43720,7 +44572,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -44045,7 +44897,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -44412,7 +45264,7 @@
   "ad_requests": 120,
   "ad_slots": 4,
   "ad_weight_pct": 65.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -44960,7 +45812,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -45194,7 +46046,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 11.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -48349,6 +49201,35 @@
   "url": "https://learn-anything.xyz/",
   "verdict": "Effectively ad-free"
  },
+ "learn.eartheasy.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5043,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "How to Compost at Home: A Complete Beginner's Guide \u2013 Eartheasy",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://learn.eartheasy.com/guides/composting/",
+  "verdict": "Effectively ad-free"
+ },
  "learn.microsoft.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50340,7 +51221,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -52084,6 +52965,35 @@
   "url": "https://lolshot.io/",
   "verdict": "Moderate advertising"
  },
+ "london.pengrubin.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1096,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "London Live \u2014 2D Real-Time Transport Map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://london.pengrubin.com/",
+  "verdict": "Effectively ad-free"
+ },
  "longcat.chat": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -52411,6 +53321,37 @@
   "trackers": 0,
   "url": "https://luakit.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "lubelogger.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.8,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 767,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LubeLogger",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://lubelogger.com/",
+  "verdict": "Very clean"
  },
  "lucaschess.pythonanywhere.com": {
   "ad_domains": 0,
@@ -53036,7 +53977,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53065,7 +54006,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53282,7 +54223,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53879,7 +54820,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54368,6 +55309,64 @@
   ],
   "trackers": 0,
   "url": "https://map-generator-nsj.vercel.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "map.orhyginal.fr": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1735,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Orhyginal's map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "http://map.orhyginal.fr/",
+  "verdict": "Effectively ad-free"
+ },
+ "mapchart.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 61,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Robot Challenge Screen",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://mapchart.net/",
   "verdict": "Effectively ad-free"
  },
  "mapcomplete.org": {
@@ -55058,6 +56057,35 @@
   "trackers": 7,
   "url": "https://mathworld.wolfram.com/",
   "verdict": "Moderate advertising"
+ },
+ "matrix.itasoftware.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1212,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search flights || ITA Matrix by Google",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://matrix.itasoftware.com/",
+  "verdict": "Effectively ad-free"
  },
  "matrix.org": {
   "ad_domains": 0,
@@ -56161,6 +57189,35 @@
   "url": "https://meta.wikimedia.org/wiki/Cite_Unseen",
   "verdict": "Effectively ad-free"
  },
+ "metar-taf.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://metar-taf.com/",
+  "verdict": "Effectively ad-free"
+ },
  "metazooa.com": {
   "ad_domains": 66,
   "ad_requests": 173,
@@ -56751,7 +57808,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 7.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -57378,6 +58435,35 @@
   "url": "https://mmodlist.org/?type=hollywood",
   "verdict": "Very clean"
  },
+ "mobac.sourceforge.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://mobac.sourceforge.io/",
+  "verdict": "Effectively ad-free"
+ },
  "mobile.alphacoders.com": {
   "ad_domains": 21,
   "ad_requests": 66,
@@ -57604,6 +58690,48 @@
   "trackers": 1,
   "url": "https://modern-css.com/",
   "verdict": "Light advertising"
+ },
+ "modernfarmer.com": {
+  "ad_domains": 57,
+  "ad_requests": 125,
+  "ad_slots": 1,
+  "ad_weight_pct": 40.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "a.teads.tv",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "at.teads.tv",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "c.aps.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "contextual.media.net",
+   "cs.media.net",
+   "direct.adsrvr.org",
+   "dpm.demdex.net"
+  ],
+  "ok": true,
+  "page_kb": 2784,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 19.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Homepage - Modern Farmer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://modernfarmer.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "modlist.in": {
   "ad_domains": 1,
@@ -57893,7 +59021,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -59432,6 +60560,35 @@
   "url": "https://muted.io/",
   "verdict": "Effectively ad-free"
  },
+ "muturzikin.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 154,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Linguistic maps from Muturzikin.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://muturzikin.com/countries.htm",
+  "verdict": "Effectively ad-free"
+ },
  "muzify.com": {
   "ad_domains": 4,
   "ad_requests": 9,
@@ -59496,7 +60653,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -59645,7 +60802,7 @@
   "ad_requests": 44,
   "ad_slots": 0,
   "ad_weight_pct": 30.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -59881,7 +61038,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -60400,7 +61557,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61789,7 +62946,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62068,12 +63225,43 @@
   "url": "https://nosystemd.org/",
   "verdict": "Effectively ad-free"
  },
+ "notamify.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8104,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Notamify - NOTAMs Simplified. NOTAM Reader and Briefing Tool",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://notamify.com/",
+  "verdict": "Very clean"
+ },
  "notbadcoffee.com": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -64562,7 +65750,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -65005,6 +66193,35 @@
   "url": "https://open.spotify.com/",
   "verdict": "Light advertising"
  },
+ "openairportmap.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 31496,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Frankfurt Airport (EDDF, FRA) \u2013 OpenAirportMap",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://openairportmap.org/",
+  "verdict": "Effectively ad-free"
+ },
  "openalternative.co": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -65123,7 +66340,7 @@
   "ad_requests": 106,
   "ad_slots": 2,
   "ad_weight_pct": 62.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -65452,7 +66669,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 40.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -65836,7 +67053,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66605,7 +67822,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 19.7,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -68313,6 +69530,35 @@
   "url": "https://periodictableapp.com/",
   "verdict": "Light advertising"
  },
+ "permapeople.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7106,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\ud83c\udf31\u270c\ufe0f Permapeople - Let's plant the future. Research, grow, harvest, trade, share, repeat.",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://permapeople.org/",
+  "verdict": "Effectively ad-free"
+ },
  "persepolis.getty.edu": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -69235,7 +70481,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -69295,7 +70541,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70112,6 +71358,38 @@
   "trackers": 0,
   "url": "https://planetcalc.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "platerecognizer.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3080,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Automatic License Plate Recognition - High Accuracy ALPR",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://platerecognizer.com/",
+  "verdict": "Light advertising"
  },
  "platform.leolabs.space": {
   "ad_domains": 1,
@@ -71492,7 +72770,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -73135,6 +74413,43 @@
   "url": "https://privsec.dev/",
   "verdict": "Effectively ad-free"
  },
+ "procarmanuals.com": {
+  "ad_domains": 5,
+  "ad_requests": 19,
+  "ad_slots": 2,
+  "ad_weight_pct": 86.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 719,
+  "pages": [
+   "Misc",
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 26.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Free Car Repair Manuals, Wiring Diagrams & Fault Codes | ProCarManuals",
+  "topics": [
+   "Everything Else",
+   "Textbooks"
+  ],
+  "trackers": 1,
+  "url": "https://procarmanuals.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "producerlibrary.carrd.co": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -74007,7 +75322,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -74119,6 +75434,35 @@
   "trackers": 1,
   "url": "https://pufferdle.com/",
   "verdict": "Light advertising"
+ },
+ "purrfect-experience-8f2.notion.site": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://purrfect-experience-8f2.notion.site/1e5ee5eeea",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 10855,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Sewing Pattern Sites",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://purrfect-experience-8f2.notion.site/1e5ee5eeea7a80d9b703e7954cb63c35?v=1e5ee5eeea7a802aa2ec000c9ae6e046",
+  "verdict": "Effectively ad-free"
  },
  "pwn.college": {
   "ad_domains": 0,
@@ -74685,7 +76029,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -74956,6 +76300,35 @@
   "trackers": 1,
   "url": "https://r4ds.had.co.nz/",
   "verdict": "Very clean"
+ },
+ "raceweek.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 118,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "raceweek.io \u2014 2026 Motorsport Calendar | F1, WEC, IMSA, MotoGP, IndyCar, NASCAR, WRC, DTM ",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://raceweek.io/",
+  "verdict": "Effectively ad-free"
  },
  "racing.pmnd.rs": {
   "ad_domains": 0,
@@ -75297,7 +76670,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 20.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -75329,7 +76702,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75677,7 +77050,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75732,6 +77105,35 @@
   "trackers": 0,
   "url": "https://ravenflix.net/",
   "verdict": "Moderate advertising"
+ },
+ "rcdb.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 140,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Roller Coaster DataBase",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://rcdb.com/",
+  "verdict": "Effectively ad-free"
  },
  "rcplanes.online": {
   "ad_domains": 4,
@@ -76236,7 +77638,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 76.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -76295,7 +77697,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -76440,7 +77842,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -77847,7 +79249,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -78802,7 +80204,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80061,7 +81463,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80090,7 +81492,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81324,6 +82726,82 @@
   "url": "https://searx.space/",
   "verdict": "Effectively ad-free"
  },
+ "seatmaps.com": {
+  "ad_domains": 80,
+  "ad_requests": 244,
+  "ad_slots": 3,
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "a5ad4e0c573d99ee9d1f5184ff149a96.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net"
+  ],
+  "ok": true,
+  "page_kb": 2691,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 13.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Find airline's aircraft seat map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://seatmaps.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "seats.aero": {
+  "ad_domains": 4,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 929,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 72.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "seats.aero - Home",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://seats.aero/",
+  "verdict": "Light advertising"
+ },
  "sebschaef.bitbucket.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -81442,6 +82920,37 @@
   ],
   "trackers": 3,
   "url": "https://see.stanford.edu/",
+  "verdict": "Light advertising"
+ },
+ "seedfinder.eu": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2179,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Marijuana Strain Database | Search | Research :: SeedFinder.eu",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://seedfinder.eu/en",
   "verdict": "Light advertising"
  },
  "seedlang.com": {
@@ -81836,7 +83345,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -82085,7 +83594,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -83261,7 +84770,7 @@
   "ad_requests": 11,
   "ad_slots": 1,
   "ad_weight_pct": 19.7,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -83293,7 +84802,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -83405,6 +84914,37 @@
   "url": "https://sites.pitt.edu/~dash/folktexts.html",
   "verdict": "Effectively ad-free"
  },
+ "sitinshade.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 27.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 613,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Find Best Seat to Minimize Sun Exposure While Traveling - Sit In Shade",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://sitinshade.com/",
+  "verdict": "Light advertising"
+ },
  "sittingonclouds.com": {
   "ad_domains": 2,
   "ad_requests": 6,
@@ -83477,6 +85017,35 @@
   "trackers": 2,
   "url": "https://sketchful.io/",
   "verdict": "Very heavy advertising"
+ },
+ "skimap.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 814,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Skimap.org",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://skimap.org/",
+  "verdict": "Effectively ad-free"
  },
  "skitty.xyz": {
   "ad_domains": 0,
@@ -83599,6 +85168,48 @@
   "trackers": 11,
   "url": "https://sky.esa.int/",
   "verdict": "Very clean"
+ },
+ "skyvector.com": {
+  "ad_domains": 73,
+  "ad_requests": 212,
+  "ad_slots": 1,
+  "ad_weight_pct": 39.8,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "3041d6f8541efef681f6bb80d6031175.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com"
+  ],
+  "ok": true,
+  "page_kb": 2362,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 24.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SkyVector: Flight Planning / Aeronautical Charts",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://skyvector.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "slang.net": {
   "ad_domains": 4,
@@ -83783,7 +85394,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 31.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -86715,6 +88326,35 @@
   "url": "https://start.duckduckgo.com/",
   "verdict": "Effectively ad-free"
  },
+ "stationview.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://stationview.app/",
+  "verdict": "Effectively ad-free"
+ },
  "stats.fm": {
   "ad_domains": 4,
   "ad_requests": 8,
@@ -86847,7 +88487,7 @@
   "ad_requests": 26,
   "ad_slots": 4,
   "ad_weight_pct": 36.1,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -88529,7 +90169,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90047,7 +91687,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90400,6 +92040,39 @@
   "trackers": 0,
   "url": "https://termux.dev/",
   "verdict": "Effectively ad-free"
+ },
+ "terraink.app": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5046,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Terraink: Free Map Poster & Wallpaper Creator",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://terraink.app/",
+  "verdict": "Light advertising"
  },
  "territorial.io": {
   "ad_domains": 0,
@@ -90840,7 +92513,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 68.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -91019,7 +92692,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91077,7 +92750,7 @@
   "ad_requests": 11,
   "ad_slots": 0,
   "ad_weight_pct": 28.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -91140,7 +92813,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91260,7 +92933,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 45.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -91340,6 +93013,37 @@
   ],
   "trackers": 1,
   "url": "https://thenounproject.com/",
+  "verdict": "Light advertising"
+ },
+ "thenumberwall.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 52.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 319,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Number Wall",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://thenumberwall.com/",
   "verdict": "Light advertising"
  },
  "theonion.com": {
@@ -91621,6 +93325,38 @@
   "url": "https://theresonanceteam.github.io/trollapps-web/",
   "verdict": "Effectively ad-free"
  },
+ "theretowhere.com": {
+  "ad_domains": 2,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 3049,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "There to Where",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://theretowhere.com/",
+  "verdict": "Light advertising"
+ },
  "theretroweb.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -91856,7 +93592,7 @@
   "ad_requests": 230,
   "ad_slots": 1,
   "ad_weight_pct": 66.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -92486,7 +94222,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 1.8,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -92687,6 +94423,35 @@
   ],
   "trackers": 0,
   "url": "https://tizentube.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "tjukanovt.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1891,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Notable people",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://tjukanovt.github.io/notable-people",
   "verdict": "Effectively ad-free"
  },
  "tmedweb.tulane.edu": {
@@ -93642,7 +95407,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94510,7 +96275,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -95412,7 +97177,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -95809,6 +97574,35 @@
   "title": "BMI_chart.png (1920\u00d71080)",
   "trackers": 0,
   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png",
+  "verdict": "Effectively ad-free"
+ },
+ "urbexology.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5052,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Abandoned Places Near Me - Urban Exploration - Lost Places - Urbex",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://urbexology.com/",
   "verdict": "Effectively ad-free"
  },
  "uriel-app.vercel.app": {
@@ -97425,6 +99219,35 @@
   "url": "https://vis-ro.web.app",
   "verdict": "Very clean"
  },
+ "visaindex.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 990,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Passport Index 2026 | visaindex.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://visaindex.com/",
+  "verdict": "Effectively ad-free"
+ },
  "visibleearth.nasa.gov": {
   "ad_domains": 1,
   "ad_requests": 6,
@@ -97457,7 +99280,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 82.8,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -99539,6 +101362,39 @@
   "url": "https://web860x.faselhdx.life/",
   "verdict": "Effectively ad-free"
  },
+ "webautocats.com": {
+  "ad_domains": 3,
+  "ad_requests": 11,
+  "ad_slots": 1,
+  "ad_weight_pct": 55.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 770,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 52.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Original Parts Catalogs WebAutoCats.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://webautocats.com/",
+  "verdict": "Heavy advertising"
+ },
  "webbkoll.5july.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -99899,7 +101755,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -100304,7 +102160,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -100362,7 +102218,7 @@
   "ad_requests": 14,
   "ad_slots": 3,
   "ad_weight_pct": 52.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -100938,7 +102794,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -100967,7 +102823,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -101474,6 +103330,64 @@
   "url": "https://wikigacha.com/",
   "verdict": "Very heavy advertising"
  },
+ "wikimapia.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 157,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Wikimapia",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://wikimapia.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "wikimapped.mukul-mehta.in": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 550747,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WikiMapped - Wikipedia on a map!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://wikimapped.mukul-mehta.in/",
+  "verdict": "Effectively ad-free"
+ },
  "wikinearby.toolforge.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -101530,6 +103444,38 @@
   "trackers": 0,
   "url": "https://wikiquote.org",
   "verdict": "Effectively ad-free"
+ },
+ "wikiroutes.info": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 100.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 174,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WikiRoutes: Your Public Transit Database",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://wikiroutes.info/",
+  "verdict": "Light advertising"
  },
  "wikis.mit.edu": {
   "ad_domains": 0,
@@ -101656,7 +103602,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -101678,6 +103624,35 @@
   ],
   "trackers": 0,
   "url": "https://wilderness.land/",
+  "verdict": "Effectively ad-free"
+ },
+ "wildflowersearch.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2167,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Wildflower Search",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://wildflowersearch.org/",
   "verdict": "Effectively ad-free"
  },
  "wildguesser.com": {
@@ -102856,6 +104831,35 @@
   "url": "https://worldofpcgames.com/",
   "verdict": "Light advertising"
  },
+ "worldofsucculents.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://worldofsucculents.com/",
+  "verdict": "Effectively ad-free"
+ },
  "worldpoverty.io": {
   "ad_domains": 4,
   "ad_requests": 8,
@@ -103817,7 +105821,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105085,7 +107089,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -106068,6 +108072,40 @@
   "url": "https://www.aurorascreen.org/",
   "verdict": "Very clean"
  },
+ "www.auto-manual.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2089,
+  "pages": [
+   "Misc",
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Automotive manuals - Wiring Diagrams",
+  "topics": [
+   "Everything Else",
+   "Textbooks"
+  ],
+  "trackers": 2,
+  "url": "https://www.auto-manual.com/",
+  "verdict": "Light advertising"
+ },
  "www.av8n.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -106183,6 +108221,48 @@
   ],
   "trackers": 7,
   "url": "http://www.b737.org.uk/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.backyardchickens.com": {
+  "ad_domains": 58,
+  "ad_requests": 169,
+  "ad_slots": 10,
+  "ad_weight_pct": 84.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "api.id5-sync.com",
+   "at.teads.tv",
+   "b2f6060935b477281bde0d26ec347075.safeframe.googlesyndication.com",
+   "bid.g.doubleclick.net",
+   "btlr.sharethrough.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com",
+   "cdn.taboola.com",
+   "cds.taboola.com",
+   "cm.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 11496,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Raising Chickens 101 - Chicks, Breeds, Coops, Tips | BackYard Chickens - Learn How to Rais",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.backyardchickens.com/",
   "verdict": "Ad-saturated / hostile"
  },
  "www.baen.com": {
@@ -106495,7 +108575,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 8.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -107163,6 +109243,35 @@
   "url": "https://www.blindfold-chess.online/",
   "verdict": "Effectively ad-free"
  },
+ "www.blocklayer.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.blocklayer.com/\", waiting until \"domconten",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "BlockLayer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.blocklayer.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.bls.gov": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -107290,7 +109399,7 @@
   "ad_requests": 35,
   "ad_slots": 1,
   "ad_weight_pct": 80.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -107462,7 +109571,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -107693,7 +109802,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -107751,7 +109860,7 @@
   "ad_requests": 39,
   "ad_slots": 0,
   "ad_weight_pct": 22.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -108037,6 +110146,44 @@
   "url": "https://www.cardzmania.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.carpdfmanual.com": {
+  "ad_domains": 6,
+  "ad_requests": 245,
+  "ad_slots": 6,
+  "ad_weight_pct": 33.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3352,
+  "pages": [
+   "Misc",
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 6.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "75 Acura PDF manuals Free Download - \u0421ar PDF Manual, Wiring Diagram, Fault Codes",
+  "topics": [
+   "Everything Else",
+   "Textbooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.carpdfmanual.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.cars.com": {
   "ad_domains": 43,
   "ad_requests": 150,
@@ -108106,6 +110253,35 @@
   ],
   "trackers": 0,
   "url": "https://www.carsized.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.cartographersguild.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.cartographersguild.com/\", waiting until \"d",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "The Cartographers' Guild",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.cartographersguild.com/",
   "verdict": "Effectively ad-free"
  },
  "www.catalogueoflife.org": {
@@ -110312,7 +112488,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 25.1,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -110533,6 +112709,40 @@
   "trackers": 1,
   "url": "https://www.coveratlas.com/",
   "verdict": "Very clean"
+ },
+ "www.cozycozy.com": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3391,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 68.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search all Holiday Rentals, Airbnb, B&B & Hotels | cozycozy",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.cozycozy.com/",
+  "verdict": "Moderate advertising"
  },
  "www.cpubenchmark.net": {
   "ad_domains": 59,
@@ -111067,6 +113277,35 @@
   ],
   "trackers": 0,
   "url": "https://www.cursoemvideo.com",
+  "verdict": "Effectively ad-free"
+ },
+ "www.d-maps.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.d-maps.com/",
   "verdict": "Effectively ad-free"
  },
  "www.dailymotion.com": {
@@ -111732,7 +113971,7 @@
   "ad_requests": 321,
   "ad_slots": 2,
   "ad_weight_pct": 27.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -111977,7 +114216,7 @@
   "ad_requests": 6,
   "ad_slots": 5,
   "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -113462,7 +115701,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -113485,6 +115724,48 @@
   "trackers": 1,
   "url": "https://www.epicgames.com/store/en-US/free-games",
   "verdict": "Effectively ad-free"
+ },
+ "www.epicurious.com": {
+  "ad_domains": 35,
+  "ad_requests": 115,
+  "ad_slots": 10,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "b1sync.outbrain.com",
+   "c.amazon-adsystem.com",
+   "client.aps.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "cs.media.net",
+   "d634f136b0791fb1471869578c92f321.safeframe.googlesyndication.com",
+   "direct.adsrvr.org",
+   "dsum-sec.casalemedia.com",
+   "fastlane.rubiconproject.com",
+   "googleads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 24489,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 11.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Epicurious \u2013 Recipes, Menu Ideas, Videos & Cooking Tips | Epicurious",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://www.epicurious.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.episoden.com": {
   "ad_domains": 4,
@@ -113620,7 +115901,7 @@
   "ad_requests": 21,
   "ad_slots": 5,
   "ad_weight_pct": 38.9,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -115006,6 +117287,48 @@
   "url": "https://www.flightaware.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.flightconnections.com": {
+  "ad_domains": 64,
+  "ad_requests": 145,
+  "ad_slots": 3,
+  "ad_weight_pct": 66.9,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "3815859f67c4c584f471fcd78f8b84c9.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 1808,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 14.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FlightConnections: All flights worldwide on a map!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.flightconnections.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.flightgear.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -115568,7 +117891,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 46.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -115661,6 +117984,48 @@
   "trackers": 1,
   "url": "https://www.fosshub.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.fotmob.com": {
+  "ad_domains": 13,
+  "ad_requests": 23,
+  "ad_slots": 0,
+  "ad_weight_pct": 37.8,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "cm.g.doubleclick.net",
+   "esp.rtbhouse.com",
+   "f3d4008fca777428967745e382cf0e62.safeframe.googlesyndication.com",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "openads-cdn.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "stats.g.doubleclick.net",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 2057,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 28.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FotMob - Football Live Scores",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.fotmob.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.fotw.info": {
   "ad_domains": 0,
@@ -115929,7 +118294,7 @@
   "ad_requests": 197,
   "ad_slots": 2,
   "ad_weight_pct": 55.7,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -115965,6 +118330,39 @@
   "trackers": 3,
   "url": "https://www.freecycle.org/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.freemaptools.com": {
+  "ad_domains": 3,
+  "ad_requests": 12,
+  "ad_slots": 1,
+  "ad_weight_pct": 15.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2818,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Map Tools",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.freemaptools.com/",
+  "verdict": "Moderate advertising"
  },
  "www.freeonlinetest.in": {
   "ad_domains": 6,
@@ -116358,6 +118756,37 @@
   "url": "https://www.funnode.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.futez.com.br": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.5,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1044,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Futez",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.futez.com.br/",
+  "verdict": "Very clean"
+ },
  "www.futuretools.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -116546,7 +118975,7 @@
   "ad_requests": 23,
   "ad_slots": 4,
   "ad_weight_pct": 28.5,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -116709,6 +119138,38 @@
   "trackers": 1,
   "url": "https://www.gapminder.org/dollar-street",
   "verdict": "Very clean"
+ },
+ "www.gardenia.net": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2973,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gardenia: The Ultimate Guide to Plants, Gardening & Landscaping",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://www.gardenia.net/",
+  "verdict": "Light advertising"
  },
  "www.gavo.t.u-tokyo.ac.jp": {
   "ad_domains": 0,
@@ -117657,6 +120118,48 @@
   "trackers": 0,
   "url": "https://www.govtrack.us/",
   "verdict": "Effectively ad-free"
+ },
+ "www.gpsvisualizer.com": {
+  "ad_domains": 53,
+  "ad_requests": 122,
+  "ad_slots": 2,
+  "ad_weight_pct": 60.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "at.teads.tv",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c21lg-d.media.net",
+   "cdn.id5-sync.com",
+   "client.aps.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com"
+  ],
+  "ok": true,
+  "page_kb": 1499,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 19.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GPS Visualizer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.gpsvisualizer.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.gptdemo.net": {
   "ad_domains": 6,
@@ -119204,12 +121707,44 @@
   "url": "https://www.houdah.com/customShortcuts/",
   "verdict": "Effectively ad-free"
  },
+ "www.howacarworks.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 77.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 393,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "How a Car Works - Guides to car mechanics and automotive engineering",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.howacarworks.com/",
+  "verdict": "Light advertising"
+ },
  "www.howmuchisin.com": {
   "ad_domains": 38,
   "ad_requests": 133,
   "ad_slots": 13,
   "ad_weight_pct": 10.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -120398,6 +122933,38 @@
   "trackers": 0,
   "url": "https://www.inuitmyths.com/index.htm",
   "verdict": "Effectively ad-free"
+ },
+ "www.iobroker.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7677,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ioBroker Smarthome",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.iobroker.net/",
+  "verdict": "Very clean"
  },
  "www.iopaint.com": {
   "ad_domains": 2,
@@ -121788,7 +124355,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.kitchenaid.com/recipes.html\nCall log:\n  - navigating to \"https:/",
   "fails": 1,
   "grade": "A+",
@@ -122672,7 +125239,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 63.6,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -123553,7 +126120,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123908,7 +126475,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -123939,7 +126506,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 73.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -124750,6 +127317,37 @@
   "trackers": 0,
   "url": "https://www.mathsisfun.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.matthewsiu.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.7,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6264,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Local map",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.matthewsiu.com/local-map",
+  "verdict": "Very clean"
  },
  "www.mazegenerator.net": {
   "ad_domains": 1,
@@ -125880,7 +128478,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -126045,7 +128643,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 39.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -126720,7 +129318,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -126877,6 +129475,37 @@
   "trackers": 0,
   "url": "https://www.naturalreaders.com/online/",
   "verdict": "Effectively ad-free"
+ },
+ "www.ncei.noaa.gov": {
+  "ad_domains": 1,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 30.3,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1971,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Maps and Geospatial Products | National Centers for Environmental Information (NCEI)",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.ncei.noaa.gov/maps-and-geospatial-products",
+  "verdict": "Light advertising"
  },
  "www.ndpsoftware.com": {
   "ad_domains": 4,
@@ -128773,6 +131402,37 @@
   "url": "https://www.opendronemap.org/",
   "verdict": "Light advertising"
  },
+ "www.openhab.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7519,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "openHAB",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.openhab.org/",
+  "verdict": "Very clean"
+ },
  "www.openingtree.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -129184,6 +131844,35 @@
   ],
   "trackers": 0,
   "url": "https://www.openttd.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.openvoiceos.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1116,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.openvoiceos.org/",
   "verdict": "Effectively ad-free"
  },
  "www.openvsp.org": {
@@ -129638,7 +132327,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 63.4,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -130307,6 +132996,35 @@
   "url": "https://www.picturedots.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.picturethisai.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 623,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PictureThis - Plant Identifier App | Plant Identification Online",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.picturethisai.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.pikatorrent.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -130343,7 +133061,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 98.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -130557,6 +133275,40 @@
   "trackers": 5,
   "url": "https://www.plannedparenthood.org/",
   "verdict": "Very heavy advertising"
+ },
+ "www.planyourroom.com": {
+  "ad_domains": 4,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5304,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 62.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PlanYourRoom",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.planyourroom.com/",
+  "verdict": "Moderate advertising"
  },
  "www.play-games.com": {
   "ad_domains": 0,
@@ -130950,7 +133702,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -131318,6 +134070,37 @@
   "trackers": 7,
   "url": "https://www.programiz.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.progrid.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2725,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PROGRID",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.progrid.org/",
+  "verdict": "Very clean"
  },
  "www.projectlumen.app": {
   "ad_domains": 1,
@@ -132516,7 +135299,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 17.2,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -133201,6 +135984,48 @@
   "url": "https://www.rivestream.app/",
   "verdict": "Light advertising"
  },
+ "www.roadsideamerica.com": {
+  "ad_domains": 12,
+  "ad_requests": 61,
+  "ad_slots": 2,
+  "ad_weight_pct": 67.8,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "18c3124ab53ff2c11465141653087f56.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "cdn.doubleverify.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "rtb0.doubleverify.com",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1763,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 14.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Roadside America - Guide to Uniquely Odd Tourist Attractions",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.roadsideamerica.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.robinwords.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -133844,7 +136669,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 70.3,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -134130,6 +136955,41 @@
   "url": "https://www.scnsrc.me/",
   "verdict": "Effectively ad-free"
  },
+ "www.scribblemaps.com": {
+  "ad_domains": 5,
+  "ad_requests": 16,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 22851,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scribble Maps (455ac)",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.scribblemaps.com/create/",
+  "verdict": "Moderate advertising"
+ },
  "www.scrible.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -134158,6 +137018,48 @@
   "trackers": 1,
   "url": "https://www.scrible.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.seat61.com": {
+  "ad_domains": 77,
+  "ad_requests": 362,
+  "ad_slots": 1,
+  "ad_weight_pct": 75.3,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "99210fcd910bca3800b588efc20a21dd.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 2479,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 18.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "The Man in Seat 61 | The train travel guide",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.seat61.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.sectional-anatomy.org": {
   "ad_domains": 0,
@@ -135762,6 +138664,35 @@
   "url": "https://www.snokido.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.sofascore.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Sofascore",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.sofascore.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.softpedia.com": {
   "ad_domains": 26,
   "ad_requests": 91,
@@ -136453,6 +139384,79 @@
   "url": "https://www.splung.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.sports-reference.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 66.4,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 492,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sports Reference | Sports Stats, fast, easy, and up-to-date | Sports-Reference.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.sports-reference.com/",
+  "verdict": "Light advertising"
+ },
+ "www.spotrac.com": {
+  "ad_domains": 74,
+  "ad_requests": 266,
+  "ad_slots": 2,
+  "ad_weight_pct": 8.9,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "acdn.adnxs.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "bid.g.doubleclick.net",
+   "bidline-us-east.bidswitch.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 11451,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 29.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sports Contracts, Salaries, Caps, Bonuses, & Transactions | Spotrac.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.spotrac.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.sql-practice.online": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -136756,6 +139760,38 @@
   "url": "https://www.stableaudio.com/",
   "verdict": "Very clean"
  },
+ "www.startmycar.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 25.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 737,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StartMyCar",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.startmycar.com",
+  "verdict": "Light advertising"
+ },
  "www.startpage.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -136818,7 +139854,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -137469,6 +140505,38 @@
   "url": "https://www.swebench.com/",
   "verdict": "Very clean"
  },
+ "www.sweethome3d.com": {
+  "ad_domains": 2,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.3,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 51740,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sweet Home 3D: Free Interior Design Software for All",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://www.sweethome3d.com/",
+  "verdict": "Light advertising"
+ },
  "www.syedgakbar.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -137672,6 +140740,48 @@
   "url": "https://www.tandem.net/",
   "verdict": "Light advertising"
  },
+ "www.tapology.com": {
+  "ad_domains": 87,
+  "ad_requests": 324,
+  "ad_slots": 1,
+  "ad_weight_pct": 25.6,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "33372b57f261c423279d548ccfe8d1f3.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "aax.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "akl-navvy.media.net",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com"
+  ],
+  "ok": true,
+  "page_kb": 3178,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 26.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tapology | MMA & Combat Sports",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.tapology.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.taquitos.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -137734,7 +140844,7 @@
   "ad_requests": 162,
   "ad_slots": 0,
   "ad_weight_pct": 29.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -138223,6 +141333,38 @@
   "trackers": 0,
   "url": "https://www.text-to-speech.online/",
   "verdict": "Effectively ad-free"
+ },
+ "www.textomap.com": {
+  "ad_domains": 2,
+  "ad_requests": 12,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 10932,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 74.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Textomap | Generate Interactive Maps from Text, Images, Prompts & Questions",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.textomap.com/",
+  "verdict": "Light advertising"
  },
  "www.thechairmansbao.com": {
   "ad_domains": 3,
@@ -138932,7 +142074,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -138986,6 +142128,37 @@
   "trackers": 2,
   "url": "https://www.tldraw.com/",
   "verdict": "Very clean"
+ },
+ "www.tmhunt.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 46.5,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 611,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TMhunt - Clothing Trademark Search",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "http://www.tmhunt.com/",
+  "verdict": "Light advertising"
  },
  "www.tofuauth.com": {
   "ad_domains": 0,
@@ -139381,7 +142554,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -139571,7 +142744,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -139600,7 +142773,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 47.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -139720,6 +142893,35 @@
   ],
   "trackers": 0,
   "url": "https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator",
+  "verdict": "Effectively ad-free"
+ },
+ "www.trustroots.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 854,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Trustroots: travellers hospitality community",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.trustroots.org/",
   "verdict": "Effectively ad-free"
  },
  "www.tryingopen.com": {
@@ -140353,7 +143555,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -141099,7 +144301,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -142055,7 +145257,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -143928,7 +147130,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -144224,7 +147426,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-21T19:57:59+00:00",
+  "checked_utc": "2026-08-21T19:59:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -145334,6 +148536,37 @@
   "trackers": 0,
   "url": "https://zend10.github.io/AL-chan/",
   "verdict": "Effectively ad-free"
+ },
+ "zenius-i-vanisher.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.2,
+  "checked_utc": "2026-08-21T19:59:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2265,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Arcades - ZIv",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://zenius-i-vanisher.com/v5.2/arcades.php",
+  "verdict": "Very clean"
  },
  "zero-to-nix.com": {
   "ad_domains": 0,
