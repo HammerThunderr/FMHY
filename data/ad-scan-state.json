@@ -1563,7 +1563,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 28.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -1664,7 +1664,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -2323,6 +2323,35 @@
   "trackers": 1,
   "url": "https://adarkroom.doublespeakgames.com/",
   "verdict": "Very clean"
+ },
+ "adaway.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2779,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AdAway - Open Source Ad Blocker for Android",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://adaway.org/",
+  "verdict": "Effectively ad-free"
  },
  "adbappcontrol.com": {
   "ad_domains": 0,
@@ -3070,7 +3099,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 38.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -5109,7 +5138,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -5140,7 +5169,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5202,7 +5231,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 43.9,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -5229,12 +5258,46 @@
   "url": "https://android-zone.ws/",
   "verdict": "Light advertising"
  },
+ "android.biglybt.com": {
+  "ad_domains": 4,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 92.7,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 723,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 55.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BiglyBT for Android - Bittorrent Client",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 2,
+  "url": "https://android.biglybt.com/",
+  "verdict": "Heavy advertising"
+ },
  "android.izzysoft.de": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5263,7 +5326,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 8.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -5294,7 +5357,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6080,6 +6143,35 @@
   "url": "https://animetosho.xyz/",
   "verdict": "Effectively ad-free"
  },
+ "animetv-fork.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 30750,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AnimeTV - Free Anime Streaming App. No Ads.",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://animetv-fork.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "animex.one": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -6487,7 +6579,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6758,7 +6850,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6914,7 +7006,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 11.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -6945,7 +7037,7 @@
   "ad_requests": 14,
   "ad_slots": 0,
   "ad_weight_pct": 1.9,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -7013,7 +7105,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7042,7 +7134,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -7071,7 +7163,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 41.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -7250,7 +7342,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 6.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -7275,6 +7367,37 @@
   "trackers": 1,
   "url": "https://app-mockup.com/",
   "verdict": "Very clean"
+ },
+ "app.accuweather.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 30.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 530,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Premium App Subscriptions | AccuWeather.com",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 5,
+  "url": "https://app.accuweather.com/app-download",
+  "verdict": "Light advertising"
  },
  "app.artificialstudio.ai": {
   "ad_domains": 1,
@@ -7365,6 +7488,35 @@
   ],
   "trackers": 2,
   "url": "https://app.codility.com/programmers/",
+  "verdict": "Effectively ad-free"
+ },
+ "app.deutsia.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 90,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "deutsia radio",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://app.deutsia.com/",
   "verdict": "Effectively ad-free"
  },
  "app.electricitymaps.com": {
@@ -8225,7 +8377,7 @@
   "ad_requests": 60,
   "ad_slots": 6,
   "ad_weight_pct": 7.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -9646,12 +9798,41 @@
   "url": "https://aslcore.org/",
   "verdict": "Effectively ad-free"
  },
+ "asoftmurmur.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 20600,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "A Soft Murmur",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://asoftmurmur.com/",
+  "verdict": "Effectively ad-free"
+ },
  "asteroidos.org": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -10761,7 +10942,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11527,7 +11708,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -13505,6 +13686,35 @@
   "url": "https://bluew.org/",
   "verdict": "Very clean"
  },
+ "bmz.absolutezero.fyi": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2378,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bookmark Manager Zero",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://bmz.absolutezero.fyi/",
+  "verdict": "Effectively ad-free"
+ },
  "boardgamegeek.com": {
   "ad_domains": 8,
   "ad_requests": 34,
@@ -14055,7 +14265,7 @@
   "ad_requests": 26,
   "ad_slots": 1,
   "ad_weight_pct": 35.9,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -16515,6 +16725,35 @@
   "url": "https://cap.so/",
   "verdict": "Effectively ad-free"
  },
+ "caplayground.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8558,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CAPlayground - CA Wallpaper Editor",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://caplayground.vercel.app/",
+  "verdict": "Effectively ad-free"
+ },
  "card-forge.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -16921,7 +17160,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -17286,7 +17525,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18059,6 +18298,35 @@
   "url": "https://checkio.org/",
   "verdict": "Light advertising"
  },
+ "checkra.in": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1006,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "checkra1n",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://checkra.in/",
+  "verdict": "Effectively ad-free"
+ },
  "checksocks5.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -18115,6 +18383,35 @@
   ],
   "trackers": 0,
   "url": "https://cheerfulghost.github.io/civ-clicker/index.html",
+  "verdict": "Effectively ad-free"
+ },
+ "chefkiss.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 307,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Inferno | ChefKiss",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://chefkiss.dev/applehax/inferno/",
   "verdict": "Effectively ad-free"
  },
  "chem.libretexts.org": {
@@ -18490,6 +18787,44 @@
   "url": "https://chillhop.com/",
   "verdict": "Light advertising"
  },
+ "chimera.coolstar.org": {
+  "ad_domains": 8,
+  "ad_requests": 59,
+  "ad_slots": 5,
+  "ad_weight_pct": 46.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1752,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 1.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Chimera: Your device, your way.",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://chimera.coolstar.org/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "chinarxiv.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -18748,6 +19083,38 @@
   "trackers": 0,
   "url": "https://cineby.at/",
   "verdict": "Effectively ad-free"
+ },
+ "cinehd.dev": {
+  "ad_domains": 2,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1144,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 72.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CineHD App - Watch Movies,TV Shows, Animes for Free on Android",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://cinehd.dev/",
+  "verdict": "Light advertising"
  },
  "cinejoy.to": {
   "ad_domains": 0,
@@ -19288,7 +19655,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 73.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -19502,6 +19869,35 @@
   "url": "https://cleanbrowsing.org/filters/",
   "verdict": "Light advertising"
  },
+ "cleanlinks.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10410,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Link Cleaner: Remove URL Trackers Free | Clean Links",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://cleanlinks.app/",
+  "verdict": "Effectively ad-free"
+ },
  "cleardarksky.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -19596,7 +19992,7 @@
   "ad_requests": 12,
   "ad_slots": 1,
   "ad_weight_pct": 28.6,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -20542,7 +20938,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 75.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -20573,7 +20969,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 63.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -20634,7 +21030,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -21285,6 +21681,35 @@
   "url": "https://conky.cc",
   "verdict": "Effectively ad-free"
  },
+ "connectbot.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 79,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | ConnectBot",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://connectbot.org/",
+  "verdict": "Effectively ad-free"
+ },
  "connections.swellgarfo.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -21735,6 +22160,44 @@
   "trackers": 0,
   "url": "https://coolmaps.esri.com/",
   "verdict": "Light advertising"
+ },
+ "coolstar.org": {
+  "ad_domains": 8,
+  "ad_requests": 52,
+  "ad_slots": 5,
+  "ad_weight_pct": 49.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1201,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 1.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Electra",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://coolstar.org/electra/",
+  "verdict": "Ad-saturated / hostile"
  },
  "copilot.microsoft.com": {
   "ad_domains": 0,
@@ -23615,7 +24078,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25611,7 +26074,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26778,6 +27241,35 @@
   "url": "https://deviantfero.github.io/wpgtk",
   "verdict": "Effectively ad-free"
  },
+ "devices.ubuntu-touch.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 151,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ubuntu Touch \u2022 Linux mobile OS that gives you pure freedom",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://devices.ubuntu-touch.io/",
+  "verdict": "Effectively ad-free"
+ },
  "devilutionx.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -27051,7 +27543,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 8.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -28777,6 +29269,37 @@
   "url": "https://docs.titaniumnetwork.org/proxies/scramjet/",
   "verdict": "Effectively ad-free"
  },
+ "docs.udroid.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1751,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "udroid | udroid docs",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://docs.udroid.org/",
+  "verdict": "Very clean"
+ },
  "docs.unsloth.ai": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -29108,6 +29631,35 @@
   "url": "https://donkuri.github.io/learn-japanese/",
   "verdict": "Light advertising"
  },
+ "donotnotify.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 354,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DoNotNotify \u2014 Regain Your Focus",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://donotnotify.com/",
+  "verdict": "Effectively ad-free"
+ },
  "dontcallthepolice.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -29232,7 +29784,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -29542,7 +30094,7 @@
   "ad_requests": 83,
   "ad_slots": 3,
   "ad_weight_pct": 63.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -31429,6 +31981,35 @@
   "url": "https://echochess.com/",
   "verdict": "Very clean"
  },
+ "echomusicdocs.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "403: Forbidden",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://echomusicdocs.vercel.app/",
+  "verdict": "Effectively ad-free"
+ },
  "eclipseemu.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -32246,6 +32827,35 @@
   "url": "https://elkowar.github.io/eww",
   "verdict": "Effectively ad-free"
  },
+ "ellekit.space": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4150,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dopamine Jailbreak",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://ellekit.space/dopamine/",
+  "verdict": "Effectively ad-free"
+ },
  "elsaspeak.com": {
   "ad_domains": 4,
   "ad_requests": 16,
@@ -32899,7 +33509,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -34039,7 +34649,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34375,6 +34985,66 @@
   ],
   "trackers": 0,
   "url": "https://evanli.github.io/Github-Ranking/",
+  "verdict": "Effectively ad-free"
+ },
+ "eveningkid.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2586,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Success, your weekly planner",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://eveningkid.com/success/",
+  "verdict": "Very clean"
+ },
+ "everydaytasks.jepfa.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1194,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "EverydayTasks",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://everydaytasks.jepfa.de/",
   "verdict": "Effectively ad-free"
  },
  "everymac.com": {
@@ -34839,7 +35509,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35585,6 +36255,37 @@
   "url": "https://f2l-trainer.top/",
   "verdict": "Effectively ad-free"
  },
+ "fable.co": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3851,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fable: The social app for bookworms and bingewatchers",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 8,
+  "url": "https://fable.co/",
+  "verdict": "Very clean"
+ },
  "facilmap.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -35711,7 +36412,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36088,7 +36789,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36117,7 +36818,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36197,6 +36898,35 @@
   ],
   "trackers": 0,
   "url": "https://feh.finalrewind.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "felixnuesse.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 525,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Disky - Find your biggest diskspace thiefes! \u00b7 felixnuesse.de",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://felixnuesse.de/disky/",
   "verdict": "Effectively ad-free"
  },
  "fern.best": {
@@ -38017,6 +38747,35 @@
   "url": "https://flixer.gd",
   "verdict": "Effectively ad-free"
  },
+ "flixquest.beamlak.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2136,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FlixQuest \u2014 Your next story starts here",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://flixquest.beamlak.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "flixzy.pages.dev": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -38192,6 +38951,35 @@
   "url": "https://florisboard.org",
   "verdict": "Effectively ad-free"
  },
+ "flowapp-website.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1820,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flow - A YouTube Client That Learns With You",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://flowapp-website.vercel.app/",
+  "verdict": "Effectively ad-free"
+ },
  "flowcv.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -38249,6 +39037,35 @@
   "trackers": 3,
   "url": "https://flowgpt.com",
   "verdict": "Light advertising"
+ },
+ "flowx.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 548,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flowx Weather App - Professional Weather Visualization App",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://flowx.io/",
+  "verdict": "Effectively ad-free"
  },
  "fluxer.gg": {
   "ad_domains": 0,
@@ -38480,6 +39297,39 @@
   "trackers": 0,
   "url": "https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html",
   "verdict": "Effectively ad-free"
+ },
+ "folksable.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 77.5,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 214,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 71.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Folksable: Photo Accountability | Social Habits | Personal Development",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://folksable.com/",
+  "verdict": "Moderate advertising"
  },
  "foodstruct.com": {
   "ad_domains": 2,
@@ -38769,6 +39619,35 @@
   "url": "https://forebears.io/",
   "verdict": "Very heavy advertising"
  },
+ "forge.chapril.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 543,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "hardcoresushi/DroidFS: Encrypted overlay filesystems implementation for Android. Also avai",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://forge.chapril.org/hardcoresushi/DroidFS",
+  "verdict": "Effectively ad-free"
+ },
  "formula-timer.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -38835,7 +39714,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38897,7 +39776,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -39069,7 +39948,7 @@
   "ad_requests": 64,
   "ad_slots": 2,
   "ad_weight_pct": 43.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -39370,6 +40249,35 @@
   "url": "https://forvo.com/",
   "verdict": "Effectively ad-free"
  },
+ "fossdroid.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2225,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Markor - Text editor - Notes & ToDo. Lightweight. Markdown and todo.txt support.",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 3,
+  "url": "https://fossdroid.com/a/markor.html",
+  "verdict": "Effectively ad-free"
+ },
  "fossies.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -39494,7 +40402,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -40771,7 +41679,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -41451,6 +42359,35 @@
   "url": "https://gamemath.com/book/intro.html",
   "verdict": "Light advertising"
  },
+ "gamenative.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9068,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GameNative - Play Steam, Epic & GOG Games on Android",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://gamenative.app/",
+  "verdict": "Effectively ad-free"
+ },
  "gamepadla.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -42040,7 +42977,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42098,7 +43035,7 @@
   "ad_requests": 435,
   "ad_slots": 1,
   "ad_weight_pct": 45.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -42861,7 +43798,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 25.6,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -43067,6 +44004,35 @@
   "url": "https://getoutline.org/",
   "verdict": "Light advertising"
  },
+ "getpalladium.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2308,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Palladium",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://getpalladium.app/",
+  "verdict": "Effectively ad-free"
+ },
  "getsentinel.io": {
   "ad_domains": 5,
   "ad_requests": 6,
@@ -43130,6 +44096,38 @@
   "trackers": 0,
   "url": "https://getsession.org/",
   "verdict": "Effectively ad-free"
+ },
+ "getutm.app": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 27499,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "UTM",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://getutm.app/",
+  "verdict": "Very clean"
  },
  "getwacup.com": {
   "ad_domains": 1,
@@ -43575,7 +44573,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43633,7 +44631,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43859,7 +44857,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -44714,6 +45712,35 @@
   "url": "https://gog.squid.wtf/",
   "verdict": "Effectively ad-free"
  },
+ "gokadzev.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1920,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Musify",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://gokadzev.github.io/Musify/",
+  "verdict": "Effectively ad-free"
+ },
  "gokibitz.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -45334,7 +46361,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://grabster.notion.site/6671f3b62d8043c4aaaae22a2",
   "fails": 1,
   "grade": "A+",
@@ -45489,7 +46516,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -46749,7 +47776,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49017,6 +50044,41 @@
   "url": "https://home.eapy.io/",
   "verdict": "Light advertising"
  },
+ "home.trebel.io": {
+  "ad_domains": 5,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 90.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "sb.scorecardresearch.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 676,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 53.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free music downloader app for Android and iOS | TREBEL Music",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://home.trebel.io/",
+  "verdict": "Heavy advertising"
+ },
  "hoofoot.ru": {
   "ad_domains": 9,
   "ad_requests": 18,
@@ -49884,7 +50946,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -50440,7 +51502,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 10.6,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -50471,7 +51533,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 27.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -50762,6 +51824,48 @@
   "url": "https://icons8.com/music",
   "verdict": "Effectively ad-free"
  },
+ "icustom.tooliphone.net": {
+  "ad_domains": 14,
+  "ad_requests": 165,
+  "ad_slots": 4,
+  "ad_weight_pct": 54.7,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adstudio-asset-lib.flashtalking.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "dt.adsafeprotected.com",
+   "googleads.g.doubleclick.net",
+   "jsconfig.adsafeprotected.com",
+   "pagead2.googlesyndication.com",
+   "pixel.adsafeprotected.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "static.adsafeprotected.com"
+  ],
+  "ok": true,
+  "page_kb": 2087,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 2.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "iCustom - Customize iPhone and iPad application icons (no jailbreak)",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 6,
+  "url": "https://icustom.tooliphone.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "id-ransomware.malwarehunterteam.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50789,6 +51893,35 @@
   ],
   "trackers": 0,
   "url": "https://id-ransomware.malwarehunterteam.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "idescriptor.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1448,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "iDescriptor",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://idescriptor.github.io/",
   "verdict": "Effectively ad-free"
  },
  "idoc.tips": {
@@ -51510,6 +52643,35 @@
   "url": "https://impersona.chat/",
   "verdict": "Effectively ad-free"
  },
+ "implayer.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3043,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "iMPlayer IPTV Player",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://implayer.tv/",
+  "verdict": "Effectively ad-free"
+ },
  "imslp.org": {
   "ad_domains": 7,
   "ad_requests": 8,
@@ -51580,7 +52742,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 39.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -52092,7 +53254,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 16.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -52451,7 +53613,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -52714,6 +53876,35 @@
   ],
   "trackers": 0,
   "url": "https://ip-webcam.appspot.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "ipa-apps.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16180,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jailbreak & ++Apps No Jb Or Pc",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://ipa-apps.me/",
   "verdict": "Effectively ad-free"
  },
  "ipa-reader.com": {
@@ -53010,6 +54201,35 @@
   "url": "https://isaiprofitable.com/",
   "verdict": "Effectively ad-free"
  },
+ "ish.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 196,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "iSH",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://ish.app/",
+  "verdict": "Effectively ad-free"
+ },
  "isitreallyfoss.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -53034,6 +54254,48 @@
   "trackers": 0,
   "url": "https://isitreallyfoss.com",
   "verdict": "Effectively ad-free"
+ },
+ "iskin.tooliphone.net": {
+  "ad_domains": 18,
+  "ad_requests": 174,
+  "ad_slots": 5,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adstudio-asset-lib.flashtalking.com",
+   "adx-uswest.adnxs.com",
+   "ag.innovid.com",
+   "cdn.adnxs.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "d9.flashtalking.com",
+   "dt.adsafeprotected.com",
+   "googleads.g.doubleclick.net",
+   "jsconfig.adsafeprotected.com",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 29493,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 9.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "iSkin : make & install iOS themes on your iPhone & iPad without jailbreak !",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 6,
+  "url": "https://iskin.tooliphone.net/",
+  "verdict": "Ad-saturated / hostile"
  },
  "iso-city.com": {
   "ad_domains": 0,
@@ -53981,7 +55243,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54217,7 +55479,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54437,6 +55699,40 @@
   "trackers": 0,
   "url": "https://joedangerthegame.com/",
   "verdict": "Effectively ad-free"
+ },
+ "joiiplay.com": {
+  "ad_domains": 4,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 22.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1827,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "JoiPlay APK - Download Latest V1.22.00",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://joiiplay.com/",
+  "verdict": "Moderate advertising"
  },
  "join-lemmy.org": {
   "ad_domains": 0,
@@ -54822,6 +56118,35 @@
   "url": "https://jstris.jezevec10.com/",
   "verdict": "Light advertising"
  },
+ "jtx.techbee.at": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2290,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - jtx Board",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://jtx.techbee.at/",
+  "verdict": "Effectively ad-free"
+ },
  "jumpstick.app": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -54914,7 +56239,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -54973,7 +56298,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -55025,6 +56350,37 @@
   "trackers": 0,
   "url": "https://justtypestuff.com/",
   "verdict": "Effectively ad-free"
+ },
+ "justuseapp.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 18.6,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1518,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "JustUseApp - Make Informed Software Decisions with Insights from Your Personal Digital Wat",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 6,
+  "url": "https://justuseapp.com/",
+  "verdict": "Light advertising"
  },
  "jyutping.org": {
   "ad_domains": 0,
@@ -55851,7 +57207,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -56355,7 +57711,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -57594,7 +58950,7 @@
   "ad_requests": 50,
   "ad_slots": 2,
   "ad_weight_pct": 62.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -57800,6 +59156,35 @@
   "title": "LandChad.net",
   "trackers": 0,
   "url": "https://landchad.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "landing-futon.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 32,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Futon - Manga in Your Pocket",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://landing-futon.pages.dev",
   "verdict": "Effectively ad-free"
  },
  "lands.io": {
@@ -59174,7 +60559,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 3.6,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -61457,7 +62842,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62136,7 +63521,7 @@
   "ad_requests": 8,
   "ad_slots": 1,
   "ad_weight_pct": 56.9,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -62556,6 +63941,35 @@
   "trackers": 2,
   "url": "https://lojban.io/",
   "verdict": "Light advertising"
+ },
+ "loklok.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14247,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LOKLOK",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://loklok.com/download",
+  "verdict": "Effectively ad-free"
  },
  "lolbeans.io": {
   "ad_domains": 42,
@@ -65952,7 +67366,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -69197,6 +70611,35 @@
   "url": "https://mobac.sourceforge.io/",
   "verdict": "Effectively ad-free"
  },
+ "mobian-project.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 168,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mobian",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://mobian-project.org/",
+  "verdict": "Effectively ad-free"
+ },
  "mobile.alphacoders.com": {
   "ad_domains": 21,
   "ad_requests": 66,
@@ -69569,7 +71012,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -71584,7 +73027,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 41.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -71761,7 +73204,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -73139,6 +74582,37 @@
   "url": "https://netboot.xyz/",
   "verdict": "Light advertising"
  },
+ "netclicker.tv": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7419,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Netclicker - Control Netflix, YouTube & More from Your Phone",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 1,
+  "url": "https://netclicker.tv/",
+  "verdict": "Very clean"
+ },
  "netgames.io": {
   "ad_domains": 7,
   "ad_requests": 39,
@@ -74022,7 +75496,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75114,7 +76588,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75435,7 +76909,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75846,6 +77320,35 @@
   ],
   "trackers": 0,
   "url": "https://nxfilter.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "nxsha.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 468,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nxsha - Free Streaming App for Android, Android TV & Fire TV",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://nxsha.app/",
   "verdict": "Effectively ad-free"
  },
  "nyaa.iss.ink": {
@@ -76537,7 +78040,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -76987,7 +78490,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 18.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -78150,7 +79653,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79516,7 +81019,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79698,7 +81201,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80667,6 +82170,35 @@
   "url": "https://ownersman.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "owntracks.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OwnTracks - Your location companion",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://owntracks.org/",
+  "verdict": "Effectively ad-free"
+ },
  "oyc.yale.edu": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -81060,6 +82592,35 @@
   ],
   "trackers": 0,
   "url": "https://paisa.fyi/",
+  "verdict": "Effectively ad-free"
+ },
+ "palera.in": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 320,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "palera1n",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://palera.in",
   "verdict": "Effectively ad-free"
  },
  "panda-css.com": {
@@ -83103,6 +84664,35 @@
   "url": "https://pick-time.io/",
   "verdict": "Very clean"
  },
+ "picsart.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 88698,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Create at the Speed of Culture with Picsart Apps \u2013 Download Now",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://picsart.com/apps",
+  "verdict": "Effectively ad-free"
+ },
  "pict.chat": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -83199,7 +84789,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -83874,7 +85464,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -85354,7 +86944,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -85694,7 +87284,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -86967,7 +88557,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -87086,7 +88676,7 @@
   "ad_requests": 745,
   "ad_slots": 2,
   "ad_weight_pct": 52.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -87157,7 +88747,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -88961,7 +90551,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -89922,7 +91512,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 38.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -89953,7 +91543,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90443,7 +92033,7 @@
   "ad_requests": 69,
   "ad_slots": 5,
   "ad_weight_pct": 80.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -91936,6 +93526,35 @@
   "url": "https://regexcrossword.com/",
   "verdict": "Light advertising"
  },
+ "rejail.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1117,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReJail Repo",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://rejail.ru/",
+  "verdict": "Effectively ad-free"
+ },
  "releases.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -92442,7 +94061,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -92730,6 +94349,35 @@
   "url": "https://retrogaming.dpdns.org/",
   "verdict": "Effectively ad-free"
  },
+ "retromusic.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 745,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - Retro Music Player",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://retromusic.app/",
+  "verdict": "Effectively ad-free"
+ },
  "retroonline.net": {
   "ad_domains": 10,
   "ad_requests": 40,
@@ -92986,7 +94634,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -93074,6 +94722,35 @@
   "trackers": 16,
   "url": "https://rhythm-plus.com",
   "verdict": "Heavy advertising"
+ },
+ "rhythmweb.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 24464,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rhythm - Material You Music Player",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://rhythmweb.vercel.app/",
+  "verdict": "Effectively ad-free"
  },
  "richup.io": {
   "ad_domains": 42,
@@ -93685,7 +95362,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94349,6 +96026,48 @@
   "trackers": 0,
   "url": "https://rotki.com/",
   "verdict": "Effectively ad-free"
+ },
+ "routinehub.co": {
+  "ad_domains": 64,
+  "ad_requests": 165,
+  "ad_slots": 7,
+  "ad_weight_pct": 21.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "821f39dd32d7d3226e6c8edd9b67e2ed.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "ad.doubleclick.net",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com"
+  ],
+  "ok": true,
+  "page_kb": 4994,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 3.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RoutineHub \u2022 Code, Share, Earn\u2014Anywhere, Anytime.",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 1,
+  "url": "https://routinehub.co/",
+  "verdict": "Ad-saturated / hostile"
  },
  "roxiestreams.cc": {
   "ad_domains": 0,
@@ -95576,7 +97295,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 83.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -95848,7 +97567,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -96110,7 +97829,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 35.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "Error: Page.evaluate: TypeError: el.getBoundingClientRect is not a function\n    at eval (eval at evaluate (:311:30), <anonymous",
   "fails": 1,
   "grade": "C",
@@ -96262,7 +97981,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -96716,7 +98435,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 80.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -97130,6 +98849,35 @@
   ],
   "trackers": 0,
   "url": "https://scrimba.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "scriptable.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 839,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scriptable",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://scriptable.app/",
   "verdict": "Effectively ad-free"
  },
  "sdo.gsfc.nasa.gov": {
@@ -100055,6 +101803,35 @@
   "url": "https://slang.net/",
   "verdict": "Moderate advertising"
  },
+ "sleeprelaxapps.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3001,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rain Sounds",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://sleeprelaxapps.github.io/rainsounds/",
+  "verdict": "Effectively ad-free"
+ },
  "slither.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -100684,12 +102461,41 @@
   "url": "https://socialsci.libretexts.org/Bookshelves",
   "verdict": "Very clean"
  },
+ "socket-jb.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 269,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "socket",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://socket-jb.app/",
+  "verdict": "Effectively ad-free"
+ },
  "sodawithoutsparkles.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -100771,6 +102577,37 @@
   "trackers": 0,
   "url": "https://softarchive.download/",
   "verdict": "Effectively ad-free"
+ },
+ "softgoods.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 53.5,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 279,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Softgoods",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 5,
+  "url": "https://softgoods.app/",
+  "verdict": "Light advertising"
  },
  "software.annas-archive.gl": {
   "ad_domains": 0,
@@ -101414,6 +103251,48 @@
   "trackers": 2,
   "url": "https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info",
   "verdict": "Very heavy advertising"
+ },
+ "soundbound.app": {
+  "ad_domains": 12,
+  "ad_requests": 74,
+  "ad_slots": 8,
+  "ad_weight_pct": 42.5,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "rtb-csync.smartadserver.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 1871,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Soundbound - Ultimate Official Music App",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://soundbound.app/",
+  "verdict": "Ad-saturated / hostile"
  },
  "soundcloud.com": {
   "ad_domains": 28,
@@ -102709,6 +104588,37 @@
   "trackers": 0,
   "url": "https://spotify-art.vercel.app/",
   "verdict": "Effectively ad-free"
+ },
+ "spotivity.me": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5479,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Spotivity",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://spotivity.me/",
+  "verdict": "Very clean"
  },
  "spotsponsorblock.org": {
   "ad_domains": 0,
@@ -105409,7 +107319,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105993,7 +107903,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -106115,7 +108025,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 99.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -107108,6 +109018,35 @@
   "url": "https://tauonmusicbox.rocks/",
   "verdict": "Effectively ad-free"
  },
+ "taurine.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3989,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Taurine",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://taurine.app/",
+  "verdict": "Effectively ad-free"
+ },
  "tavernai.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -107829,6 +109768,35 @@
   ],
   "trackers": 0,
   "url": "https://tensortrust.ai/",
+  "verdict": "Effectively ad-free"
+ },
+ "termoneplus.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 191,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TermOne Plus - Terminal Emulator for Android OS",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://termoneplus.com/",
   "verdict": "Effectively ad-free"
  },
  "termux.dev": {
@@ -108625,6 +110593,38 @@
   "url": "https://thefitness.wiki/",
   "verdict": "Effectively ad-free"
  },
+ "thefor.xyz": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 16.4,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1085,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TheFor",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 1,
+  "url": "https://thefor.xyz/",
+  "verdict": "Light advertising"
+ },
  "theforest.link": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -108989,7 +110989,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 4.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -109078,6 +111078,35 @@
   "trackers": 1,
   "url": "https://thenumberwall.com/",
   "verdict": "Light advertising"
+ },
+ "theodyssey.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1498,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Odyssey",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://theodyssey.dev/",
+  "verdict": "Effectively ad-free"
  },
  "theofficestaremachine.com": {
   "ad_domains": 2,
@@ -109270,6 +111299,35 @@
   ],
   "trackers": 0,
   "url": "https://therace.montblanclegend.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "therealfoxster.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 641,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AltSource Viewer",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://therealfoxster.github.io/altsource-viewer/",
   "verdict": "Effectively ad-free"
  },
  "therealpenaz91.itch.io": {
@@ -110318,6 +112376,35 @@
   "url": "https://tic80.com/play?cat=0&sort=2",
   "verdict": "Effectively ad-free"
  },
+ "tide-api.moreless.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "Error: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://tide-api.moreless.io/v1/redirect/download?platform=",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 186985,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Tide.fm",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://tide-api.moreless.io/v1/redirect/download?platform=android",
+  "verdict": "Effectively ad-free"
+ },
  "tiermaker.com": {
   "ad_domains": 54,
   "ad_requests": 226,
@@ -110614,6 +112701,35 @@
   ],
   "trackers": 0,
   "url": "https://timelinize.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "timeto.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2510,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GitHub - Medvedev91/timeto.me: App with goals, checklists, tasks, repetitive tasks, timer,",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://timeto.me/",
   "verdict": "Effectively ad-free"
  },
  "timst.cfd": {
@@ -110970,6 +113086,35 @@
   "url": "https://tmedweb.tulane.edu/pharmwiki/doku.php/start",
   "verdict": "Light advertising"
  },
+ "to-do.office.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1373,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome to To Do",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://to-do.office.com/",
+  "verdict": "Effectively ad-free"
+ },
  "toaq.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -111127,7 +113272,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 97.9,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -111631,7 +113776,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112077,7 +114222,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 89.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -112168,7 +114313,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112389,6 +114534,37 @@
   "url": "https://transit-finder.com/",
   "verdict": "Heavy advertising"
  },
+ "translatedlabs.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 37.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 807,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Language tools, by language enthusiasts - Translated Labs",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 4,
+  "url": "https://translatedlabs.com/",
+  "verdict": "Light advertising"
+ },
  "translator.bookfere.com": {
   "ad_domains": 3,
   "ad_requests": 3,
@@ -112447,6 +114623,35 @@
   ],
   "trackers": 0,
   "url": "https://transmissionbt.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "transportr.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5937,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Transportr - Open Source Public Transit",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://transportr.app/",
   "verdict": "Effectively ad-free"
  },
  "transrightsmap.tgeu.org": {
@@ -113110,6 +115315,35 @@
   "url": "https://tryhackme.com/",
   "verdict": "Effectively ad-free"
  },
+ "trynoice.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 136,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Noice: Natural calming noise",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://trynoice.com/",
+  "verdict": "Effectively ad-free"
+ },
  "tsbeta.dan63.by": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -113161,6 +115395,35 @@
   "title": "Connect and Enhance Your Life in Japanese(Tsunahiro) | Learning Japanese | Agency for Cult",
   "trackers": 2,
   "url": "https://tsunagarujp.mext.go.jp/?lang_id=EN",
+  "verdict": "Effectively ad-free"
+ },
+ "ttorrent.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 524,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "tTorrent | Download torrents with your Android device.",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://ttorrent.org/",
   "verdict": "Effectively ad-free"
  },
  "ttswebui.com": {
@@ -114412,7 +116675,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -114979,7 +117242,7 @@
   "ad_requests": 38,
   "ad_slots": 4,
   "ad_weight_pct": 67.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -115012,7 +117275,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 89.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -115455,7 +117718,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -118084,7 +120347,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -118183,7 +120446,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 6.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -118303,7 +120566,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -118902,7 +121165,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -119620,7 +121883,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.6,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -126353,7 +128616,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -126641,6 +128904,35 @@
   "url": "https://www.animeoutline.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.anistation.top": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 577,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AniStation | Your Anime. Your Way. Right at Home.",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.anistation.top/",
+  "verdict": "Effectively ad-free"
+ },
  "www.annualreports.com": {
   "ad_domains": 1,
   "ad_requests": 3,
@@ -126792,6 +129084,40 @@
   "url": "https://www.antweb.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.any.do": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.6,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4415,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "A simple to do list for you and your team",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 3,
+  "url": "https://www.any.do/",
+  "verdict": "Light advertising"
+ },
  "www.anydecentmusic.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -126898,7 +129224,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 2.5,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -126931,7 +129257,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 9.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -127171,6 +129497,35 @@
   ],
   "trackers": 0,
   "url": "https://www.archivepdf.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.arctechstudio.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 381,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Arc Tech Studio | We Build Useful Apps for Video & Music",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.arctechstudio.com/",
   "verdict": "Effectively ad-free"
  },
  "www.areyouyou.eu": {
@@ -128486,7 +130841,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -130155,6 +132510,35 @@
   "url": "https://www.bumpworthy.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.buzmenow.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1225,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "buz - voice connects",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.buzmenow.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.c82.net": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -130350,7 +132734,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -130897,7 +133281,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 72.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -135275,6 +137659,37 @@
   "url": "https://www.doesitgobad.com/",
   "verdict": "Heavy advertising"
  },
+ "www.donotcall.gov": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 77.3,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 602,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "National Do Not Call Registry",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 2,
+  "url": "https://www.donotcall.gov/",
+  "verdict": "Light advertising"
+ },
  "www.donut80.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -135831,6 +138246,35 @@
   ],
   "trackers": 0,
   "url": "https://www.drizzlelemons.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.dropbox.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8471,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dropbox: Secure cloud storage, file sharing and more",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.dropbox.com/",
   "verdict": "Effectively ad-free"
  },
  "www.drumeo.com": {
@@ -137598,6 +140042,38 @@
   "url": "https://www.everydaycommentary.com/best-of",
   "verdict": "Effectively ad-free"
  },
+ "www.evvasoft.com": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.2,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2976,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Clipboard CopyPaster",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.evvasoft.com/ccp.html",
+  "verdict": "Light advertising"
+ },
  "www.ewordchallenge.net": {
   "ad_domains": 26,
   "ad_requests": 35,
@@ -138069,12 +140545,41 @@
   "url": "https://www.falstad.com/circuit/",
   "verdict": "Effectively ad-free"
  },
+ "www.familywall.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 464,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FamilyWall | Happy Family Organization",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.familywall.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.farsroid.com": {
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 2,
   "ad_weight_pct": 13.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -138497,6 +141002,35 @@
   ],
   "trackers": 0,
   "url": "https://www.findhelp.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.fing.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 760,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fing Mobile | On the Go Network Scanning",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.fing.com/fing-app/",
   "verdict": "Effectively ad-free"
  },
  "www.firefox.com": {
@@ -139369,7 +141903,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -140818,6 +143352,38 @@
   "url": "https://www.gameflare.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.gameloop.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 24.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 683,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Best Android Emulator for PC | GameLoop Official 2026",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 3,
+  "url": "https://www.gameloop.com/",
+  "verdict": "Light advertising"
+ },
  "www.gamepix.com": {
   "ad_domains": 13,
   "ad_requests": 65,
@@ -140931,7 +143497,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 6.2,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -141164,7 +143730,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 9.7,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -141659,6 +144225,35 @@
   "url": "https://www.getsummath.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.ghisler.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 17,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Total Commander - WinCE/PocketPC",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.ghisler.com/ce.htm",
+  "verdict": "Effectively ad-free"
+ },
  "www.gingadaddy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -141754,7 +144349,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -143964,7 +146559,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -144663,6 +147258,35 @@
   "trackers": 9,
   "url": "https://www.icivics.org/games",
   "verdict": "Moderate advertising"
+ },
+ "www.icloud.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 542,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Discord Local Time Generator",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94",
+  "verdict": "Effectively ad-free"
  },
  "www.ifarchive.org": {
   "ad_domains": 0,
@@ -146026,7 +148650,7 @@
   "ad_requests": 10,
   "ad_slots": 1,
   "ad_weight_pct": 74.8,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -148445,7 +151069,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -149262,6 +151886,35 @@
   "url": "https://www.localharvest.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.locklauncher.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.locklauncher.com/\", waiting until \"domcont",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 563,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Lock Launcher",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.locklauncher.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.lockpicking101.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -149289,6 +151942,35 @@
   ],
   "trackers": 0,
   "url": "https://www.lockpicking101.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.lofi-clouds.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4388,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lo-fi Clouds - Beyond conventional lofi beats",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 3,
+  "url": "https://www.lofi-clouds.com/",
   "verdict": "Effectively ad-free"
  },
  "www.londonremembers.com": {
@@ -151191,6 +153873,48 @@
   "url": "https://www.medievalists.net/category/news/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.memuplay.com": {
+  "ad_domains": 14,
+  "ad_requests": 123,
+  "ad_slots": 5,
+  "ad_weight_pct": 11.3,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adstudio-asset-lib.flashtalking.com",
+   "ag.innovid.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "stats.g.doubleclick.net",
+   "sync.teads.tv"
+  ],
+  "ok": true,
+  "page_kb": 10682,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 13.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MEmu - The Best Android Emulator for PC - Free Download",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 2,
+  "url": "https://www.memuplay.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.mendeley.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -152231,7 +154955,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -152644,6 +155368,35 @@
   ],
   "trackers": 0,
   "url": "https://www.mp3tag.de/en/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.msi.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Access Denied",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.msi.com/Landing/appplayer",
   "verdict": "Effectively ad-free"
  },
  "www.mswordcoverpages.com": {
@@ -153656,7 +156409,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -153802,6 +156555,35 @@
   "trackers": 6,
   "url": "https://www.netacad.com/",
   "verdict": "Light advertising"
+ },
+ "www.netguard.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1060,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NetGuard - A simple way to block access to the internet per app",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.netguard.me/",
+  "verdict": "Effectively ad-free"
  },
  "www.netknots.com": {
   "ad_domains": 4,
@@ -153994,6 +156776,38 @@
   "trackers": 0,
   "url": "https://www.newgrounds.com/games",
   "verdict": "Effectively ad-free"
+ },
+ "www.newsbang.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 26.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 640,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zetik \u2014 Seek what matters",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 2,
+  "url": "https://www.newsbang.com/",
+  "verdict": "Light advertising"
  },
  "www.newscaststudio.com": {
   "ad_domains": 2,
@@ -154925,6 +157739,39 @@
   "trackers": 1,
   "url": "https://www.novelcool.com/",
   "verdict": "Very clean"
+ },
+ "www.novelist.app": {
+  "ad_domains": 3,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 9752,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Novelist - Write your novels",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 2,
+  "url": "https://www.novelist.app/",
+  "verdict": "Light advertising"
  },
  "www.novelupdates.com": {
   "ad_domains": 0,
@@ -155889,7 +158736,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -156701,6 +159548,35 @@
   ],
   "trackers": 0,
   "url": "https://www.oshaction.org/resources/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.ottrun.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.ottrun.com/",
   "verdict": "Effectively ad-free"
  },
  "www.ourboard.io": {
@@ -157623,7 +160499,7 @@
   "ad_requests": 17,
   "ad_slots": 2,
   "ad_weight_pct": 49.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -158528,6 +161404,35 @@
   "url": "https://www.pleco.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.plinky.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10174,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Plinky \u2013 Easily Save Links | Enjoy Them Later",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.plinky.app/",
+  "verdict": "Effectively ad-free"
+ },
  "www.plonkit.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -158655,7 +161560,7 @@
   "ad_requests": 15,
   "ad_slots": 2,
   "ad_weight_pct": 53.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -158939,6 +161844,35 @@
   ],
   "trackers": 0,
   "url": "https://www.portingkit.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.postmarketos.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 615,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "postmarketOS // real Linux distribution for phones",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.postmarketos.org/",
   "verdict": "Effectively ad-free"
  },
  "www.powerthesaurus.org": {
@@ -161597,7 +164531,7 @@
   "ad_requests": 31,
   "ad_slots": 1,
   "ad_weight_pct": 78.3,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -162627,6 +165561,35 @@
   "url": "https://www.saveriomorelli.com/commonvoice/",
   "verdict": "Effectively ad-free"
  },
+ "www.savpdfviewer.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 161,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sav PDF Viewer",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.savpdfviewer.com",
+  "verdict": "Effectively ad-free"
+ },
  "www.sbnation.com": {
   "ad_domains": 7,
   "ad_requests": 13,
@@ -163303,6 +166266,35 @@
   ],
   "trackers": 0,
   "url": "https://www.serializd.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.serialreader.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1009,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Serial Reader | Classic Books in Daily Bits for iOS and Android",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://www.serialreader.org/",
   "verdict": "Effectively ad-free"
  },
  "www.server-world.info": {
@@ -164723,6 +167715,37 @@
   "trackers": 1,
   "url": "https://www.snesfun.com/",
   "verdict": "Heavy advertising"
+ },
+ "www.snipd.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.6,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1329,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Snipd - The AI-powered Podcast App",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 3,
+  "url": "https://www.snipd.com/",
+  "verdict": "Very clean"
  },
  "www.snokido.com": {
   "ad_domains": 17,
@@ -167424,7 +170447,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 74.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -167862,7 +170885,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 18.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -168395,7 +171418,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -168458,7 +171481,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 22.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -171857,7 +174880,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -173366,7 +176389,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.5,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -174212,7 +177235,7 @@
   "ad_requests": 22,
   "ad_slots": 0,
   "ad_weight_pct": 11.1,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -175652,7 +178675,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -175743,7 +178766,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 15.4,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -175894,7 +178917,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -176916,7 +179939,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T19:56:47+00:00",
+  "checked_utc": "2026-08-22T19:57:58+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -177422,6 +180445,35 @@
   "trackers": 1,
   "url": "https://zxpinstaller.com/",
   "verdict": "Light advertising"
+ },
+ "zyrouge.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T19:57:58+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 74,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Symphony",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://zyrouge.github.io/symphony/",
+  "verdict": "Effectively ad-free"
  },
  "zzanehip.github.io": {
   "ad_domains": 0,
