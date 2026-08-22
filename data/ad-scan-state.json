@@ -454,7 +454,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -483,7 +483,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 41.5,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -958,7 +958,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1556,6 +1556,35 @@
   ],
   "trackers": 0,
   "url": "https://9fans.github.io/plan9port/",
+  "verdict": "Effectively ad-free"
+ },
+ "a-b-street.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 724,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Homepage - A/B Street",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://a-b-street.github.io/docs/",
   "verdict": "Effectively ad-free"
  },
  "a-z-animals.com": {
@@ -2533,6 +2562,39 @@
   "url": "https://adventofcode.com/",
   "verdict": "Light advertising"
  },
+ "aericode.itch.io": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4995,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tamajoji by aericode",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://aericode.itch.io/tamajoji",
+  "verdict": "Light advertising"
+ },
  "aerolite.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -2919,7 +2981,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -3348,6 +3410,48 @@
   "trackers": 1,
   "url": "http://airfoiltools.com/",
   "verdict": "Light advertising"
+ },
+ "airportwebcams.net": {
+  "ad_domains": 16,
+  "ad_requests": 132,
+  "ad_slots": 5,
+  "ad_weight_pct": 85.4,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "ag.innovid.com",
+   "akl-navvy.media.net",
+   "c21lg-d.media.net",
+   "cm.g.doubleclick.net",
+   "contextual.media.net",
+   "cs.media.net",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "hblg.media.net",
+   "hbx.media.net",
+   "lg3.media.net"
+  ],
+  "ok": true,
+  "page_kb": 1818,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 5.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Airport Webcams.net AirportWebcams.net - LIVE Airport Webcams From Around The World - Airp",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://airportwebcams.net/",
+  "verdict": "Ad-saturated / hostile"
  },
  "airtable.com": {
   "ad_domains": 0,
@@ -4526,6 +4630,35 @@
   "url": "https://amazingribs.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "ambient.garden": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5371,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ambient.garden",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://ambient.garden/",
+  "verdict": "Effectively ad-free"
+ },
  "ambuda.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -4589,7 +4722,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -4916,7 +5049,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 2.5,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -8744,7 +8877,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.3,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -10332,7 +10465,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -10541,6 +10674,48 @@
   "trackers": 0,
   "url": "https://balsaandglass.com/Balsa_Builds.html",
   "verdict": "Effectively ad-free"
+ },
+ "balticlivecam.com": {
+  "ad_domains": 86,
+  "ad_requests": 695,
+  "ad_slots": 6,
+  "ad_weight_pct": 68.6,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "adx2.adform.net",
+   "ap.lijit.com",
+   "b1sync.outbrain.com",
+   "btlr.sharethrough.com",
+   "c1.adform.net",
+   "c21lg-d.media.net"
+  ],
+  "ok": true,
+  "page_kb": 4374,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "BalticLiveCam - webcam leading online live streaming provider in Baltics",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 7,
+  "url": "https://balticlivecam.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "banana.ovo.re": {
   "ad_domains": 1,
@@ -11594,6 +11769,37 @@
   "url": "https://bfotool.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "bfro.net": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 39.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 722,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bigfoot Field Researchers Organization",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://bfro.net/",
+  "verdict": "Light advertising"
+ },
  "bibdesk.sourceforge.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -12456,6 +12662,37 @@
   "url": "https://bloob.io/",
   "verdict": "Light advertising"
  },
+ "blossom.alexbainter.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7861,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Blossom | A Lovely Interactive Music Generator by Alex Bainter",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://blossom.alexbainter.com/",
+  "verdict": "Very clean"
+ },
  "bloxd.io": {
   "ad_domains": 14,
   "ad_requests": 19,
@@ -12503,7 +12740,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12716,6 +12953,35 @@
   "url": "https://boardspace.net/english/index.shtml",
   "verdict": "Effectively ad-free"
  },
+ "bogleech.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 60637,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Insidious Bogleech",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://bogleech.com/",
+  "verdict": "Effectively ad-free"
+ },
  "boinc.berkeley.edu": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -12779,7 +13045,7 @@
   "ad_requests": 9,
   "ad_slots": 1,
   "ad_weight_pct": 68.3,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -12833,6 +13099,35 @@
   ],
   "trackers": 0,
   "url": "https://bomwiki.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "bongo.cat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1480,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bongo Cat",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://bongo.cat/",
   "verdict": "Effectively ad-free"
  },
  "bonk.io": {
@@ -13583,6 +13878,35 @@
   "url": "https://breathball.com/",
   "verdict": "Light advertising"
  },
+ "breezewiki.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 156,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "About | BreezeWiki",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://breezewiki.com/",
+  "verdict": "Effectively ad-free"
+ },
  "brew.sh": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -14152,6 +14476,35 @@
   ],
   "trackers": 0,
   "url": "https://btcpayserver.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "bubblespop.netlify.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 231,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Virtual bubble wrap - burst them all!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://bubblespop.netlify.app/",
   "verdict": "Effectively ad-free"
  },
  "budgetduo.com": {
@@ -14864,6 +15217,35 @@
   "url": "https://cally.com/",
   "verdict": "Moderate advertising"
  },
+ "calm.ovh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 754,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Calm | Keep calm and poke me",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://calm.ovh/",
+  "verdict": "Effectively ad-free"
+ },
  "calmcode.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -15084,6 +15466,38 @@
   "trackers": 1,
   "url": "https://camo.com/studio",
   "verdict": "Moderate advertising"
+ },
+ "camstreamer.com": {
+  "ad_domains": 2,
+  "ad_requests": 7,
+  "ad_slots": 1,
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8617,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Live gallery | Live gallery | CamStreamer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://camstreamer.com/live",
+  "verdict": "Light advertising"
  },
  "canaryarena.ai": {
   "ad_domains": 1,
@@ -15634,7 +16048,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -15663,7 +16077,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -17392,6 +17806,35 @@
   "url": "https://chineseposters.net/",
   "verdict": "Effectively ad-free"
  },
+ "chirper.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 122,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chirper - AI-Powered Social Network",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://chirper.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "cholyknight.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -18225,6 +18668,35 @@
   "url": "https://claude.ai/",
   "verdict": "Light advertising"
  },
+ "claytonmain.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 782,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Spherical Trochoids",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://claytonmain.github.io/spherical-trochoids/",
+  "verdict": "Effectively ad-free"
+ },
  "cleanbrowsing.org": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -18842,6 +19314,37 @@
   "trackers": 0,
   "url": "https://codenames.game/",
   "verdict": "Effectively ad-free"
+ },
+ "codeparade.itch.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7830,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fractal Sound Explorer by CodeParade",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://codeparade.itch.io/fractal-sound-explorer",
+  "verdict": "Very clean"
  },
  "codepen.io": {
   "ad_domains": 1,
@@ -19576,6 +20079,35 @@
   "url": "https://commons.wikimedia.org/wiki/Category:Videos",
   "verdict": "Effectively ad-free"
  },
+ "commspeeches.softr.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 609,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://commspeeches.softr.app/",
+  "verdict": "Effectively ad-free"
+ },
  "community.robotshop.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -20244,7 +20776,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -20578,6 +21110,35 @@
   "trackers": 0,
   "url": "https://corpus.eduhk.hk/cantonese/e_index.html",
   "verdict": "Very clean"
+ },
+ "corruptionloops.alexbainter.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1480,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Corruption Loops",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://corruptionloops.alexbainter.com/",
+  "verdict": "Effectively ad-free"
  },
  "corsflix.net": {
   "ad_domains": 1,
@@ -21043,7 +21604,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -21272,7 +21833,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -22000,6 +22561,35 @@
   "url": "https://cubedesk.io/",
   "verdict": "Moderate advertising"
  },
+ "cuberule.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3022,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Cube Rule",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://cuberule.com/",
+  "verdict": "Effectively ad-free"
+ },
  "cubetrek.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -22090,6 +22680,35 @@
   "trackers": 1,
   "url": "https://culturalatlas.sbs.com.au/",
   "verdict": "Light advertising"
+ },
+ "cursed.epic.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16310,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Cursed Library",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://cursed.epic.net/",
+  "verdict": "Effectively ad-free"
  },
  "customsongscentral.com": {
   "ad_domains": 3,
@@ -22804,6 +23423,35 @@
   ],
   "trackers": 0,
   "url": "https://dangerzone.rocks/",
+  "verdict": "Effectively ad-free"
+ },
+ "danielx.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1876,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mario Paint Music Composer - danielx.net",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://danielx.net/composer/",
   "verdict": "Effectively ad-free"
  },
  "danobang.com": {
@@ -23655,7 +24303,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26214,7 +26862,7 @@
   "ad_requests": 12,
   "ad_slots": 0,
   "ad_weight_pct": 4.4,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -26242,6 +26890,35 @@
   "trackers": 3,
   "url": "https://dj3d.io/",
   "verdict": "Moderate advertising"
+ },
+ "djphonetic.brianfoo.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 771,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DJ Phonetic",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://djphonetic.brianfoo.com/",
+  "verdict": "Effectively ad-free"
  },
  "dles.gg": {
   "ad_domains": 1,
@@ -27564,7 +28241,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.9,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -28081,6 +28758,71 @@
   "url": "https://drawabox.com/",
   "verdict": "Effectively ad-free"
  },
+ "drawafish.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.4,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 45988,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DrawAFish.com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://drawafish.com/",
+  "verdict": "Very clean"
+ },
+ "drawastickman.com": {
+  "ad_domains": 4,
+  "ad_requests": 12,
+  "ad_slots": 2,
+  "ad_weight_pct": 2.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 16694,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 57.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Draw a Stickman",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://drawastickman.com/",
+  "verdict": "Heavy advertising"
+ },
  "drawbattle.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -28108,6 +28850,37 @@
   "trackers": 0,
   "url": "https://drawbattle.io/",
   "verdict": "Effectively ad-free"
+ },
+ "drawing.garden": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 37.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1180,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "drawing.garden",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://drawing.garden/",
+  "verdict": "Light advertising"
  },
  "drawwars.io": {
   "ad_domains": 0,
@@ -29678,6 +30451,41 @@
   "url": "https://edgetools.io/",
   "verdict": "Effectively ad-free"
  },
+ "edition.cnn.com": {
+  "ad_domains": 5,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 18.3,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "dpm.demdex.net",
+   "ib.adnxs.com",
+   "sb.scorecardresearch.com",
+   "secure-us.imrworldwide.com",
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1444,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 60.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Steer through the Suez Canal",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://edition.cnn.com/interactive/2021/03/cnnix-steership/",
+  "verdict": "Moderate advertising"
+ },
  "editor.audio": {
   "ad_domains": 84,
   "ad_requests": 557,
@@ -29990,6 +30798,35 @@
   "url": "https://ehmorris.com/lander/",
   "verdict": "Effectively ad-free"
  },
+ "eieio.games": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 68772,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "eieio.games",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://eieio.games/",
+  "verdict": "Effectively ad-free"
+ },
  "einthusan.tv": {
   "ad_domains": 8,
   "ad_requests": 10,
@@ -30249,6 +31086,41 @@
   "trackers": 0,
   "url": "https://elevenreader.io/",
   "verdict": "Very clean"
+ },
+ "elgoog.im": {
+  "ad_domains": 5,
+  "ad_requests": 26,
+  "ad_slots": 3,
+  "ad_weight_pct": 43.3,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "akl-navvy.media.net",
+   "contextual.media.net",
+   "lg3.media.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1075,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 21.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Long-Buried Google Easter Eggs, Restored \u2013 elgooG",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 8,
+  "url": "https://elgoog.im/",
+  "verdict": "Ad-saturated / hostile"
  },
  "elicit.com": {
   "ad_domains": 2,
@@ -30532,7 +31404,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 77.9,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -31360,6 +32232,35 @@
   "url": "https://enhanced.townofsilenthill.com/SH2/",
   "verdict": "Effectively ad-free"
  },
+ "enigmalabs.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11042,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Enigma Labs | Report a UFO sighting",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://enigmalabs.io/",
+  "verdict": "Effectively ad-free"
+ },
  "ente.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -31900,7 +32801,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -32427,7 +33328,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -32781,6 +33682,37 @@
   "trackers": 2,
   "url": "https://exoplanetexplore.vercel.app",
   "verdict": "Light advertising"
+ },
+ "experience.odyssey.ml": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2897,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Odyssey",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 8,
+  "url": "https://experience.odyssey.ml/",
+  "verdict": "Very clean"
  },
  "experiments.withgoogle.com": {
   "ad_domains": 2,
@@ -35772,7 +36704,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35972,7 +36904,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36504,7 +37436,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -36869,7 +37801,7 @@
   "ad_requests": 11,
   "ad_slots": 0,
   "ad_weight_pct": 1.6,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -37221,6 +38153,40 @@
   "url": "https://four.lol/",
   "verdict": "Effectively ad-free"
  },
+ "framesynthesis.com": {
+  "ad_domains": 4,
+  "ad_requests": 20,
+  "ad_slots": 2,
+  "ad_weight_pct": 66.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 868,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 32.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "3D Driving Simulator on Google Maps - FrameSynthesis Inc.",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://framesynthesis.com/drivingsimulator/maps/",
+  "verdict": "Very heavy advertising"
+ },
  "frankforce.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -37255,7 +38221,7 @@
   "ad_requests": 98,
   "ad_slots": 1,
   "ad_weight_pct": 33.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -37326,6 +38292,35 @@
   "trackers": 4,
   "url": "https://fraze.it/",
   "verdict": "Very heavy advertising"
+ },
+ "fredericbriolet.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 17,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\ud83c\udfb9",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://fredericbriolet.com/avg/",
+  "verdict": "Effectively ad-free"
  },
  "free-clep-prep.com": {
   "ad_domains": 1,
@@ -38079,7 +39074,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -40876,7 +41871,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42239,7 +43234,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42775,6 +43770,35 @@
   ],
   "trackers": 0,
   "url": "https://gradia.alexandervanhee.be/",
+  "verdict": "Effectively ad-free"
+ },
+ "gradient.horse": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 191,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "gradient.horse",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://gradient.horse/",
   "verdict": "Effectively ad-free"
  },
  "graebor.itch.io": {
@@ -44289,7 +45313,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -45535,6 +46559,40 @@
   "trackers": 3,
   "url": "https://heycv.app/",
   "verdict": "Very clean"
+ },
+ "heyfromthefuture.com": {
+  "ad_domains": 4,
+  "ad_requests": 17,
+  "ad_slots": 1,
+  "ad_weight_pct": 83.3,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 714,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 37.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Select An Age - Hey From The Future",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://heyfromthefuture.com/",
+  "verdict": "Very heavy advertising"
  },
  "heytools.app": {
   "ad_domains": 0,
@@ -47087,6 +48145,35 @@
   "url": "https://hungermap.wfp.org/",
   "verdict": "Very clean"
  },
+ "huth.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 48,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "checkbox-life",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://huth.me/checkbox-life/",
+  "verdict": "Effectively ad-free"
+ },
  "hybrid-analysis.com": {
   "ad_domains": 6,
   "ad_requests": 8,
@@ -48636,7 +49723,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -48847,12 +49934,41 @@
   "url": "https://indiancine.ma/",
   "verdict": "Effectively ad-free"
  },
+ "indieblog.page": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Discover the IndieWeb, one blog post at a time.",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://indieblog.page/",
+  "verdict": "Effectively ad-free"
+ },
  "indiegame.booru.org": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -49151,7 +50267,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 18.6,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -50813,6 +51929,37 @@
   "url": "https://javascript.info/",
   "verdict": "Very heavy advertising"
  },
+ "javier.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 97.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 154,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Emoji to Scale",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://javier.xyz/emoji-to-scale/",
+  "verdict": "Light advertising"
+ },
  "jdmfsm.info": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -51498,6 +52645,35 @@
   "url": "https://josephmate.github.io/EpicFreeGamesList/",
   "verdict": "Effectively ad-free"
  },
+ "joshdata.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 789,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Iceberger",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://joshdata.me/iceberger.html",
+  "verdict": "Effectively ad-free"
+ },
  "joyful-bienenstitch-cb6242.netlify.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -51853,7 +53029,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -52910,7 +54086,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54956,7 +56132,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -57541,6 +58717,38 @@
   "url": "https://linearmouse.app/",
   "verdict": "Effectively ad-free"
  },
+ "lines.chromeexperiments.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1092,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Land Lines - Chrome Experiments",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://lines.chromeexperiments.com/",
+  "verdict": "Very clean"
+ },
  "lingyourlanguage.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -58945,7 +60153,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61008,7 +62216,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61037,7 +62245,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -62009,7 +63217,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62640,7 +63848,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://matchbox-dan.com/\", waiting until \"domcontentl",
   "fails": 1,
   "grade": "A+",
@@ -62780,7 +63988,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -63322,7 +64530,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -64107,6 +65315,35 @@
   "url": "http://mentallandscape.com/",
   "verdict": "Effectively ad-free"
  },
+ "meow.camera": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 57,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "meow.camera",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://meow.camera/",
+  "verdict": "Effectively ad-free"
+ },
  "meowtv.ru": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -64256,7 +65493,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 16.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -64594,6 +65831,35 @@
   "url": "https://mianfeijiema.com/",
   "verdict": "Very heavy advertising"
  },
+ "michaelbach.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1853,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Optical\u00a0Illusions / Visual\u00a0Phenomena",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://michaelbach.de/ot/",
+  "verdict": "Effectively ad-free"
+ },
  "michaelf314.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -64684,6 +65950,37 @@
   "trackers": 0,
   "url": "https://microsoft.github.io/generative-ai-for-beginners/",
   "verdict": "Effectively ad-free"
+ },
+ "middle-earth-interactive-map.web.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.3,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1325,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Interactive Middle-earth Map \u2014 LOTR, Hobbit & Silmarillion",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://middle-earth-interactive-map.web.app/",
+  "verdict": "Very clean"
  },
  "midiano.com": {
   "ad_domains": 0,
@@ -66399,7 +67696,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -67149,7 +68446,7 @@
   "ad_requests": 105,
   "ad_slots": 0,
   "ad_weight_pct": 7.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -67656,6 +68953,38 @@
   "url": "https://musescore.org/",
   "verdict": "Light advertising"
  },
+ "museumoffailure.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 24427,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Museum of Failure",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 9,
+  "url": "https://museumoffailure.com/",
+  "verdict": "Very clean"
+ },
  "music.youtube.com": {
   "ad_domains": 4,
   "ad_requests": 4,
@@ -68148,7 +69477,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -68902,7 +70231,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -69378,6 +70707,35 @@
   "trackers": 3,
   "url": "https://nerdyteachers.com/PICO-8/Games/",
   "verdict": "Very clean"
+ },
+ "nestflix.fun": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 603,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nestflix",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://nestflix.fun/",
+  "verdict": "Effectively ad-free"
  },
  "nestris.org": {
   "ad_domains": 0,
@@ -70688,7 +72046,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70947,7 +72305,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.9,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -74398,6 +75756,42 @@
   "url": "https://openbulkurl.com/random/",
   "verdict": "Ad-saturated / hostile"
  },
+ "opencctv.org": {
+  "ad_domains": 6,
+  "ad_requests": 28,
+  "ad_slots": 0,
+  "ad_weight_pct": 49.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ag.innovid.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1479,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 36.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "opencctv.org \u2014 the world's largest public camera network",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://opencctv.org/",
+  "verdict": "Very heavy advertising"
+ },
  "openclaw.ai": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -74588,7 +75982,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -74955,7 +76349,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -75690,6 +77084,35 @@
   "url": "https://orangefreesounds.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "orb.farm": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 467,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Orb.Farm",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://orb.farm/",
+  "verdict": "Effectively ad-free"
+ },
  "orbat-mapper.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -75896,6 +77319,37 @@
   ],
   "trackers": 2,
   "url": "https://orgsyn.org/Default.aspx",
+  "verdict": "Very clean"
+ },
+ "origamisimulator.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4135,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Origami Simulator",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://origamisimulator.org/",
   "verdict": "Very clean"
  },
  "orion.lukasbach.com": {
@@ -76337,6 +77791,35 @@
   "trackers": 2,
   "url": "https://ourworldindata.org/",
   "verdict": "Light advertising"
+ },
+ "ourworldoftext.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 41,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Our World of Text",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://ourworldoftext.com/",
+  "verdict": "Effectively ad-free"
  },
  "outerzone.co.uk": {
   "ad_domains": 2,
@@ -76857,7 +78340,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 26.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -77268,6 +78751,37 @@
   "trackers": 0,
   "url": "https://paperback.moe/",
   "verdict": "Effectively ad-free"
+ },
+ "papercookies.itch.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3276,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cursor Car by adam pype",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://papercookies.itch.io/cursor-car",
+  "verdict": "Very clean"
  },
  "papers.xtremepape.rs": {
   "ad_domains": 1,
@@ -78036,6 +79550,35 @@
   ],
   "trackers": 0,
   "url": "https://permapeople.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "pernyblom.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "Error: Page.evaluate: TypeError: refs.set is not a function\n    at parseEvaluationResultValue (<anonymous>:144:12)\n    at Utili",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 693,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Abundant Music",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://pernyblom.github.io/abundant-music/",
   "verdict": "Effectively ad-free"
  },
  "persepolis.getty.edu": {
@@ -78894,6 +80437,64 @@
   "url": "https://pi-hole.net/",
   "verdict": "Effectively ad-free"
  },
+ "pianos.pub": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 292,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Find a public piano to play",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://pianos.pub/",
+  "verdict": "Effectively ad-free"
+ },
+ "pianoverse.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 19299,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pianoverse - Lobby (1)",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://pianoverse.net/",
+  "verdict": "Effectively ad-free"
+ },
  "picard.musicbrainz.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -79477,7 +81078,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://pissang.github.io/paper-quilling-art/\", waitin",
   "fails": 1,
   "grade": "A+",
@@ -79852,7 +81453,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80659,6 +82260,35 @@
   "trackers": 2,
   "url": "https://playfootball.games/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "playgameoflife.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 19,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play John Conway\u2019s Game of Life",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://playgameoflife.com/",
+  "verdict": "Effectively ad-free"
  },
  "playgames.onl": {
   "ad_domains": 1,
@@ -81634,7 +83264,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81822,7 +83452,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 66.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -81904,6 +83534,38 @@
   "trackers": 1,
   "url": "https://poki.com/",
   "verdict": "Effectively ad-free"
+ },
+ "politicaltests.github.io": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2668,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PoliticalTests",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://politicaltests.github.io/",
+  "verdict": "Very clean"
  },
  "politicsandwar.com": {
   "ad_domains": 6,
@@ -82058,6 +83720,48 @@
   "trackers": 0,
   "url": "https://pona.la/",
   "verdict": "Effectively ad-free"
+ },
+ "popcat.click": {
+  "ad_domains": 77,
+  "ad_requests": 230,
+  "ad_slots": 1,
+  "ad_weight_pct": 54.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa.agkn.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "b23f3e2c88e133b0aff7635f3a871235.safeframe.googlesyndication.com",
+   "bcp.crwdcntrl.net",
+   "bidder.criteo.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net"
+  ],
+  "ok": true,
+  "page_kb": 2314,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 23.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "POPCAT",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://popcat.click/",
+  "verdict": "Ad-saturated / hostile"
  },
  "popcornmovies.ac": {
   "ad_domains": 1,
@@ -82241,7 +83945,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -83354,7 +85058,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -85003,6 +86707,38 @@
   "url": "https://quad9.net/",
   "verdict": "Effectively ad-free"
  },
+ "quartermaester.info": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1046,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Interactive Game of Thrones Map with Spoilers Control",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://quartermaester.info/",
+  "verdict": "Light advertising"
+ },
  "queensgame.io": {
   "ad_domains": 4,
   "ad_requests": 29,
@@ -85137,7 +86873,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 77.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -85841,7 +87577,7 @@
   "ad_requests": 29,
   "ad_slots": 0,
   "ad_weight_pct": 80.6,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -87425,7 +89161,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -88990,7 +90726,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91379,6 +93115,35 @@
   "url": "https://sc.maid.zone/",
   "verdict": "Effectively ad-free"
  },
+ "sc420.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 723,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jellify Bookmarklet",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://sc420.github.io/jellify-ur-website/",
+  "verdict": "Effectively ad-free"
+ },
  "scale.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -92003,7 +93768,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -95465,6 +97230,37 @@
   "url": "https://smashkarts.io/",
   "verdict": "Very heavy advertising"
  },
+ "smashthewalls.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 56.3,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 504,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Smash The Walls",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://smashthewalls.com/",
+  "verdict": "Light advertising"
+ },
  "smbgames.be": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -96245,6 +98041,48 @@
   "url": "https://sonastik.ead.ee/rahvusvaheline/en",
   "verdict": "Very clean"
  },
+ "songmeanings.com": {
+  "ad_domains": 17,
+  "ad_requests": 33,
+  "ad_slots": 0,
+  "ad_weight_pct": 43.9,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "Error: Page.evaluate: TypeError: Cannot read properties of undefined (reading 'top')\n    at scrollTo (https://songmeanings.com/",
+  "fails": 1,
+  "grade": "E",
+  "networks": [
+   "6e23c3c5fcb89f39a929aa5b6068b547.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "adx.adform.net",
+   "ap.lijit.com",
+   "c.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "ghb.adtelligent.com",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "ib.adnxs.com",
+   "onetag-sys.com"
+  ],
+  "ok": false,
+  "page_kb": 1983,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 29.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "SongMeanings",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://songmeanings.com/",
+  "verdict": "Very heavy advertising"
+ },
  "songrec.fossplant.re": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -96547,6 +98385,37 @@
   "trackers": 11,
   "url": "https://soundraw.io/",
   "verdict": "Moderate advertising"
+ },
+ "soundscape.world": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 28.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 965,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Soundscape",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://soundscape.world/",
+  "verdict": "Light advertising"
  },
  "sounter.com": {
   "ad_domains": 1,
@@ -97412,7 +99281,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98209,7 +100078,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98468,7 +100337,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 29.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -98659,7 +100528,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -99731,7 +101600,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -99840,6 +101709,35 @@
   ],
   "trackers": 0,
   "url": "https://strmfree.link/",
+  "verdict": "Effectively ad-free"
+ },
+ "strobe.cool": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Strobe Illusion - Hallucinate with this amazing optical illusion!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://strobe.cool/",
   "verdict": "Effectively ad-free"
  },
  "stroke-order.learningweb.moe.edu.tw": {
@@ -100599,6 +102497,35 @@
   "url": "https://supernova.to/",
   "verdict": "Effectively ad-free"
  },
+ "supersnowflakemaker.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3071,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Super Snowflake Maker",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://supersnowflakemaker.com/",
+  "verdict": "Effectively ad-free"
+ },
  "superstarshi.github.io": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -101015,7 +102942,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 76.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -101195,7 +103122,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 64.2,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -101411,7 +103338,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 11.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -102034,6 +103961,35 @@
   ],
   "trackers": 0,
   "url": "https://tcgone.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "tcrf.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "tcrf.net - Forbidden",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://tcrf.net/The_Cutting_Room_Floor",
   "verdict": "Effectively ad-free"
  },
  "teachyourselfcs.com": {
@@ -102789,6 +104745,37 @@
   "url": "https://testflight.apple.com/join/gPYINGCJ",
   "verdict": "Effectively ad-free"
  },
+ "testing.duckwithsunglasses.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 36659,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Emotiguy In Browser",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://testing.duckwithsunglasses.com/emotiweb/",
+  "verdict": "Very clean"
+ },
  "tetr.io": {
   "ad_domains": 92,
   "ad_requests": 348,
@@ -103531,7 +105518,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -103556,6 +105543,37 @@
   "trackers": 1,
   "url": "https://thehiveindex.com/",
   "verdict": "Very clean"
+ },
+ "thehtml.review": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.6,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 27015,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "the html review \u2014 archive",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://thehtml.review/archive",
+  "verdict": "Effectively ad-free"
  },
  "theindex.fyi": {
   "ad_domains": 0,
@@ -103800,7 +105818,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -104196,6 +106214,35 @@
   "url": "https://theromdepot.com/",
   "verdict": "Effectively ad-free"
  },
+ "theshadowlands.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 232,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Shadowlands",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://theshadowlands.net/",
+  "verdict": "Effectively ad-free"
+ },
  "theshfl.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -104300,7 +106347,7 @@
   "ad_requests": 116,
   "ad_slots": 2,
   "ad_weight_pct": 56.9,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -104580,12 +106627,43 @@
   "url": "https://thinkygames.com/games/?free=true&platforms=Web",
   "verdict": "Effectively ad-free"
  },
+ "thisissand.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2296,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Thisissand",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://thisissand.com/",
+  "verdict": "Very clean"
+ },
  "thispersonnotexist.org": {
   "ad_domains": 21,
   "ad_requests": 26,
   "ad_slots": 1,
   "ad_weight_pct": 43.6,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -104658,7 +106736,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -104778,7 +106856,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105052,7 +107130,7 @@
   "ad_requests": 1,
   "ad_slots": 2,
   "ad_weight_pct": 43.8,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -105334,7 +107412,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -106549,6 +108627,37 @@
   "url": "https://tothemoon.ser.asu.edu/",
   "verdict": "Very clean"
  },
+ "touchpianist.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2243,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Touch Pianist - Tap in Rhythm and Perform Your Favourite Music",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 7,
+  "url": "http://touchpianist.com/",
+  "verdict": "Very clean"
+ },
  "toughlovearena.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -106696,6 +108805,77 @@
   "trackers": 0,
   "url": "https://tracesof.net/uebersicht/",
   "verdict": "Effectively ad-free"
+ },
+ "traffic-simulation.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1177,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Microsimulation of Traffic Flow: Onramp",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://traffic-simulation.de/",
+  "verdict": "Effectively ad-free"
+ },
+ "trafficvision.live": {
+  "ad_domains": 19,
+  "ad_requests": 127,
+  "ad_slots": 4,
+  "ad_weight_pct": 75.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "12c9c5660cef283350d99fa0ce025fed.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "ag.innovid.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "dt.adsafeprotected.com",
+   "fw.adsafeprotected.com",
+   "googleads.g.doubleclick.net",
+   "jsconfig.adsafeprotected.com",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net"
+  ],
+  "ok": true,
+  "page_kb": 2091,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 8.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Worldwide Traffic Cameras - 155,000+ Live Cams | TrafficVision.Live",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://trafficvision.live/",
+  "verdict": "Ad-saturated / hostile"
  },
  "trains.fyi": {
   "ad_domains": 1,
@@ -107338,7 +109518,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.9,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -108307,7 +110487,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -108393,6 +110573,35 @@
   "url": "https://tycollector.com/",
   "verdict": "Very clean"
  },
+ "tylervigen.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1023,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Spurious Correlations",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://tylervigen.com/spurious-correlations",
+  "verdict": "Effectively ad-free"
+ },
  "tympanus.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -108421,6 +110630,37 @@
   "trackers": 0,
   "url": "https://tympanus.net/codrops/",
   "verdict": "Effectively ad-free"
+ },
+ "typedrummer.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1203,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "typedrummer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "http://typedrummer.com/",
+  "verdict": "Very clean"
  },
  "typetype.video": {
   "ad_domains": 0,
@@ -109675,7 +111915,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 20.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -110732,7 +112972,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 23.4,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -111174,7 +113414,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -111357,6 +113597,38 @@
   "trackers": 0,
   "url": "https://visaindex.com/",
   "verdict": "Effectively ad-free"
+ },
+ "visdeurbel.nl": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2516,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fish Doorbell \u2013 See You Next Season! | The Fish Doorbell",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://visdeurbel.nl/en/",
+  "verdict": "Very clean"
  },
  "visibleearth.nasa.gov": {
   "ad_domains": 1,
@@ -113327,7 +115599,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 25.3,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -113719,7 +115991,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -113927,7 +116199,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -115087,7 +117359,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.3,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -115459,6 +117731,35 @@
   ],
   "trackers": 0,
   "url": "https://wiki.clonehero.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "wiki.conworld.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://wiki.conworld.org/",
   "verdict": "Effectively ad-free"
  },
  "wiki.debian.org": {
@@ -117417,7 +119718,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 12.2,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -117535,6 +119836,76 @@
   ],
   "trackers": 3,
   "url": "https://worldbirthsanddeaths.com/",
+  "verdict": "Very heavy advertising"
+ },
+ "worldcam.eu": {
+  "ad_domains": 5,
+  "ad_requests": 34,
+  "ad_slots": 2,
+  "ad_weight_pct": 63.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1230,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 24.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Webcams from around the World - WorldCam",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://worldcam.eu/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "worldcams.tv": {
+  "ad_domains": 5,
+  "ad_requests": 31,
+  "ad_slots": 1,
+  "ad_weight_pct": 26.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2461,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 36.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "World Cams - Live Streaming Webcams Like Never Seen Before",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://worldcams.tv/",
   "verdict": "Very heavy advertising"
  },
  "worldfindr.com": {
@@ -117850,6 +120221,38 @@
   "url": "https://worldview.earthdata.nasa.gov/",
   "verdict": "Light advertising"
  },
+ "worldviewstream.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1180,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Live webcams, travel stories, vacation ideas! - Worldviewstream",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://worldviewstream.com/",
+  "verdict": "Light advertising"
+ },
  "worldwidetelescope.org": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -118037,7 +120440,7 @@
   "ad_requests": 11,
   "ad_slots": 16,
   "ad_weight_pct": 31.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -118689,6 +121092,41 @@
   "trackers": 1,
   "url": "https://www.365chess.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.3dtuning.com": {
+  "ad_domains": 5,
+  "ad_requests": 17,
+  "ad_slots": 1,
+  "ad_weight_pct": 30.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2328,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 38.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "3DTuning",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.3dtuning.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.4shared.com": {
   "ad_domains": 2,
@@ -119741,7 +122179,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 48.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -120984,7 +123422,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -122970,6 +125408,37 @@
   "url": "https://www.bitcoinwhoswho.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.blackdrago.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 36.4,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 415,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Circle of the Dragon - Dragon and Serpent History and Mystery",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.blackdrago.com/",
+  "verdict": "Light advertising"
+ },
  "www.blackpast.org": {
   "ad_domains": 6,
   "ad_requests": 7,
@@ -123877,7 +126346,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123966,7 +126435,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -124061,6 +126530,67 @@
   "trackers": 0,
   "url": "https://www.cagematch.net/",
   "verdict": "Effectively ad-free"
+ },
+ "www.cameraftp.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 155,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "View public IP Cameras, webcams & time-lapse video. Publish/Broadcast/Live Stream Security",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx",
+  "verdict": "Effectively ad-free"
+ },
+ "www.camscape.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 16.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 992,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Live Webcams on Camscape \u2013 Free Streaming Cams Worldwide",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.camscape.com/",
+  "verdict": "Light advertising"
  },
  "www.canirun.ai": {
   "ad_domains": 0,
@@ -124442,6 +126972,41 @@
   "trackers": 0,
   "url": "https://www.cclm.cl/cineteca-online",
   "verdict": "Very clean"
+ },
+ "www.cctv-world.kr": {
+  "ad_domains": 5,
+  "ad_requests": 35,
+  "ad_slots": 2,
+  "ad_weight_pct": 63.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1173,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 29.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\uc804\uad6d/\ud574\uc678 \uc2e4\uc2dc\uac04 CCTV \ub77c\uc774\ube0c\ucea0 | CCTV-World",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.cctv-world.kr/",
+  "verdict": "Very heavy advertising"
  },
  "www.cdc.gov": {
   "ad_domains": 1,
@@ -126872,7 +129437,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127258,7 +129823,7 @@
   "ad_requests": 111,
   "ad_slots": 3,
   "ad_weight_pct": 36.5,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -127484,7 +130049,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127810,6 +130375,35 @@
   "trackers": 2,
   "url": "https://www.dailymotion.com/",
   "verdict": "Light advertising"
+ },
+ "www.damninteresting.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2719,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Damn Interesting \u2022 Obscure true stories from science & history",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.damninteresting.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.dandwiki.com": {
   "ad_domains": 71,
@@ -128374,6 +130968,35 @@
   ],
   "trackers": 0,
   "url": "https://www.desmos.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.detectiveboard.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.detectiveboard.io/\nCall log:\n  - navigating to \"https://www.detecti",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "offline",
+  "sticky_ads": 0,
+  "title": "\u2060Detective Board",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.detectiveboard.io/",
   "verdict": "Effectively ad-free"
  },
  "www.deviceinfo.me": {
@@ -129096,6 +131719,35 @@
   "url": "https://www.dpoetry.com/fires/",
   "verdict": "Effectively ad-free"
  },
+ "www.drawaurora.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 580,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Aurora",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.drawaurora.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.drawingbooks.org": {
   "ad_domains": 3,
   "ad_requests": 13,
@@ -129430,6 +132082,71 @@
   "trackers": 3,
   "url": "https://www.earlymoderntexts.com",
   "verdict": "Light advertising"
+ },
+ "www.earthcam.com": {
+  "ad_domains": 4,
+  "ad_requests": 13,
+  "ad_slots": 1,
+  "ad_weight_pct": 15.6,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5440,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 53.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "EarthCam - Webcam Network",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://www.earthcam.com/",
+  "verdict": "Heavy advertising"
+ },
+ "www.earthcamtv.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.4,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2632,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "EarthCamTV",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://www.earthcamtv.com/",
+  "verdict": "Very clean"
  },
  "www.easy-croatian.com": {
   "ad_domains": 1,
@@ -131533,6 +134250,35 @@
   "url": "https://www.featherbase.info/en/home",
   "verdict": "Effectively ad-free"
  },
+ "www.fern-flower.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 435,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fern Flower Group",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.fern-flower.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.feynmanlectures.caltech.edu": {
   "ad_domains": 1,
   "ad_requests": 3,
@@ -131559,6 +134305,35 @@
   "trackers": 4,
   "url": "https://www.feynmanlectures.caltech.edu/",
   "verdict": "Light advertising"
+ },
+ "www.fidgetpage.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 281,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fidget Page",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.fidgetpage.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.fieggen.com": {
   "ad_domains": 0,
@@ -131902,6 +134677,46 @@
   "trackers": 3,
   "url": "https://www.firsttimersonly.com/",
   "verdict": "Very clean"
+ },
+ "www.firstversions.com": {
+  "ad_domains": 10,
+  "ad_requests": 62,
+  "ad_slots": 10,
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 50927,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 6.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "First Versions",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://www.firstversions.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.fitnessblender.com": {
   "ad_domains": 3,
@@ -133890,6 +136705,35 @@
   "trackers": 2,
   "url": "https://www.futez.com.br/",
   "verdict": "Very clean"
+ },
+ "www.futuretimeline.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 380,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Future Timeline | Technology | Singularity | Future Events | 2025 | 2050 | 2100",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.futuretimeline.net/",
+  "verdict": "Effectively ad-free"
  },
  "www.futuretools.io": {
   "ad_domains": 0,
@@ -137235,6 +140079,41 @@
   "url": "https://www.houdah.com/customShortcuts/",
   "verdict": "Effectively ad-free"
  },
+ "www.housecreep.com": {
+  "ad_domains": 5,
+  "ad_requests": 20,
+  "ad_slots": 2,
+  "ad_weight_pct": 30.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2429,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 27.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Stigmatized Properties & Noteworthy Homes | Murder houses, haunted houses, famous and hist",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://www.housecreep.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.howacarworks.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -137308,6 +140187,35 @@
   "trackers": 3,
   "url": "https://www.howmuchisin.com/produce_converters",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.hownormalami.eu": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 15963,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "How normal am I?",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.hownormalami.eu/",
+  "verdict": "Effectively ad-free"
  },
  "www.howstuffworks.com": {
   "ad_domains": 5,
@@ -138206,6 +141114,35 @@
   "url": "https://www.inaturalist.org/",
   "verdict": "Very clean"
  },
+ "www.incredibox.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 511,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Demo - Incredibox",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.incredibox.com/demo/",
+  "verdict": "Effectively ad-free"
+ },
  "www.indeed.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -139086,7 +142023,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -140252,7 +143189,7 @@
   "ad_requests": 17,
   "ad_slots": 1,
   "ad_weight_pct": 59.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -140283,6 +143220,35 @@
   "trackers": 2,
   "url": "https://www.kittenwar.com/",
   "verdict": "Very heavy advertising"
+ },
+ "www.koalastothemax.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 50,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Koalas to the Max dot Com",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.koalastothemax.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.konglongmandarin.com": {
   "ad_domains": 0,
@@ -140505,7 +143471,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -140644,7 +143610,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -141957,6 +144923,42 @@
   "url": "https://www.littlefriends.co.uk/",
   "verdict": "Effectively ad-free"
  },
+ "www.livecamcroatia.com": {
+  "ad_domains": 6,
+  "ad_requests": 45,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "Error: Page.evaluate: TypeError: window.scrollTo is not a function\n    at eval (eval at evaluate (:311:30), <anonymous>:1:13)\n ",
+  "fails": 1,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 6305,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 43.4,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "LiveCam Croatia",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.livecamcroatia.com/en",
+  "verdict": "Very heavy advertising"
+ },
  "www.livelingua.com": {
   "ad_domains": 4,
   "ad_requests": 9,
@@ -142835,7 +145837,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -143002,6 +146004,40 @@
   "trackers": 0,
   "url": "https://www.mangolinkcam.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.mangolinkworld.com": {
+  "ad_domains": 4,
+  "ad_requests": 15,
+  "ad_slots": 1,
+  "ad_weight_pct": 48.8,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1338,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 45.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Live Streaming Worldwide Web Cams",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.mangolinkworld.com/",
+  "verdict": "Heavy advertising"
  },
  "www.manim.community": {
   "ad_domains": 0,
@@ -144477,7 +147513,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -144962,12 +147998,41 @@
   "url": "https://www.mojeek.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.moltbook.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 50,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "moltbook - the front page of the agent internet",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.moltbook.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.monkey.app": {
   "ad_domains": 19,
   "ad_requests": 61,
   "ad_slots": 1,
   "ad_weight_pct": 23.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -145003,6 +148068,45 @@
   "trackers": 5,
   "url": "https://www.monkey.app/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.montereybayaquarium.org": {
+  "ad_domains": 9,
+  "ad_requests": 21,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.4,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "15412316.fls.doubleclick.net",
+   "ad.doubleclick.net",
+   "adservice.google.com",
+   "c.amazon-adsystem.com",
+   "googleads.g.doubleclick.net",
+   "s.amazon-adsystem.com",
+   "secure.quantserve.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3313,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 31.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Live cams | Monterey Bay Aquarium",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 6,
+  "url": "https://www.montereybayaquarium.org/animals/live-cams",
+  "verdict": "Very heavy advertising"
  },
  "www.mooc.fi": {
   "ad_domains": 0,
@@ -145060,6 +148164,39 @@
   "trackers": 0,
   "url": "https://www.moondownload.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.moralmachine.net": {
+  "ad_domains": 3,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2503,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Moral Machine",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://www.moralmachine.net/",
+  "verdict": "Light advertising"
  },
  "www.morewords.com": {
   "ad_domains": 100,
@@ -145817,7 +148954,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 5.4,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -145909,7 +149046,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 46.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -146660,7 +149797,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -147553,6 +150690,40 @@
   "url": "https://www.notion.so/TizenBrew-Guide-30437864d8618033bb03e818e894fd5c",
   "verdict": "Effectively ad-free"
  },
+ "www.notpron.com": {
+  "ad_domains": 4,
+  "ad_requests": 28,
+  "ad_slots": 1,
+  "ad_weight_pct": 78.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 616,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 38.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Notpron by David M\u00fcnnich - The Hardest Riddle Available on the Internet",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "http://www.notpron.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.notrace.how": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -147944,7 +151115,7 @@
   "ad_requests": 453,
   "ad_slots": 1,
   "ad_weight_pct": 56.2,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -148141,6 +151312,39 @@
   ],
   "trackers": 7,
   "url": "http://www.oldversion.com/",
+  "verdict": "Moderate advertising"
+ },
+ "www.olsenhome.com": {
+  "ad_domains": 3,
+  "ad_requests": 13,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 9143,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 71.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The GIF Pronunciation Page",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.olsenhome.com/gif/",
   "verdict": "Moderate advertising"
  },
  "www.omicronlab.com": {
@@ -148784,6 +151988,37 @@
   "trackers": 0,
   "url": "https://www.opensanctions.org/",
   "verdict": "Effectively ad-free"
+ },
+ "www.openscope.io": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 756,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "openScope Air Traffic Control Simulator",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 5,
+  "url": "https://www.openscope.io/",
+  "verdict": "Light advertising"
  },
  "www.opensecrets.org": {
   "ad_domains": 0,
@@ -149695,6 +152930,39 @@
   "url": "https://www.passmedicine.com/ucat/",
   "verdict": "Light advertising"
  },
+ "www.patatap.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2688,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Patatap",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 7,
+  "url": "https://www.patatap.com/",
+  "verdict": "Light advertising"
+ },
  "www.pathologyoutlines.com": {
   "ad_domains": 13,
   "ad_requests": 109,
@@ -149940,7 +153208,7 @@
   "ad_requests": 291,
   "ad_slots": 1,
   "ad_weight_pct": 2.5,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -150268,7 +153536,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -150488,7 +153756,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.8,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -151898,6 +155166,35 @@
   "url": "https://www.projectlumen.app/",
   "verdict": "Light advertising"
  },
+ "www.projectrho.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1959,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Atomic Rockets - Atomic Rockets",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.projectrho.com/public_html/rocket/",
+  "verdict": "Effectively ad-free"
+ },
  "www.promptfoo.dev": {
   "ad_domains": 3,
   "ad_requests": 7,
@@ -152201,6 +155498,35 @@
   ],
   "trackers": 0,
   "url": "https://www.pulsus.cc/play/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.pushing-pixels.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2188,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pushing Pixels | Fantasy User Interfaces",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.pushing-pixels.org/fui/",
   "verdict": "Effectively ad-free"
  },
  "www.puzzle-loop.com": {
@@ -152796,7 +156122,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153022,6 +156348,38 @@
   "trackers": 1,
   "url": "https://www.ratingraph.com/",
   "verdict": "Very clean"
+ },
+ "www.ravbug.com": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 4,
+  "ad_weight_pct": 81.9,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 296,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 44.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hypertranslate - Google Translate Fun",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.ravbug.com/hypertranslate/",
+  "verdict": "Heavy advertising"
  },
  "www.raycast.com": {
   "ad_domains": 0,
@@ -153542,7 +156900,7 @@
   "ad_requests": 224,
   "ad_slots": 3,
   "ad_weight_pct": 55.3,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -154958,6 +158316,101 @@
   "url": "https://www.saveecobot.com/en/radiation-maps",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.saveriomorelli.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 290,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CV Project \u2013 Saverio Morelli",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.saveriomorelli.com/commonvoice/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.sbnation.com": {
+  "ad_domains": 7,
+  "ad_requests": 13,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 7808,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 55.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Intro | What football will look like in the future",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.sbnation.com/a/17776-football/chapter-1",
+  "verdict": "Heavy advertising"
+ },
+ "www.sbs.com.au": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 45236,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "My Grandmother\u2019s Lingo | SBS",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.sbs.com.au/mygrandmotherslingo/",
+  "verdict": "Effectively ad-free"
+ },
  "www.scamadviser.com": {
   "ad_domains": 83,
   "ad_requests": 378,
@@ -155228,6 +158681,35 @@
   ],
   "trackers": 0,
   "url": "https://www.scnsrc.me/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.screentoys.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 243,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "THE ODD COUPLES - SCREENTOYS - Celebrity Blender",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.screentoys.com/",
   "verdict": "Effectively ad-free"
  },
  "www.scribblemaps.com": {
@@ -156604,6 +160086,38 @@
   "url": "https://www.skycalendar.com/skycal/calendar",
   "verdict": "Light advertising"
  },
+ "www.skylinewebcams.com": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 1,
+  "ad_weight_pct": 43.9,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 616,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u25b6\ufe0f Live HD Cams from the World! - SkylineWebcams",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.skylinewebcams.com/en.html",
+  "verdict": "Moderate advertising"
+ },
  "www.slavefreechocolate.org": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -157010,6 +160524,47 @@
   ],
   "trackers": 4,
   "url": "https://www.snow-forecast.com/maps",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.snoweye.com": {
+  "ad_domains": 11,
+  "ad_requests": 62,
+  "ad_slots": 2,
+  "ad_weight_pct": 68.2,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "ag.innovid.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 1498,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 18.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Over 5000 webcams from ski resorts around the world",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://www.snoweye.com/",
   "verdict": "Ad-saturated / hostile"
  },
  "www.sofascore.com": {
@@ -158632,7 +162187,7 @@
   "ad_requests": 6,
   "ad_slots": 5,
   "ad_weight_pct": 5.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -160111,6 +163666,40 @@
   "url": "https://www.thedevilsdictionary.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.thedictionaryofobscuresorrows.com": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.1,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1919,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 72.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Dictionary of Obscure Sorrows | New Words for Complex Emotions",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.thedictionaryofobscuresorrows.com/",
+  "verdict": "Light advertising"
+ },
  "www.thefoodhistorian.com": {
   "ad_domains": 4,
   "ad_requests": 14,
@@ -160173,6 +163762,35 @@
   ],
   "trackers": 0,
   "url": "https://www.thefreelibrary.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.thegitcity.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8951,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Git City - Your GitHub as a 3D City",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.thegitcity.com/",
   "verdict": "Effectively ad-free"
  },
  "www.thegreatestbooks.org": {
@@ -160428,7 +164046,7 @@
   "ad_requests": 17,
   "ad_slots": 2,
   "ad_weight_pct": 51.4,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -161181,7 +164799,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -162189,6 +165807,39 @@
   "url": "https://www.txori.com/dbdevolution",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.typatone.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.9,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3111,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Typatone",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 7,
+  "url": "https://www.typatone.com/",
+  "verdict": "Light advertising"
+ },
  "www.typewhisper.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -163038,7 +166689,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 32.1,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -163241,6 +166892,35 @@
   ],
   "trackers": 0,
   "url": "https://www.vicinae.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.vidarholen.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1776,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Linux kernel word count",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.vidarholen.net/contents/wordcount/",
   "verdict": "Effectively ad-free"
  },
  "www.viddsee.com": {
@@ -164306,6 +167986,100 @@
   "url": "https://www.webbcompare.com/",
   "verdict": "Very clean"
  },
+ "www.webcamexplore.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2526,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WebcamExplore \u2013 24/7 Live Webcams from Around the Globe",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.webcamexplore.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.webcamgalore.com": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 1,
+  "ad_weight_pct": 48.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 548,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 60.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Webcam Galore - Weather Webcams Worldwide",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.webcamgalore.com/",
+  "verdict": "Moderate advertising"
+ },
+ "www.webcamhopper.com": {
+  "ad_domains": 3,
+  "ad_requests": 10,
+  "ad_slots": 1,
+  "ad_weight_pct": 29.5,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1384,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 55.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Webcam Hopper - Top 20 Live Cameras Around the World",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.webcamhopper.com/",
+  "verdict": "Heavy advertising"
+ },
  "www.webcamtaxi.com": {
   "ad_domains": 10,
   "ad_requests": 96,
@@ -164536,7 +168310,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 1.7,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -164754,7 +168528,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -164776,6 +168550,35 @@
   ],
   "trackers": 0,
   "url": "https://www.whereisthegooglecar.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.wheresgeorge.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "IP Level Errors page",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.wheresgeorge.com/",
   "verdict": "Effectively ad-free"
  },
  "www.wheresthedish.com": {
@@ -164858,6 +168661,35 @@
   ],
   "trackers": 0,
   "url": "https://www.wi-phi.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.wiby.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Wiby - Search Engine for the Classic Web",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.wiby.me/",
   "verdict": "Effectively ad-free"
  },
  "www.widelands.org": {
@@ -165090,6 +168922,35 @@
   "url": "https://www.wildwinds.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.windows93.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4294,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WINDOWS93",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://www.windows93.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.windy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -165149,7 +169010,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -165321,7 +169182,7 @@
   "ad_requests": 117,
   "ad_slots": 4,
   "ad_weight_pct": 68.6,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -166244,7 +170105,7 @@
   "ad_requests": 22,
   "ad_slots": 1,
   "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -166747,7 +170608,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -167485,6 +171346,38 @@
   "url": "https://you.have.fail/tetrioplus//",
   "verdict": "Effectively ad-free"
  },
+ "you.regettingold.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.7,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 262,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 74.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "You're Getting Old!",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 3,
+  "url": "https://you.regettingold.com/",
+  "verdict": "Light advertising"
+ },
  "youglish.com": {
   "ad_domains": 16,
   "ad_requests": 127,
@@ -167696,7 +171589,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 19.5,
-  "checked_utc": "2026-08-22T13:59:20+00:00",
+  "checked_utc": "2026-08-22T14:01:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -168130,6 +172023,35 @@
   ],
   "trackers": 0,
   "url": "https://zdevs.ru/en/",
+  "verdict": "Effectively ad-free"
+ },
+ "zehfernandes.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-22T14:01:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Planet Builder",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://zehfernandes.com/generativeplanets/builder",
   "verdict": "Effectively ad-free"
  },
  "zeigames.com": {
