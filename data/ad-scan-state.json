@@ -2604,7 +2604,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 9.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -4964,7 +4964,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -5017,6 +5017,43 @@
   "trackers": 0,
   "url": "https://albertlauncher.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "albkanale.com": {
+  "ad_domains": 7,
+  "ad_requests": 16,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "adx.adform.net",
+   "gum.criteo.com",
+   "onetag-sys.com",
+   "r2b2-emea.adnxs.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4405,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 49.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AlbKanale IPTV - Shiko Kanale TV Shqip FALAS",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://albkanale.com/",
+  "verdict": "Heavy advertising"
  },
  "album-selector-chi.vercel.app": {
   "ad_domains": 0,
@@ -7067,6 +7104,35 @@
   "url": "https://ani-cli-arabic.dev/",
   "verdict": "Effectively ad-free"
  },
+ "ani4u.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://ani4u.org/",
+  "verdict": "Effectively ad-free"
+ },
  "anicine.xyz": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -7803,7 +7869,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 9.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -7827,6 +7893,37 @@
   ],
   "trackers": 1,
   "url": "https://animeav1.com/",
+  "verdict": "Very clean"
+ },
+ "animebalkan.gg": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 14945,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Balkan - Gledaj Anime Sa Prevodom U HD Rezoluciji!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://animebalkan.gg/",
   "verdict": "Very clean"
  },
  "animebloodsub.net": {
@@ -8486,6 +8583,66 @@
   "url": "https://animetv-fork.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "animetvn.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 1,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6383,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AnimeTVN | ANIME HAY | ANIME TOP | PHIM ANIME | XEM ANIME ONLINE | ANIME VIETSUB | ANIME H",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://animetvn.com/",
+  "verdict": "Very clean"
+ },
+ "animevietsub.link": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://animevietsub.link/",
+  "verdict": "Effectively ad-free"
+ },
  "animex.one": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -8699,7 +8856,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 27.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "B",
@@ -8880,7 +9037,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -9420,6 +9577,40 @@
   "trackers": 2,
   "url": "https://any.run/",
   "verdict": "Very clean"
+ },
+ "anyflip.com": {
+  "ad_domains": 4,
+  "ad_requests": 8,
+  "ad_slots": 1,
+  "ad_weight_pct": 5.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5448,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 67.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Flip Book Maker; PDF to HTML5 Page Flipping Book & Digital Publishing | AnyFlip",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://anyflip.com/",
+  "verdict": "Moderate advertising"
  },
  "anymex.vercel.app": {
   "ad_domains": 1,
@@ -13320,7 +13511,7 @@
   "ad_requests": 16,
   "ad_slots": 0,
   "ad_weight_pct": 44.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -15264,6 +15455,39 @@
   "url": "https://baileysnyder.com/interactive-4d/",
   "verdict": "Effectively ad-free"
  },
+ "baiscopedownloads.link": {
+  "ad_domains": 3,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 17050,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Baiscopedownloads (Official Download Link Web Site for Baiscopelk.com) \u2013 Films and TV Show",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://baiscopedownloads.link/",
+  "verdict": "Light advertising"
+ },
  "bajalogratis.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -15362,6 +15586,35 @@
   "trackers": 1,
   "url": "https://bakingcalculators.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "balkandownload.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Access denied | balkandownload.org used Cloudflare to restrict access | balkandownload.org",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://balkandownload.org/",
+  "verdict": "Effectively ad-free"
  },
  "balsaandglass.com": {
   "ad_domains": 0,
@@ -16170,6 +16423,35 @@
   "url": "https://bcine.ru/",
   "verdict": "Very clean"
  },
+ "bdebooks.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 73,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Page not found \u00b7 BDeBooks",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://bdebooks.com/en/",
+  "verdict": "Effectively ad-free"
+ },
  "beacon.schneidercorp.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -16424,7 +16706,7 @@
   "ad_requests": 21,
   "ad_slots": 2,
   "ad_weight_pct": 15.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -17345,7 +17627,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18326,6 +18608,39 @@
   "trackers": 0,
   "url": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
   "verdict": "Effectively ad-free"
+ },
+ "blogs.ntu.edu.sg": {
+  "ad_domains": 3,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4234,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Singapore Sign Language Sign Bank",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://blogs.ntu.edu.sg/sgslsignbank/",
+  "verdict": "Light advertising"
  },
  "bloob.io": {
   "ad_domains": 1,
@@ -19332,6 +19647,64 @@
   "url": "https://bookfinder.com/",
   "verdict": "Effectively ad-free"
  },
+ "bookletlibrary.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8721,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Booklet Library",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://bookletlibrary.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "bookorbit.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 205,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BookOrbit - Your reading space",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://bookorbit.app/",
+  "verdict": "Effectively ad-free"
+ },
  "bookracy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -19451,7 +19824,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 21.2,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -20722,6 +21095,35 @@
   "url": "https://bsehovac.github.io/the-cube/",
   "verdict": "Light advertising"
  },
+ "bsf.si": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 776,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Baza slovenskih filmov | BSF - Baza slovenskih filmov",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://bsf.si/",
+  "verdict": "Effectively ad-free"
+ },
  "bsky.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -21349,6 +21751,40 @@
   "url": "https://buzzinga.io/",
   "verdict": "Very clean"
  },
+ "bygosh.com": {
+  "ad_domains": 4,
+  "ad_requests": 16,
+  "ad_slots": 1,
+  "ad_weight_pct": 41.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1509,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 43.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "byGosh.com | The best family-friendly classic literature",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://bygosh.com",
+  "verdict": "Very heavy advertising"
+ },
  "byte.to": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -21376,6 +21812,35 @@
   ],
   "trackers": 0,
   "url": "https://byte.to/",
+  "verdict": "Effectively ad-free"
+ },
+ "bythefireplace.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1603,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "By The Fireplace",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://bythefireplace.com/",
   "verdict": "Effectively ad-free"
  },
  "byxatab.com": {
@@ -21752,6 +22217,48 @@
   "trackers": 3,
   "url": "https://calgaryguide.ucalgary.ca/",
   "verdict": "Light advertising"
+ },
+ "calibre-ebook.com": {
+  "ad_domains": 95,
+  "ad_requests": 670,
+  "ad_slots": 1,
+  "ad_weight_pct": 2.8,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "a584bb71eafcc7ff12126dae4f0bfbde.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 30757,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 37.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "calibre - E-book management",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://calibre-ebook.com/",
+  "verdict": "Very heavy advertising"
  },
  "calidadtorrent.com": {
   "ad_domains": 0,
@@ -22560,7 +23067,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26234,7 +26741,7 @@
   "ad_requests": 0,
   "ad_slots": 2,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -26296,7 +26803,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -28051,6 +28558,40 @@
   "trackers": 0,
   "url": "https://comfybox.floofey.dog/",
   "verdict": "Effectively ad-free"
+ },
+ "comi.mobi": {
+  "ad_domains": 4,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5950,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 66.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "COMI \u2013 N\u1ec1n t\u1ea3ng truy\u1ec7n tranh b\u1ea3n quy\u1ec1n duy nh\u1ea5t t\u1ea1i Vi\u1ec7t Nam",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://comi.mobi/",
+  "verdict": "Moderate advertising"
  },
  "comic-walker.com": {
   "ad_domains": 5,
@@ -31293,6 +31834,37 @@
   "url": "https://ctt.cx/",
   "verdict": "Effectively ad-free"
  },
+ "cubari.moe": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 235,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cubari",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 3,
+  "url": "https://cubari.moe/",
+  "verdict": "Light advertising"
+ },
  "cubedesk.io": {
   "ad_domains": 3,
   "ad_requests": 3,
@@ -32319,6 +32891,41 @@
   "trackers": 4,
   "url": "https://dancemusic.wtf/",
   "verdict": "Light advertising"
+ },
+ "danet.vn": {
+  "ad_domains": 5,
+  "ad_requests": 7,
+  "ad_slots": 1,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 14767,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "DANET | Xem phim m\u1edbi - hot - b\u1ea3n quy\u1ec1n ngay c\u00f9ng DANET",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://danet.vn/",
+  "verdict": "Moderate advertising"
  },
  "dangerzone.rocks": {
   "ad_domains": 0,
@@ -34336,6 +34943,35 @@
   "url": "https://degooglisons-internet.org/en/",
   "verdict": "Effectively ad-free"
  },
+ "deildu.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 161,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Deildu.net \u203a Innskr\u00e1ning",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://deildu.net/",
+  "verdict": "Effectively ad-free"
+ },
  "deletedcity.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -34627,7 +35263,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.2,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -35837,7 +36473,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35920,6 +36556,44 @@
   "trackers": 1,
   "url": "https://diffusionbee.com/",
   "verdict": "Very clean"
+ },
+ "digilibraries.com": {
+  "ad_domains": 8,
+  "ad_requests": 39,
+  "ad_slots": 5,
+  "ad_weight_pct": 29.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2001,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 5.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DigiLibraries.com | Free Book Library and Publishing Platform",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://digilibraries.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "digimoviez.com": {
   "ad_domains": 0,
@@ -36791,7 +37465,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -36848,7 +37522,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 12.8,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -36968,6 +37642,35 @@
   "trackers": 1,
   "url": "https://djpunjab.is/",
   "verdict": "Light advertising"
+ },
+ "djvu.sourceforge.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://djvu.sourceforge.net/",
+  "verdict": "Effectively ad-free"
  },
  "dl-zip.com": {
   "ad_domains": 1,
@@ -37467,6 +38170,37 @@
   "trackers": 9,
   "url": "https://doceru.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "docln.net": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2586,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Trang ch\u1ee7 - C\u1ed5ng Light Novel - \u0110\u1ecdc Light Novel",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://docln.net/",
+  "verdict": "Very clean"
  },
  "docs.2fauth.app": {
   "ad_domains": 0,
@@ -38491,6 +39225,35 @@
   "url": "https://dolphin-emu.org/docs/guides/",
   "verdict": "Moderate advertising"
  },
+ "dolthpt.vn": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 670,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DOL THPT: N\u1ec1n T\u1ea3ng Luy\u1ec7n Thi T\u1ed1t Nghi\u1ec7p THPT V\u00e0 \u0110GNL Online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://dolthpt.vn/",
+  "verdict": "Effectively ad-free"
+ },
  "domevents.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -39429,6 +40192,37 @@
   ],
   "trackers": 1,
   "url": "https://downmagaz.net/",
+  "verdict": "Very clean"
+ },
+ "dp.la": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2523,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Digital Public Library of America",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://dp.la/",
   "verdict": "Very clean"
  },
  "dpan.tv": {
@@ -41311,7 +42105,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -41396,6 +42190,35 @@
   ],
   "trackers": 0,
   "url": "https://eblong.com/infocom/",
+  "verdict": "Effectively ad-free"
+ },
+ "ebook-mecca.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2302,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "E-Book Mecca",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://ebook-mecca.com/",
   "verdict": "Effectively ad-free"
  },
  "ebook.twointomedia.com": {
@@ -41487,6 +42310,64 @@
   "url": "https://ebookfoundation.github.io/free-programming-books/",
   "verdict": "Effectively ad-free"
  },
+ "ebookoz.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 342,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "eBookoz - Index page",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://ebookoz.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "ebookpdf.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 2,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 709,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ebook PDF Search Engine - Free Download PDF Ebook",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://ebookpdf.com/",
+  "verdict": "Very clean"
+ },
  "ebooksbrasil.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -41515,6 +42396,37 @@
   "trackers": 0,
   "url": "https://ebooksbrasil.org",
   "verdict": "Effectively ad-free"
+ },
+ "ebookzy.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 12240,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ebookzy - Free Ebooks and Classic Literature for All Devices",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://ebookzy.com/",
+  "verdict": "Very clean"
  },
  "eboox.app": {
   "ad_domains": 1,
@@ -43438,6 +44350,35 @@
   "url": "https://en.boardgamearena.com/",
   "verdict": "Light advertising"
  },
+ "en.booksee.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1081,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Electronic Library. Download books for free. Over 2 million books and magazines",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 3,
+  "url": "https://en.booksee.org/",
+  "verdict": "Effectively ad-free"
+ },
  "en.everybodywiki.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -44369,6 +45310,37 @@
   "url": "https://epsteinvisualizer.com/",
   "verdict": "Effectively ad-free"
  },
+ "epub-reader.online": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 39.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 416,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "EPUB READER",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://epub-reader.online/",
+  "verdict": "Light advertising"
+ },
  "epub.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -44928,7 +45900,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -47616,6 +48588,35 @@
   ],
   "trackers": 0,
   "url": "https://fastsign.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "fbreader.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1335,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Favourite Book Reader \u2013 FBReader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://fbreader.org/",
   "verdict": "Effectively ad-free"
  },
  "fcpic.nesbbs.com": {
@@ -51402,7 +52403,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 9.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -51641,6 +52642,47 @@
   "trackers": 0,
   "url": "https://forum.language-learners.org/",
   "verdict": "Effectively ad-free"
+ },
+ "forum.lowyat.net": {
+  "ad_domains": 11,
+  "ad_requests": 21,
+  "ad_slots": 1,
+  "ad_weight_pct": 28.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "a3b371961fb1a0d059d902ade0764802.safeframe.googlesyndication.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "pagead2.googlesyndication.com",
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2506,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 24.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lowyat.NET - Insanely Addictive Malaysia Forum",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://forum.lowyat.net/",
+  "verdict": "Ad-saturated / hostile"
  },
  "forum.mobilism.me": {
   "ad_domains": 0,
@@ -52307,6 +53349,40 @@
   "url": "https://fpftp.blogspot.com/",
   "verdict": "Effectively ad-free"
  },
+ "fptplay.vn": {
+  "ad_domains": 4,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 18575,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 68.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FPT Play: Xem Kh\u00f4ng Gi\u1edbi H\u1ea1n Phim, Show, Anime, TV, Th\u1ec3 Thao",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://fptplay.vn/",
+  "verdict": "Moderate advertising"
+ },
  "fr.downmagaz.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -52600,6 +53676,35 @@
   "trackers": 1,
   "url": "https://free-proxy-list.net/en/#list",
   "verdict": "Light advertising"
+ },
+ "freebannedbooks.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 17,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Background | [\u201cTiny Digital Banned Book Library\u201d]",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://freebannedbooks.org/",
+  "verdict": "Effectively ad-free"
  },
  "freebie.games": {
   "ad_domains": 1,
@@ -62178,7 +63283,7 @@
   "ad_requests": 17,
   "ad_slots": 4,
   "ad_weight_pct": 7.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -62682,7 +63787,7 @@
   "ad_requests": 0,
   "ad_slots": 2,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -64783,6 +65888,39 @@
   "url": "https://hoy.tv/",
   "verdict": "Heavy advertising"
  },
+ "hplus.com.vn": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.8,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4673,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Xem Tivi Online, Xem Phim, TV Show, Video Clip| HPLUS",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://hplus.com.vn/",
+  "verdict": "Light advertising"
+ },
  "hscmathsbytopic.firsteducation.com.au": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -65349,6 +66487,37 @@
   "trackers": 0,
   "url": "https://huntorrent.org/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "huongnghiep.hocmai.vn": {
+  "ad_domains": 1,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 9899,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "HOCMAI H\u01b0\u1edbng nghi\u1ec7p - H\u01b0\u1edbng nghi\u1ec7p HOCMAI",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://huongnghiep.hocmai.vn/",
+  "verdict": "Very clean"
  },
  "huth.me": {
   "ad_domains": 0,
@@ -66240,6 +67409,39 @@
   "trackers": 1,
   "url": "https://ibroadcast.com",
   "verdict": "Very clean"
+ },
+ "icecreamapps.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1733,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free EPUB Reader for Windows - Icecream Apps",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://icecreamapps.com/Ebook-Reader/",
+  "verdict": "Light advertising"
  },
  "icelandiconline.com": {
   "ad_domains": 1,
@@ -68216,7 +69418,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -68731,6 +69933,35 @@
   ],
   "trackers": 0,
   "url": "https://invent.kde.org/utilities/kweather",
+  "verdict": "Effectively ad-free"
+ },
+ "inventaire.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1870,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Inventaire - your friends and communities are your best library - Inventaire",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://inventaire.io/",
   "verdict": "Effectively ad-free"
  },
  "invizible.net": {
@@ -70420,6 +71651,35 @@
   "url": "https://jan.ai/",
   "verdict": "Very clean"
  },
+ "janereader.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 661,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jane Reader - A modern epub reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://janereader.com/",
+  "verdict": "Effectively ad-free"
+ },
  "jango.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -70897,7 +72157,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -71448,6 +72708,35 @@
   "url": "https://jobspresso.co/",
   "verdict": "Ad-saturated / hostile"
  },
+ "jockantv.eu": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://jockantv.eu/",
+  "verdict": "Effectively ad-free"
+ },
  "joedangerthegame.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -71512,6 +72801,35 @@
   "trackers": 2,
   "url": "https://jogorama.com.br",
   "verdict": "Heavy advertising"
+ },
+ "johnfactotum.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 368,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Foliate\u2009\u2014\u2009E-book Reader for Linux",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://johnfactotum.github.io/foliate/",
+  "verdict": "Effectively ad-free"
  },
  "joiiplay.com": {
   "ad_domains": 4,
@@ -71607,6 +72925,35 @@
   "trackers": 1,
   "url": "https://joingroop.com/",
   "verdict": "Light advertising"
+ },
+ "joinmayberry.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 151,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mayberry, a self-hosted public library branch",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://joinmayberry.com/",
+  "verdict": "Effectively ad-free"
  },
  "joinmobilizon.org": {
   "ad_domains": 0,
@@ -73562,6 +74909,35 @@
   "url": "https://keygenmusic.tk/",
   "verdict": "Effectively ad-free"
  },
+ "keyman.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 555,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Keyman | Type to the world in your language",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://keyman.com/",
+  "verdict": "Effectively ad-free"
+ },
  "khinsider.squid.wtf": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -73797,6 +75173,68 @@
   "url": "https://kindanice.itch.io/",
   "verdict": "Light advertising"
  },
+ "kindle-epub-fix.netlify.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Amazon Kindle EPUB Fix",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://kindle-epub-fix.netlify.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "kindlemodding.org": {
+  "ad_domains": 3,
+  "ad_requests": 12,
+  "ad_slots": 2,
+  "ad_weight_pct": 59.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 955,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 47.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KindleModding - Jailbreaking Your Kindle",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://kindlemodding.org/jailbreaking/index.html",
+  "verdict": "Heavy advertising"
+ },
  "kindlemodshelf.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -74006,7 +75444,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 12.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -74037,7 +75475,7 @@
   "ad_requests": 2,
   "ad_slots": 1,
   "ad_weight_pct": 22.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -74220,7 +75658,7 @@
   "ad_requests": 23,
   "ad_slots": 6,
   "ad_weight_pct": 50.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -74341,6 +75779,35 @@
   "trackers": 1,
   "url": "https://kittensgame.com/web/",
   "verdict": "Light advertising"
+ },
+ "kkphim.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3213,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ph\u00e1t h\u00e0nh phim mi\u1ec5n ph\u00ed ch\u1ea5t l\u01b0\u1ee3ng cao c\u1eadp nh\u1eadt li\u00ean t\u1ee5c - Phim Ngu\u1ed3n - KKPhim.VIP",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://kkphim.com/",
+  "verdict": "Effectively ad-free"
  },
  "klaster1.github.io": {
   "ad_domains": 0,
@@ -75644,7 +77111,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -75696,6 +77163,68 @@
   "trackers": 0,
   "url": "https://kumu.io/Windscribe/vpn-relationships",
   "verdict": "Effectively ad-free"
+ },
+ "kupdf.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1145,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KUPDF - Free document sharing platform - Upload and share",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 5,
+  "url": "https://kupdf.net/",
+  "verdict": "Very clean"
+ },
+ "kurdsubtitle.net": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10306,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kurdsubtitle",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://kurdsubtitle.net",
+  "verdict": "Very clean"
  },
  "kuribo64.net": {
   "ad_domains": 0,
@@ -76854,7 +78383,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 33.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -76910,6 +78439,35 @@
   "trackers": 0,
   "url": "https://launchball.sciencemuseum.org.uk/",
   "verdict": "Very clean"
+ },
+ "launchpad.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 161,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "qpdfview in Launchpad",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://launchpad.net/qpdfview",
+  "verdict": "Effectively ad-free"
  },
  "lawnchair.app": {
   "ad_domains": 0,
@@ -77798,7 +79356,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 30.4,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -77829,7 +79387,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -78832,6 +80390,37 @@
   "url": "https://library.cufiy.net/library/",
   "verdict": "Effectively ad-free"
  },
+ "library.land": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1349,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Read Free From Internet",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://library.land/",
+  "verdict": "Light advertising"
+ },
  "library.med.utah.edu": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -79183,7 +80772,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 13.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -79215,7 +80804,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79244,7 +80833,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 5.4,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -79270,6 +80859,35 @@
   "trackers": 6,
   "url": "https://librotecarios.blogspot.com/",
   "verdict": "Very clean"
+ },
+ "librumreader.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4918,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Librum",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://librumreader.com",
+  "verdict": "Effectively ad-free"
  },
  "lichess.org": {
   "ad_domains": 0,
@@ -80652,6 +82270,35 @@
   "trackers": 1,
   "url": "https://liteapks.com/",
   "verdict": "Very clean"
+ },
+ "litera-reader.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1644,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LITERA Reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://litera-reader.com/",
+  "verdict": "Effectively ad-free"
  },
  "litgu.ru": {
   "ad_domains": 1,
@@ -83238,6 +84885,35 @@
   "url": "https://luong-komorebi.github.io/Awesome-Linux-Software/",
   "verdict": "Effectively ad-free"
  },
+ "lupiteam.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 441,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LupiTeam - Manga in italiano",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://lupiteam.net/",
+  "verdict": "Effectively ad-free"
+ },
  "luteorg.github.io": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -84918,7 +86594,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 23.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -85498,6 +87174,48 @@
   "url": "https://manuscriptminiatures.com/",
   "verdict": "Light advertising"
  },
+ "manybooks.net": {
+  "ad_domains": 37,
+  "ad_requests": 83,
+  "ad_slots": 4,
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa.agkn.com",
+   "ap.lijit.com",
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "cs.emxdgt.com",
+   "cs.media.net",
+   "dis.criteo.com",
+   "eb2.3lift.com",
+   "eus.rubiconproject.com",
+   "ib.adnxs.com",
+   "id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 4761,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 16.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "50,000+ Free eBooks in the Genres you Love | Manybooks",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 7,
+  "url": "https://manybooks.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "maoschanz.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -86062,7 +87780,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 6.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -87316,7 +89034,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -87975,7 +89693,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -92538,6 +94256,38 @@
   "url": "https://muaddib-sci-fi.blogspot.com/",
   "verdict": "Effectively ad-free"
  },
+ "muathongminh.vn": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 1,
+  "ad_weight_pct": 1.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 11616,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mua Th\u00f4ng Minh",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://muathongminh.vn/",
+  "verdict": "Light advertising"
+ },
  "mubert.com": {
   "ad_domains": 4,
   "ad_requests": 5,
@@ -92828,6 +94578,38 @@
   "trackers": 0,
   "url": "https://muntashirakon.github.io/AppManager/",
   "verdict": "Effectively ad-free"
+ },
+ "mupdf.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 29.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1080,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MuPDF: The ultimate library for managing PDF documents",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 9,
+  "url": "https://mupdf.com/",
+  "verdict": "Moderate advertising"
  },
  "murdle.com": {
   "ad_domains": 1,
@@ -95871,6 +97653,39 @@
   "url": "https://netgames.io/",
   "verdict": "Ad-saturated / hostile"
  },
+ "nethd.org": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 66.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 601,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 65.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u0110\u0103ng nh\u1eadp",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://nethd.org/",
+  "verdict": "Moderate advertising"
+ },
  "netshows.xyz": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -97105,7 +98920,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -98114,7 +99929,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -98315,6 +100130,35 @@
   "trackers": 1,
   "url": "https://npckc.itch.io/deskspace",
   "verdict": "Very clean"
+ },
+ "npo.nl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5604,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "De portal van de Publieke Omroep",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://npo.nl/",
+  "verdict": "Effectively ad-free"
  },
  "nptel.ac.in": {
   "ad_domains": 1,
@@ -100779,6 +102623,35 @@
   "url": "https://ok.ru/",
   "verdict": "Moderate advertising"
  },
+ "okular.kde.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3030,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Okular - The Universal Document Viewer",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://okular.kde.org/",
+  "verdict": "Effectively ad-free"
+ },
  "olamovies.dad": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -101785,6 +103658,37 @@
   "url": "https://ooooooooo.ooo/browse",
   "verdict": "Effectively ad-free"
  },
+ "oorboekje.nl": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 55.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 273,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Oorboekje - Het spoorboekje voor de radio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://oorboekje.nl/",
+  "verdict": "Light advertising"
+ },
  "ootmm.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -101841,6 +103745,35 @@
   ],
   "trackers": 0,
   "url": "http://open-lit.com/html/",
+  "verdict": "Effectively ad-free"
+ },
+ "open-slum.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Shadow Library Uptime Monitor (SLUM)",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://open-slum.org/",
   "verdict": "Effectively ad-free"
  },
  "open.gridea.dev": {
@@ -102612,6 +104545,35 @@
   "url": "https://openings.moe/",
   "verdict": "Effectively ad-free"
  },
+ "openlibrary.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 80,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Human Verification | Open Library",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://openlibrary.org/",
+  "verdict": "Effectively ad-free"
+ },
  "openlm.ai": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -102703,6 +104665,35 @@
   "trackers": 1,
   "url": "https://openmaptiles.org/",
   "verdict": "Very clean"
+ },
+ "openmedialibrary.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 646,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Open Media Library",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://openmedialibrary.com/",
+  "verdict": "Effectively ad-free"
  },
  "openmhz.com": {
   "ad_domains": 1,
@@ -103589,6 +105580,35 @@
   "trackers": 3,
   "url": "https://operavision.eu/",
   "verdict": "Very clean"
+ },
+ "ophim18.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://ophim18.cc/",
+  "verdict": "Effectively ad-free"
  },
  "ophysics.com": {
   "ad_domains": 0,
@@ -105866,6 +107886,39 @@
   "url": "https://papeer.tech/",
   "verdict": "Effectively ad-free"
  },
+ "paper.naya.com.np": {
+  "ad_domains": 3,
+  "ad_requests": 14,
+  "ad_slots": 1,
+  "ad_weight_pct": 43.8,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 781,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 50.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Paper",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://paper.naya.com.np/",
+  "verdict": "Heavy advertising"
+ },
  "paper2gal.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -106606,6 +108659,66 @@
   "url": "https://pdalife.ru/",
   "verdict": "Effectively ad-free"
  },
+ "pdfcoffee.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 27.2,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1035,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Upload as much as you need! Unlimited volume of uploaded files. - PDFCOFFEE.COM",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://pdfcoffee.com",
+  "verdict": "Light advertising"
+ },
+ "pdfcookie.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://pdfcookie.com/",
+  "verdict": "Effectively ad-free"
+ },
  "pdfknihy.maxzone.eu": {
   "ad_domains": 12,
   "ad_requests": 59,
@@ -106707,6 +108820,38 @@
   ],
   "trackers": 1,
   "url": "https://pdfmagazines.club/news/",
+  "verdict": "Very clean"
+ },
+ "pdfroom.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 11910,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PDF Room - Your Search Engine For Free PDFs",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 5,
+  "url": "https://pdfroom.com/",
   "verdict": "Very clean"
  },
  "peazip.github.io": {
@@ -107615,6 +109760,35 @@
   "trackers": 1,
   "url": "https://philosophy.stackexchange.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "phim.nguonc.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://phim.nguonc.com/",
+  "verdict": "Effectively ad-free"
  },
  "phish.in": {
   "ad_domains": 1,
@@ -110945,7 +113119,7 @@
   "ad_requests": 23,
   "ad_slots": 3,
   "ad_weight_pct": 13.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -115091,6 +117265,38 @@
   "url": "https://psiphon.ca/",
   "verdict": "Light advertising"
  },
+ "psl.org.pk": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 23.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 683,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PSL | Dictionary | Pakistan Sign Language",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://psl.org.pk/dictionary",
+  "verdict": "Light advertising"
+ },
  "psprices.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -115375,6 +117581,35 @@
   ],
   "trackers": 0,
   "url": "https://publicdomainrecipes.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "publicdomainreview.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3321,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Public Domain Review \u2013 Online journal dedicated to showcasing the most interesting and",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://publicdomainreview.org/",
   "verdict": "Effectively ad-free"
  },
  "publish.obsidian.md": {
@@ -116164,6 +118399,40 @@
   "trackers": 0,
   "url": "https://quad9.net/",
   "verdict": "Effectively ad-free"
+ },
+ "quantrimang.com": {
+  "ad_domains": 4,
+  "ad_requests": 53,
+  "ad_slots": 12,
+  "ad_weight_pct": 61.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1613,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 9.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "QuanTriMang: Ki\u1ebfn th\u1ee9c AI, C\u00f4ng ngh\u1ec7, Khoa h\u1ecdc",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://quantrimang.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "quartermaester.info": {
   "ad_domains": 2,
@@ -117248,6 +119517,35 @@
   ],
   "trackers": 3,
   "url": "https://radioparadise.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "radioplayer.be": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 397,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Radioplayer - Ecoutez vos oreilles",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://radioplayer.be/",
   "verdict": "Effectively ad-free"
  },
  "radiosaovivo.net": {
@@ -118689,6 +120987,35 @@
   "url": "https://readdle.com/documents",
   "verdict": "Light advertising"
  },
+ "reader.ttsu.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7783,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Book Manager | \u30c3\u30c4 Ebook Reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://reader.ttsu.app/manage",
+  "verdict": "Effectively ad-free"
+ },
  "readera.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -118938,6 +121265,37 @@
   "trackers": 2,
   "url": "https://readwise.io/read",
   "verdict": "Light advertising"
+ },
+ "readwok.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4608,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Readwok - progressive online text reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 4,
+  "url": "https://readwok.com/",
+  "verdict": "Very clean"
  },
  "real-debrid.com": {
   "ad_domains": 0,
@@ -121934,7 +124292,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -124082,7 +126440,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -125204,6 +127562,38 @@
   "url": "https://scenewise.io/",
   "verdict": "Moderate advertising"
  },
+ "schatkamer.beeldengeluid.nl": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 17034,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "De Schatkamer",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://schatkamer.beeldengeluid.nl/",
+  "verdict": "Very clean"
+ },
  "schismtracker.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -125422,7 +127812,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 93.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -126863,6 +129253,38 @@
   "url": "https://sega-play.online/",
   "verdict": "Effectively ad-free"
  },
+ "segoideas.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 41.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 423,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 74.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Segoideas.com | Taiwan Entertainment \u2013 Taiwanese Idol Dramas \u53f0\u7063\u5076\u50cf\u5287",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://segoideas.com/",
+  "verdict": "Light advertising"
+ },
  "seireshd.com": {
   "ad_domains": 1,
   "ad_requests": 4,
@@ -127107,6 +129529,35 @@
   ],
   "trackers": 0,
   "url": "https://selfhost.directory/",
+  "verdict": "Effectively ad-free"
+ },
+ "send2ereader.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Send to Kobo/Kindle",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://send2ereader.net/",
   "verdict": "Effectively ad-free"
  },
  "sendcutsend.com": {
@@ -127531,6 +129982,38 @@
   "url": "https://shadowsocks.org/",
   "verdict": "Light advertising"
  },
+ "shafilm.vip": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 5,
+  "ad_weight_pct": 5.8,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7219,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 46.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "\u0634\u0627\u0641\u06cc\u0644\u0645 - \u0646\u0648\u06ce\u062a\u0631\u06cc\u0646 \u0641\u06cc\u0644\u0645 \u0648 \u0632\u0646\u062c\u06cc\u0631\u06d5\u0643\u0627\u0646",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 8,
+  "url": "https://shafilm.vip/",
+  "verdict": "Heavy advertising"
+ },
  "shahiid-anime.net": {
   "ad_domains": 2,
   "ad_requests": 7,
@@ -127927,6 +130410,35 @@
   "trackers": 11,
   "url": "https://sheetsresume.com/builder",
   "verdict": "Moderate advertising"
+ },
+ "sherlock-holm.es": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 284,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The complete Sherlock Holmes",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://sherlock-holm.es/",
+  "verdict": "Effectively ad-free"
  },
  "shinden.pl": {
   "ad_domains": 8,
@@ -129252,7 +131764,7 @@
   "ad_requests": 7,
   "ad_slots": 1,
   "ad_weight_pct": 2.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -129281,6 +131793,35 @@
   "trackers": 2,
   "url": "https://sinnerclownceviri.net",
   "verdict": "Moderate advertising"
+ },
+ "sioyek.info": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 24924,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sioyek",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://sioyek.info/",
+  "verdict": "Effectively ad-free"
  },
  "siril.org": {
   "ad_domains": 0,
@@ -130635,6 +133176,37 @@
   "url": "https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/",
   "verdict": "Effectively ad-free"
  },
+ "sofaflix.biz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7080,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 3,
+  "refs": 2,
+  "score": 76.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Telegram: Contact @vel1x0",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 6,
+  "url": "https://sofaflix.biz/",
+  "verdict": "Light advertising"
+ },
  "soft98.ir": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -131113,6 +133685,48 @@
   "trackers": 0,
   "url": "https://sona.pona.la/",
   "verdict": "Effectively ad-free"
+ },
+ "sonako.fandom.com": {
+  "ad_domains": 29,
+  "ad_requests": 77,
+  "ad_slots": 3,
+  "ad_weight_pct": 36.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "2a93f682a30c6182d3e8269f1669bed4.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "bcp.crwdcntrl.net",
+   "cdn-gl.imrworldwide.com",
+   "cdn.adsafeprotected.com",
+   "cm.g.doubleclick.net",
+   "dsum-sec.casalemedia.com",
+   "g2.gumgum.com",
+   "ib.adnxs.com",
+   "image2.pubmatic.com",
+   "irwvrrnyeak0ro7yx5cv0si7r3eby1787581597.nuid.imrworldwide.com",
+   "match.adsrvr.org"
+  ],
+  "ok": true,
+  "page_kb": 2786,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 13.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sonako Light Novel Wiki | Fandom",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel",
+  "verdict": "Ad-saturated / hostile"
  },
  "sonar.dphn.ai": {
   "ad_domains": 0,
@@ -132991,6 +135605,35 @@
   "url": "https://speedcubedb.com/",
   "verdict": "Effectively ad-free"
  },
+ "speeedy.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 138,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Speeedy \u2014 Free Open-Source Speed Reader | RSVP, ORP, PDF & EPUB",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://speeedy.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "spellcheck.xyz": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -134298,6 +136941,35 @@
   "url": "https://stagetimer.io/",
   "verdict": "Effectively ad-free"
  },
+ "standardebooks.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 456,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://standardebooks.org/",
+  "verdict": "Effectively ad-free"
+ },
  "starbestfit.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -135160,7 +137832,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -138589,6 +141261,37 @@
   "url": "https://tagcloud.rainosullivan.com/",
   "verdict": "Light advertising"
  },
+ "tailieuonthi.edu.vn": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1918,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "T\u00e0i li\u1ec7u \u00f4n thi THCS - THPT - \u0110GNL - \u0110GTD mi\u1ec5n ph\u00ed",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://tailieuonthi.edu.vn/",
+  "verdict": "Very clean"
+ },
  "tails.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -139904,7 +142607,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -142758,6 +145461,35 @@
   "url": "https://thisxdoesnotexist.com/",
   "verdict": "Effectively ad-free"
  },
+ "thorium.edrlab.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 720,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Thorium Reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://thorium.edrlab.org/",
+  "verdict": "Effectively ad-free"
+ },
  "thoughtmaybe.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143177,6 +145909,35 @@
   "trackers": 4,
   "url": "https://tiermaker.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "tieulun.hd.free.fr": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3300,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Th\u01b0 Vi\u1ec7n Ti\u1ebfu L\u00f9n - S\u00e1ch M\u1edbi",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://tieulun.hd.free.fr/",
+  "verdict": "Effectively ad-free"
  },
  "tiii.me": {
   "ad_domains": 2,
@@ -144168,7 +146929,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145339,7 +148100,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145920,6 +148681,35 @@
   ],
   "trackers": 2,
   "url": "https://trakt.tv/",
+  "verdict": "Effectively ad-free"
+ },
+ "tramphim2.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3257,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tr\u1ea1m Phim | Xem Phim Online Vietsub, Thuy\u1ebft Minh | Phim M\u1edbi HD",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://tramphim2.org/",
   "verdict": "Effectively ad-free"
  },
  "transharmreduction.org": {
@@ -146798,12 +149588,73 @@
   "url": "https://truncate.town/",
   "verdict": "Effectively ad-free"
  },
+ "truyenfull.vision": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 3,
+  "ad_weight_pct": 25.1,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1796,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Truyenfull - Website \u0111\u1ecdc truy\u1ec7n Online full l\u1edbn v\u00e0 nhi\u1ec1u ng\u01b0\u1eddi y\u00eau th\u00edch",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://truyenfull.vision/",
+  "verdict": "Moderate advertising"
+ },
+ "truyenqqviet.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://truyenqqviet.com/",
+  "verdict": "Effectively ad-free"
+ },
  "trwebtoon.com": {
   "ad_domains": 3,
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 11.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -147541,7 +150392,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -147570,7 +150421,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 55.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -147858,6 +150709,67 @@
   "trackers": 0,
   "url": "https://tv.laroza.now/",
   "verdict": "Effectively ad-free"
+ },
+ "tv.nrk.no": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2898,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Forsiden - NRK TV",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://tv.nrk.no/",
+  "verdict": "Effectively ad-free"
+ },
+ "tv360.vn": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 3,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 13058,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 68.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TV360 \u2013 Xem truy\u1ec1n h\u00ecnh, th\u1ec3 thao C1, C2, kho phim bom t\u1ea5n, TV show, Anime",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://tv360.vn/",
+  "verdict": "Moderate advertising"
  },
  "tvatlas.app": {
   "ad_domains": 1,
@@ -148637,7 +151549,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -148666,7 +151578,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 10.8,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -150248,7 +153160,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 53.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -150339,7 +153251,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -150397,7 +153309,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 16.4,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -150614,6 +153526,35 @@
   "trackers": 3,
   "url": "https://vagalume.fm",
   "verdict": "Ad-saturated / hostile"
+ },
+ "vaizdopamokos.lt": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 983,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vaizdopamokos.lt",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://vaizdopamokos.lt/",
+  "verdict": "Effectively ad-free"
  },
  "valuta.exchange": {
   "ad_domains": 8,
@@ -151018,7 +153959,7 @@
   "ad_requests": 0,
   "ad_slots": 3,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -151857,6 +154798,45 @@
   "url": "https://vidhub.me/",
   "verdict": "Effectively ad-free"
  },
+ "vieon.vn": {
+  "ad_domains": 9,
+  "ad_requests": 38,
+  "ad_slots": 1,
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "e95d17a003ab95db897cbb4841d84fd8.safeframe.googlesyndication.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 72086,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 33.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VieON | Xem Phim & Show \u0110\u1ed9c Quy\u1ec1n HOT Nh\u1ea5t Hi\u1ec7n Nay",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 10,
+  "url": "https://vieon.vn/",
+  "verdict": "Very heavy advertising"
+ },
  "vietjack.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -151887,6 +154867,35 @@
   "trackers": 3,
   "url": "https://vietjack.com/",
   "verdict": "Light advertising"
+ },
+ "vietwriter.one": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "404 Not Found",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://vietwriter.one/",
+  "verdict": "Effectively ad-free"
  },
  "viewer.gigamacro.com": {
   "ad_domains": 2,
@@ -154556,6 +157565,35 @@
   "url": "https://warclicks.com/",
   "verdict": "Moderate advertising"
  },
+ "warez.ge": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 250,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Warez.Ge",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://warez.ge/",
+  "verdict": "Effectively ad-free"
+ },
  "warezload.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -155633,6 +158671,35 @@
   "url": "https://web.libretro.com/",
   "verdict": "Effectively ad-free"
  },
+ "web.readest.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11117,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Readest \u2014 Where You Read, Digest and Get Insight",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://web.readest.com/",
+  "verdict": "Effectively ad-free"
+ },
  "web.stremio.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -155968,7 +159035,7 @@
   "ad_requests": 2,
   "ad_slots": 1,
   "ad_weight_pct": 0.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -156416,7 +159483,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 26.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -156663,6 +159730,35 @@
   ],
   "trackers": 0,
   "url": "https://weight-loss-side-effects.netlify.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "welib.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1053,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WeLib - 43 million books, 98 million papers. All free. All yours.",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://welib.org/",
   "verdict": "Effectively ad-free"
  },
  "wellfound.com": {
@@ -158672,6 +161768,35 @@
   "url": "https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home",
   "verdict": "Effectively ad-free"
  },
+ "wikisource.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2060,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Wikisource",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://wikisource.org",
+  "verdict": "Effectively ad-free"
+ },
  "wikitia.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -158972,6 +162097,35 @@
   "trackers": 1,
   "url": "https://windage.online/",
   "verdict": "Light advertising"
+ },
+ "windjview.sourceforge.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://windjview.sourceforge.io/",
+  "verdict": "Effectively ad-free"
  },
  "windscribe.com": {
   "ad_domains": 0,
@@ -159328,6 +162482,37 @@
   "url": "https://wjungle.net/",
   "verdict": "Effectively ad-free"
  },
+ "wlext.is": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3927,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WLEXT's Just Binge It: Your #1 Spot for International Entertainment",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://wlext.is/",
+  "verdict": "Very clean"
+ },
  "woe-industries.itch.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -159503,6 +162688,37 @@
   "title": "Woogles.io",
   "trackers": 0,
   "url": "https://woogles.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "woordenboek.vlaamsegebarentaal.be": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.1,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 13717,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Woordenboek Vlaamse Gebarentaal",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://woordenboek.vlaamsegebarentaal.be/",
   "verdict": "Effectively ad-free"
  },
  "woozlit.com": {
@@ -161048,7 +164264,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -161079,7 +164295,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 26.4,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -164757,6 +167973,35 @@
   "url": "https://www.animesonglyrics.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.animesrbija.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.animesrbija.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.animeunity.so": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -165196,7 +168441,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 7.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -166595,6 +169840,47 @@
   "url": "https://www.aurorascreen.org/",
   "verdict": "Very clean"
  },
+ "www.auto-brochures.com": {
+  "ad_domains": 11,
+  "ad_requests": 68,
+  "ad_slots": 3,
+  "ad_weight_pct": 44.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "us-u.openx.net"
+  ],
+  "ok": true,
+  "page_kb": 1874,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 9.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Auto-Brochures | home",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://www.auto-brochures.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.auto-manual.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -166803,6 +170089,35 @@
   "trackers": 7,
   "url": "http://www.b737.org.uk/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.babla.vn": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.babla.vn/",
+  "verdict": "Effectively ad-free"
  },
  "www.babycenter.com": {
   "ad_domains": 11,
@@ -167780,7 +171095,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -168594,6 +171909,37 @@
   "trackers": 0,
   "url": "https://www.bogleheads.org/wiki/Main_Page",
   "verdict": "Effectively ad-free"
+ },
+ "www.bookfrom.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1143,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Read Online Free Books",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.bookfrom.net/",
+  "verdict": "Very clean"
  },
  "www.bookstack.cn": {
   "ad_domains": 0,
@@ -169743,7 +173089,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -169772,7 +173118,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -170488,7 +173834,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 24.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -173211,6 +176557,35 @@
   "url": "https://www.core-econ.org/",
   "verdict": "Very clean"
  },
+ "www.corpusngt.nl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 386,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | Corpus NGT",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.corpusngt.nl/",
+  "verdict": "Effectively ad-free"
+ },
  "www.countdowns.live": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -174576,7 +177951,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 13.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -175703,7 +179078,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -175732,7 +179107,7 @@
   "ad_requests": 1,
   "ad_slots": 36,
   "ad_weight_pct": 12.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -175763,7 +179138,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -176071,7 +179446,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 10.1,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -176578,6 +179953,38 @@
   "url": "https://www.dozaanimata.net/",
   "verdict": "Light advertising"
  },
+ "www.dpgroup.org": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 354,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "dpgroup.org",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.dpgroup.org/",
+  "verdict": "Moderate advertising"
+ },
  "www.dpoetry.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -176606,6 +180013,35 @@
   "trackers": 0,
   "url": "https://www.dpoetry.com/fires/",
   "verdict": "Effectively ad-free"
+ },
+ "www.dr.dk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 2,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 24717,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DR: Nyheder - Breaking - TV - Radio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.dr.dk/",
+  "verdict": "Very clean"
  },
  "www.drawaurora.com": {
   "ad_domains": 0,
@@ -177348,6 +180784,35 @@
   "url": "https://www.ebook-land.cc/index.php",
   "verdict": "Effectively ad-free"
  },
+ "www.ebookhunter.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 441,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The eBook Hunter - Download Free eBooks",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.ebookhunter.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.ebs.co.kr": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -177779,6 +181244,35 @@
   "url": "https://www.ehistory.go.kr/",
   "verdict": "Effectively ad-free"
  },
+ "www.eldritchdark.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 19,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Clark Ashton Smith - The Eldritch Dark",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "http://www.eldritchdark.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.electronics-tutorials.ws": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -177813,7 +181307,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -177873,7 +181367,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -178439,7 +181933,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 30.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -178712,7 +182206,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -179273,12 +182767,41 @@
   "url": "https://www.europeana.eu/",
   "verdict": "Effectively ad-free"
  },
+ "www.euskal-encodings.eus": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 204,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Euskal Encodings - Indizea",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.euskal-encodings.eus/",
+  "verdict": "Effectively ad-free"
+ },
  "www.eventoshq.me": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -179471,6 +182994,35 @@
   "trackers": 2,
   "url": "https://www.exactaudiocopy.de/",
   "verdict": "Very heavy advertising"
+ },
+ "www.exclassics.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 227,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Ex-Classics Web Site Main Page",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.exclassics.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.exoroad.com": {
   "ad_domains": 0,
@@ -179834,6 +183386,37 @@
   "url": "https://www.facebook.com/groups/850609558335839",
   "verdict": "Effectively ad-free"
  },
+ "www.fadedpage.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 540,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "fadedpage.com",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.fadedpage.com/",
+  "verdict": "Very clean"
+ },
  "www.fakewhats.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -179993,7 +183576,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 12.2,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -181458,6 +185041,37 @@
   "url": "https://www.flowmusic.app/",
   "verdict": "Light advertising"
  },
+ "www.flowoss.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 72.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 385,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 76.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flow - Online EPUB reader",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 5,
+  "url": "https://www.flowoss.com/",
+  "verdict": "Light advertising"
+ },
  "www.flowtunes.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -181970,7 +185584,7 @@
   "ad_requests": 14,
   "ad_slots": 0,
   "ad_weight_pct": 48.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -182234,6 +185848,41 @@
   "trackers": 0,
   "url": "https://www.fourmilab.ch/cgi-bin/Earth",
   "verdict": "Effectively ad-free"
+ },
+ "www.foxit.com": {
+  "ad_domains": 5,
+  "ad_requests": 14,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1544,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 63.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free PDF Reader: Download and View PDFs | Foxit",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.foxit.com/pdf-reader/",
+  "verdict": "Moderate advertising"
  },
  "www.fragrantica.com": {
   "ad_domains": 2,
@@ -182589,7 +186238,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -182779,6 +186428,35 @@
   "trackers": 6,
   "url": "https://www.freeriderhd.com/",
   "verdict": "Very heavy advertising"
+ },
+ "www.freesfonline.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Speculative Fiction Online: Links to Science Fiction & Fantasy Stories Online",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.freesfonline.net/",
+  "verdict": "Effectively ad-free"
  },
  "www.freesoundslibrary.com": {
   "ad_domains": 0,
@@ -183180,6 +186858,40 @@
   "trackers": 0,
   "url": "https://www.futuretools.io/?pricing-model=free",
   "verdict": "Effectively ad-free"
+ },
+ "www.fviewer.com": {
+  "ad_domains": 4,
+  "ad_requests": 12,
+  "ad_slots": 2,
+  "ad_weight_pct": 61.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 661,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 43.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Online Cloud File Viewer",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 3,
+  "url": "https://www.fviewer.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.gaiaonline.com": {
   "ad_domains": 3,
@@ -184412,6 +188124,39 @@
   "url": "https://www.glaielgames.com/succubox/",
   "verdict": "Light advertising"
  },
+ "www.gledajcrtace.rs": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.3,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7524,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gledaj Crta\u0107e - Va\u0161i omiljeni crta\u0107i na srpskom i hrvatskom",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.gledajcrtace.rs/",
+  "verdict": "Light advertising"
+ },
  "www.globalfirepower.com": {
   "ad_domains": 10,
   "ad_requests": 115,
@@ -184482,6 +188227,37 @@
   ],
   "trackers": 23,
   "url": "https://www.globalforestwatch.org/map/",
+  "verdict": "Light advertising"
+ },
+ "www.globalgreyebooks.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 29.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 921,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Global Grey Ebooks: beautifully formatted free ebooks in a variety of genres",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://www.globalgreyebooks.com/index.html",
   "verdict": "Light advertising"
  },
  "www.globeofhistory.com": {
@@ -185224,6 +189000,39 @@
   "trackers": 0,
   "url": "https://www.gresham.ac.uk/",
   "verdict": "Very clean"
+ },
+ "www.grimmstories.com": {
+  "ad_domains": 3,
+  "ad_requests": 22,
+  "ad_slots": 2,
+  "ad_weight_pct": 82.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 589,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 35.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Grimmstories.com - Grimms' fairy tales",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.grimmstories.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.groundedsap.co.uk": {
   "ad_domains": 0,
@@ -186057,6 +189866,35 @@
   "trackers": 0,
   "url": "https://www.haxball.com/",
   "verdict": "Very clean"
+ },
+ "www.hcmut-courseware.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 110,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Danh m\u1ee5c m\u00f4n h\u1ecdc \u00b7 HCMUT Courseware",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.hcmut-courseware.org/courses",
+  "verdict": "Effectively ad-free"
  },
  "www.hdfilmcehennemi.nl": {
   "ad_domains": 0,
@@ -187215,6 +191053,37 @@
   "trackers": 0,
   "url": "https://www.howtostudykorean.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.hplovecraft.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 70.2,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 454,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The H.P. Lovecraft Archive",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 4,
+  "url": "https://www.hplovecraft.com/",
+  "verdict": "Light advertising"
  },
  "www.hpmuseum.net": {
   "ad_domains": 1,
@@ -189535,7 +193404,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 15.2,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -190292,6 +194161,38 @@
   "trackers": 0,
   "url": "https://www.justdeleteaccount.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.justfreebooks.info": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 73.1,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 234,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free books online - JustFreeBooks search engine",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.justfreebooks.info/",
+  "verdict": "Light advertising"
  },
  "www.justice.gov": {
   "ad_domains": 1,
@@ -191143,7 +195044,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -191487,6 +195388,35 @@
   "url": "https://www.koodoreader.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.kool.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2012,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "kool.to",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.kool.to/",
+  "verdict": "Effectively ad-free"
+ },
  "www.kordoz.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -191576,6 +195506,39 @@
   "url": "https://www.kpopflac.xyz/",
   "verdict": "Effectively ad-free"
  },
+ "www.krdtv.online": {
+  "ad_domains": 3,
+  "ad_requests": 12,
+  "ad_slots": 2,
+  "ad_weight_pct": 1.9,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 39384,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KRDTV \u2014 \u067e\u06d5\u062e\u0634\u06cc \u0695\u0627\u0633\u062a\u06d5\u0648\u062e\u06c6",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.krdtv.online/",
+  "verdict": "Moderate advertising"
+ },
  "www.ktuvit.me": {
   "ad_domains": 3,
   "ad_requests": 14,
@@ -191608,6 +195571,37 @@
   "trackers": 2,
   "url": "https://www.ktuvit.me/",
   "verdict": "Moderate advertising"
+ },
+ "www.kurdcinama.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.1,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 14490,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u06a9\u0648\u0631\u062f\u0633\u06cc\u0646\u06d5\u0645\u0627 | Kurd Cinema",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://www.kurdcinama.com/",
+  "verdict": "Very clean"
  },
  "www.kvraudio.com": {
   "ad_domains": 0,
@@ -191677,7 +195671,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 26.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -192532,7 +196526,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -194044,6 +198038,41 @@
   "url": "https://www.lostandfoundnature.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.loyalbooks.com": {
+  "ad_domains": 5,
+  "ad_requests": 24,
+  "ad_slots": 2,
+  "ad_weight_pct": 56.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1178,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 28.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "7,000+ Free Audio Books & eBook Downloads - Loyal Books",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 3,
+  "url": "https://www.loyalbooks.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.lpi.usra.edu": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -194862,7 +198891,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -195287,7 +199316,7 @@
   "ad_requests": 189,
   "ad_slots": 14,
   "ad_weight_pct": 45.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -196809,6 +200838,37 @@
   "url": "https://www.minesweeperpro.com/",
   "verdict": "Moderate advertising"
  },
+ "www.minetegn.no": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 716,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Velkommen til: Tegnordbok.no",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.minetegn.no/Tegnordbok-2016/",
+  "verdict": "Light advertising"
+ },
  "www.miniconomy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -198234,7 +202294,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -198510,7 +202570,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.7,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -199280,6 +203340,48 @@
   "url": "https://www.myth-weavers.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.najdi.si": {
+  "ad_domains": 23,
+  "ad_requests": 57,
+  "ad_slots": 3,
+  "ad_weight_pct": 20.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "134086d18c3959b93405f163ce24a1d6.safeframe.googlesyndication.com",
+   "a.teads.tv",
+   "adx.adform.net",
+   "ap.lijit.com",
+   "cm.g.doubleclick.net",
+   "fastlane.rubiconproject.com",
+   "googleads.g.doubleclick.net",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "htlb.casalemedia.com",
+   "ib.adnxs.com",
+   "id.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 3119,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 19.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Najdi.si - vstopna to\u010dka v slovenski splet",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.najdi.si/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.najserialy.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -199696,6 +203798,37 @@
   "trackers": 0,
   "url": "https://www.naver.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.nb.no": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 46.1,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 647,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Digitizing at the National Library - National Library of Norway",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.nb.no/en/digitizing-at-the-national-library/",
+  "verdict": "Light advertising"
  },
  "www.ncei.noaa.gov": {
   "ad_domains": 1,
@@ -201240,7 +205373,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -201297,7 +205430,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -201697,6 +205830,38 @@
   "trackers": 1,
   "url": "https://www.officeholidays.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.ofoct.com": {
+  "ad_domains": 2,
+  "ad_requests": 13,
+  "ad_slots": 2,
+  "ad_weight_pct": 49.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 663,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 47.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ePub Reader Online & Free -- Open ePub file from URL or local to read, no need upload.",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 5,
+  "url": "https://www.ofoct.com/viewer/epub-reader-online.html",
+  "verdict": "Heavy advertising"
  },
  "www.ohmydots.com": {
   "ad_domains": 2,
@@ -202187,6 +206352,46 @@
   "trackers": 2,
   "url": "https://www.onionhop.de/",
   "verdict": "Effectively ad-free"
+ },
+ "www.online-literature.com": {
+  "ad_domains": 10,
+  "ad_requests": 30,
+  "ad_slots": 5,
+  "ad_weight_pct": 76.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ce.lijit.com",
+   "eb2.3lift.com",
+   "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
+   "pagead2.googlesyndication.com",
+   "pixel.quantserve.com",
+   "rtb-csync.smartadserver.com",
+   "rules.quantcount.com",
+   "secure.quantserve.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 540,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 4.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Literature Network: Online classic literature, poems, and quotes. Essays & Summaries",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 1,
+  "url": "https://www.online-literature.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.onlinefilmekingyen1.com": {
   "ad_domains": 0,
@@ -203552,6 +207757,35 @@
   "url": "https://www.packhacker.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.pagebypagebooks.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 29,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Page By Page Books. Read Classic Books Online, Free.",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.pagebypagebooks.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.palcomp3.com.br": {
   "ad_domains": 39,
   "ad_requests": 141,
@@ -204520,6 +208754,35 @@
   "url": "https://www.peteranswers.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.pgdp.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 426,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DP: Welcome",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.pgdp.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.phenome10k.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -205252,6 +209515,66 @@
   "trackers": 0,
   "url": "https://www.plainoldrecipe.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.planetebook.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Checking your browser...",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.planetebook.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.planetpublish.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 34,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Planet Publish \u00bb Free PDF eBooks Archive by Planet PDF",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.planetpublish.com/",
+  "verdict": "Very clean"
  },
  "www.plannedparenthood.org": {
   "ad_domains": 3,
@@ -208185,7 +212508,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -209091,6 +213414,37 @@
   ],
   "trackers": 1,
   "url": "https://www.redrecs.com/",
+  "verdict": "Very clean"
+ },
+ "www.redzidzirdilatviju.lv": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4237,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Redzi, dzirdi Latviju!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.redzidzirdilatviju.lv/",
   "verdict": "Very clean"
  },
  "www.refdesk.com": {
@@ -210649,6 +215003,35 @@
   "url": "https://www.rtings.com/",
   "verdict": "Very clean"
  },
+ "www.rtr.ch": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2609,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play RTR",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.rtr.ch/play/tv",
+  "verdict": "Effectively ad-free"
+ },
  "www.rts.ch": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -210858,6 +215241,38 @@
   "trackers": 0,
   "url": "https://www.russian-records.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.sachhayonline.com": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 55.4,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 810,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 71.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SachHayOnline.com | \u0110\u1ecdc S\u00e1ch Online | Th\u01b0 vi\u1ec7n s\u00e1ch online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.sachhayonline.com/",
+  "verdict": "Moderate advertising"
  },
  "www.sagen.at": {
   "ad_domains": 0,
@@ -213364,7 +217779,7 @@
   "ad_requests": 353,
   "ad_slots": 0,
   "ad_weight_pct": 30.6,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -213406,7 +217821,7 @@
   "ad_requests": 35,
   "ad_slots": 1,
   "ad_weight_pct": 17.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -216471,7 +220886,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -216793,7 +221208,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -217417,6 +221832,35 @@
   "url": "https://www.ted.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.tegnsprog.dk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 125,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ordbog over Dansk Tegnsprog",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.tegnsprog.dk/",
+  "verdict": "Effectively ad-free"
+ },
  "www.tehparadox.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -217707,7 +222151,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.9,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -217805,7 +222249,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 44.3,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -218799,6 +223243,45 @@
   "url": "https://www.thistothat.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.thivien.net": {
+  "ad_domains": 9,
+  "ad_requests": 86,
+  "ad_slots": 4,
+  "ad_weight_pct": 40.6,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 2355,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Thi Vi\u1ec7n",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 9,
+  "url": "https://www.thivien.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.thrustcurve.org": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -218857,6 +223340,43 @@
   "trackers": 0,
   "url": "https://www.thunderbird.net/en-US/mobile/",
   "verdict": "Effectively ad-free"
+ },
+ "www.thvli.vn": {
+  "ad_domains": 7,
+  "ad_requests": 18,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "681f65fad90cc649910a7c22cb47e328.safeframe.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 27100,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 48.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TRANG CH\u1ee6",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://www.thvli.vn/",
+  "verdict": "Heavy advertising"
  },
  "www.ticalc.org": {
   "ad_domains": 2,
@@ -219927,7 +224447,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -220543,7 +225063,7 @@
   "ad_requests": 21,
   "ad_slots": 0,
   "ad_weight_pct": 1.8,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -220584,7 +225104,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -223166,6 +227686,35 @@
   "url": "https://www.warbirdsresourcegroup.org/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.warezhr.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.warezhr.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.wasm.in": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -224491,6 +229040,35 @@
   ],
   "trackers": 0,
   "url": "https://www.wiisfi.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.wikibooks.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 45,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Wikibooks",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.wikibooks.org/",
   "verdict": "Effectively ad-free"
  },
  "www.wikidex.net": {
@@ -226291,6 +230869,35 @@
   "url": "https://www.yodu.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.yomu-reader.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 571,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Yomu EBook Reader for iPhone, iPad and Mac",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://www.yomu-reader.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.yottachess.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -227702,7 +232309,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T14:26:05+00:00",
+  "checked_utc": "2026-08-24T14:28:18+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -228185,6 +232792,37 @@
   "trackers": 0,
   "url": "https://ynoproject.net/",
   "verdict": "Effectively ad-free"
+ },
+ "yoda.az": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 3,
+  "ad_weight_pct": 4.5,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6333,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Yoda.az - Milli telekanallar\u0131n canl\u0131 v\u0259 arxivli yay\u0131m platformas\u0131",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 6,
+  "url": "https://yoda.az/",
+  "verdict": "Light advertising"
  },
  "yogadns.com": {
   "ad_domains": 0,
@@ -229829,6 +234467,37 @@
   "trackers": 0,
   "url": "https://zoom.earth/",
   "verdict": "Heavy advertising"
+ },
+ "zoom.lk": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 28.7,
+  "checked_utc": "2026-08-24T14:28:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 412,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zoom.LK | Sri Lanka's Premier Sinhalese Subtitles Portal",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://zoom.lk/",
+  "verdict": "Light advertising"
  },
  "zoowomaniacos.org": {
   "ad_domains": 1,
