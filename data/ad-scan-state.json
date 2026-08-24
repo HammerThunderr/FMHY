@@ -2429,7 +2429,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -2659,6 +2659,38 @@
   "url": "https://ac.qq.com/",
   "verdict": "Effectively ad-free"
  },
+ "academica.edu.pl": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1535,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Academica",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://academica.edu.pl/",
+  "verdict": "Light advertising"
+ },
  "academictorrents.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -2721,6 +2753,38 @@
   "trackers": 3,
   "url": "https://academo.org/",
   "verdict": "Heavy advertising"
+ },
+ "academy.omie.com.br": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5584,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Omie.Academy",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://academy.omie.com.br",
+  "verdict": "Light advertising"
  },
  "academynetwork.net": {
   "ad_domains": 0,
@@ -3056,6 +3120,37 @@
   "trackers": 0,
   "url": "https://actualbudget.org/",
   "verdict": "Effectively ad-free"
+ },
+ "adapter.pl": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2751,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Adapter - Portal VOD dla os\u00f3b niewidomych i nies\u0142ysz\u0105cych",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://adapter.pl/",
+  "verdict": "Very clean"
  },
  "adarkroom.doublespeakgames.com": {
   "ad_domains": 1,
@@ -3781,7 +3876,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 40.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -7151,6 +7246,38 @@
   "url": "https://animation.filmarchives.jp/index.html",
   "verdict": "Very clean"
  },
+ "anime-odcinki.pl": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2244,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 81.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Odcinki Online Po Polsku - Ogl\u0105daj Anime Pl",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://anime-odcinki.pl/",
+  "verdict": "Light advertising"
+ },
  "anime-sama.tv": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -7359,6 +7486,35 @@
   ],
   "trackers": 0,
   "url": "https://animedrive.hu/",
+  "verdict": "Effectively ad-free"
+ },
+ "animefire.plus": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Attention Required! | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://animefire.plus/",
   "verdict": "Effectively ad-free"
  },
  "animejoker.com": {
@@ -7572,7 +7728,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 85.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -7603,7 +7759,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -8272,7 +8428,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 11.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -9393,6 +9549,46 @@
   "url": "https://app.forkestrate.com/",
   "verdict": "Effectively ad-free"
  },
+ "app.kultivi.com": {
+  "ad_domains": 10,
+  "ad_requests": 15,
+  "ad_slots": 0,
+  "ad_weight_pct": 23.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "cdn.id5-sync.com",
+   "googleads.g.doubleclick.net",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1720,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 37.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kultivi | Cursos online gratuitos e com certifica\u00e7\u00e3o",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://app.kultivi.com",
+  "verdict": "Very heavy advertising"
+ },
  "app.monerica.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -10495,7 +10691,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 60.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -10731,7 +10927,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -11979,7 +12175,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -12777,6 +12973,38 @@
   "trackers": 1,
   "url": "https://audiobookbay.lu/",
   "verdict": "Very clean"
+ },
+ "audiobookpl.tumblr.com": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2066,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 72.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fundacja Promocji Czytelnictwa",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://audiobookpl.tumblr.com/",
+  "verdict": "Light advertising"
  },
  "audiomack.com": {
   "ad_domains": 19,
@@ -14070,7 +14298,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -14208,6 +14436,35 @@
   ],
   "trackers": 0,
   "url": "https://baileysnyder.com/interactive-4d/",
+  "verdict": "Effectively ad-free"
+ },
+ "bajeczki24.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 582,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bajeczki24 | Ogl\u0105daj filmy i seriale za darmo, bez logowania",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://bajeczki24.pl/",
   "verdict": "Effectively ad-free"
  },
  "bakingcalculators.com": {
@@ -16238,7 +16495,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -17652,6 +17909,38 @@
   "url": "https://bollymod.forum/",
   "verdict": "Light advertising"
  },
+ "bombozila.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4924,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bombozila \u00b7 Document\u00e1rios de impacto social",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://bombozila.com",
+  "verdict": "Very clean"
+ },
  "bombuj.si": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -18247,7 +18536,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18443,6 +18732,35 @@
   ],
   "trackers": 0,
   "url": "https://boxradio.net/",
+  "verdict": "Effectively ad-free"
+ },
+ "br.radio.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 768,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "R\u00e1dio online gratuita e transmiss\u00e3o de m\u00fasica online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://br.radio.net",
   "verdict": "Effectively ad-free"
  },
  "brackeys.com": {
@@ -19326,7 +19644,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -20638,6 +20956,43 @@
   "url": "https://camstreamer.com/live",
   "verdict": "Light advertising"
  },
+ "canaldoensino.com.br": {
+  "ad_domains": 7,
+  "ad_requests": 63,
+  "ad_slots": 8,
+  "ad_weight_pct": 21.2,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4348,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Canal do Ensino | Guia Gratuito de Educa\u00e7\u00e3o",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://canaldoensino.com.br/blog/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "canaryarena.ai": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -21553,7 +21908,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -21914,6 +22269,37 @@
   "trackers": 0,
   "url": "https://censortracker.org/",
   "verdict": "Effectively ad-free"
+ },
+ "centrum-dramy.pl": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2491,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Centrum-Dramy.pl Dramy Online PL Najlepsze Seriale. Centrum Dramy, Ogl\u0105daj Online!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://centrum-dramy.pl/",
+  "verdict": "Very clean"
  },
  "certified84.github.io": {
   "ad_domains": 0,
@@ -23647,7 +24033,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -23703,7 +24089,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26149,7 +26535,7 @@
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 2.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -26223,7 +26609,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -26387,7 +26773,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -28933,7 +29319,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -29405,6 +29791,48 @@
   "trackers": 4,
   "url": "http://cue.tools/wiki/CUETools",
   "verdict": "Light advertising"
+ },
+ "cultura.uol.com.br": {
+  "ad_domains": 40,
+  "ad_requests": 92,
+  "ad_slots": 1,
+  "ad_weight_pct": 22.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "acdn.adnxs.com",
+   "ads.pubmatic.com",
+   "ap.lijit.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "cs.media.net",
+   "dis.criteo.com",
+   "e1.emxdgt.com",
+   "eb2.3lift.com"
+  ],
+  "ok": true,
+  "page_kb": 4785,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 26.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AO VIVO - TV Cultura",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://cultura.uol.com.br/aovivo/",
+  "verdict": "Ad-saturated / hostile"
  },
  "culturalatlas.sbs.com.au": {
   "ad_domains": 2,
@@ -31395,7 +31823,7 @@
   "ad_requests": 9,
   "ad_slots": 1,
   "ad_weight_pct": 49.3,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -32738,6 +33166,37 @@
   "url": "https://dessinanime.cc/",
   "verdict": "Light advertising"
  },
+ "desu-online.pl": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3577,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "desu-online.pl - Najlepsza strona z anime online pl! Anime z polskimi napisami w doskona\u0142e",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://desu-online.pl/",
+  "verdict": "Very clean"
+ },
  "dethitiengnhat.com": {
   "ad_domains": 9,
   "ad_requests": 64,
@@ -33064,6 +33523,35 @@
   "url": "https://devices.ubuntu-touch.io/",
   "verdict": "Effectively ad-free"
  },
+ "devil-torrents.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2830,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Torrenty - darmowe torrenty , nowe torrenty",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://devil-torrents.pl/",
+  "verdict": "Effectively ad-free"
+ },
  "devilutionx.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -33264,7 +33752,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -33316,6 +33804,37 @@
   "trackers": 0,
   "url": "https://dicecloud.com/",
   "verdict": "Effectively ad-free"
+ },
+ "dicionariompb.com.br": {
+  "ad_domains": 1,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 49.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1829,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dicion\u00e1rio Cravo Albin da M\u00fasica popular Brasileira",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 6,
+  "url": "https://dicionariompb.com.br",
+  "verdict": "Moderate advertising"
  },
  "dico.swax-lsf.fr": {
   "ad_domains": 0,
@@ -33484,7 +34003,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34441,7 +34960,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -34590,7 +35109,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34789,6 +35308,80 @@
   "trackers": 0,
   "url": "https://dnswarden.com/",
   "verdict": "Effectively ad-free"
+ },
+ "docchi.pl": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4808,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "docchi - Twoja biblioteka anime",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://docchi.pl/",
+  "verdict": "Very clean"
+ },
+ "docer.pl": {
+  "ad_domains": 33,
+  "ad_requests": 74,
+  "ad_slots": 0,
+  "ad_weight_pct": 50.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aax-eu.amazon-adsystem.com",
+   "adx.adform.net",
+   "ap.lijit.com",
+   "b1sync.outbrain.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "csync.smartadserver.com",
+   "d.adroll.com",
+   "eu-u.openx.net",
+   "gum.criteo.com"
+  ],
+  "ok": true,
+  "page_kb": 1365,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 26.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Docer.pl - odkrywaj, dziel si\u0119 z innymi i publikuj dokumenty!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://docer.pl/",
+  "verdict": "Ad-saturated / hostile"
  },
  "docs.2fauth.app": {
   "ad_domains": 0,
@@ -35693,6 +36286,35 @@
   "url": "https://dokumen.pub/",
   "verdict": "Light advertising"
  },
+ "dokumentalne.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 701,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dokumentalne.net \u2013 Najwi\u0119kszy zbi\u00f3r darmowych film\u00f3w dokumentalnych online!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://dokumentalne.net/",
+  "verdict": "Effectively ad-free"
+ },
  "dokustreams.de": {
   "ad_domains": 2,
   "ad_requests": 21,
@@ -36162,7 +36784,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -36446,6 +37068,35 @@
   "trackers": 1,
   "url": "https://dova-s.jp/en/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "downloadcult.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1314,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DOWNLOAD CULT - Download Filmes Cult em Torrent Gr\u00e1tis",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "http://downloadcult.org",
+  "verdict": "Effectively ad-free"
  },
  "downloadgamepsp.org": {
   "ad_domains": 0,
@@ -38392,6 +39043,37 @@
   "url": "https://easysubs.cc/",
   "verdict": "Effectively ad-free"
  },
+ "eaulas.usp.br": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 18.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 903,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "e-Aulas da USP :: Principal",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://eaulas.usp.br/portal/home",
+  "verdict": "Very clean"
+ },
  "eberban.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -38489,7 +39171,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38571,6 +39253,35 @@
   ],
   "trackers": 0,
   "url": "https://ebookfoundation.github.io/free-programming-books/",
+  "verdict": "Effectively ad-free"
+ },
+ "ebooksbrasil.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 26,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "eBooksBrasil - Termos de Uso",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://ebooksbrasil.org",
   "verdict": "Effectively ad-free"
  },
  "eboox.app": {
@@ -39073,7 +39784,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 9.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -39382,6 +40093,35 @@
   "url": "https://ekb.scinito.ai/ai/chat",
   "verdict": "Moderate advertising"
  },
+ "ekino-tv.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://ekino-tv.pl/",
+  "verdict": "Effectively ad-free"
+ },
  "eklonofficial.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -39536,6 +40276,35 @@
   ],
   "trackers": 0,
   "url": "https://elamigos.site/",
+  "verdict": "Effectively ad-free"
+ },
+ "electro-torrent.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4451,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Electro-Torrent.pl",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://electro-torrent.pl/",
   "verdict": "Effectively ad-free"
  },
  "electronicfresh.com": {
@@ -41579,6 +42348,77 @@
   "url": "https://eschersket.ch/",
   "verdict": "Effectively ad-free"
  },
+ "escolaeducacao.com.br": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7578,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Estude Gr\u00e1tis, Cursos, Apostilas e Dicas - Escola Educa\u00e7\u00e3o",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://escolaeducacao.com.br/estude-gratis",
+  "verdict": "Effectively ad-free"
+ },
+ "escolakids.uol.com.br": {
+  "ad_domains": 85,
+  "ad_requests": 431,
+  "ad_slots": 9,
+  "ad_weight_pct": 48.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "9ce406f38abeacf23dfa36a6b1e31e1d.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api-taboola.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "beacon.taboola.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.doubleverify.com"
+  ],
+  "ok": true,
+  "page_kb": 5001,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Escola Kids - Conte\u00fado escolar, Ensino Fundamental e M\u00e9dio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://escolakids.uol.com.br",
+  "verdict": "Ad-saturated / hostile"
+ },
  "esimdb.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -41821,7 +42661,7 @@
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 5.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -44237,7 +45077,7 @@
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 1.4,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -44695,6 +45535,35 @@
   "url": "https://files.catbox.moe/lq6s85.png",
   "verdict": "Effectively ad-free"
  },
+ "filman.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://filman.cc/",
+  "verdict": "Effectively ad-free"
+ },
  "filmarevoirnad.blogspot.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -45045,6 +45914,35 @@
   "trackers": 3,
   "url": "https://filmpolski.pl/fp/index.php",
   "verdict": "Very clean"
+ },
+ "filmyonline.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://filmyonline.cc/",
+  "verdict": "Effectively ad-free"
  },
  "filter.watch": {
   "ad_domains": 2,
@@ -46860,6 +47758,35 @@
   ],
   "trackers": 0,
   "url": "https://flowcv.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "flowflix.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 350,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FlowFlix - Twoje Filmy i Seriale Online | Ogl\u0105daj za darmo",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://flowflix.vercel.app/",
   "verdict": "Effectively ad-free"
  },
  "flowgpt.com": {
@@ -49665,6 +50592,35 @@
   "url": "https://friture.org/",
   "verdict": "Effectively ad-free"
  },
+ "frixysubs.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 17379,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Strona G\u0142\u00f3wna \u2022 FrixySubs",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://frixysubs.pl/",
+  "verdict": "Effectively ad-free"
+ },
  "fsh.zone": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50018,7 +50974,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 47.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -55053,6 +56009,37 @@
   "url": "https://gourav.io/clone-wars",
   "verdict": "Effectively ad-free"
  },
+ "goyabu.to": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 838,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Goyabu - Animes Online Gr\u00e1tis em FHD!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://goyabu.to/",
+  "verdict": "Very clean"
+ },
  "gparted.org": {
   "ad_domains": 3,
   "ad_requests": 23,
@@ -56476,7 +57463,7 @@
   "ad_requests": 23,
   "ad_slots": 4,
   "ad_weight_pct": 22.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -57646,6 +58633,35 @@
   "url": "https://harmonoid.com/",
   "verdict": "Very clean"
  },
+ "harpacrista.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 125,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Harpa Crist\u00e3",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://harpacrista.org",
+  "verdict": "Effectively ad-free"
+ },
  "harzing.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -58367,6 +59383,35 @@
   ],
   "trackers": 0,
   "url": "https://hellspy.to/",
+  "verdict": "Effectively ad-free"
+ },
+ "helltorrents.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 8,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://helltorrents.com/index.php",
   "verdict": "Effectively ad-free"
  },
  "help.gnome.org": {
@@ -59120,7 +60165,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 51.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -59821,7 +60866,7 @@
   "ad_requests": 18,
   "ad_slots": 0,
   "ad_weight_pct": 29.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -60759,6 +61804,48 @@
   "trackers": 3,
   "url": "https://hungermap.wfp.org/",
   "verdict": "Very clean"
+ },
+ "hunter.fm": {
+  "ad_domains": 36,
+  "ad_requests": 69,
+  "ad_slots": 0,
+  "ad_weight_pct": 31.1,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "4a568920eab0a9a017fd29832da99eba.safeframe.googlesyndication.com",
+   "adx.adform.net",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "fastlane.rubiconproject.com",
+   "grid-bidder.criteo.com"
+  ],
+  "ok": true,
+  "page_kb": 3234,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 29.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "R\u00e1dio Online do Brasil ao Vivo, Mais M\u00fasica - Hunter.FM",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://hunter.fm",
+  "verdict": "Very heavy advertising"
  },
  "huntorrent.org": {
   "ad_domains": 5,
@@ -61949,7 +63036,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -62372,6 +63459,38 @@
   "url": "https://iina.io/",
   "verdict": "Effectively ad-free"
  },
+ "iitv.info": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 60.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 934,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 67.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "iitv.info - seriale online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://iitv.info",
+  "verdict": "Moderate advertising"
+ },
  "ikemen-engine.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -62435,7 +63554,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -65591,6 +66710,41 @@
   "url": "https://jadoocinema.net/",
   "verdict": "Effectively ad-free"
  },
+ "jakdojade.pl": {
+  "ad_domains": 5,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 25.1,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2988,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 53.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jakdojade - podr\u00f3\u017cuj wygodnie komunikacj\u0105 miejsk\u0105 i PKP",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 12,
+  "url": "https://jakdojade.pl/",
+  "verdict": "Heavy advertising"
+ },
  "james.darpinian.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -65804,7 +66958,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66336,7 +67490,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66643,6 +67797,40 @@
   "trackers": 0,
   "url": "https://joedangerthegame.com/",
   "verdict": "Effectively ad-free"
+ },
+ "jogorama.com.br": {
+  "ad_domains": 4,
+  "ad_requests": 15,
+  "ad_slots": 1,
+  "ad_weight_pct": 59.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 947,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 44.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jogorama",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://jogorama.com.br",
+  "verdict": "Heavy advertising"
  },
  "joiiplay.com": {
   "ad_domains": 4,
@@ -67005,7 +68193,7 @@
   "ad_requests": 14,
   "ad_slots": 2,
   "ad_weight_pct": 52.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -67247,7 +68435,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 48.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -69290,7 +70478,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -69934,7 +71122,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -70135,7 +71323,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70186,6 +71374,35 @@
   ],
   "trackers": 0,
   "url": "https://krdict.korean.go.kr/eng/",
+  "verdict": "Effectively ad-free"
+ },
+ "kreskowkasubs.blogspot.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3432,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KreskowkaSubs",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://kreskowkasubs.blogspot.com/",
   "verdict": "Effectively ad-free"
  },
  "kroki.io": {
@@ -70553,7 +71770,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 19.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -71109,7 +72326,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -72651,6 +73868,72 @@
   "url": "https://leftonread.me/",
   "verdict": "Light advertising"
  },
+ "legendas.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 33.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 549,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Legendas.net - Baixe Legendas de S\u00e9ries e Filmes Gr\u00e1tis",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://legendas.net",
+  "verdict": "Light advertising"
+ },
+ "legendasbrasil.org": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3389,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 69.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Legendas Brasil",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://legendasbrasil.org",
+  "verdict": "Moderate advertising"
+ },
  "lelscanfr.com": {
   "ad_domains": 3,
   "ad_requests": 13,
@@ -73120,7 +74403,7 @@
   "ad_requests": 13,
   "ad_slots": 3,
   "ad_weight_pct": 14.3,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -73497,6 +74780,37 @@
   "trackers": 0,
   "url": "https://libredns.gr/",
   "verdict": "Effectively ad-free"
+ },
+ "libreflix.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4137,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | Libreflix",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://libreflix.org",
+  "verdict": "Very clean"
  },
  "librera.mobi": {
   "ad_domains": 0,
@@ -75029,7 +76343,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 5.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -75467,6 +76781,37 @@
   "trackers": 0,
   "url": "https://livingatlas.arcgis.com/",
   "verdict": "Heavy advertising"
+ },
+ "livrosnarrados.blogspot.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1028,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Livros Narrados - Download de AudioLivros, AudioBooks Gratuitos",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://livrosnarrados.blogspot.com",
+  "verdict": "Effectively ad-free"
  },
  "lizardpoint.com": {
   "ad_domains": 0,
@@ -77730,6 +79075,39 @@
   "url": "https://m4ckd0ge-repacks.site/",
   "verdict": "Effectively ad-free"
  },
+ "m80.pt": {
+  "ad_domains": 3,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.9,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3926,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 77.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "M80 R\u00e1dio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://m80.pt",
+  "verdict": "Light advertising"
+ },
  "mac.getutm.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -78639,6 +80017,35 @@
   "url": "https://mailvelope.com/",
   "verdict": "Effectively ad-free"
  },
+ "majusss.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2029,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Get PureVideo",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://majusss.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "makeayo.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -79031,7 +80438,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79198,7 +80605,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79227,7 +80634,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -79256,7 +80663,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 15.7,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -79287,7 +80694,7 @@
   "ad_requests": 3,
   "ad_slots": 1,
   "ad_weight_pct": 11.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -81520,7 +82927,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81854,7 +83261,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81907,6 +83314,42 @@
   "url": "https://megamanmaker.com/",
   "verdict": "Effectively ad-free"
  },
+ "megogo.net": {
+  "ad_domains": 6,
+  "ad_requests": 16,
+  "ad_slots": 0,
+  "ad_weight_pct": 34.1,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "sb.scorecardresearch.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2484,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 39.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MEGOGO.NET - movies and TV channels online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://megogo.net/",
+  "verdict": "Very heavy advertising"
+ },
  "meiji.filmarchives.jp": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -81945,7 +83388,7 @@
   "ad_requests": 3,
   "ad_slots": 1,
   "ad_weight_pct": 33.4,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -83208,6 +84651,37 @@
   "url": "https://minesweepergame.com/",
   "verdict": "Effectively ad-free"
  },
+ "minewiki.pl": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1944,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Minecraft Wiki Polska",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://minewiki.pl/",
+  "verdict": "Very clean"
+ },
  "mini-map-macau.app": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -83375,7 +84849,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -85046,6 +86520,67 @@
   "trackers": 0,
   "url": "https://monsterland.net/",
   "verdict": "Very clean"
+ },
+ "moocs.ggte.unicamp.br": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7768,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GGTE Unicamp",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://moocs.ggte.unicamp.br",
+  "verdict": "Effectively ad-free"
+ },
+ "moodle.ifrs.edu.br": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 57.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 496,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Moodle - IFRS: Todos os cursos",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://moodle.ifrs.edu.br/course/index.php?categoryid=38",
+  "verdict": "Light advertising"
  },
  "moomoo.io": {
   "ad_domains": 0,
@@ -88265,7 +89800,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -88287,6 +89822,35 @@
   ],
   "trackers": 0,
   "url": "https://namu.wiki/w/\ub098\ubb34\uc704\ud0a4:\ub300\ubb38",
+  "verdict": "Effectively ad-free"
+ },
+ "nanasubs.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11476,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime online z napisami pl - NanaSubs",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://nanasubs.com/",
   "verdict": "Effectively ad-free"
  },
  "nandgame.com": {
@@ -88385,6 +89949,48 @@
   "trackers": 0,
   "url": "https://nanoreview.net/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "napisy24.pl": {
+  "ad_domains": 12,
+  "ad_requests": 15,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "Error: Page.evaluate: TypeError: el.getBoundingClientRect is not a function\n    at eval (eval at evaluate (:311:30), <anonymous",
+  "fails": 1,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "dpm.demdex.net",
+   "ib.adnxs.com",
+   "image6.pubmatic.com",
+   "match.adsrvr.org",
+   "pixel.rubiconproject.com",
+   "s.amazon-adsystem.com",
+   "secure.adnxs.com",
+   "sync.crwdcntrl.net",
+   "sync.smartadserver.com",
+   "us-u.openx.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 678,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 42.9,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Napisy24",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://napisy24.pl/",
+  "verdict": "Very heavy advertising"
  },
  "nationalzoo.si.edu": {
   "ad_domains": 3,
@@ -90084,7 +91690,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90433,6 +92039,37 @@
   "trackers": 0,
   "url": "https://nima4k.org/",
   "verdict": "Effectively ad-free"
+ },
+ "ninateka.pl": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.9,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 31153,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ninateka",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://ninateka.pl/",
+  "verdict": "Very clean"
  },
  "ninjakiwi.com": {
   "ad_domains": 0,
@@ -91267,7 +92904,7 @@
   "ad_requests": 9,
   "ad_slots": 1,
   "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -97517,6 +99154,38 @@
   "url": "https://osmapp.org/",
   "verdict": "Very clean"
  },
+ "osreformados.com": {
+  "ad_domains": 2,
+  "ad_requests": 44,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 67108,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 64.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Os Reformados da Investiga\u00e7\u00e3o",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://osreformados.com",
+  "verdict": "Moderate advertising"
+ },
  "oss.gallery": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -97972,7 +99641,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98136,7 +99805,7 @@
   "ad_requests": 13,
   "ad_slots": 0,
   "ad_weight_pct": 11.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -98513,7 +100182,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -99829,7 +101498,7 @@
   "ad_requests": 24,
   "ad_slots": 2,
   "ad_weight_pct": 58.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -101279,6 +102948,35 @@
   ],
   "trackers": 0,
   "url": "https://pierrepapierciseaux.net/.skynet/?lang=en",
+  "verdict": "Effectively ad-free"
+ },
+ "pilot.wp.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1499,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Telewizja online, bez umowy i dekodera! Ponad 130 kana\u0142\u00f3w, tysi\u0105ce film\u00f3w do wypo\u017cyczenia!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://pilot.wp.pl/",
   "verdict": "Effectively ad-free"
  },
  "pilotmoon.com": {
@@ -103168,6 +104866,37 @@
   "url": "https://player.fm/",
   "verdict": "Effectively ad-free"
  },
+ "player.pl": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1489,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Seriale, Filmy, Programy, kana\u0142y TV Online - wejd\u017a i ogl\u0105daj na Player.pl",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://player.pl/",
+  "verdict": "Light advertising"
+ },
  "player1.eu": {
   "ad_domains": 5,
   "ad_requests": 14,
@@ -104667,7 +106396,7 @@
   "ad_requests": 17,
   "ad_slots": 0,
   "ad_weight_pct": 17.2,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -105038,7 +106767,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105060,6 +106789,35 @@
   ],
   "trackers": 4,
   "url": "https://poland.gg/",
+  "verdict": "Effectively ad-free"
+ },
+ "polish-abandonware.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://polish-abandonware.pl/",
   "verdict": "Effectively ad-free"
  },
  "politicaltests.github.io": {
@@ -105438,6 +107196,46 @@
   "trackers": 1,
   "url": "https://portableapps.com/",
   "verdict": "Light advertising"
+ },
+ "portal.uniasselvi.com.br": {
+  "ad_domains": 10,
+  "ad_requests": 34,
+  "ad_slots": 0,
+  "ad_weight_pct": 73.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "14920178.fls.doubleclick.net",
+   "ad.doubleclick.net",
+   "adservice.google.com",
+   "cdn.taboola.com",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "trc-events.taboola.com",
+   "trc.taboola.com",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2880,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 22.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cursos Livres",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 16,
+  "url": "https://portal.uniasselvi.com.br/cursolivre",
+  "verdict": "Ad-saturated / hostile"
  },
  "portmaster.games": {
   "ad_domains": 0,
@@ -109294,6 +111092,48 @@
   "url": "https://raceweek.io/",
   "verdict": "Effectively ad-free"
  },
+ "rachacuca.com.br": {
+  "ad_domains": 70,
+  "ad_requests": 232,
+  "ad_slots": 5,
+  "ad_weight_pct": 43.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "6f9a8dc0f5ac9ce9ea55b7458ff5d864.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com"
+  ],
+  "ok": true,
+  "page_kb": 2555,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 3.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Racha Cuca - Quebra-cabe\u00e7a, Problemas de L\u00f3gica, Testes e Quizzes",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://rachacuca.com.br",
+  "verdict": "Ad-saturated / hostile"
+ },
  "racing.pmnd.rs": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -109594,6 +111434,35 @@
   "url": "https://radio.uwu.network/",
   "verdict": "Effectively ad-free"
  },
+ "radiojhero.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 894,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "R\u00e1dio J-Hero | Do seu jeito, do seu gosto!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://radiojhero.com",
+  "verdict": "Effectively ad-free"
+ },
  "radiolise.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -109749,6 +111618,39 @@
   "trackers": 3,
   "url": "https://radioparadise.com/",
   "verdict": "Effectively ad-free"
+ },
+ "radiosaovivo.net": {
+  "ad_domains": 3,
+  "ad_requests": 19,
+  "ad_slots": 2,
+  "ad_weight_pct": 24.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2081,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 38.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "R\u00e1dios ao vivo, R\u00e1dio ao vivo do Brasil, R\u00e1dios online | Radiosaovivo.net",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://radiosaovivo.net",
+  "verdict": "Very heavy advertising"
  },
  "radioside.com": {
   "ad_domains": 0,
@@ -110767,7 +112669,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110796,7 +112698,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110825,7 +112727,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110854,7 +112756,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 11.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -110885,7 +112787,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -110916,7 +112818,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -110947,7 +112849,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110976,7 +112878,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -111889,6 +113791,35 @@
   ],
   "trackers": 0,
   "url": "https://redalert.me/index_en.html",
+  "verdict": "Effectively ad-free"
+ },
+ "redecanais.ooo": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://redecanais.ooo/",
   "verdict": "Effectively ad-free"
  },
  "rednuht.org": {
@@ -113964,7 +115895,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -116311,7 +118242,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -118311,7 +120242,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -119755,7 +121686,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -119842,7 +121773,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -120857,7 +122788,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -121452,7 +123383,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -122387,7 +124318,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 25.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -123285,7 +125216,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123314,7 +125245,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -124802,7 +126733,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -124949,6 +126880,41 @@
   "trackers": 3,
   "url": "https://sporked.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "sport.tvp.pl": {
+  "ad_domains": 5,
+  "ad_requests": 13,
+  "ad_slots": 8,
+  "ad_weight_pct": 8.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ade.googlesyndication.com",
+   "c.amazon-adsystem.com",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10801,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 28.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVP SPORT - transmisje, wyniki, na \u017cywo, wiadomo\u015bci sportowe",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://sport.tvp.pl/",
+  "verdict": "Very heavy advertising"
  },
  "sportsbite.org": {
   "ad_domains": 0,
@@ -127170,7 +129136,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.2,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -129794,7 +131760,7 @@
   "ad_requests": 51,
   "ad_slots": 2,
   "ad_weight_pct": 34.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -134902,7 +136868,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 69.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -135176,7 +137142,7 @@
   "ad_requests": 176,
   "ad_slots": 1,
   "ad_weight_pct": 10.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -135533,7 +137499,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -137885,6 +139851,48 @@
   "url": "https://tubitv.com",
   "verdict": "Very clean"
  },
+ "tudoradio.com": {
+  "ad_domains": 27,
+  "ad_requests": 69,
+  "ad_slots": 1,
+  "ad_weight_pct": 35.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "a.teads.tv",
+   "ads.pubmatic.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "ec324f9a0646c6c2c1a8e17077914af1.safeframe.googlesyndication.com",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "jsc.mgid.com"
+  ],
+  "ok": true,
+  "page_kb": 5800,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 20.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ou\u00e7a R\u00e1dios Ao Vivo Online | Not\u00edcias do Mundo do R\u00e1dio \u2013 Tudo Radio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 10,
+  "url": "https://tudoradio.com",
+  "verdict": "Ad-saturated / hostile"
+ },
  "tunebat.com": {
   "ad_domains": 79,
   "ad_requests": 233,
@@ -138745,7 +140753,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 21.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -140924,6 +142932,48 @@
   "url": "https://vads.ac.uk/digital/",
   "verdict": "Very clean"
  },
+ "vagalume.fm": {
+  "ad_domains": 12,
+  "ad_requests": 57,
+  "ad_slots": 3,
+  "ad_weight_pct": 42.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "f459ef595017c94d5c69f7418ea645d3.safeframe.googlesyndication.com",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "pubads.g.doubleclick.net",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 3782,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 13.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vagalume.FM \ud83d\udcfb S\u00f3 m\u00fasica, sem propaganda!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://vagalume.fm",
+  "verdict": "Ad-saturated / hostile"
+ },
  "valuta.exchange": {
   "ad_domains": 8,
   "ad_requests": 69,
@@ -141167,6 +143217,41 @@
   "url": "https://vdwn.cloud/",
   "verdict": "Effectively ad-free"
  },
+ "veduca.org": {
+  "ad_domains": 5,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 36.9,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1388,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 51.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cursos Online Gratuitos - Veduca",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://veduca.org",
+  "verdict": "Heavy advertising"
+ },
  "vegamovies.market": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -141375,6 +143460,37 @@
   "trackers": 2,
   "url": "https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down",
   "verdict": "Light advertising"
+ },
+ "vestroiakr.blogspot.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2314,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vestroia Kresk\u00f3wki 2.0",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://vestroiakr.blogspot.com/",
+  "verdict": "Effectively ad-free"
  },
  "vetted.ai": {
   "ad_domains": 0,
@@ -142254,6 +144370,35 @@
   "trackers": 0,
   "url": "https://virgil.samidy.com/Mobile",
   "verdict": "Very clean"
+ },
+ "virpe.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16568,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Seriale online za darmo za granic\u0105",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://virpe.cc/",
+  "verdict": "Effectively ad-free"
  },
  "virtocean.com": {
   "ad_domains": 0,
@@ -143343,6 +145488,38 @@
   "url": "https://vocaroo.com/",
   "verdict": "Effectively ad-free"
  },
+ "vod.tvp.pl": {
+  "ad_domains": 2,
+  "ad_requests": 17,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.1,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3824,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 58.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vod.tvp.pl - ogl\u0105daj filmy, seriale, programy i tv na \u017cywo - Telewizja Polska S.A.",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://vod.tvp.pl/",
+  "verdict": "Moderate advertising"
+ },
  "voice-models.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -143436,7 +145613,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -145358,7 +147535,7 @@
   "ad_requests": 153,
   "ad_slots": 2,
   "ad_weight_pct": 3.3,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -149238,6 +151415,35 @@
   "url": "https://wolframalpha.com/examples/science-and-technology/chemistry",
   "verdict": "Effectively ad-free"
  },
+ "wolnelektury.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 6,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11627,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 67.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WolneLektury.pl",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://wolnelektury.pl/",
+  "verdict": "Moderate advertising"
+ },
  "woogles.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -151635,6 +153841,35 @@
   "url": "https://www.911tabs.com/",
   "verdict": "Moderate advertising"
  },
+ "www.99.media": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14104,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Temos hist\u00f3rias para vos contar. Hist\u00f3rias verdadeiras | 99.media",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.99.media/pt/",
+  "verdict": "Effectively ad-free"
+ },
  "www.9tut.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -151669,7 +153904,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -152705,7 +154940,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 35.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -153941,7 +156176,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.4,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -154268,7 +156503,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -154339,7 +156574,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -154368,7 +156603,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -154421,6 +156656,35 @@
   ],
   "trackers": 0,
   "url": "https://www.animexx.de/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.animezone.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.animezone.pl/",
   "verdict": "Effectively ad-free"
  },
  "www.anistation.top": {
@@ -155081,7 +157345,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -155580,6 +157844,48 @@
   "trackers": 0,
   "url": "http://www.astronautix.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.atari2600.com.br": {
+  "ad_domains": 15,
+  "ad_requests": 74,
+  "ad_slots": 3,
+  "ad_weight_pct": 62.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "b43c10c35bd31229729b6db909c09044.safeframe.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "sync.search.spotxchange.com",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1934,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 12.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Atari Jogos online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://www.atari2600.com.br",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.atarimania.com": {
   "ad_domains": 1,
@@ -158570,6 +160876,40 @@
   "url": "https://www.bumpworthy.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.bussolaescolar.com.br": {
+  "ad_domains": 4,
+  "ad_requests": 14,
+  "ad_slots": 4,
+  "ad_weight_pct": 84.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 506,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 30.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "B\u00fassola Escolar - Sua pesquisa ficou mais f\u00e1cil. O mais completo site para pesquisas escol",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "http://www.bussolaescolar.com.br",
+  "verdict": "Very heavy advertising"
+ },
  "www.buzmenow.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -159269,7 +161609,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -161355,7 +163695,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 7.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -163049,6 +165389,80 @@
   "url": "https://www.cursoemvideo.com",
   "verdict": "Effectively ad-free"
  },
+ "www.cxradio.com.br": {
+  "ad_domains": 7,
+  "ad_requests": 46,
+  "ad_slots": 6,
+  "ad_weight_pct": 51.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1850,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 2.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Radios Online - CXRadio",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.cxradio.com.br",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.cxtv.com.br": {
+  "ad_domains": 7,
+  "ad_requests": 57,
+  "ad_slots": 2,
+  "ad_weight_pct": 2.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 42276,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 36.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tv Online - Assistir TV Ao Vivo Gr\u00e1tis | CXTv",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.cxtv.com.br",
+  "verdict": "Very heavy advertising"
+ },
  "www.cybenetics.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -164316,6 +166730,40 @@
   "trackers": 1,
   "url": "https://www.dimensions.com/",
   "verdict": "Very clean"
+ },
+ "www.dio.me": {
+  "ad_domains": 4,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 25.5,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2774,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 57.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DIO | Codifique o seu futuro global agora",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 11,
+  "url": "https://www.dio.me",
+  "verdict": "Heavy advertising"
  },
  "www.discogc.com": {
   "ad_domains": 1,
@@ -165809,7 +168257,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -165995,6 +168443,40 @@
   "url": "https://www.edu-games.org/",
   "verdict": "Heavy advertising"
  },
+ "www.educamaisbrasil.com.br": {
+  "ad_domains": 4,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 46.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1827,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 55.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Preparat\u00f3rio Para o Enem 2025 Gratuito",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 8,
+  "url": "https://www.educamaisbrasil.com.br/enem/guia-enem",
+  "verdict": "Heavy advertising"
+ },
  "www.eduke32.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -166177,7 +168659,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -167192,6 +169674,37 @@
   "trackers": 0,
   "url": "https://www.esa.int/",
   "verdict": "Effectively ad-free"
+ },
+ "www.escolavirtual.gov.br": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5054,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Escola Virtual Gov",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 7,
+  "url": "https://www.escolavirtual.gov.br/catalogo",
+  "verdict": "Very clean"
  },
  "www.eshadow.net": {
   "ad_domains": 0,
@@ -168605,6 +171118,35 @@
   "trackers": 2,
   "url": "https://www.filmsforaction.org/",
   "verdict": "Very clean"
+ },
+ "www.filmweb.pl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3025,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Za darmo na VOD - filmy i seriale | Filmweb",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.filmweb.pl/vod/free",
+  "verdict": "Effectively ad-free"
  },
  "www.findhelp.org": {
   "ad_domains": 0,
@@ -170536,7 +173078,7 @@
   "ad_requests": 113,
   "ad_slots": 6,
   "ad_weight_pct": 68.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -175611,7 +178153,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -176180,7 +178722,7 @@
   "ad_requests": 46,
   "ad_slots": 5,
   "ad_weight_pct": 8.4,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -176672,6 +179214,38 @@
   "url": "https://www.inuitmyths.com/index.htm",
   "verdict": "Effectively ad-free"
  },
+ "www.invertexto.com": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 1,
+  "ad_weight_pct": 74.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 433,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "invertexto.com - Ferramentas e Aplicativos Online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.invertexto.com",
+  "verdict": "Moderate advertising"
+ },
  "www.investor.gov": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -176846,7 +179420,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -177871,7 +180445,7 @@
   "ad_requests": 4,
   "ad_slots": 1,
   "ad_weight_pct": 22.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -178124,7 +180698,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 30.8,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -178240,6 +180814,35 @@
   "title": "SOFTWARE",
   "trackers": 0,
   "url": "https://www.kapitalsin.com/forum/index.php?board=5.0",
+  "verdict": "Effectively ad-free"
+ },
+ "www.kboingfm.com.br": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9323,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Podcasts da KBOING FM",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.kboingfm.com.br/podcast/",
   "verdict": "Effectively ad-free"
  },
  "www.kdice.com": {
@@ -181968,7 +184571,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -182191,7 +184794,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -182220,7 +184823,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -182429,7 +185032,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 0.7,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -182460,7 +185063,7 @@
   "ad_requests": 185,
   "ad_slots": 4,
   "ad_weight_pct": 30.5,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -185699,6 +188302,38 @@
   "url": "https://www.mumuplayer.com/",
   "verdict": "Moderate advertising"
  },
+ "www.mundoubuntu.com.br": {
+  "ad_domains": 2,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "Error: Page.evaluate: TypeError: el.getBoundingClientRect is not a function\n    at eval (eval at evaluate (:311:30), <anonymous",
+  "fails": 1,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": false,
+  "page_kb": 3723,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.7,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Mundo Ubuntu",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://www.mundoubuntu.com.br",
+  "verdict": "Light advertising"
+ },
  "www.munki.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -186255,7 +188890,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.1,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -186771,7 +189406,7 @@
   "ad_requests": 0,
   "ad_slots": 7,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -187100,6 +189735,40 @@
   ],
   "trackers": 5,
   "url": "https://www.netknots.com/",
+  "verdict": "Moderate advertising"
+ },
+ "www.netmovies.com.br": {
+  "ad_domains": 4,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 92.1,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 645,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 60.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NetMovies - Assista a S\u00e9ries de TV e Filmes Online Gr\u00e1tis",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.netmovies.com.br",
   "verdict": "Moderate advertising"
  },
  "www.netplayfinder.com": {
@@ -188412,6 +191081,38 @@
   "url": "https://www.nts.live/",
   "verdict": "Light advertising"
  },
+ "www.nucleodoconhecimento.com.br": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.2,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3726,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Revista Cient\u00edfica Multidisciplinar N\u00facleo do Conhecimento",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.nucleodoconhecimento.com.br",
+  "verdict": "Light advertising"
+ },
  "www.numbeo.com": {
   "ad_domains": 3,
   "ad_requests": 7,
@@ -188870,6 +191571,37 @@
   "url": "http://www.oldversion.com/",
   "verdict": "Moderate advertising"
  },
+ "www.olhosnatv.com.br": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 32.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 519,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Assistir TV Online Gr\u00e1tis - Olhos na TV",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://www.olhosnatv.com.br",
+  "verdict": "Light advertising"
+ },
  "www.olsenhome.com": {
   "ad_domains": 3,
   "ad_requests": 13,
@@ -188995,7 +191727,7 @@
   "ad_requests": 18,
   "ad_slots": 2,
   "ad_weight_pct": 5.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -190495,6 +193227,48 @@
   "url": "https://www.packhacker.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.palcomp3.com.br": {
+  "ad_domains": 39,
+  "ad_requests": 141,
+  "ad_slots": 3,
+  "ad_weight_pct": 65.7,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "21288087d08e7a4c8f8e7d72fcd148b5.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "csync.smartadserver.com",
+   "d.adroll.com"
+  ],
+  "ok": true,
+  "page_kb": 3962,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 10.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Palco MP3 - Ou\u00e7a o novo",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 10,
+  "url": "https://www.palcomp3.com.br",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.pandora.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -190645,6 +193419,42 @@
   "url": "https://www.papertrailshq.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.papodegordo.com.br": {
+  "ad_domains": 6,
+  "ad_requests": 40,
+  "ad_slots": 2,
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10749,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 35.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Podcast | Papo de Gordo",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://www.papodegordo.com.br/category/podcast/",
+  "verdict": "Very heavy advertising"
+ },
  "www.parfumo.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -190680,7 +193490,7 @@
   "ad_requests": 134,
   "ad_slots": 0,
   "ad_weight_pct": 77.4,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -190722,7 +193532,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -193049,6 +195859,38 @@
   "url": "https://www.prideflags.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.primecursos.com.br": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10692,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cursos Gratuitos | Prime Cursos Online Gr\u00e1tis com Certificado 100% V\u00e1lido",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.primecursos.com.br",
+  "verdict": "Very clean"
+ },
  "www.primeshows.org": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -194453,6 +197295,48 @@
   "url": "https://www.quiverquant.com/",
   "verdict": "Light advertising"
  },
+ "www.radio-polska.pl": {
+  "ad_domains": 65,
+  "ad_requests": 244,
+  "ad_slots": 2,
+  "ad_weight_pct": 54.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "a.teads.tv",
+   "a1eb1018fcb3253c6ee77781b49a189f.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 2384,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 18.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Radio Polska: Darmowe Radio Internetowe Online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.radio-polska.pl/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.radio.net": {
   "ad_domains": 47,
   "ad_requests": 123,
@@ -194494,6 +197378,35 @@
   "trackers": 1,
   "url": "https://www.radio.net/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.radio.pt": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 782,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "R\u00e1dio online gratuita e transmiss\u0101o de m\u00fasica online",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.radio.pt",
+  "verdict": "Effectively ad-free"
  },
  "www.radiocast.co": {
   "ad_domains": 0,
@@ -194716,12 +197629,82 @@
   "url": "https://www.radioreference.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.radiorock.com.br": {
+  "ad_domains": 6,
+  "ad_requests": 12,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "pubads.g.doubleclick.net",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4102,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 52.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "89FM - A R\u00e1dio Rock - Portal 89 R\u00e1dio Rock",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 8,
+  "url": "https://www.radiorock.com.br",
+  "verdict": "Heavy advertising"
+ },
+ "www.radios.com.br": {
+  "ad_domains": 4,
+  "ad_requests": 24,
+  "ad_slots": 7,
+  "ad_weight_pct": 40.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1916,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 12.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Radios.com.br: Ou\u00e7a Radios ao vivo, Radios online!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://www.radios.com.br",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.radiovatani.com": {
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 1,
   "ad_weight_pct": 39.6,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -194844,7 +197827,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.raiplay.it/\nCall log:\n  - navigating to \"https://www.raiplay.it/",
   "fails": 1,
   "grade": "A+",
@@ -194873,7 +197856,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.raiplaysound.it/\nCall log:\n  - navigating to \"https://www.raipla",
   "fails": 1,
   "grade": "A+",
@@ -194902,7 +197885,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 5.9,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -194930,6 +197913,35 @@
   "trackers": 0,
   "url": "https://www.raiscuola.rai.it/italianoperstranieri",
   "verdict": "Light advertising"
+ },
+ "www.rakuten.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 599,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rakuten TV",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.rakuten.tv/pl/gardens/avod-fast",
+  "verdict": "Effectively ad-free"
  },
  "www.rally-the-troops.com": {
   "ad_domains": 0,
@@ -197400,12 +200412,41 @@
   "url": "https://www.sanfoundry.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.sapo.pt": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.sapo.pt/\", waiting until \"domcontentloaded",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "SAPO",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.sapo.pt",
+  "verdict": "Effectively ad-free"
+ },
  "www.sastra.org": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -199718,6 +202759,37 @@
   "url": "https://www.sledujteto.cz/",
   "verdict": "Light advertising"
  },
+ "www.slownikpjm.uw.edu.pl": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 43438,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Korpusowy S\u0142ownik Polskiego J\u0119zyka Migowego - Pracownia Lingwistyki Migowej",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 3,
+  "url": "https://www.slownikpjm.uw.edu.pl/",
+  "verdict": "Very clean"
+ },
  "www.slsknet.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -199751,7 +202823,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 13.3,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -202076,6 +205148,46 @@
   "url": "https://www.studystream.live/",
   "verdict": "Light advertising"
  },
+ "www.suamusica.com.br": {
+  "ad_domains": 10,
+  "ad_requests": 25,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.6,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "pubads.g.doubleclick.net",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 6202,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 42.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - Sua M\u00fasica",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.suamusica.com.br",
+  "verdict": "Very heavy advertising"
+ },
  "www.submarinecablemap.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -203471,6 +206583,48 @@
   "trackers": 0,
   "url": "https://www.tehparadox.net/",
   "verdict": "Effectively ad-free"
+ },
+ "www.tekstowo.pl": {
+  "ad_domains": 45,
+  "ad_requests": 110,
+  "ad_slots": 1,
+  "ad_weight_pct": 74.3,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "c21lg-d.media.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "config.aps.amazon-adsystem.com",
+   "cs.media.net",
+   "esp.rtbhouse.com",
+   "eu-u.openx.net"
+  ],
+  "ok": true,
+  "page_kb": 2170,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 23.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Teksty piosenek, t\u0142umaczenia piosenek, teledyski na Tekstowo.pl",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 4,
+  "url": "https://www.tekstowo.pl/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.telequebec.tv": {
   "ad_domains": 6,
@@ -206089,6 +209243,35 @@
   "url": "https://www.tryingopen.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.tsf.pt": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "ERROR: The request could not be satisfied",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.tsf.pt",
+  "verdict": "Effectively ad-free"
+ },
  "www.ttkan.co": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -206256,6 +209439,48 @@
   "url": "https://www.tunestotube.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.tupi.fm": {
+  "ad_domains": 27,
+  "ad_requests": 116,
+  "ad_slots": 10,
+  "ad_weight_pct": 67.4,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "0c217e87f01f074fee5de83b433bfdbc.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "c.amazon-adsystem.com",
+   "cdn.taboola.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "dsum-sec.casalemedia.com",
+   "dsum.casalemedia.com",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "image6.pubmatic.com"
+  ],
+  "ok": true,
+  "page_kb": 2953,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Super R\u00e1dio Tupi | Ou\u00e7a e Assista AO VIVO",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://www.tupi.fm",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.tv5unis.ca": {
   "ad_domains": 14,
   "ad_requests": 55,
@@ -206297,6 +209522,48 @@
   "trackers": 10,
   "url": "https://www.tv5unis.ca/",
   "verdict": "Very heavy advertising"
+ },
+ "www.tvgazeta.com.br": {
+  "ad_domains": 23,
+  "ad_requests": 63,
+  "ad_slots": 1,
+  "ad_weight_pct": 36.8,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "45a7ef1149c9873b50e143b8d24f633a.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "cdn.taboola.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "fastlane.rubiconproject.com",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "ib.adnxs.com",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "prg.smartadserver.com"
+  ],
+  "ok": true,
+  "page_kb": 3880,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 22.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ao Vivo, 24h por dia - TV Gazeta - Seu Mundo \u00e9 Aqui!",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 5,
+  "url": "https://www.tvgazeta.com.br/aovivo/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.tvguessr.garden": {
   "ad_domains": 1,
@@ -211186,7 +214453,7 @@
   "ad_requests": 28,
   "ad_slots": 1,
   "ad_weight_pct": 82.3,
-  "checked_utc": "2026-08-24T02:51:53+00:00",
+  "checked_utc": "2026-08-24T02:53:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -214180,6 +217447,35 @@
   ],
   "trackers": 0,
   "url": "https://z3.fm/",
+  "verdict": "Effectively ad-free"
+ },
+ "zaluknij.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-24T02:53:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Access denied | zaluknij.cc used Cloudflare to restrict access | zaluknij.cc | Cloudflare",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://zaluknij.cc/",
   "verdict": "Effectively ad-free"
  },
  "zap.srev.in": {
