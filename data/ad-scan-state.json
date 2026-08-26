@@ -3896,7 +3896,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -4010,6 +4010,37 @@
   "trackers": 0,
   "url": "https://adaway.org/",
   "verdict": "Effectively ad-free"
+ },
+ "adb.arcadeitalia.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 38.5,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 399,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Arcade Database",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 3,
+  "url": "http://adb.arcadeitalia.net/default.php?lang=en",
+  "verdict": "Light advertising"
  },
  "adbappcontrol.com": {
   "ad_domains": 0,
@@ -4383,7 +4414,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -4972,6 +5003,35 @@
   "url": "https://afterthetone.com/",
   "verdict": "Light advertising"
  },
+ "agar.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "ERROR: The request could not be satisfied",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://agar.io/",
+  "verdict": "Effectively ad-free"
+ },
  "agenda.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -5071,7 +5131,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 26.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -6595,6 +6655,35 @@
   "url": "https://allchemy.io/",
   "verdict": "Ad-saturated / hostile"
  },
+ "alldle.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 581,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Alldle - Discover 1,000+ Free Daily Games | Wordle, Puzzles & More",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://alldle.net/",
+  "verdict": "Effectively ad-free"
+ },
  "allecsc.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -6777,6 +6866,78 @@
   "trackers": 0,
   "url": "https://allyoucanwatch.net/",
   "verdict": "Very clean"
+ },
+ "almostidle.com": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 1,
+  "ad_weight_pct": 29.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1346,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 57.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Almost Idle | The Home of Incremental Gaming",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
+  "url": "https://almostidle.com/",
+  "verdict": "Heavy advertising"
+ },
+ "alphabetagamer.com": {
+  "ad_domains": 9,
+  "ad_requests": 104,
+  "ad_slots": 6,
+  "ad_weight_pct": 19.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 4420,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Alpha Beta Gamer - The Free Game Beta Test Archive",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://alphabetagamer.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "alphabeticle.xyz": {
   "ad_domains": 1,
@@ -7052,7 +7213,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11608,7 +11769,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 11.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -16388,7 +16549,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 56.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -18818,6 +18979,37 @@
   "url": "https://backofyourhand.com/",
   "verdict": "Effectively ad-free"
  },
+ "bad.cards": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 9346,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bad Cards | good games for your bad side.",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 2,
+  "url": "https://bad.cards/",
+  "verdict": "Very clean"
+ },
  "badmojr.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -20136,6 +20328,35 @@
   "url": "https://bdebooks.com/en/",
   "verdict": "Effectively ad-free"
  },
+ "bdrgames.nl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "404 Not Found",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "http://bdrgames.nl/lcdgames/",
+  "verdict": "Effectively ad-free"
+ },
  "beacon.schneidercorp.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -20603,6 +20824,37 @@
   "trackers": 1,
   "url": "https://berty.tech/",
   "verdict": "Effectively ad-free"
+ },
+ "bestdosgames.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 26.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 629,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 81.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play Free Best DOS Games Online",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 2,
+  "url": "https://bestdosgames.com/",
+  "verdict": "Light advertising"
  },
  "bestiary.ca": {
   "ad_domains": 0,
@@ -21556,6 +21808,37 @@
   "trackers": 3,
   "url": "https://bigaudiobooks.net/",
   "verdict": "Very heavy advertising"
+ },
+ "bigbadwaffle.itch.io": {
+  "ad_domains": 1,
+  "ad_requests": 14,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3431,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 60.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Isleward by Big Bad Waffle",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://bigbadwaffle.itch.io/isleward",
+  "verdict": "Moderate advertising"
  },
  "bigpictures.xyz": {
   "ad_domains": 0,
@@ -26611,6 +26894,45 @@
   "url": "https://c411.org/",
   "verdict": "Effectively ad-free"
  },
+ "c64online.com": {
+  "ad_domains": 9,
+  "ad_requests": 88,
+  "ad_slots": 7,
+  "ad_weight_pct": 97.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 19795,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "C64 Online - Play classic C64 games online! - c64online.com",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 1,
+  "url": "https://c64online.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "cabal.chat": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -29162,6 +29484,37 @@
   "trackers": 0,
   "url": "https://chanceapp.io/?c=CHANCE-FMHY-DOOR",
   "verdict": "Effectively ad-free"
+ },
+ "channa.itch.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 48.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 321,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cardlike by channa",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://channa.itch.io/cardlike",
+  "verdict": "Light advertising"
  },
  "channelstore.roku.com": {
   "ad_domains": 2,
@@ -32252,12 +32605,43 @@
   "url": "https://cirrusretro.com/",
   "verdict": "Effectively ad-free"
  },
+ "cirusdane.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 42.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 653,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Incremancer",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://cirusdane.github.io/incremancer/",
+  "verdict": "Light advertising"
+ },
  "citationmachine.net": {
   "ad_domains": 34,
   "ad_requests": 70,
   "ad_slots": 0,
   "ad_weight_pct": 54.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -32770,6 +33154,48 @@
   "url": "https://class-12-isc.vercel.app/",
   "verdict": "Effectively ad-free"
  },
+ "classic-mahjong.com": {
+  "ad_domains": 83,
+  "ad_requests": 183,
+  "ad_slots": 1,
+  "ad_weight_pct": 85.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "694d825f024e6732018ec61360856b48.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "bid.g.doubleclick.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "c21lg-d.media.net"
+  ],
+  "ok": true,
+  "page_kb": 10536,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 21.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Classic Mahjong - Play Mahjong Online for Free",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 7,
+  "url": "https://classic-mahjong.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "classic.dmheroes.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -32953,6 +33379,35 @@
   "trackers": 1,
   "url": "https://classicgtasites.com/",
   "verdict": "Light advertising"
+ },
+ "classicklondikesolitaire.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 29951,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Solitaire Games Online - Classic Klondike Solitaire",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://classicklondikesolitaire.com/free-solitaire-games",
+  "verdict": "Effectively ad-free"
  },
  "classicreload.com": {
   "ad_domains": 0,
@@ -34342,7 +34797,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 9.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -37426,6 +37881,37 @@
   "url": "https://cozyaudiobooks.com/category/",
   "verdict": "Heavy advertising"
  },
+ "cpjourney.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4467,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Club Penguin Journey",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 4,
+  "url": "https://cpjourney.net/",
+  "verdict": "Very clean"
+ },
  "cpu.land": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -37489,7 +37975,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38176,7 +38662,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38406,7 +38892,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38582,7 +39068,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -38614,7 +39100,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://css-speedrun.netlify.app/\", waiting until \"dom",
   "fails": 1,
   "grade": "A+",
@@ -38674,7 +39160,7 @@
   "ad_requests": 5,
   "ad_slots": 1,
   "ad_weight_pct": 58.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -38708,7 +39194,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 14.4,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -38806,7 +39292,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38835,7 +39321,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38893,7 +39379,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -39187,6 +39673,35 @@
   "trackers": 1,
   "url": "https://cubiktv.com/",
   "verdict": "Moderate advertising"
+ },
+ "cubyz.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11799,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome to Cubyz",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://cubyz.net/",
+  "verdict": "Effectively ad-free"
  },
  "cuckoo.cert.ee": {
   "ad_domains": 0,
@@ -39625,7 +40140,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 18.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -40834,7 +41349,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -41583,6 +42098,35 @@
   "url": "https://dbkpop.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "dc.railgun.works": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "The Sonic 3 A.I.R. Community - Security Checkpoint",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://dc.railgun.works/s3air",
+  "verdict": "Effectively ad-free"
+ },
  "ddgroupclub.win": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -42231,6 +42775,35 @@
   "url": "https://decomps.fun/",
   "verdict": "Effectively ad-free"
  },
+ "decomps.samidy.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 174,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Game Decompilations",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://decomps.samidy.com/",
+  "verdict": "Effectively ad-free"
+ },
  "deeeep.io": {
   "ad_domains": 14,
   "ad_requests": 107,
@@ -42278,7 +42851,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42687,6 +43260,37 @@
   "trackers": 0,
   "url": "http://deletedcity.net/",
   "verdict": "Effectively ad-free"
+ },
+ "delicious-fruit.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 740,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Delicious Fruit",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 3,
+  "url": "https://delicious-fruit.com/",
+  "verdict": "Light advertising"
  },
  "delphi.tools": {
   "ad_domains": 0,
@@ -44369,7 +44973,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -44392,6 +44996,48 @@
   "trackers": 0,
   "url": "https://dictz.github.io/dsl_converter.html",
   "verdict": "Effectively ad-free"
+ },
+ "diep.io": {
+  "ad_domains": 42,
+  "ad_requests": 68,
+  "ad_slots": 0,
+  "ad_weight_pct": 35.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "acdn.adnxs.com",
+   "adinplay-d.openx.net",
+   "ads.pubmatic.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "eb2.3lift.com",
+   "ef5f38f726eeda50c20ca7ea5c9a6f55.safeframe.googlesyndication.com",
+   "eus.rubiconproject.com"
+  ],
+  "ok": true,
+  "page_kb": 1443,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 30.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "diep.io",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://diep.io/",
+  "verdict": "Very heavy advertising"
  },
  "diffuse.app": {
   "ad_domains": 3,
@@ -45134,12 +45780,41 @@
   "url": "https://discord.rotki.com/",
   "verdict": "Effectively ad-free"
  },
+ "discord.sonicfangameshq.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4519,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Sonic Fan Games HQ - Security Checkpoint",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://discord.sonicfangameshq.com/",
+  "verdict": "Effectively ad-free"
+ },
  "discordapp.com": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -45958,6 +46633,37 @@
   "trackers": 0,
   "url": "https://dl.acm.org/",
   "verdict": "Effectively ad-free"
+ },
+ "dles.aukspot.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 44.2,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 373,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Dles - Discover 700+ Free Daily Games | Wordle, Connections & More",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://dles.aukspot.com/",
+  "verdict": "Light advertising"
  },
  "dles.gg": {
   "ad_domains": 1,
@@ -48423,6 +49129,35 @@
   "url": "https://doodles.google/",
   "verdict": "Very clean"
  },
+ "doot.games": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7214,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Doot, put a game on the big screen",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://doot.games/",
+  "verdict": "Effectively ad-free"
+ },
  "doramasflix.co": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50530,6 +51265,39 @@
   "url": "https://dystroy.org/broot",
   "verdict": "Effectively ad-free"
  },
+ "dzierzan.itch.io": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2245,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenSA by Dzierzan",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://dzierzan.itch.io/opensa",
+  "verdict": "Light advertising"
+ },
  "e-sword.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -51705,7 +52473,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 25.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -53072,7 +53840,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -53316,7 +54084,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 16.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -53740,6 +54508,35 @@
   ],
   "trackers": 3,
   "url": "https://en.booksee.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "en.chessbase.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6114,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chess News | ChessBase",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://en.chessbase.com/",
   "verdict": "Effectively ad-free"
  },
  "en.everybodywiki.com": {
@@ -56902,7 +57699,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 8.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -58706,6 +59503,37 @@
   "url": "https://fastsign.dev/",
   "verdict": "Effectively ad-free"
  },
+ "fateful.quest": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 72.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 226,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fateful Quest",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://fateful.quest/",
+  "verdict": "Light advertising"
+ },
  "fawesome.tv": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -59382,7 +60210,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62719,7 +63547,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 54.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -62744,6 +63572,35 @@
   "trackers": 3,
   "url": "https://flukeout.github.io/",
   "verdict": "Light advertising"
+ },
+ "fluppy.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 42,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FLUPPY SNAKE",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://fluppy.pages.dev/",
+  "verdict": "Effectively ad-free"
  },
  "fluxer.gg": {
   "ad_domains": 0,
@@ -63634,7 +64491,7 @@
   "ad_requests": 5,
   "ad_slots": 1,
   "ad_weight_pct": 11.4,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -64541,6 +65398,35 @@
   "trackers": 1,
   "url": "https://forums.qrz.com/",
   "verdict": "Moderate advertising"
+ },
+ "forums.sonicretro.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 502,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sonic and Sega Retro Forums",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://forums.sonicretro.org/",
+  "verdict": "Effectively ad-free"
  },
  "forums.spacebattles.com": {
   "ad_domains": 64,
@@ -65906,7 +66792,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67858,6 +68744,35 @@
   "url": "https://gaiaflix.live/",
   "verdict": "Very clean"
  },
+ "galaxy.click": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2321,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "galaxy",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://galaxy.click/",
+  "verdict": "Effectively ad-free"
+ },
  "galaxyofgames.neocities.org": {
   "ad_domains": 2,
   "ad_requests": 302,
@@ -68336,6 +69251,35 @@
   ],
   "trackers": 0,
   "url": "https://gamenative.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "gameofbombs.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 363,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Game Of Bombs",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://gameofbombs.com/",
   "verdict": "Effectively ad-free"
  },
  "gamepadla.com": {
@@ -70843,6 +71787,35 @@
   ],
   "trackers": 0,
   "url": "https://git.bwaaa.monster/omnisearch/about/",
+  "verdict": "Effectively ad-free"
+ },
+ "git.do.srb2.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 845,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "STJr / SRB2 \u00b7 GitLab",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://git.do.srb2.org/STJr/SRB2",
   "verdict": "Effectively ad-free"
  },
  "git.hostux.net": {
@@ -74178,7 +75151,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -74729,6 +75702,35 @@
   "url": "https://guide.bash.academy/",
   "verdict": "Light advertising"
  },
+ "guide.tjadataba.se": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 417,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u592a\u9f13\u306e\u9054\u4eba Simulator Guide",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://guide.tjadataba.se/",
+  "verdict": "Effectively ad-free"
+ },
  "guides.loc.gov": {
   "ad_domains": 3,
   "ad_requests": 4,
@@ -75239,6 +76241,35 @@
   "trackers": 1,
   "url": "https://hack-games.com/",
   "verdict": "Very heavy advertising"
+ },
+ "hack64.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 106,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hack64 - Web Patcher",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://hack64.net/tools/patcher.php",
+  "verdict": "Effectively ad-free"
  },
  "hackclub.com": {
   "ad_domains": 0,
@@ -76251,6 +77282,35 @@
   ],
   "trackers": 0,
   "url": "https://harddrop.com/fumen/",
+  "verdict": "Effectively ad-free"
+ },
+ "hare.kractero.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 75,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hare",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://hare.kractero.com/",
   "verdict": "Effectively ad-free"
  },
  "hari.recipes": {
@@ -77342,7 +78402,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81226,7 +82286,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -82607,7 +83667,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://ij.imjoy.io/\nCall log:\n  - navigating to \"https://ij.imjoy.io/\", waitin",
   "fails": 1,
   "grade": "A+",
@@ -82659,6 +83719,39 @@
   "trackers": 0,
   "url": "https://ikemen-engine.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "ikemengo.com": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 15.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1543,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 71.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Download & Install Ikemen GO: Best Fighting Game Engine",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://ikemengo.com/",
+  "verdict": "Moderate advertising"
  },
  "iknowwhatyoudownload.com": {
   "ad_domains": 0,
@@ -86583,7 +87676,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.9,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -87093,7 +88186,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 48.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -87124,7 +88217,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -87225,7 +88318,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -87803,6 +88896,35 @@
   ],
   "trackers": 0,
   "url": "https://jimaku.cc/",
+  "verdict": "Effectively ad-free"
+ },
+ "jimbly.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 39,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RegEx Crossword",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://jimbly.github.io/regex-crossword/",
   "verdict": "Effectively ad-free"
  },
  "jimmortensen.gumroad.com": {
@@ -88607,7 +89729,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -89043,6 +90165,37 @@
   "trackers": 0,
   "url": "https://jtx.techbee.at/",
   "verdict": "Effectively ad-free"
+ },
+ "juegosdemugen.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 40702,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\ud83e\udd47 All Mugen games 2026% Here \u300a",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 1,
+  "url": "https://juegosdemugen.com/en/",
+  "verdict": "Very clean"
  },
  "jumpstick.app": {
   "ad_domains": 2,
@@ -89634,6 +90787,35 @@
   ],
   "trackers": 0,
   "url": "https://kalker.xyz/",
+  "verdict": "Effectively ad-free"
+ },
+ "kallax.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5970,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kallax.io - Board Game App",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://kallax.io/",
   "verdict": "Effectively ad-free"
  },
  "kangxizidian.com": {
@@ -90407,6 +91589,35 @@
   "url": "https://keeptrack.space/",
   "verdict": "Heavy advertising"
  },
+ "keeri.place": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "sudoku xv \u00b7 \u30ad\u30fc\u30ea",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://keeri.place/sudoku-xv",
+  "verdict": "Effectively ad-free"
+ },
  "keiyoushi.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -90849,6 +92060,35 @@
   ],
   "trackers": 0,
   "url": "https://kicad.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "kickassapp.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 472,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kick Ass - Destroy the web",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://kickassapp.com/",
   "verdict": "Effectively ad-free"
  },
  "kid3.kde.org": {
@@ -92214,7 +93454,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -92392,7 +93632,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -93975,7 +95215,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -95661,7 +96901,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -96237,7 +97477,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -97596,6 +98836,35 @@
   "trackers": 3,
   "url": "https://libreflix.org",
   "verdict": "Very clean"
+ },
+ "libregamewiki.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 974,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "List of games - Libregamewiki",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://libregamewiki.org/List_of_games",
+  "verdict": "Effectively ad-free"
  },
  "librepcb.org": {
   "ad_domains": 0,
@@ -99306,6 +100575,38 @@
   "url": "https://listados.gitlab.io/awesome-telegram-redcarpet/",
   "verdict": "Effectively ad-free"
  },
+ "listdle.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 1,
+  "ad_weight_pct": 19.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 943,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Listdle - A list of all the daily games like Wordle that the internet has to offer",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://listdle.com/",
+  "verdict": "Light advertising"
+ },
  "listen.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -99892,7 +101193,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -104431,6 +105732,67 @@
   "url": "https://magnifiedsand.com/",
   "verdict": "Light advertising"
  },
+ "mahjong-solitaire.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 729,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Mahjong Solitaire Online",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://mahjong-solitaire.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "mahjong4friends.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 37.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 449,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play Mahjong Online Free - American & Chinese Games",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 1,
+  "url": "https://mahjong4friends.com/",
+  "verdict": "Light advertising"
+ },
  "maid.zone": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -106993,7 +108355,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -107279,7 +108641,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 74.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -107434,7 +108796,7 @@
   "ad_requests": 8,
   "ad_slots": 1,
   "ad_weight_pct": 13.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -107976,7 +109338,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -108090,6 +109452,37 @@
   "trackers": 0,
   "url": "https://mayakron.altervista.org/",
   "verdict": "Effectively ad-free"
+ },
+ "maze.toys": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 81.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 203,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Maze Toys \u2014 Online Mazes, 3D Corn Mazes & Puzzle Games",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://maze.toys/",
+  "verdict": "Light advertising"
  },
  "mazepa.to": {
   "ad_domains": 0,
@@ -108239,6 +109632,37 @@
   "trackers": 0,
   "url": "https://mdblist.com/",
   "verdict": "Effectively ad-free"
+ },
+ "mdk.cab": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.3,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2026,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "[mdk] arcade rom and information repository for mame 0.289",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 1,
+  "url": "https://mdk.cab/",
+  "verdict": "Very clean"
  },
  "mealie.io": {
   "ad_domains": 0,
@@ -109073,7 +110497,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110619,6 +112043,35 @@
   "url": "https://mindexpandingbooks.com",
   "verdict": "Light advertising"
  },
+ "minesjd.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2096,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mines JD - Minesweeper Online",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://minesjd.com/",
+  "verdict": "Effectively ad-free"
+ },
  "minesweeper.online": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -110738,6 +112191,80 @@
   "trackers": 2,
   "url": "https://mini-map-macau.app/",
   "verdict": "Light advertising"
+ },
+ "miniblox.io": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7910,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 81.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Miniblox",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://miniblox.io/",
+  "verdict": "Light advertising"
+ },
+ "minigolfclub.io": {
+  "ad_domains": 46,
+  "ad_requests": 86,
+  "ad_slots": 2,
+  "ad_weight_pct": 27.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "4a38f8c03a02eec6ac92e9c4be9d26ab.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ap.lijit.com",
+   "bid.g.doubleclick.net",
+   "btlr.sharethrough.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "diagnostics.id5-sync.com",
+   "direct.adsrvr.org"
+  ],
+  "ok": true,
+  "page_kb": 19384,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 21.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mini Golf Club - Free Online Mini Golf Game",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://minigolfclub.io/",
+  "verdict": "Ad-saturated / hostile"
  },
  "minigolfle.com": {
   "ad_domains": 3,
@@ -112256,7 +113783,7 @@
   "ad_requests": 10,
   "ad_slots": 0,
   "ad_weight_pct": 0.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -114690,6 +116217,64 @@
   ],
   "trackers": 0,
   "url": "https://mugen.karaokes.moe/en/",
+  "verdict": "Effectively ad-free"
+ },
+ "mugenfreeforall.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://mugenfreeforall.com/\", waiting until \"domconte",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2827,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Mugen",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://mugenfreeforall.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "mugenguild.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 847,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Mugen Fighters Guild",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://mugenguild.com/",
   "verdict": "Effectively ad-free"
  },
  "mullvad.net": {
@@ -121803,6 +123388,35 @@
   "url": "https://nptel.ac.in/courses",
   "verdict": "Very clean"
  },
+ "nroutasuo.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1207,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Level 13",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://nroutasuo.github.io/level13/",
+  "verdict": "Effectively ad-free"
+ },
  "ns2db.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -121919,6 +123533,35 @@
   ],
   "trackers": 0,
   "url": "https://nsf.nesbbs.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "nsmbhd.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5422,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The NSMB Hacking Domain",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 2,
+  "url": "https://nsmbhd.net/",
   "verdict": "Effectively ad-free"
  },
  "nswgame.com": {
@@ -122396,7 +124039,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -125052,6 +126695,35 @@
   "url": "https://omgspace.net/",
   "verdict": "Effectively ad-free"
  },
+ "omnichess.club": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 23,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Omnichess",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://omnichess.club/",
+  "verdict": "Effectively ad-free"
+ },
  "omniglot.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -126213,7 +127885,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127607,6 +129279,45 @@
   "url": "https://openpuppies.com/",
   "verdict": "Very clean"
  },
+ "openra.net": {
+  "ad_domains": 9,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "ads.scorecardresearch.com",
+   "api.viglink.com",
+   "cdn.viglink.com",
+   "cs.media.net",
+   "dpm.demdex.net",
+   "gum.criteo.com",
+   "ib.adnxs.com",
+   "image2.pubmatic.com",
+   "sync-tm.everesttech.net"
+  ],
+  "ok": true,
+  "page_kb": 3809,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 57.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenRA - Classic strategy games rebuilt for the modern era",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 3,
+  "url": "https://openra.net/",
+  "verdict": "Heavy advertising"
+ },
  "openrailwaymap.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -127818,7 +129529,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 6.4,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -129255,6 +130966,35 @@
   "url": "https://osf.io/preprints/socarxiv",
   "verdict": "Moderate advertising"
  },
+ "osgameclones.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 934,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Open Source Game Clones",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://osgameclones.com/",
+  "verdict": "Effectively ad-free"
+ },
  "oskarstalberg.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -129496,6 +131236,35 @@
   ],
   "trackers": 0,
   "url": "https://osu.ppy.sh/home",
+  "verdict": "Effectively ad-free"
+ },
+ "osudroid.moe": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 632,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "osu!droid | Rhythm is just a Tap away!",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://osudroid.moe/",
   "verdict": "Effectively ad-free"
  },
  "osvault.weebly.com": {
@@ -130116,7 +131885,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -132071,7 +133840,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -132669,6 +134438,35 @@
   ],
   "trackers": 0,
   "url": "https://pemonlist.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "penguintrack.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 656,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "penguintrack",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://penguintrack.com/",
   "verdict": "Effectively ad-free"
  },
  "perchance.org": {
@@ -135196,6 +136994,35 @@
   "url": "https://pixeldrain-bypass.gamedrive.to/",
   "verdict": "Effectively ad-free"
  },
+ "pixelgunmayhem.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 312,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pixel Gun Mayhem",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://pixelgunmayhem.net/",
+  "verdict": "Effectively ad-free"
+ },
  "pixelrun.localplayer.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -135516,7 +137343,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 20.3,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -135980,7 +137807,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -136230,6 +138057,35 @@
   "url": "https://play.hypersomnia.io/",
   "verdict": "Effectively ad-free"
  },
+ "play.m3o.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "m3o",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://play.m3o.xyz/",
+  "verdict": "Effectively ad-free"
+ },
  "play.nova.bg": {
   "ad_domains": 6,
   "ad_requests": 24,
@@ -136383,6 +138239,38 @@
   "url": "https://play.you.radio/",
   "verdict": "Light advertising"
  },
+ "play2048.co": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 43.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 465,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 74.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "2048 \u2022 Play the Free Online Game",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
+  "url": "https://play2048.co/",
+  "verdict": "Light advertising"
+ },
  "playanypage.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -136512,7 +138400,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 86.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -137288,6 +139176,43 @@
   "trackers": 1,
   "url": "https://playsheet.app/",
   "verdict": "Light advertising"
+ },
+ "playsnake.org": {
+  "ad_domains": 7,
+  "ad_requests": 80,
+  "ad_slots": 2,
+  "ad_weight_pct": 87.3,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "servedby.flashtalking.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2057,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Snake - Play the retro Snake game online for free",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://playsnake.org/",
+  "verdict": "Ad-saturated / hostile"
  },
  "playstationhaber.com": {
   "ad_domains": 2,
@@ -138908,7 +140833,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 0.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -141257,6 +143182,48 @@
   "url": "https://project-atlas-dbb.pages.dev/",
   "verdict": "Effectively ad-free"
  },
+ "projectcrusade.forumotion.com": {
+  "ad_domains": 78,
+  "ad_requests": 334,
+  "ad_slots": 4,
+  "ad_weight_pct": 30.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.rubiconproject.com",
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "api.id5-sync.com",
+   "at.teads.tv",
+   "b1h.outbrain.com",
+   "b1sync.outbrain.com",
+   "be4b48ba37366816981028d05f0cb808.safeframe.googlesyndication.com",
+   "beacon-sjc4.rubiconproject.com",
+   "c21lg-d.media.net",
+   "cdn.flashtalking.com"
+  ],
+  "ok": true,
+  "page_kb": 10571,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 3.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Project Crusade Community",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 3,
+  "url": "https://projectcrusade.forumotion.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "projectdxxx.me": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -142756,6 +144723,67 @@
   "url": "https://purstream.wiki/",
   "verdict": "Effectively ad-free"
  },
+ "putt.day": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 51,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "putt.day \u2014 a daily hole of mini golf",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://putt.day/",
+  "verdict": "Effectively ad-free"
+ },
+ "puzzlemaker.discoveryeducation.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 29.2,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 973,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 73.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Online Puzzlemaker | Create Your Own Puzzle | Discovery Education Puzzlemaker",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://puzzlemaker.discoveryeducation.com/",
+  "verdict": "Light advertising"
+ },
  "pwn.college": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143015,6 +145043,37 @@
   "trackers": 0,
   "url": "https://pythondiscord.com/resources/",
   "verdict": "Effectively ad-free"
+ },
+ "pyx-1.pretendyoure.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 50.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 309,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pretend You're Xyzzy",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 4,
+  "url": "https://pyx-1.pretendyoure.xyz/zy/game.jsp",
+  "verdict": "Light advertising"
  },
  "qalculate.github.io": {
   "ad_domains": 0,
@@ -143431,6 +145490,37 @@
   ],
   "trackers": 1,
   "url": "https://quartermaester.info/",
+  "verdict": "Light advertising"
+ },
+ "quavergame.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 18.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1490,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | Quaver",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 2,
+  "url": "https://quavergame.com/",
   "verdict": "Light advertising"
  },
  "queensgame.io": {
@@ -147024,6 +149114,35 @@
   "url": "https://reanime.to/",
   "verdict": "Effectively ad-free"
  },
+ "rebelwithoutarootcause.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 363,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fallout 3 Terminal Hacking - Mitchell Thompson",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://rebelwithoutarootcause.com/demos/terminal/",
+  "verdict": "Effectively ad-free"
+ },
  "rebrickable.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -149331,6 +151450,35 @@
   "url": "https://retrosizer.com/",
   "verdict": "Effectively ad-free"
  },
+ "retrospec.sgn.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 486,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Retrospec",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://retrospec.sgn.net/",
+  "verdict": "Effectively ad-free"
+ },
  "retrostrange.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -149589,7 +151737,7 @@
   "ad_requests": 141,
   "ad_slots": 7,
   "ad_weight_pct": 47.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -149777,6 +151925,39 @@
   "trackers": 16,
   "url": "https://rhythm-plus.com",
   "verdict": "Heavy advertising"
+ },
+ "rhythmplus.io": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6993,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 68.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rhythm Plus - Online Rhythm Game - Play, Create and Share Your Favorite Songs",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 14,
+  "url": "https://rhythmplus.io/",
+  "verdict": "Moderate advertising"
  },
  "rhythmweb.vercel.app": {
   "ad_domains": 0,
@@ -151418,6 +153599,35 @@
   "url": "https://romslab.com/",
   "verdict": "Heavy advertising"
  },
+ "romspure.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1038,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ROMSPURE.CC - Download original Nintendo & Playstation ROMs & ISOs",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://ROMspure.cc/",
+  "verdict": "Effectively ad-free"
+ },
  "romstime.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -151873,6 +154083,44 @@
   ],
   "trackers": 6,
   "url": "https://rpgbot.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "rpggeek.com": {
+  "ad_domains": 8,
+  "ad_requests": 23,
+  "ad_slots": 1,
+  "ad_weight_pct": 65.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ca0ec58b88c4f1cf9d3e8897dfb47278.safeframe.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 1181,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 25.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RPGGeek",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 2,
+  "url": "https://rpggeek.com/",
   "verdict": "Ad-saturated / hostile"
  },
  "rpgonly.com": {
@@ -152977,6 +155225,35 @@
   "url": "https://ruwix.com/",
   "verdict": "Very heavy advertising"
  },
+ "rwmpelstilzchen.gitlab.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1438,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Wordles of the World",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://rwmpelstilzchen.gitlab.io/wordles/",
+  "verdict": "Effectively ad-free"
+ },
  "rxresu.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -153272,7 +155549,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -154192,7 +156469,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -155113,7 +157390,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -155484,7 +157761,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -160554,7 +162831,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 12.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -161137,6 +163414,35 @@
   "url": "https://slsknet.org/",
   "verdict": "Moderate advertising"
  },
+ "smallgames.ch": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16808,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SmallGames - Cracked PC Games, Nintendo Switch ROMs & 3DS decrypted | Download",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://smallgames.ch/",
+  "verdict": "Effectively ad-free"
+ },
  "smart-games.com": {
   "ad_domains": 2,
   "ad_requests": 9,
@@ -161301,6 +163607,39 @@
   "url": "https://smarttubeapp.github.io/",
   "verdict": "Very heavy advertising"
  },
+ "smash-crusade.itch.io": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4319,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 84.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Super Smash Bros. Crusade ver. 0.9.5 by Super Smash Bros. Crusade",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 1,
+  "url": "https://smash-crusade.itch.io/crusade",
+  "verdict": "Light advertising"
+ },
  "smashkarts.io": {
   "ad_domains": 30,
   "ad_requests": 63,
@@ -161348,7 +163687,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -161491,6 +163830,35 @@
   ],
   "trackers": 0,
   "url": "https://smotret.tv/",
+  "verdict": "Effectively ad-free"
+ },
+ "smwcentral.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://smwcentral.net/",
   "verdict": "Effectively ad-free"
  },
  "smwstuff.net": {
@@ -162445,6 +164813,48 @@
   "url": "https://solitaired.com/",
   "verdict": "Effectively ad-free"
  },
+ "solitaireowl.com": {
+  "ad_domains": 26,
+  "ad_requests": 46,
+  "ad_slots": 1,
+  "ad_weight_pct": 35.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cm.mgid.com",
+   "config.aps.amazon-adsystem.com",
+   "esp.rtbhouse.com",
+   "fid.agkn.com",
+   "gum.criteo.com",
+   "id.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 1679,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 23.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Solitaire - Play Online & Free",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 3,
+  "url": "https://solitaireowl.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "sololatino.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -163032,6 +165442,48 @@
   "trackers": 1,
   "url": "https://songstems.net/",
   "verdict": "Moderate advertising"
+ },
+ "sonic3air.boards.net": {
+  "ad_domains": 86,
+  "ad_requests": 410,
+  "ad_slots": 3,
+  "ad_weight_pct": 48.2,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "6e01674b839d1fbe9ec899c5d1bf5fc4.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "ap.lijit.com",
+   "api.viglink.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com"
+  ],
+  "ok": true,
+  "page_kb": 2928,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 13.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mod Releases | Sonic 3 A.I.R.",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 4,
+  "url": "https://sonic3air.boards.net/board/6/mod-releases",
+  "verdict": "Ad-saturated / hostile"
  },
  "sonic3air.org": {
   "ad_domains": 0,
@@ -165118,6 +167570,48 @@
   "url": "https://split-tv.co.il/",
   "verdict": "Effectively ad-free"
  },
+ "splix.io": {
+  "ad_domains": 37,
+  "ad_requests": 74,
+  "ad_slots": 1,
+  "ad_weight_pct": 97.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "155be1b15e0dad2b4bf6ec129c0ba22a.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ade.googlesyndication.com",
+   "ads.pubmatic.com",
+   "bid.g.doubleclick.net",
+   "btlr.sharethrough.com",
+   "c21lg-d.media.net",
+   "cm.g.doubleclick.net",
+   "cs.media.net",
+   "d.agkn.com",
+   "direct.adsrvr.org",
+   "eb2.3lift.com"
+  ],
+  "ok": true,
+  "page_kb": 17057,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 25.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "splix.io",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://splix.io/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "spoilerplus.tv": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -166924,7 +169418,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -169053,7 +171547,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 36.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -170246,6 +172740,35 @@
   "url": "https://surge-synthesizer.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "suroi.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11200,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Suroi - 2D battle royale game",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://suroi.io/",
+  "verdict": "Effectively ad-free"
+ },
  "survev.io": {
   "ad_domains": 66,
   "ad_requests": 205,
@@ -171074,6 +173597,37 @@
   "url": "https://syncthing.net/",
   "verdict": "Effectively ad-free"
  },
+ "synesthesiagame.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 54.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 279,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Synesthesia (in space)",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 4,
+  "url": "http://synesthesiagame.com/",
+  "verdict": "Light advertising"
+ },
  "syosetu.com": {
   "ad_domains": 32,
   "ad_requests": 89,
@@ -171832,6 +174386,35 @@
   "trackers": 4,
   "url": "https://talosintelligence.com/",
   "verdict": "Very clean"
+ },
+ "tamanotchi.world": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 77,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "tamanotchi.world | Welcome to tamaNOTchi! - Population: 37,198",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://tamanotchi.world/",
+  "verdict": "Effectively ad-free"
  },
  "tamilbulb.cc": {
   "ad_domains": 2,
@@ -174269,7 +176852,7 @@
   "ad_requests": 12,
   "ad_slots": 0,
   "ad_weight_pct": 10.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -175246,6 +177829,46 @@
   "url": "https://thelounge.chat/",
   "verdict": "Effectively ad-free"
  },
+ "themahjong.com": {
+  "ad_domains": 10,
+  "ad_requests": 13,
+  "ad_slots": 0,
+  "ad_weight_pct": 60.5,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ib.adnxs.com",
+   "match.sharethrough.com",
+   "partners.tremorhub.com",
+   "pixel.quantserve.com",
+   "rtb-csync.smartadserver.com",
+   "rules.quantcount.com",
+   "secure.quantserve.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 491,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 39.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play Mahjong Online Free - The Mahjong",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 2,
+  "url": "https://themahjong.com/",
+  "verdict": "Very heavy advertising"
+ },
  "themarkup.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -175835,6 +178458,35 @@
   "trackers": 0,
   "url": "https://thepiratebay.org/search.php?q=top100:100",
   "verdict": "Very clean"
+ },
+ "therace.montblancexplorer.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9952,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Montblanc Explorer Platinum - The Race",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://therace.montblancexplorer.com/",
+  "verdict": "Effectively ad-free"
  },
  "therace.montblanclegend.com": {
   "ad_domains": 0,
@@ -177123,7 +179775,7 @@
   "ad_requests": 181,
   "ad_slots": 28,
   "ad_weight_pct": 79.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -179040,7 +181692,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 18.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -179515,7 +182167,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -180463,7 +183115,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -182100,7 +184752,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -184748,7 +187400,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -185274,6 +187926,37 @@
   "trackers": 0,
   "url": "https://unequalscenes.com/",
   "verdict": "Effectively ad-free"
+ },
+ "unflipgame.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2348,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Unflip - Puzzle Game",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://unflipgame.com/",
+  "verdict": "Very clean"
  },
  "unglue.it": {
   "ad_domains": 0,
@@ -186541,7 +189224,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 28.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -186601,7 +189284,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -189202,6 +191885,35 @@
   "url": "https://vipotv.com/",
   "verdict": "Very heavy advertising"
  },
+ "viresh-ratnakar.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10368,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Exet: Create a crossword",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://viresh-ratnakar.github.io/exet.html",
+  "verdict": "Effectively ad-free"
+ },
  "virgil-search.pages.dev": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -189264,7 +191976,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -189929,7 +192641,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 12.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -190998,6 +193710,35 @@
   "trackers": 3,
   "url": "https://voxiom.io/",
   "verdict": "Heavy advertising"
+ },
+ "voxjong.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3257,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VoxJong - CSS Mahjong Solitaire",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://voxjong.com/",
+  "verdict": "Effectively ad-free"
  },
  "voxlu.me": {
   "ad_domains": 4,
@@ -192075,6 +194816,37 @@
   "trackers": 0,
   "url": "https://wasona.com/",
   "verdict": "Effectively ad-free"
+ },
+ "watabou.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2534,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watabou's Procgen Arcana",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://watabou.github.io/",
+  "verdict": "Very clean"
  },
  "watabou.itch.io": {
   "ad_domains": 1,
@@ -193438,7 +196210,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 35.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -194097,7 +196869,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -194943,6 +197715,37 @@
   "trackers": 0,
   "url": "https://wenomad.so/",
   "verdict": "Effectively ad-free"
+ },
+ "weplaydos.games": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 1,
+  "ad_weight_pct": 18.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 914,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 74.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Play Classic DOS Games Online Free & Unblocked | WePlayDOS",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 5,
+  "url": "https://weplaydos.games/",
+  "verdict": "Light advertising"
  },
  "wetrakr.com": {
   "ad_domains": 3,
@@ -198378,6 +201181,48 @@
   "url": "https://wordle-analyzer.com/",
   "verdict": "Effectively ad-free"
  },
+ "wordleunlimited.org": {
+  "ad_domains": 14,
+  "ad_requests": 84,
+  "ad_slots": 5,
+  "ad_weight_pct": 98.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "ag.innovid.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com"
+  ],
+  "ok": true,
+  "page_kb": 27475,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Wordle Unlimited games - Wordle Today",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
+  "url": "https://wordleunlimited.org/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "wordleverse.net": {
   "ad_domains": 1,
   "ad_requests": 3,
@@ -198629,6 +201474,35 @@
   "trackers": 0,
   "url": "https://wordsalad.online/",
   "verdict": "Very heavy advertising"
+ },
+ "wordsearchlabs.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 79,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Word Search Labs - The Word Search Maker",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://wordsearchlabs.com/",
+  "verdict": "Effectively ad-free"
  },
  "wordwall.net": {
   "ad_domains": 2,
@@ -199151,6 +202025,35 @@
   "trackers": 0,
   "url": "https://worldofpcgames.com/",
   "verdict": "Light advertising"
+ },
+ "worldofsolitaire.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1109,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "World of Solitaire",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://worldofsolitaire.com/",
+  "verdict": "Effectively ad-free"
  },
  "worldofsucculents.com": {
   "ad_domains": 0,
@@ -200332,7 +203235,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 37.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -200609,6 +203512,35 @@
   "trackers": 0,
   "url": "https://www.1tube.org/",
   "verdict": "Very clean"
+ },
+ "www.247freepoker.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7306,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Poker Games",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.247freepoker.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.247games.com": {
   "ad_domains": 1,
@@ -201631,6 +204563,35 @@
   ],
   "trackers": 0,
   "url": "https://www.abandonware-videos.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.abandonwaredos.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.abandonwaredos.com/\", waiting until \"domco",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "DOS HAVEN",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.abandonwaredos.com/",
   "verdict": "Effectively ad-free"
  },
  "www.abjjad.com": {
@@ -203318,7 +206279,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 1.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -204016,6 +206977,47 @@
   "trackers": 0,
   "url": "https://www.anatomyarchive.org/",
   "verdict": "Very clean"
+ },
+ "www.andersonkenya1.net": {
+  "ad_domains": 11,
+  "ad_requests": 87,
+  "ad_slots": 5,
+  "ad_weight_pct": 1.7,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-uswest.adnxs.com",
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cdn.adnxs.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 74553,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 13.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Forums - AK1 MUGEN Community",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 1,
+  "url": "https://www.andersonkenya1.net/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.android-x86.org": {
   "ad_domains": 1,
@@ -206112,6 +209114,46 @@
   "trackers": 1,
   "url": "https://www.arhivabac.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.arkadium.com": {
+  "ad_domains": 10,
+  "ad_requests": 18,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "cdn.taboola.com",
+   "cds.taboola.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "pips.taboola.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5055,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 34.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Arkadium | 200+ Free Online Games to Play Now",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 8,
+  "url": "https://www.arkadium.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.arkat-usa.org": {
   "ad_domains": 8,
@@ -208478,6 +211520,44 @@
   "url": "https://www.bestcrosswords.com/",
   "verdict": "Moderate advertising"
  },
+ "www.bestoldgames.net": {
+  "ad_domains": 8,
+  "ad_requests": 52,
+  "ad_slots": 6,
+  "ad_weight_pct": 96.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 28542,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Download best old video games for free | BestOldGames.net",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 2,
+  "url": "https://www.bestoldgames.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.bestpmjobs.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -208710,7 +211790,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 46.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -209666,6 +212746,35 @@
   "url": "https://www.blocklayer.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.bloxdforge.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.bloxdforge.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.bls.gov": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -209833,7 +212942,7 @@
   "ad_requests": 4,
   "ad_slots": 1,
   "ad_weight_pct": 98.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -212767,6 +215876,37 @@
   "url": "https://www.cheapshark.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.cheatmsx.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2147,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MSXGamesWorld",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 1,
+  "url": "https://www.cheatmsx.com/",
+  "verdict": "Very clean"
+ },
  "www.chem.rochester.edu": {
   "ad_domains": 2,
   "ad_requests": 5,
@@ -214166,7 +217306,7 @@
   "ad_requests": 235,
   "ad_slots": 3,
   "ad_weight_pct": 38.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -214208,7 +217348,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -214240,7 +217380,7 @@
   "ad_requests": 430,
   "ad_slots": 7,
   "ad_weight_pct": 71.3,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -214495,6 +217635,35 @@
   "url": "https://www.classic-rock-covers.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.classicdosgames.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "503 Service Unavailable",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.classicdosgames.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.classicgames.me": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -214597,6 +217766,37 @@
   "trackers": 0,
   "url": "https://www.classicshorts.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.classicube.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4317,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ClassiCube.net",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.classicube.net/",
+  "verdict": "Very clean"
  },
  "www.classreal.com": {
   "ad_domains": 1,
@@ -214952,7 +218152,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 40.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -214983,7 +218183,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -215043,7 +218243,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -215072,7 +218272,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 3.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -216165,6 +219365,35 @@
   "url": "https://www.corpusngt.nl/",
   "verdict": "Effectively ad-free"
  },
+ "www.couchplay.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4095,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Couchplay, the free CTV game center for the whole family. Europe\u2019s largest CTV games porta",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.couchplay.tv/index_en.php",
+  "verdict": "Effectively ad-free"
+ },
  "www.countdowns.live": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -216778,6 +220007,35 @@
   "url": "https://www.cross-seed.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.crosserville.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 25,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Crosserville",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.crosserville.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.croxyproxy.com": {
   "ad_domains": 4,
   "ad_requests": 24,
@@ -216932,7 +220190,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.cs.usfca.edu/~galles/visualization/Algorit",
   "fails": 1,
   "grade": "A+",
@@ -218184,7 +221442,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 29.9,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -220826,7 +224084,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 8.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -222267,6 +225525,48 @@
   "url": "https://www.emrap.org/hd",
   "verdict": "Effectively ad-free"
  },
+ "www.emu-france.com": {
+  "ad_domains": 27,
+  "ad_requests": 43,
+  "ad_slots": 0,
+  "ad_weight_pct": 24.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "d29e7ebe08a2dd68fa8cf447ce03ab56.safeframe.googlesyndication.com",
+   "fastlane.rubiconproject.com",
+   "fid.agkn.com",
+   "gum.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "htlb.casalemedia.com",
+   "ib.adnxs.com"
+  ],
+  "ok": true,
+  "page_kb": 2615,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 29.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Liste des Emulateurs - Emu-France",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 7,
+  "url": "https://www.emu-france.com/emulateurs/",
+  "verdict": "Very heavy advertising"
+ },
  "www.emu-land.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -222297,6 +225597,35 @@
   "trackers": 1,
   "url": "https://www.emu-land.net/en",
   "verdict": "Light advertising"
+ },
+ "www.emucr.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1416,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "https://www.emucr.com/",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.emucr.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.emule-project.com": {
   "ad_domains": 3,
@@ -222437,7 +225766,7 @@
   "ad_requests": 14,
   "ad_slots": 1,
   "ad_weight_pct": 60.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -222854,6 +226183,69 @@
   "trackers": 0,
   "url": "https://www.entitree.com/",
   "verdict": "Very clean"
+ },
+ "www.epforums.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.epforums.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.epgsoft.com": {
+  "ad_domains": 4,
+  "ad_requests": 10,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 623,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 57.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Maze - Solve a maze | epgSoft",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://www.epgsoft.com/maze/",
+  "verdict": "Heavy advertising"
  },
  "www.epicgames.com": {
   "ad_domains": 0,
@@ -223986,7 +227378,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -224015,7 +227407,7 @@
   "ad_requests": 100,
   "ad_slots": 2,
   "ad_weight_pct": 59.3,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -225085,6 +228477,35 @@
   "trackers": 4,
   "url": "https://www.feynmanlectures.caltech.edu/",
   "verdict": "Light advertising"
+ },
+ "www.ff6hacking.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 67,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RomPatcher.js",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.ff6hacking.com/patcher/",
+  "verdict": "Effectively ad-free"
  },
  "www.fictionpress.com": {
   "ad_domains": 5,
@@ -226213,7 +229634,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 11.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -227935,6 +231356,38 @@
   "url": "https://www.freecycle.org/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.freedosgames.de": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3374,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Klassische DOS-Spiele online spielen & herunterladen | FreeDosgames.de\ud83d\udd79\ufe0f",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.freedosgames.de/",
+  "verdict": "Very clean"
+ },
  "www.freeformradio.directory": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -229383,7 +232836,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -229631,6 +233084,37 @@
   ],
   "trackers": 1,
   "url": "https://www.generation-msx.nl/",
+  "verdict": "Light advertising"
+ },
+ "www.genesismud.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 27.8,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 564,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Genesis MUD - An old school text adventure game",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
+  "url": "https://www.genesismud.org/",
   "verdict": "Light advertising"
  },
  "www.genmo.ai": {
@@ -231875,7 +235359,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -231904,7 +235388,7 @@
   "ad_requests": 12,
   "ad_slots": 1,
   "ad_weight_pct": 13.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -232027,7 +235511,7 @@
   "ad_requests": 50,
   "ad_slots": 0,
   "ad_weight_pct": 37.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -234081,6 +237565,35 @@
   "url": "https://www.hr4eu.hr/",
   "verdict": "Effectively ad-free"
  },
+ "www.html5blackjack.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 73,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "HTML5Blackjack.net - Play Free HTML5 Blackjack",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.html5blackjack.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.htmlhobbyist.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -235403,6 +238916,35 @@
   ],
   "trackers": 0,
   "url": "https://www.incredibox.com/demo/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.incrementaldb.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 411,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Incremental games database",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.incrementaldb.com/",
   "verdict": "Effectively ad-free"
  },
  "www.indeed.com": {
@@ -239968,7 +243510,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -240491,6 +244033,42 @@
   "trackers": 0,
   "url": "https://www.lexilogos.com/english/index.htm",
   "verdict": "Effectively ad-free"
+ },
+ "www.lexipedia.com": {
+  "ad_domains": 6,
+  "ad_requests": 56,
+  "ad_slots": 1,
+  "ad_weight_pct": 63.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1349,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 30.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lexipedia | Home",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 4,
+  "url": "https://www.lexipedia.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.lexmangas.com": {
   "ad_domains": 0,
@@ -244168,6 +247746,40 @@
   "url": "https://www.maps.com/",
   "verdict": "Heavy advertising"
  },
+ "www.marapets.com": {
+  "ad_domains": 4,
+  "ad_requests": 17,
+  "ad_slots": 3,
+  "ad_weight_pct": 4.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 13252,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 44.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MaraPets - Games",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://www.marapets.com",
+  "verdict": "Heavy advertising"
+ },
  "www.marcrobledo.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -244672,7 +248284,7 @@
   "ad_requests": 298,
   "ad_slots": 4,
   "ad_weight_pct": 40.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -246300,7 +249912,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 3.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -250856,6 +254468,35 @@
   "trackers": 3,
   "url": "https://www.nomoreransom.org/en/decryption-tools.html",
   "verdict": "Light advertising"
+ },
+ "www.nonograms.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 617,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 98.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Color and black and white Japanese crosswords on-line",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 4,
+  "url": "https://www.nonograms.org/",
+  "verdict": "Effectively ad-free"
  },
  "www.noor-book.com": {
   "ad_domains": 14,
@@ -255678,7 +259319,7 @@
   "ad_requests": 1157,
   "ad_slots": 1,
   "ad_weight_pct": 84.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -255911,7 +259552,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -256344,6 +259985,35 @@
   "url": "https://www.planetebook.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.planetemu.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 528,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Planet Emulation - Les jeux video ont aussi leur histoire !",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.planetemu.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.planetpublish.com": {
   "ad_domains": 1,
   "ad_requests": 3,
@@ -256532,6 +260202,44 @@
   "trackers": 2,
   "url": "https://www.playary.com/",
   "verdict": "Very clean"
+ },
+ "www.playdosgames.com": {
+  "ad_domains": 8,
+  "ad_requests": 57,
+  "ad_slots": 3,
+  "ad_weight_pct": 52.1,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1704,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 16.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play DOS games online in your browser - PlayDOSGames.com",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://www.playdosgames.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.playnesonline.com": {
   "ad_domains": 4,
@@ -261573,7 +265281,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.4,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -263865,7 +267573,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 37.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -264472,6 +268180,44 @@
   "url": "https://www.scnsrc.me/",
   "verdict": "Effectively ad-free"
  },
+ "www.scorch2000.com": {
+  "ad_domains": 8,
+  "ad_requests": 26,
+  "ad_slots": 1,
+  "ad_weight_pct": 81.3,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 501,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scorched Earth 2000",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 4,
+  "url": "http://www.scorch2000.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.scottishpoetrylibrary.org.uk": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -264628,7 +268374,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 45.1,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -264758,6 +268504,35 @@
   "trackers": 1,
   "url": "https://www.secretcanada.com/",
   "verdict": "Light advertising"
+ },
+ "www.secrethitler.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "Error: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Secret Hitler",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf",
+  "verdict": "Effectively ad-free"
  },
  "www.sectional-anatomy.org": {
   "ad_domains": 0,
@@ -266400,6 +270175,48 @@
   "url": "https://www.simscale.com/",
   "verdict": "Light advertising"
  },
+ "www.simublast.com": {
+  "ad_domains": 29,
+  "ad_requests": 50,
+  "ad_slots": 3,
+  "ad_weight_pct": 44.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aax.amazon-adsystem.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c674de95fce312d34f55a141c44f8918.safeframe.googlesyndication.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "dpm.demdex.net",
+   "google-bidout-d.openx.net",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "htlb.casalemedia.com"
+  ],
+  "ok": true,
+  "page_kb": 1415,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 14.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Simublast | Online Simulators",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://www.simublast.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.sinosplice.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -267557,7 +271374,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 8.5,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -267884,6 +271701,48 @@
   "trackers": 0,
   "url": "https://www.solidworks.com/solution/education/practice-problems",
   "verdict": "Effectively ad-free"
+ },
+ "www.solitr.com": {
+  "ad_domains": 15,
+  "ad_requests": 107,
+  "ad_slots": 3,
+  "ad_weight_pct": 82.6,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "ag.innovid.com",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "d9.flashtalking.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com"
+  ],
+  "ok": true,
+  "page_kb": 1738,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 3.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "Free online Solitaire",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 4,
+  "url": "https://www.solitr.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.songkick.com": {
   "ad_domains": 18,
@@ -269700,7 +273559,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -269916,7 +273775,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 65.2,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -270374,6 +274233,48 @@
   "trackers": 1,
   "url": "https://www.subtitlecat.com/",
   "verdict": "Very clean"
+ },
+ "www.sudokuwiki.org": {
+  "ad_domains": 52,
+  "ad_requests": 107,
+  "ad_slots": 1,
+  "ad_weight_pct": 49.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "6c70c6c5cb4a555a40d646b82ef4e378.safeframe.googlesyndication.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "c21lg-d.media.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1533,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Main Page - SudokuWiki.org",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://www.sudokuwiki.org/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.sudomemo.net": {
   "ad_domains": 4,
@@ -271004,7 +274905,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 4.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -271201,7 +275102,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 8.8,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -273511,7 +277412,7 @@
   "ad_requests": 34,
   "ad_slots": 0,
   "ad_weight_pct": 22.7,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -273960,7 +277861,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 55.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -274720,7 +278621,7 @@
   "ad_requests": 14,
   "ad_slots": 0,
   "ad_weight_pct": 30.6,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -277935,7 +281836,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -278758,6 +282659,35 @@
   "trackers": 0,
   "url": "https://www.volcanodiscovery.com/erupting_volcanoes.html",
   "verdict": "Light advertising"
+ },
+ "www.vpforums.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1200,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 98.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VPForums.org - The Virtual Pinball Forums",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 4,
+  "url": "https://www.vpforums.org/",
+  "verdict": "Effectively ad-free"
  },
  "www.vpnjantit.com": {
   "ad_domains": 8,
@@ -282557,6 +286487,44 @@
   "url": "https://www.xrel.to/",
   "verdict": "Effectively ad-free"
  },
+ "www.xwords-generator.de": {
+  "ad_domains": 8,
+  "ad_requests": 27,
+  "ad_slots": 1,
+  "ad_weight_pct": 16.9,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "adx-winners-us-west-2-rtb.adroll.com",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 3062,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 32.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "XWords \u2013 the free online crossword puzzle generator",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://www.xwords-generator.de/en",
+  "verdict": "Very heavy advertising"
+ },
  "www.y8.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -282694,7 +286662,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -286549,7 +290517,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -287361,7 +291329,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.0,
-  "checked_utc": "2026-08-26T14:27:05+00:00",
+  "checked_utc": "2026-08-26T14:28:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -287386,6 +291354,48 @@
   "trackers": 4,
   "url": "https://znotes.org/",
   "verdict": "Very clean"
+ },
+ "zombsroyale.io": {
+  "ad_domains": 21,
+  "ad_requests": 41,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.4,
+  "checked_utc": "2026-08-26T14:28:43+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "api.id5-sync.com",
+   "btlr.sharethrough.com",
+   "cdn.id5-sync.com",
+   "fastlane.rubiconproject.com",
+   "fid.agkn.com",
+   "googleads.g.doubleclick.net",
+   "hbopenbid.pubmatic.com",
+   "htlb.casalemedia.com",
+   "ib.adnxs.com",
+   "id.crwdcntrl.net",
+   "id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 139949,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 42.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zombs Royale - 100 Player 2D Real-Time Battle Royale",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 5,
+  "url": "https://zombsroyale.io/",
+  "verdict": "Very heavy advertising"
  },
  "zone-ebook.com": {
   "ad_domains": 0,
