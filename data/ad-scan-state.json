@@ -238,6 +238,35 @@
   "url": "https://100dayscss.com/",
   "verdict": "Effectively ad-free"
  },
+ "1024teradl.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://1024teradl.com/",
+  "verdict": "Effectively ad-free"
+ },
  "120minutes.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -2832,7 +2861,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5229,6 +5258,35 @@
   "url": "https://aifindy.com/",
   "verdict": "Moderate advertising"
  },
+ "aifreeforever.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://aifreeforever.com/image-generators\", waiting u",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Z-GEN TURBO",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://aifreeforever.com/image-generators",
+  "verdict": "Effectively ad-free"
+ },
  "aifreevideo.com": {
   "ad_domains": 7,
   "ad_requests": 64,
@@ -5265,6 +5323,37 @@
   "trackers": 1,
   "url": "https://aifreevideo.com/",
   "verdict": "Very heavy advertising"
+ },
+ "aigallery.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3489,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Gallery - Generate Stunning AI Art",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://aigallery.app/",
+  "verdict": "Effectively ad-free"
  },
  "aimath.org": {
   "ad_domains": 0,
@@ -7112,6 +7201,35 @@
   "url": "https://ambuda.org/texts/",
   "verdict": "Effectively ad-free"
  },
+ "amenzb.moe": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 12587,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ameNZB \u2014 anime-focused Usenet indexer",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://amenzb.moe/",
+  "verdict": "Effectively ad-free"
+ },
  "americanpregnancy.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -7831,6 +7949,37 @@
   "trackers": 0,
   "url": "https://androidrepublic.org/",
   "verdict": "Effectively ad-free"
+ },
+ "andymath.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2428,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home Page | Andymath.com",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://andymath.com/",
+  "verdict": "Very clean"
  },
  "angulismotv.pages.dev": {
   "ad_domains": 2,
@@ -8615,7 +8764,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -9049,7 +9198,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11161,7 +11310,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -12606,6 +12755,40 @@
   "url": "https://app.webadb.com/",
   "verdict": "Effectively ad-free"
  },
+ "app.wyvern.chat": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3248,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 70.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://app.wyvern.chat/",
+  "verdict": "Moderate advertising"
+ },
  "appagg.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -13516,6 +13699,35 @@
   "url": "https://aqstream.com/",
   "verdict": "Light advertising"
  },
+ "aqualxx.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 505,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Stable UI - Create images with Stable Diffusion",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://aqualxx.github.io/stable-ui/",
+  "verdict": "Effectively ad-free"
+ },
  "aquareader.net": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -13998,7 +14210,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -14671,6 +14883,35 @@
   "url": "https://artemistimeline.com/",
   "verdict": "Effectively ad-free"
  },
+ "artgenie.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Art Genie",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://artgenie.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "article.olduse.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -14757,6 +14998,38 @@
   "trackers": 0,
   "url": "https://artifactguesser.com/",
   "verdict": "Effectively ad-free"
+ },
+ "artificial-art.eu": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 63.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 381,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 70.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Artificial Art - AI Image Generation",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://artificial-art.eu/",
+  "verdict": "Moderate advertising"
  },
  "artificialanalysis.ai": {
   "ad_domains": 1,
@@ -17107,7 +17380,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -17608,6 +17881,35 @@
   "url": "https://awesome-selfhosted.net/",
   "verdict": "Effectively ad-free"
  },
+ "awesomeclaude.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 408,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Awesome Claude - Claude AI Tools, Cheatsheet, Skills & MCP Servers - Awesome Claude",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://awesomeclaude.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "awesomelists.top": {
   "ad_domains": 2,
   "ad_requests": 6,
@@ -18062,7 +18364,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -19536,7 +19838,7 @@
   "ad_requests": 43,
   "ad_slots": 4,
   "ad_weight_pct": 82.1,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -21228,7 +21530,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -21389,7 +21691,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -23728,6 +24030,37 @@
   "url": "https://borr.dev/",
   "verdict": "Effectively ad-free"
  },
+ "bots.miku.gg": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 1,
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 12267,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 87.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bot Database | miku.gg",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://bots.miku.gg/",
+  "verdict": "Very clean"
+ },
  "botwiki.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -23976,6 +24309,38 @@
   "trackers": 11,
   "url": "https://brainly.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "brainscale.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 28.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 565,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BrainScale: Dual N-Back Online + Smart Brain Games",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://brainscale.net/",
+  "verdict": "Light advertising"
  },
  "brainstellar.com": {
   "ad_domains": 0,
@@ -24975,7 +25340,7 @@
   "ad_requests": 11,
   "ad_slots": 0,
   "ad_weight_pct": 72.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -25011,7 +25376,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25307,7 +25672,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -27015,7 +27380,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -28519,6 +28884,35 @@
   "url": "https://chat.poolside.ai/",
   "verdict": "Effectively ad-free"
  },
+ "chat.publicai.co": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 403,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Public AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://chat.publicai.co/",
+  "verdict": "Effectively ad-free"
+ },
  "chat.qwen.ai": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -29054,6 +29448,37 @@
   "title": "Home - Chemistry LibreTexts",
   "trackers": 5,
   "url": "https://chem.libretexts.org",
+  "verdict": "Very clean"
+ },
+ "chemequations.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1224,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 87.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chemical Equations online!",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://chemequations.com/en/",
   "verdict": "Very clean"
  },
  "chemistry.com.pk": {
@@ -31217,6 +31642,37 @@
   "url": "https://citywalks.live/",
   "verdict": "Ad-saturated / hostile"
  },
+ "civarchive.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 49374,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CivArchive (CivitAI Archive) - AI Model Archive",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://civarchive.com/",
+  "verdict": "Very clean"
+ },
  "civitai.com": {
   "ad_domains": 18,
   "ad_requests": 22,
@@ -31755,7 +32211,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -31928,6 +32384,35 @@
   "trackers": 1,
   "url": "https://clearoutside.com/",
   "verdict": "Light advertising"
+ },
+ "cli.club": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 29,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CLI Club: Command-line Interface Tools & Alternatives",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://cli.club/",
+  "verdict": "Effectively ad-free"
  },
  "clicksud.co": {
   "ad_domains": 0,
@@ -32617,7 +33102,7 @@
   "ad_requests": 43,
   "ad_slots": 3,
   "ad_weight_pct": 78.7,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -34415,6 +34900,35 @@
   "url": "https://consensus.app/",
   "verdict": "Light advertising"
  },
+ "console.mistral.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 122,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 98.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Login - Mistral AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://console.mistral.ai/home",
+  "verdict": "Effectively ad-free"
+ },
  "console.upstage.ai": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -34712,6 +35226,35 @@
   "url": "https://conversations.movember.com/en/conversations/",
   "verdict": "Light advertising"
  },
+ "convertall.bellz.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 14,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ConvertAll - News",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://convertall.bellz.org/",
+  "verdict": "Effectively ad-free"
+ },
  "convos.chat": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -34797,6 +35340,37 @@
   "trackers": 0,
   "url": "https://cookieconsentspeed.run/",
   "verdict": "Effectively ad-free"
+ },
+ "coolguid.es": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.8,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 20044,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CoolGuid.es - Cool guides without distractions",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://coolguid.es/",
+  "verdict": "Very clean"
  },
  "coollib.xyz": {
   "ad_domains": 3,
@@ -34999,6 +35573,38 @@
   "trackers": 0,
   "url": "https://copypastelist.co/",
   "verdict": "Light advertising"
+ },
+ "corca.app": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6347,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 88.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Corca: Collaborative Math Editor",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 2,
+  "url": "https://corca.app/",
+  "verdict": "Very clean"
  },
  "core.ac.uk": {
   "ad_domains": 0,
@@ -38096,7 +38702,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -38991,7 +39597,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 46.6,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -40052,6 +40658,35 @@
   "url": "https://debridr.com/",
   "verdict": "Effectively ad-free"
  },
+ "debridvault.elfhosted.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1596,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Debrid Vault",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://debridvault.elfhosted.com/",
+  "verdict": "Effectively ad-free"
+ },
  "debug-survivor.leek.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -40088,7 +40723,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -41475,6 +42110,35 @@
   ],
   "trackers": 0,
   "url": "https://dev.yorhel.nl/ncdu",
+  "verdict": "Effectively ad-free"
+ },
+ "devbisme.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 285,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SKiDL \u2014 SKiDL",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://devbisme.github.io/skidl/",
   "verdict": "Effectively ad-free"
  },
  "developer.apple.com": {
@@ -43019,7 +43683,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.8,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -43932,7 +44596,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -44043,6 +44707,35 @@
   "url": "https://dns.sb/",
   "verdict": "Effectively ad-free"
  },
+ "dnscrypt.info": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 120,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DNSCrypt version 2 - Official Project Home Page | DNSCrypt",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://dnscrypt.info/",
+  "verdict": "Effectively ad-free"
+ },
  "dnsforfamily.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -44077,7 +44770,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 5.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -44455,6 +45148,35 @@
   "url": "https://docs.ankiweb.net/resources.html",
   "verdict": "Effectively ad-free"
  },
+ "docs.atopile.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Falstad",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://docs.atopile.io/atopile/quickstart",
+  "verdict": "Effectively ad-free"
+ },
  "docs.ayugram.one": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -44603,7 +45325,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 39.3,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -44746,6 +45468,35 @@
   "trackers": 1,
   "url": "https://docs.miku.gg/",
   "verdict": "Light advertising"
+ },
+ "docs.openclaw.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 393,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenClaw Docs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://docs.openclaw.ai/",
+  "verdict": "Effectively ad-free"
  },
  "docs.plain.icu": {
   "ad_domains": 0,
@@ -45145,6 +45896,35 @@
   ],
   "trackers": 0,
   "url": "https://docs.zfsbootmenu.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "docspedia.world": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 52,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DocsPedia.world :: Login",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 0,
+  "url": "https://docspedia.world/",
   "verdict": "Effectively ad-free"
  },
  "docstream.fr": {
@@ -48539,6 +49319,40 @@
   "trackers": 0,
   "url": "https://easydiffusion.github.io/",
   "verdict": "Effectively ad-free"
+ },
+ "easyeda.com": {
+  "ad_domains": 4,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 38.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1228,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 61.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 5,
+  "url": "https://easyeda.com/editor",
+  "verdict": "Moderate advertising"
  },
  "easypeasymethod.org": {
   "ad_domains": 2,
@@ -54637,7 +55451,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -56528,6 +57342,35 @@
   "url": "https://fiction.live/",
   "verdict": "Effectively ad-free"
  },
+ "fictionlab.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 3,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6395,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FictionLab - Next-Gen AI Story Platform - Free and Uncensored!",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://fictionlab.ai/",
+  "verdict": "Very clean"
+ },
  "filebrowserquantum.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -56562,7 +57405,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -56618,6 +57461,35 @@
   ],
   "trackers": 0,
   "url": "https://files.catbox.moe/lq6s85.png",
+  "verdict": "Effectively ad-free"
+ },
+ "files.scene.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "scene.org file archive",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://files.scene.org/",
   "verdict": "Effectively ad-free"
  },
  "filman.cc": {
@@ -57328,7 +58200,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61008,7 +61880,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -61066,7 +61938,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 41.1,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -61211,7 +62083,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62440,6 +63312,48 @@
   "url": "https://freegames.org/",
   "verdict": "Very heavy advertising"
  },
+ "freegen.app": {
+  "ad_domains": 83,
+  "ad_requests": 786,
+  "ad_slots": 5,
+  "ad_weight_pct": 48.8,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa14b3b070008092c19d1adb86cd0562.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "apps.smartadserver.com",
+   "b1sync.outbrain.com",
+   "bb.lijit.com"
+  ],
+  "ok": true,
+  "page_kb": 3969,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Free AI Image Generator - No Signup, No Limits",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://freegen.app/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "freeguessr.com": {
   "ad_domains": 5,
   "ad_requests": 6,
@@ -62581,6 +63495,40 @@
   "trackers": 1,
   "url": "https://freemagazinespdf.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "freemathhelp.com": {
+  "ad_domains": 4,
+  "ad_requests": 40,
+  "ad_slots": 2,
+  "ad_weight_pct": 29.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1460,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 33.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Math Help \u2014 Lessons, Calculators, and More | Free Math Help",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://freemathhelp.com/",
+  "verdict": "Very heavy advertising"
  },
  "freemp3cloud.com": {
   "ad_domains": 0,
@@ -63195,7 +64143,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -63260,6 +64208,35 @@
   "trackers": 9,
   "url": "https://frightfind.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "frinklang.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Frink Web-based Interface",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://frinklang.org/fsp/frink.fsp",
+  "verdict": "Effectively ad-free"
  },
  "friture.org": {
   "ad_domains": 0,
@@ -64007,6 +64984,35 @@
   ],
   "trackers": 0,
   "url": "https://g-meh.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "g4f.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1882,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "G4F Chat - Conversational AI that Listens, Learns, and Challenges",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://g4f.dev/chat/",
   "verdict": "Effectively ad-free"
  },
  "g4u.to": {
@@ -65132,6 +66138,39 @@
   "url": "https://gancio.org/",
   "verdict": "Effectively ad-free"
  },
+ "gandalf.lakera.ai": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 43.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1304,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 64.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lakera \u2013 Test your AI hacking skills",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://gandalf.lakera.ai/",
+  "verdict": "Moderate advertising"
+ },
  "gangster.su": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -66227,7 +67266,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66584,7 +67623,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67204,7 +68243,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67233,7 +68272,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67323,7 +68362,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://git.openprivacy.ca/cwtch.im/cwtch\nCall log:\n  - navigating to \"https",
   "fails": 1,
   "grade": "A+",
@@ -67639,7 +68678,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -72682,6 +73721,37 @@
   "url": "https://haveibeenpwned.com/",
   "verdict": "Effectively ad-free"
  },
+ "haxiomic.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 246,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WebGL Fluid Experiment",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://haxiomic.github.io/GPU-Fluid-Experiments/html5/",
+  "verdict": "Light advertising"
+ },
  "hayasaka.vercel.app": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -73573,7 +74643,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -73728,7 +74798,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -74130,6 +75200,35 @@
   "trackers": 1,
   "url": "https://heyfromthefuture.com/",
   "verdict": "Very heavy advertising"
+ },
+ "heyitsdean.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1304,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Video Essay Hall of Fame",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://heyitsdean.github.io/Video-Essay-Hall-Of-Fame/",
+  "verdict": "Effectively ad-free"
  },
  "heystacks.com": {
   "ad_domains": 3,
@@ -76466,7 +77565,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -77007,7 +78106,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -77036,7 +78135,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -78502,7 +79601,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -78673,6 +79772,39 @@
   "trackers": 1,
   "url": "https://ilovemusic.de/",
   "verdict": "Light advertising"
+ },
+ "imagefree.net": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.5,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1995,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 69.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free AI Image Generator No Sign-up, Unlimited Text to Image AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://imagefree.net/",
+  "verdict": "Moderate advertising"
  },
  "imagej.net": {
   "ad_domains": 0,
@@ -79794,7 +80926,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 15.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -80979,7 +82111,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81524,7 +82656,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 12.9,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -82759,6 +83891,40 @@
   "url": "https://japantv.app/",
   "verdict": "Effectively ad-free"
  },
+ "javalab.org": {
+  "ad_domains": 4,
+  "ad_requests": 15,
+  "ad_slots": 1,
+  "ad_weight_pct": 26.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2453,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 47.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Javalab \u2013 Science simulation, Probeware, Coding",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://javalab.org/en/",
+  "verdict": "Heavy advertising"
+ },
  "javascript.info": {
   "ad_domains": 37,
   "ad_requests": 135,
@@ -83890,7 +85056,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90244,6 +91410,35 @@
   "url": "https://launchpad.net/qpdfview",
   "verdict": "Effectively ad-free"
  },
+ "lavteam.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://lavteam.org/",
+  "verdict": "Effectively ad-free"
+ },
  "lawnchair.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -90430,7 +91625,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 28.8,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -90491,7 +91686,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -92550,6 +93745,35 @@
   "trackers": 3,
   "url": "https://libreflix.org",
   "verdict": "Very clean"
+ },
+ "librepcb.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6409,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Create electronics the easy way | LibrePCB",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://librepcb.org/",
+  "verdict": "Effectively ad-free"
  },
  "librera.mobi": {
   "ad_domains": 0,
@@ -96004,6 +97228,35 @@
   "url": "https://loficlub.vercel.app/",
   "verdict": "Light advertising"
  },
+ "log.rlsbb.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 47,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReleaseBB Log Page",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 2,
+  "url": "https://log.rlsbb.ru/",
+  "verdict": "Effectively ad-free"
+ },
  "logitext.mit.edu": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -98865,7 +100118,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98922,7 +100175,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 92.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -101824,6 +103077,69 @@
   "url": "https://mathiashjelm.gitlab.io/arcanum/",
   "verdict": "Effectively ad-free"
  },
+ "mathigon.org": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 32868,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mathigon \u2013 The Mathematical Playground",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 2,
+  "url": "https://mathigon.org/",
+  "verdict": "Very clean"
+ },
+ "mathnet.mit.edu": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3625,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 84.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MathNet \u2014 Explore 30,000+ Olympiad Math Problems",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 2,
+  "url": "https://mathnet.mit.edu/",
+  "verdict": "Light advertising"
+ },
  "mathonline.wikidot.com": {
   "ad_domains": 1,
   "ad_requests": 8,
@@ -103625,6 +104941,37 @@
   "url": "https://memory.toys/",
   "verdict": "Heavy advertising"
  },
+ "memoryleague.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 38.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1136,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 74.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Memory League",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 7,
+  "url": "https://memoryleague.com/",
+  "verdict": "Light advertising"
+ },
  "mentallandscape.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -103979,7 +105326,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 3.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -105052,6 +106399,37 @@
   "url": "https://minitokyo3d.com/",
   "verdict": "Very clean"
  },
+ "minutelabs.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5170,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Labs | MinuteLabs.io",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://minutelabs.io/",
+  "verdict": "Very clean"
+ },
  "mircrew-releases.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -105548,7 +106926,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105743,6 +107121,37 @@
   "trackers": 0,
   "url": "https://mkvdrama.net/",
   "verdict": "Effectively ad-free"
+ },
+ "ml-resources.vercel.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 55.8,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 297,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ML Resources",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://ml-resources.vercel.app/",
+  "verdict": "Light advertising"
  },
  "ml-visualized.com": {
   "ad_domains": 1,
@@ -106619,6 +108028,37 @@
   "trackers": 1,
   "url": "https://mol.org/",
   "verdict": "Very clean"
+ },
+ "molview.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 30.8,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 492,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MolView",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://molview.org/",
+  "verdict": "Light advertising"
  },
  "momovod.app": {
   "ad_domains": 0,
@@ -107887,7 +109327,7 @@
   "ad_requests": 7,
   "ad_slots": 1,
   "ad_weight_pct": 24.2,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -108839,7 +110279,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -109057,6 +110497,48 @@
   "trackers": 0,
   "url": "https://murglar.app/",
   "verdict": "Effectively ad-free"
+ },
+ "muryou-aigazou.com": {
+  "ad_domains": 18,
+  "ad_requests": 29,
+  "ad_slots": 0,
+  "ad_weight_pct": 67.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "647f42bfbc42da56dbcf13c1ba92e1d9.safeframe.googlesyndication.com",
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "cs.media.net",
+   "google-bidout-d.openx.net",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "pagead2.googlesyndication.com",
+   "rtb.openx.net",
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1102,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 29.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free AI Image Generator & Maker - No login required\u2728 | AIGAZOU",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://muryou-aigazou.com/",
+  "verdict": "Very heavy advertising"
  },
  "musclewiki.com": {
   "ad_domains": 0,
@@ -111477,6 +112959,37 @@
   "url": "https://navidrome.org",
   "verdict": "Light advertising"
  },
+ "nbacking.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 72.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 219,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NBacking - Dual N-Back Brain Training",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://nbacking.com/",
+  "verdict": "Light advertising"
+ },
  "nbamonster.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -113468,7 +114981,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -114541,7 +116054,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -116197,6 +117710,35 @@
   "trackers": 4,
   "url": "https://number.academy/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "numberfields.asu.edu": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 280,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NumberFields@home",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://numberfields.asu.edu/NumberFields/",
+  "verdict": "Effectively ad-free"
  },
  "numbr.dev": {
   "ad_domains": 0,
@@ -118949,6 +120491,39 @@
   "url": "https://one.sigmally.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "oneconverter.com": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 93.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 388,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 65.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OneConverter is a Free Multifunctional Service Online",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://oneconverter.com/",
+  "verdict": "Moderate advertising"
+ },
  "onejailbreak.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -119042,7 +120617,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -120257,7 +121832,7 @@
   "ad_requests": 0,
   "ad_slots": 2,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -121052,7 +122627,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -121378,7 +122953,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -121581,7 +123156,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -121802,7 +123377,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 77.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -122390,6 +123965,35 @@
   ],
   "trackers": 0,
   "url": "https://orbstack.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "orga.cat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 378,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Curated list of Windows utilities",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://orga.cat/windows-utilities",
   "verdict": "Effectively ad-free"
  },
  "organicchemistrydata.org": {
@@ -122998,6 +124602,35 @@
   "url": "https://osu.ppy.sh/home",
   "verdict": "Effectively ad-free"
  },
+ "osvault.weebly.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 721,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Directory - OS VAULT",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://osvault.weebly.com/directory.html",
+  "verdict": "Effectively ad-free"
+ },
  "otakudesu.cloud": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -123089,7 +124722,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123959,7 +125592,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -125068,6 +126701,37 @@
   "trackers": 1,
   "url": "https://patternradio.withgoogle.com/",
   "verdict": "Very clean"
+ },
+ "paveldogreat.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 62.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 246,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WebGL Fluid Simulation",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+  "verdict": "Light advertising"
  },
  "pawflix.foo.ng": {
   "ad_domains": 1,
@@ -126882,7 +128546,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -126911,7 +128575,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -128975,6 +130639,35 @@
   "trackers": 3,
   "url": "https://planete-bd.org/",
   "verdict": "Very clean"
+ },
+ "planetmath.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PlanetMath.org",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://planetmath.org/",
+  "verdict": "Effectively ad-free"
  },
  "platerecognizer.com": {
   "ad_domains": 2,
@@ -132352,7 +134045,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -132437,6 +134130,37 @@
   "url": "https://portableapps.com/",
   "verdict": "Light advertising"
  },
+ "portableappz.blogspot.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 752,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PortableAppZ",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://portableappz.blogspot.com/",
+  "verdict": "Effectively ad-free"
+ },
  "portal.uniasselvi.com.br": {
   "ad_domains": 10,
   "ad_requests": 34,
@@ -132476,6 +134200,35 @@
   "trackers": 16,
   "url": "https://portal.uniasselvi.com.br/cursolivre",
   "verdict": "Ad-saturated / hostile"
+ },
+ "portapps.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 844,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Portapps",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://portapps.io/",
+  "verdict": "Effectively ad-free"
  },
  "portmaster.games": {
   "ad_domains": 0,
@@ -133423,6 +135176,37 @@
   "url": "https://pricehistoryapp.com/",
   "verdict": "Effectively ad-free"
  },
+ "pricepertoken.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1600,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 84.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LLM API Pricing 2026 - Compare 300+ AI Model Costs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://pricepertoken.com/",
+  "verdict": "Light advertising"
+ },
  "priductive.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -133814,7 +135598,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -134003,7 +135787,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -134521,6 +136305,35 @@
   ],
   "trackers": 0,
   "url": "https://prologue.audio/",
+  "verdict": "Effectively ad-free"
+ },
+ "promptomania.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 232,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Promptomania \u2014 AI Prompt Hub, Model Directory & Tools",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://promptomania.com/",
   "verdict": "Effectively ad-free"
  },
  "proofs.openlogicproject.org": {
@@ -136271,7 +138084,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -138315,7 +140128,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -139475,6 +141288,35 @@
   "trackers": 3,
   "url": "https://readpoopfiction.com/",
   "verdict": "Light advertising"
+ },
+ "readscottalexander.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 33,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Read Scott Alexander",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 0,
+  "url": "https://readscottalexander.com/",
+  "verdict": "Effectively ad-free"
  },
  "readsomethingwonderful.com": {
   "ad_domains": 4,
@@ -141320,7 +143162,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -142680,6 +144522,35 @@
   "url": "https://ringwatchers.com/",
   "verdict": "Effectively ad-free"
  },
+ "rinkcalc.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 68,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rink",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://rinkcalc.app/",
+  "verdict": "Effectively ad-free"
+ },
  "rip.so": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143000,6 +144871,35 @@
   "url": "https://rivestream.vip/",
   "verdict": "Light advertising"
  },
+ "rizon.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 101,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rizon Chat Network",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 2,
+  "url": "https://rizon.net/",
+  "verdict": "Effectively ad-free"
+ },
  "rizzking.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143145,6 +145045,72 @@
   "url": "https://rknight.me/apps/tracker-zapper/",
   "verdict": "Effectively ad-free"
  },
+ "rlsbb.cc": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "pxdrop.lijit.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 4803,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReleaseBB \u2013 Daily Source Of Awesome Stuff",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://rlsbb.cc/",
+  "verdict": "Light advertising"
+ },
+ "rlsbb.in": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "pxdrop.lijit.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 4787,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReleaseBB \u2013 Daily Source Of Awesome Stuff",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://rlsbb.in/",
+  "verdict": "Light advertising"
+ },
  "rlsbb.ru": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143173,6 +145139,39 @@
   "trackers": 2,
   "url": "https://rlsbb.ru/",
   "verdict": "Effectively ad-free"
+ },
+ "rlsbb.to": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "pxdrop.lijit.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 4802,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReleaseBB \u2013 Daily Source Of Awesome Stuff",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://rlsbb.to/",
+  "verdict": "Light advertising"
  },
  "rlsxtvt.icu": {
   "ad_domains": 0,
@@ -145042,7 +147041,7 @@
   "ad_requests": 15,
   "ad_slots": 0,
   "ad_weight_pct": 15.4,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -145278,7 +147277,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145576,7 +147575,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145838,7 +147837,7 @@
   "ad_requests": 46,
   "ad_slots": 3,
   "ad_weight_pct": 67.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -146341,6 +148340,122 @@
   "url": "https://sandwichpuissant.net/",
   "verdict": "Effectively ad-free"
  },
+ "sanet.lc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://sanet.lc/",
+  "verdict": "Effectively ad-free"
+ },
+ "sanet.sb": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://sanet.sb/",
+  "verdict": "Effectively ad-free"
+ },
+ "sanet.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 22,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SoftArchive",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://sanet.st/",
+  "verdict": "Effectively ad-free"
+ },
+ "sanet.ws": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://sanet.ws/",
+  "verdict": "Effectively ad-free"
+ },
  "sanskritdocuments.org": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -146399,6 +148514,35 @@
   ],
   "trackers": 0,
   "url": "https://sanuli.fi/",
+  "verdict": "Effectively ad-free"
+ },
+ "sastatus.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 30,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SoftArchive/SAnet - Availability Status + Mirrors List",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://sastatus.com/",
   "verdict": "Effectively ad-free"
  },
  "satellitemap.space": {
@@ -146932,6 +149076,37 @@
   "url": "https://scatteredsecrets.com/",
   "verdict": "Effectively ad-free"
  },
+ "scenelist.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 48.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 319,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SCiZE's CLASSIC WAREZ COLLECTION",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 3,
+  "url": "https://scenelist.org/",
+  "verdict": "Light advertising"
+ },
  "scenewise.io": {
   "ad_domains": 3,
   "ad_requests": 9,
@@ -147127,6 +149302,38 @@
   "trackers": 1,
   "url": "https://scholarshiproar.com/",
   "verdict": "Very heavy advertising"
+ },
+ "schoolyourself.org": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.1,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 994,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "School Yourself - Free online math lessons",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://schoolyourself.org/",
+  "verdict": "Light advertising"
  },
  "sci-bot.ru": {
   "ad_domains": 0,
@@ -148154,6 +150361,35 @@
   "url": "https://sdo.gsfc.nasa.gov/data/dashboard/",
   "verdict": "Effectively ad-free"
  },
+ "sdtools.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1090,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SD Toolset",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://sdtools.org",
+  "verdict": "Effectively ad-free"
+ },
  "seadex.pages.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -148876,7 +151112,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 35.4,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -150424,6 +152660,37 @@
   "url": "https://sheetmusicscanner.com/",
   "verdict": "Light advertising"
  },
+ "sheets.works": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1831,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Data Drop \u2014 Interactive Data Stories on Pop Culture & Sports",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 2,
+  "url": "https://sheets.works/data-viz/",
+  "verdict": "Very clean"
+ },
  "sheetsresume.com": {
   "ad_domains": 4,
   "ad_requests": 7,
@@ -150823,7 +153090,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 6.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -151626,6 +153893,35 @@
   "trackers": 3,
   "url": "https://silent-hall-of-fame.org/",
   "verdict": "Very clean"
+ },
+ "sim-flow.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1106,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SimFlow CFD Simulation Software",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://sim-flow.com/",
+  "verdict": "Effectively ad-free"
  },
  "simkl.com": {
   "ad_domains": 11,
@@ -153341,7 +155637,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153727,6 +156023,35 @@
   "url": "https://sofaflix.biz/",
   "verdict": "Light advertising"
  },
+ "soft.ac": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://soft.ac/",
+  "verdict": "Effectively ad-free"
+ },
  "soft98.ir": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -153784,6 +156109,35 @@
   ],
   "trackers": 0,
   "url": "https://softarchive.download/",
+  "verdict": "Effectively ad-free"
+ },
+ "softarchive.is": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://softarchive.is/",
   "verdict": "Effectively ad-free"
  },
  "softgoods.app": {
@@ -154673,7 +157027,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 32.9,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -158180,6 +160534,47 @@
   "url": "https://stats.libretexts.org/Bookshelves",
   "verdict": "Very clean"
  },
+ "stattrek.com": {
+  "ad_domains": 11,
+  "ad_requests": 21,
+  "ad_slots": 6,
+  "ad_weight_pct": 84.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "cdn.id5-sync.com",
+   "ce.lijit.com",
+   "eb2.3lift.com",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "stats.g.doubleclick.net",
+   "sync.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 350,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Statistics and Probability",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://stattrek.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "status.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -160620,7 +163015,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 47.8,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -163360,6 +165755,38 @@
   "url": "https://tart.run/",
   "verdict": "Effectively ad-free"
  },
+ "tas360.au": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 794,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Explore Tasmania in 360\u00b0 \u2013 Tas360\u00b0",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://tas360.au/explore",
+  "verdict": "Light advertising"
+ },
  "tasks.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -163412,6 +165839,35 @@
   "title": "TasteDive | Recommends music, movies, TV shows, books, games, people, places, brands and p",
   "trackers": 0,
   "url": "https://tastedive.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "taterai.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 32,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Ai Image Generator - Tater AI",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://taterai.github.io/Text2Image-Generator.html",
   "verdict": "Effectively ad-free"
  },
  "tathyakosh.in": {
@@ -163479,7 +165935,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164509,7 +166965,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164563,6 +167019,68 @@
   "trackers": 0,
   "url": "https://tensortrust.ai/",
   "verdict": "Effectively ad-free"
+ },
+ "terabox.hnn.workers.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 28.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 575,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TeraBox Direct Link Generator",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://terabox.hnn.workers.dev/",
+  "verdict": "Light advertising"
+ },
+ "terafetch.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 100.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 165,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Terabox Downloader - Download & Stream TeraBox Videos Directly | Free Online Downloader",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://terafetch.com/",
+  "verdict": "Light advertising"
  },
  "terminalcss.xyz": {
   "ad_domains": 0,
@@ -165279,6 +167797,35 @@
   "url": "https://the-circle.app/",
   "verdict": "Light advertising"
  },
+ "theabbie.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Double Pendulum",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://theabbie.github.io/DoublePendulum/",
+  "verdict": "Effectively ad-free"
+ },
  "theanarchistlibrary.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -165987,7 +168534,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -166107,12 +168654,41 @@
   "url": "https://thelifeengine.net/",
   "verdict": "Very clean"
  },
+ "thelounge.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 166,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Modern Self-Hosted Web IRC Client \u2014 The Lounge",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://thelounge.chat/",
+  "verdict": "Effectively ad-free"
+ },
  "themarkup.org": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -168257,6 +170833,35 @@
   "url": "https://tikolu.net/emojimix",
   "verdict": "Moderate advertising"
  },
+ "tilde.chat": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 218,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "tilde.chat | tildeverse irc network",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://tilde.chat/",
+  "verdict": "Effectively ad-free"
+ },
  "tildearrow.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -168597,6 +171202,37 @@
   "trackers": 0,
   "url": "https://timstreams.st/",
   "verdict": "Effectively ad-free"
+ },
+ "tinybots.net": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 72.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 218,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ArtBot - Create images with Stable Diffusion, utilizing the AI Horde",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://tinybots.net/artbot",
+  "verdict": "Light advertising"
  },
  "tinyfox.dev": {
   "ad_domains": 0,
@@ -170622,7 +173258,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -170679,7 +173315,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -170708,7 +173344,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -170737,7 +173373,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -170824,7 +173460,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -171248,7 +173884,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -171335,7 +173971,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -171586,7 +174222,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -172523,7 +175159,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 43.9,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -173320,7 +175956,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -175386,7 +178022,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -176470,7 +179106,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -177088,7 +179724,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -178697,6 +181333,48 @@
   "trackers": 1,
   "url": "https://vgperson.com/games/",
   "verdict": "Light advertising"
+ },
+ "vheer.com": {
+  "ad_domains": 83,
+  "ad_requests": 398,
+  "ad_slots": 2,
+  "ad_weight_pct": 25.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "06d88ec71c3e1206994015d6b116efd8.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
+   "btlr.sharethrough.com",
+   "c1.adform.net",
+   "c21lg-d.media.net",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 3062,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 20.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Image to Image Generator | Transform Images While Preserving Pose - Vheer",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 3,
+  "url": "https://vheer.com/dashboard/tools/image-to-image",
+  "verdict": "Ad-saturated / hostile"
  },
  "vhstaperepacks.com": {
   "ad_domains": 0,
@@ -184594,7 +187272,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -185303,6 +187981,38 @@
   "url": "https://whatlang.fun/",
   "verdict": "Effectively ad-free"
  },
+ "whatmodelscanirun.com": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 5140,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 82.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "What Models? \u2014 Pick the right model for your GPU in seconds",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://whatmodelscanirun.com/",
+  "verdict": "Light advertising"
+ },
  "whatroute.net": {
   "ad_domains": 3,
   "ad_requests": 14,
@@ -185413,7 +188123,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -185608,7 +188318,7 @@
   "ad_requests": 40,
   "ad_slots": 0,
   "ad_weight_pct": 54.2,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -186122,7 +188832,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186237,7 +188947,7 @@
   "ad_requests": 40,
   "ad_slots": 1,
   "ad_weight_pct": 83.1,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -188860,6 +191570,37 @@
   "url": "https://worldcams.tv/",
   "verdict": "Very heavy advertising"
  },
+ "worldcommunitygrid.org": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1358,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 81.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | World Community Grid",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://worldcommunitygrid.org/",
+  "verdict": "Light advertising"
+ },
  "worldfindr.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -190139,7 +192880,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -190697,6 +193438,66 @@
   "url": "https://www.36mh.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.3blue1brown.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1827,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "3Blue1Brown",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 2,
+  "url": "https://www.3blue1brown.com/",
+  "verdict": "Very clean"
+ },
+ "www.3dfindit.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3008,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search and download 3D CAD and BIM models for free",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.3dfindit.com/en/",
+  "verdict": "Effectively ad-free"
+ },
  "www.3dtuning.com": {
   "ad_domains": 5,
   "ad_requests": 17,
@@ -190760,6 +193561,39 @@
   "trackers": 0,
   "url": "https://www.45cat.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.4everproxy.com": {
+  "ad_domains": 3,
+  "ad_requests": 14,
+  "ad_slots": 1,
+  "ad_weight_pct": 47.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1059,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 49.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "4everproxy - Free Web Proxy | Unlimited VPN",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://www.4everproxy.com/",
+  "verdict": "Heavy advertising"
  },
  "www.4shared.com": {
   "ad_domains": 2,
@@ -191410,6 +194244,47 @@
   "trackers": 0,
   "url": "https://www.acaeum.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.acapella-extractor.com": {
+  "ad_domains": 11,
+  "ad_requests": 90,
+  "ad_slots": 3,
+  "ad_weight_pct": 70.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ads.scorecardresearch.com",
+   "bcp.crwdcntrl.net",
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "dpm.demdex.net",
+   "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 1779,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 9.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Acapella Extractor | Make acapellas from any song for FREE !",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.acapella-extractor.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.accuradio.com": {
   "ad_domains": 69,
@@ -192100,6 +194975,46 @@
   "trackers": 6,
   "url": "https://www.airnavradar.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.airpano.com": {
+  "ad_domains": 10,
+  "ad_requests": 19,
+  "ad_slots": 1,
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 8253,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 36.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Virtual Travels, 360\u00b0 Aerial Panoramas, 360\u00b0 Virtual Tours Around the World, Photos of the",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 4,
+  "url": "https://www.airpano.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.airtable.com": {
   "ad_domains": 4,
@@ -197586,7 +200501,7 @@
   "ad_requests": 413,
   "ad_slots": 13,
   "ad_weight_pct": 46.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -198076,7 +200991,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 84.6,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -198809,6 +201724,39 @@
   "trackers": 0,
   "url": "https://www.blitzortung.org/en/live_lightning_maps.php",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.blockaway.net": {
+  "ad_domains": 3,
+  "ad_requests": 17,
+  "ad_slots": 1,
+  "ad_weight_pct": 62.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1304,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 44.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The most advanced proxy site. Unblock any website with this proxy server | BlockAway",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 2,
+  "url": "https://www.blockaway.net/",
+  "verdict": "Heavy advertising"
  },
  "www.blockchain.com": {
   "ad_domains": 0,
@@ -200209,7 +203157,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 34.4,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -201604,6 +204552,37 @@
   ],
   "trackers": 8,
   "url": "https://www.ceskatelevize.cz/ivysilani/",
+  "verdict": "Light advertising"
+ },
+ "www.cfdtool.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 51.3,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 319,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CFDTool - CFD Simulation Made Easy",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://www.cfdtool.com/",
   "verdict": "Light advertising"
  },
  "www.cfr.org": {
@@ -204608,6 +207587,48 @@
   "url": "https://www.cool-etv.net/",
   "verdict": "Light advertising"
  },
+ "www.coolmath.com": {
+  "ad_domains": 61,
+  "ad_requests": 169,
+  "ad_slots": 3,
+  "ad_weight_pct": 31.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "27b43f651eeb5019885ffa62fb8a5d65.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "c21lg-d.media.net",
+   "cdn.id5-sync.com",
+   "ce.lijit.com"
+  ],
+  "ok": true,
+  "page_kb": 3018,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 13.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cool Math - free online cool math lessons, cool math games & apps, fun math activities, pr",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://www.coolmath.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.coolmathgames.com": {
   "ad_domains": 10,
   "ad_requests": 15,
@@ -204951,6 +207972,35 @@
   ],
   "trackers": 0,
   "url": "https://www.cpdl.org/wiki/index.php/Main_Page",
+  "verdict": "Effectively ad-free"
+ },
+ "www.cplx.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 314,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Complexity",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.cplx.app/",
   "verdict": "Effectively ad-free"
  },
  "www.cpre.org.uk": {
@@ -205333,7 +208383,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -205356,6 +208406,40 @@
   "trackers": 0,
   "url": "https://www.cross-seed.org/",
   "verdict": "Effectively ad-free"
+ },
+ "www.croxyproxy.com": {
+  "ad_domains": 4,
+  "ad_requests": 24,
+  "ad_slots": 2,
+  "ad_weight_pct": 63.6,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1478,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 32.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free web proxy and a cutting-edge online proxy | CroxyProxy",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 2,
+  "url": "https://www.croxyproxy.com/",
+  "verdict": "Very heavy advertising"
  },
  "www.crwflags.com": {
   "ad_domains": 0,
@@ -209883,6 +212967,35 @@
   "url": "https://www.eduke32.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.edumedia.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3902,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Interactive Science and Math Simulations for STEM",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.edumedia.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.eduvpn.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -210708,6 +213821,40 @@
   ],
   "trackers": 2,
   "url": "https://www.engineeringtoolbox.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.engineersedge.com": {
+  "ad_domains": 4,
+  "ad_requests": 30,
+  "ad_slots": 6,
+  "ad_weight_pct": 58.5,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1429,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 12.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Engineers Edge - Engineering Reference Data and Tools",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 2,
+  "url": "https://www.engineersedge.com/",
   "verdict": "Ad-saturated / hostile"
  },
  "www.englishaccentsmap.com": {
@@ -214065,7 +217212,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -214269,6 +217416,35 @@
   "trackers": 4,
   "url": "https://www.flightradar24.com/",
   "verdict": "Very heavy advertising"
+ },
+ "www.flippedmath.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2264,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "flippedmath.com - Home",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://www.flippedmath.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.flippity.net": {
   "ad_domains": 4,
@@ -218720,7 +221896,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -219655,6 +222831,39 @@
   "url": "https://www.halakhah.com/",
   "verdict": "Very clean"
  },
+ "www.halcyonmaps.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8854,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 85.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Infographics \u2014 Halcyon Maps",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 0,
+  "url": "https://www.halcyonmaps.com/infographics",
+  "verdict": "Very clean"
+ },
  "www.halfcatrocketry.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -220414,7 +223623,7 @@
   "ad_requests": 69,
   "ad_slots": 3,
   "ad_weight_pct": 77.7,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -221522,6 +224731,35 @@
   "url": "https://www.humanityslastmachine.com/",
   "verdict": "Very clean"
  },
+ "www.humanoids.fyi": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 450,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Humanoid Atlas | Humanoid Robot Supply Chain Map & OEM Database",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.humanoids.fyi/",
+  "verdict": "Effectively ad-free"
+ },
  "www.hume.ai": {
   "ad_domains": 4,
   "ad_requests": 7,
@@ -222501,7 +225739,7 @@
   "ad_requests": 73,
   "ad_slots": 3,
   "ad_weight_pct": 81.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -227053,6 +230291,40 @@
   "url": "https://www.learn-perl.org/",
   "verdict": "Moderate advertising"
  },
+ "www.learnamic.com": {
+  "ad_domains": 4,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 49.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 857,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 59.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Quality Educational Resources for Homeschoolers | Learnamic",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://www.learnamic.com/",
+  "verdict": "Moderate advertising"
+ },
  "www.learncpp.com": {
   "ad_domains": 42,
   "ad_requests": 149,
@@ -228807,6 +232079,35 @@
   "url": "https://www.livius.org/",
   "verdict": "Moderate advertising"
  },
+ "www.llm-prices.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LLM pricing calculator",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.llm-prices.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.lo4d.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -229231,6 +232532,35 @@
   "trackers": 3,
   "url": "https://www.looperman.com/loops",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.loras.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 106,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Loras \u2013 Generate AI Images with LoRAs",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.loras.dev/",
+  "verdict": "Effectively ad-free"
  },
  "www.lostandfoundnature.com": {
   "ad_domains": 0,
@@ -229713,6 +233043,35 @@
   "trackers": 1,
   "url": "https://www.macterminal.cc/commands",
   "verdict": "Light advertising"
+ },
+ "www.madasmaths.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3281,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MadAsMaths :: Mathematics Resources",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.madasmaths.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.mage.ai": {
   "ad_domains": 5,
@@ -231289,6 +234648,48 @@
   "url": "https://www.mathcha.io/",
   "verdict": "Very clean"
  },
+ "www.mathhelp.com": {
+  "ad_domains": 17,
+  "ad_requests": 43,
+  "ad_slots": 0,
+  "ad_weight_pct": 45.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "d.adroll.com",
+   "dsum-sec.casalemedia.com",
+   "eb2.3lift.com",
+   "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
+   "image2.pubmatic.com",
+   "pixel.rubiconproject.com",
+   "rtb-csync.smartadserver.com",
+   "s.adroll.com",
+   "stats.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1078,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 28.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Math Help Online | Take a Test Prep Course | Get Tutoring",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 4,
+  "url": "https://www.mathhelp.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.mathispower4u.com": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -231350,6 +234751,73 @@
   "url": "https://www.mathjax.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.mathplanet.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 26.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1156,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Study math for free - Mathplanet",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://www.mathplanet.com/",
+  "verdict": "Light advertising"
+ },
+ "www.mathportal.org": {
+  "ad_domains": 6,
+  "ad_requests": 73,
+  "ad_slots": 3,
+  "ad_weight_pct": 81.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1563,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 15.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Online calculators - Math Portal",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
+  "url": "https://www.mathportal.org/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.mathsisfun.com": {
   "ad_domains": 2,
   "ad_requests": 5,
@@ -231381,6 +234849,35 @@
   "trackers": 0,
   "url": "https://www.mathsisfun.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.mathspad.co.uk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1102,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MathsPad Interactive Tools",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.mathspad.co.uk/resources.php?interactives=1",
+  "verdict": "Effectively ad-free"
  },
  "www.matthewsiu.com": {
   "ad_domains": 1,
@@ -232118,7 +235615,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -233860,7 +237357,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -233889,7 +237386,7 @@
   "ad_requests": 347,
   "ad_slots": 5,
   "ad_weight_pct": 23.5,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -237982,6 +241479,35 @@
   "url": "https://www.nzbindex.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.nzbindex.nl": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 47,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NZBIndex - We index, you search",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://www.nzbindex.nl/",
+  "verdict": "Effectively ad-free"
+ },
  "www.oalib.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -239177,6 +242703,35 @@
   ],
   "trackers": 0,
   "url": "https://www.openedition.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.openfoam.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1063,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenFOAM",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.openfoam.com/",
   "verdict": "Effectively ad-free"
  },
  "www.openhab.org": {
@@ -240457,6 +244012,38 @@
   "url": "https://www.papalencyclicals.net/",
   "verdict": "Effectively ad-free"
  },
+ "www.paper2audio.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1281,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Paper2Audio - Free text to speech for PDFs, EPUBs, and websites",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 7,
+  "url": "https://www.paper2audio.com/",
+  "verdict": "Light advertising"
+ },
  "www.papertag.app": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -240890,6 +244477,35 @@
   "trackers": 1,
   "url": "https://www.pbs.org/video/",
   "verdict": "Moderate advertising"
+ },
+ "www.pc-progress.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 182,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PC-PROGRESS - Homepage",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.pc-progress.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.pcgamingwiki.com": {
   "ad_domains": 25,
@@ -243306,6 +246922,35 @@
   "url": "https://www.popsci.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.portablefreeware.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://www.portablefreeware.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.portalpioneer.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -243478,6 +247123,35 @@
   ],
   "trackers": 0,
   "url": "https://www.potionsandsnitches.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.pouet.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 202,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "prodlist :: pou\u00ebt.net",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://www.pouet.net/prodlist.php",
   "verdict": "Effectively ad-free"
  },
  "www.powerthesaurus.org": {
@@ -249817,6 +253491,35 @@
   "url": "https://www.scarleteen.com/",
   "verdict": "Light advertising"
  },
+ "www.scenesource.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6900,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SceneSource - Your source for Games, Movies, Music and more.",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://www.scenesource.me/",
+  "verdict": "Effectively ad-free"
+ },
  "www.scenestream.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -250363,7 +254066,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -250726,7 +254429,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -254219,7 +257922,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -254783,7 +258486,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -254965,6 +258668,35 @@
   "trackers": 3,
   "url": "https://www.stilltasty.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.stitz-zeager.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 59,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome! | Stitz Zeager Open Source Mathematics",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.stitz-zeager.com/",
+  "verdict": "Effectively ad-free"
  },
  "www.stopthebleed.org": {
   "ad_domains": 4,
@@ -256126,7 +259858,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -259599,7 +263331,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 2.1,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -259633,7 +263365,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 1.6,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -259691,7 +263423,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -260465,6 +264197,40 @@
   "trackers": 0,
   "url": "https://www.tryingopen.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.tryspellbound.com": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.9,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1398,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 69.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Spellbound - interactive storytelling",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
+  "url": "https://www.tryspellbound.com/",
+  "verdict": "Moderate advertising"
  },
  "www.tsf.pt": {
   "ad_domains": 0,
@@ -264604,6 +268370,35 @@
   "url": "https://www.webosbrew.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.webqc.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://www.webqc.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.webrelics.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -265670,6 +269465,41 @@
   "trackers": 0,
   "url": "https://www.winitor.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.wintools.info": {
+  "ad_domains": 5,
+  "ad_requests": 26,
+  "ad_slots": 12,
+  "ad_weight_pct": 53.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1945,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 9.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WinTools.Info - Usable Windows Tools",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 2,
+  "url": "https://www.wintools.info/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.wireclub.com": {
   "ad_domains": 0,
@@ -267676,6 +271506,41 @@
   "url": "https://www.zenz-solutions.de/personaldnsfilter-wp/",
   "verdict": "Effectively ad-free"
  },
+ "www.zerotier.com": {
+  "ad_domains": 5,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.7,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5141,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 59.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ZeroTier | Next-Generation Connectivity and Cybersecurity",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 15,
+  "url": "https://www.zerotier.com/",
+  "verdict": "Moderate advertising"
+ },
  "www.zipcomic.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -268669,6 +272534,37 @@
   "trackers": 4,
   "url": "https://xiazai001.org/",
   "verdict": "Effectively ad-free"
+ },
+ "ximera.osu.edu": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-08-26T02:55:42+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6459,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "mooculus - Ximera",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 7,
+  "url": "https://ximera.osu.edu/mooculus",
+  "verdict": "Very clean"
  },
  "xkcd-search.typesense.org": {
   "ad_domains": 1,
@@ -269835,7 +273731,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 64.2,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -271685,7 +275581,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T02:53:47+00:00",
+  "checked_utc": "2026-08-26T02:55:42+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
