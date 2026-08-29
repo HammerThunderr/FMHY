@@ -361,6 +361,37 @@
   "url": "https://123apps.com/",
   "verdict": "Moderate advertising"
  },
+ "123movie.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.3,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 11522,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Movies Online, Watch TV Shows Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 8,
+  "url": "https://123movie.app",
+  "verdict": "Very clean"
+ },
  "123wrestling.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -12808,6 +12839,38 @@
   "url": "https://anslayer.com/",
   "verdict": "Effectively ad-free"
  },
+ "ant.design": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2480,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Icon - Ant Design",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 8,
+  "url": "https://ant.design/components/icon/",
+  "verdict": "Light advertising"
+ },
  "antennapod.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -12955,6 +13018,35 @@
   ],
   "trackers": 0,
   "url": "https://antiqueradio.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "anton.likesyou.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 42,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "rizzking movies",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://anton.likesyou.org/",
   "verdict": "Effectively ad-free"
  },
  "antra.hoshi.cfd": {
@@ -20765,6 +20857,37 @@
   "url": "https://aws.amazon.com/training/restart/",
   "verdict": "Very clean"
  },
+ "awsicons.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 99.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 161,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "awsicons \u2013 Open Source SVG Library for AWS Services",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://awsicons.dev/",
+  "verdict": "Light advertising"
+ },
  "axiel7.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -22092,6 +22215,35 @@
   "url": "https://baozimh.org/",
   "verdict": "Very clean"
  },
+ "baronip-coupons.blogspot.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1542,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "https://baronip-coupons.blogspot.com/",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://baronip-coupons.blogspot.com/",
+  "verdict": "Effectively ad-free"
+ },
  "basarat.gitbook.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -22119,6 +22271,35 @@
   ],
   "trackers": 0,
   "url": "https://basarat.gitbook.io/typescript/getting-started",
+  "verdict": "Effectively ad-free"
+ },
+ "basementx.pro": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 126,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Basement",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://basementx.pro/",
   "verdict": "Effectively ad-free"
  },
  "basementx.xyz": {
@@ -35555,6 +35736,37 @@
   "url": "https://cinedeantes2.weebly.com/",
   "verdict": "Effectively ad-free"
  },
+ "cineflix.fstream.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.2,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 61568,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cineby",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://cineflix.fstream.app/",
+  "verdict": "Very clean"
+ },
  "cinego.co": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -35614,6 +35826,35 @@
   "trackers": 1,
   "url": "https://cinegram.tv/",
   "verdict": "Very clean"
+ },
+ "cinehd.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CineHD - Your Ultimate Streaming Guide",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://cinehd.app/",
+  "verdict": "Effectively ad-free"
  },
  "cinehd.dev": {
   "ad_domains": 2,
@@ -35676,6 +35917,37 @@
   "url": "https://cinehdplus.org/",
   "verdict": "Effectively ad-free"
  },
+ "cinehub.one": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5163,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 92.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pantyflix \u2014 Watch Free Movies & TV Shows Online in HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://cinehub.one/",
+  "verdict": "Very clean"
+ },
  "cinejoy.to": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -35731,6 +36003,35 @@
   ],
   "trackers": 0,
   "url": "https://cinelibre.fr/",
+  "verdict": "Effectively ad-free"
+ },
+ "cinelove.live": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1593,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CineLove",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://cinelove.live/",
   "verdict": "Effectively ad-free"
  },
  "cinema.army": {
@@ -39648,6 +39949,35 @@
   "url": "https://comicskingdom.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "comidoc.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 807,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Working Udemy Coupons, Verified Live | Comidoc",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://comidoc.com/",
+  "verdict": "Effectively ad-free"
+ },
  "comix.to": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -40075,6 +40405,35 @@
   "trackers": 1,
   "url": "https://comparisontabl.es/",
   "verdict": "Moderate advertising"
+ },
+ "composeicons.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 95,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 92.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Icons for Jetpack Compose \u2013 Composables",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 5,
+  "url": "https://composeicons.com/",
+  "verdict": "Very clean"
  },
  "composer.boidu.dev": {
   "ad_domains": 1,
@@ -41920,6 +42279,35 @@
   "trackers": 11,
   "url": "https://courses.talktomeinkorean.com/",
   "verdict": "Light advertising"
+ },
+ "coursesbag.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1542,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "https://www.coursesbag.com/",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://coursesbag.com/",
+  "verdict": "Effectively ad-free"
  },
  "coursevania.com": {
   "ad_domains": 1,
@@ -44016,6 +44404,37 @@
   ],
   "trackers": 1,
   "url": "https://cubeflix.org/discover",
+  "verdict": "Very clean"
+ },
+ "cubeflix.pages.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1651,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cubeflix",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://cubeflix.pages.dev/",
   "verdict": "Very clean"
  },
  "cuberule.com": {
@@ -49551,6 +49970,35 @@
   "url": "https://deviceshots.com/",
   "verdict": "Effectively ad-free"
  },
+ "devicon.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1064,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DEVICON | All programming languages and development tools related icons font",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://devicon.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "devil-torrents.pl": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -50911,6 +51359,35 @@
   "trackers": 0,
   "url": "https://dinotoyblog.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "diostream.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 218,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DioStream",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://diostream.cc/",
+  "verdict": "Effectively ad-free"
  },
  "dir.xiph.org": {
   "ad_domains": 0,
@@ -60456,6 +60933,35 @@
   "url": "https://emkc.org/challenges",
   "verdict": "Light advertising"
  },
+ "emnexmovies.tech": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2965,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WATCHOTT - Discover Movies & TV Shows",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://emnexmovies.tech/",
+  "verdict": "Effectively ad-free"
+ },
  "emojikitchen.dev": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -69837,6 +70343,35 @@
   "url": "https://flickermini.pages.dev/",
   "verdict": "Effectively ad-free"
  },
+ "flickerminiproxy.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9137,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flicker",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://flickerminiproxy.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "flickle.app": {
   "ad_domains": 13,
   "ad_requests": 69,
@@ -70452,6 +70987,37 @@
   "url": "https://flixtrz.com/",
   "verdict": "Effectively ad-free"
  },
+ "flixvo.fun": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 57.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 296,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flixvo - Discover Movies & TV Shows",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://flixvo.fun/",
+  "verdict": "Light advertising"
+ },
  "flixvo.live": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -70482,6 +71048,35 @@
   "trackers": 1,
   "url": "https://flixvo.live/",
   "verdict": "Light advertising"
+ },
+ "flixway.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://flixway.ru/",
+  "verdict": "Effectively ad-free"
  },
  "flixzy.pages.dev": {
   "ad_domains": 1,
@@ -71136,6 +71731,37 @@
   ],
   "trackers": 1,
   "url": "https://fluxtv.cc/",
+  "verdict": "Very clean"
+ },
+ "fluxtv.co.uk": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.7,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6365,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FluxTV",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://fluxtv.co.uk/",
   "verdict": "Very clean"
  },
  "flyflix.net": {
@@ -74148,6 +74774,48 @@
   "url": "https://freebiesbug.com/",
   "verdict": "Moderate advertising"
  },
+ "freebiesglobal.com": {
+  "ad_domains": 15,
+  "ad_requests": 107,
+  "ad_slots": 4,
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "ade.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "stats.g.doubleclick.net",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com"
+  ],
+  "ok": true,
+  "page_kb": 2127,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "Lastest Freebies, Deals & Discounts - Freebies Global",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 2,
+  "url": "https://freebiesglobal.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "freebiesui.com": {
   "ad_domains": 61,
   "ad_requests": 296,
@@ -75363,6 +76031,38 @@
   "trackers": 0,
   "url": "https://freesub.live/",
   "verdict": "Effectively ad-free"
+ },
+ "freesvg.org": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 24.7,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1910,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 74.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Download free SVG clip art and silhouettes for Cricut cutting machines.",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 2,
+  "url": "https://freesvg.org/",
+  "verdict": "Light advertising"
  },
  "freeter.io": {
   "ad_domains": 0,
@@ -80365,6 +81065,35 @@
   "url": "https://gg.deals/",
   "verdict": "Light advertising"
  },
+ "ggflix.live": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4539,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GGFlix - Watch Movies & Series at Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://ggflix.live/",
+  "verdict": "Effectively ad-free"
+ },
  "ggplot2-book.org": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -82062,6 +82791,37 @@
   "trackers": 2,
   "url": "https://glyph.today/",
   "verdict": "Very clean"
+ },
+ "glyphs.fyi": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 88.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 314,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Glyphs - The Complete Icon Design System",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 6,
+  "url": "https://glyphs.fyi/",
+  "verdict": "Light advertising"
  },
  "gn-math.dev": {
   "ad_domains": 20,
@@ -84514,6 +85274,35 @@
   "trackers": 0,
   "url": "https://gridbyexample.com/",
   "verdict": "Very clean"
+ },
+ "griddyicons.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 61,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Griddy Icons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://griddyicons.com/",
+  "verdict": "Effectively ad-free"
  },
  "gridland.doublespeakgames.com": {
   "ad_domains": 0,
@@ -88740,6 +89529,35 @@
   "url": "https://heroicgameslauncher.com/",
   "verdict": "Effectively ad-free"
  },
+ "heroicons.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 47,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Heroicons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://heroicons.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "heroicrelics.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -90763,6 +91581,35 @@
   "trackers": 0,
   "url": "https://hotaudiobooks.com/",
   "verdict": "Very heavy advertising"
+ },
+ "hotflix.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hotflix - Watch Movies Online in HD for Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://hotflix.to/",
+  "verdict": "Effectively ad-free"
  },
  "houdoku.org": {
   "ad_domains": 0,
@@ -93374,6 +94221,214 @@
   "url": "https://icofont.com/icons",
   "verdict": "Effectively ad-free"
  },
+ "icon-icons.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 22.7,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 827,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free and premium icons in SVG, PNG, ICO and ICNS formats",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://icon-icons.com/",
+  "verdict": "Light advertising"
+ },
+ "iconarchive.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "ad.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 419,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Icon Archive - 800,000+ free icons & stickers, PNG, SVG Downloads",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://iconarchive.com/",
+  "verdict": "Very clean"
+ },
+ "iconbuddy.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 200,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free SVG Icons - 300,000+ Open Source Icons | Iconbuddy",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://iconbuddy.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "iconduck.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 467,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "That request didn't go through. Our security filter flagged something. You don't have perm",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://iconduck.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "iconer.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 800,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Iconer: Free Icons for Everything (SVG, PNG, JSX)",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://iconer.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "icones.js.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 866,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ic\u00f4nes",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://icones.js.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "icongo.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 959,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search SVG Icons @icongo",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://icongo.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "iconify.design": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -93400,6 +94455,95 @@
   ],
   "trackers": 0,
   "url": "https://iconify.design/",
+  "verdict": "Effectively ad-free"
+ },
+ "iconmonstr.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 76,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "iconmonstr - Free simple icons for your next project",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://iconmonstr.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "iconoir.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.5,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1679,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Iconoir | Free Icons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://iconoir.com/",
+  "verdict": "Very clean"
+ },
+ "icons-for-free.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://icons-for-free.com/\", waiting until \"domconten",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Icofont",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://icons-for-free.com/",
   "verdict": "Effectively ad-free"
  },
  "icons.grommet.io": {
@@ -93456,6 +94600,37 @@
   "trackers": 0,
   "url": "https://icons8.com/music",
   "verdict": "Effectively ad-free"
+ },
+ "iconshelf.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 61.3,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 272,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 77.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "IconShelf - Free SVG Icons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 7,
+  "url": "https://iconshelf.com/",
+  "verdict": "Light advertising"
  },
  "icustom.tooliphone.net": {
   "ad_domains": 14,
@@ -100691,6 +101866,35 @@
   "url": "https://josephmate.github.io/EpicFreeGamesList/",
   "verdict": "Effectively ad-free"
  },
+ "josh-berry.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1099,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tab Stash - Tab Stash",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://josh-berry.github.io/tab-stash/",
+  "verdict": "Effectively ad-free"
+ },
  "joshdata.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -107829,6 +109033,35 @@
   ],
   "trackers": 0,
   "url": "https://late.sh/",
+  "verdict": "Effectively ad-free"
+ },
+ "latestmovies.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4064,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "LatestMovies - Discover Movies & TV Shows",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://latestmovies.net/",
   "verdict": "Effectively ad-free"
  },
  "latimes.newspapers.com": {
@@ -115451,6 +116684,37 @@
   "url": "https://loofi.netlify.app/",
   "verdict": "Effectively ad-free"
  },
+ "lookmovie2.la": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 4.7,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3596,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 77.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Watch Latest Movies & Shows Episode Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://lookmovie2.la/",
+  "verdict": "Light advertising"
+ },
  "lookmovie2.to": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -115509,6 +116773,35 @@
   ],
   "trackers": 0,
   "url": "https://lordgnomembe.github.io/BookInfo/",
+  "verdict": "Effectively ad-free"
+ },
+ "lordicon.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 228365,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "46,600+ animated icons - Lordicon",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://lordicon.com/",
   "verdict": "Effectively ad-free"
  },
  "lossless-music.org": {
@@ -116279,6 +117572,66 @@
   "trackers": 0,
   "url": "https://lucida.to/",
   "verdict": "Effectively ad-free"
+ },
+ "lucide-animated.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 190,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "lucide-animated | Free Animated React Icons Library",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://lucide-animated.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "lucide.dev": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 2,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 97,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Lucide",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://lucide.dev/",
+  "verdict": "Light advertising"
  },
  "lucidspark.com": {
   "ad_domains": 1,
@@ -117268,6 +118621,37 @@
   "trackers": 0,
   "url": "https://m210.duke4.net/",
   "verdict": "Effectively ad-free"
+ },
+ "m2box.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 15244,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "M2Box - Watch Movies Free Online, Watch TV Series Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://m2box.org/",
+  "verdict": "Very clean"
  },
  "m2v.ru": {
   "ad_domains": 0,
@@ -121213,6 +122597,37 @@
   "trackers": 0,
   "url": "https://marinebiodiversity.org.bd/",
   "verdict": "Effectively ad-free"
+ },
+ "mariodelvalle.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 26.8,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 577,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Captain Icon",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 3,
+  "url": "https://mariodelvalle.github.io/CaptainIconWeb/",
+  "verdict": "Light advertising"
  },
  "mariopartylegacy.com": {
   "ad_domains": 25,
@@ -129390,6 +130805,37 @@
   "url": "https://moviebite.org/",
   "verdict": "Very clean"
  },
+ "moviebox.co": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 79.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 189,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Moviebox Official Link Release Page - Always Find Us!",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://moviebox.co/",
+  "verdict": "Light advertising"
+ },
  "movieboxonline.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -134576,6 +136022,35 @@
   "url": "https://neon.tech/postgresql/tutorial",
   "verdict": "Effectively ad-free"
  },
+ "neonflix.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 15754,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Neonflix",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://neonflix.st/",
+  "verdict": "Effectively ad-free"
+ },
  "nepu.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -135062,6 +136537,37 @@
   "trackers": 1,
   "url": "https://nethd.org/",
   "verdict": "Moderate advertising"
+ },
+ "netnaija.film": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.6,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 25085,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 92.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Movies, TV Series Online, Netnaija Movies - Netnaija Official",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 6,
+  "url": "https://netnaija.film",
+  "verdict": "Very clean"
  },
  "netplayz.icu": {
   "ad_domains": 0,
@@ -135875,6 +137381,35 @@
   "url": "https://newstel.vercel.app/",
   "verdict": "Light advertising"
  },
+ "next-box.su": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3732,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nextbox | Movies and TV Shows",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://next-box.su/",
+  "verdict": "Effectively ad-free"
+ },
  "nextbox.uno": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -136082,6 +137617,35 @@
   ],
   "trackers": 0,
   "url": "https://nextstrain.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "nextwork.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 47,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "nextwork.cc",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://nextwork.cc/",
   "verdict": "Effectively ad-free"
  },
  "nfl-video.com": {
@@ -137015,6 +138579,37 @@
   "url": "https://nmac.to/",
   "verdict": "Moderate advertising"
  },
+ "nmovies.cc": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 66.5,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 430,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 78.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Novamovies - Watch Movies Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://nmovies.cc/",
+  "verdict": "Light advertising"
+ },
  "nnmclub.to": {
   "ad_domains": 2,
   "ad_requests": 9,
@@ -137578,6 +139173,39 @@
   "trackers": 0,
   "url": "https://nomorflix.cc/",
   "verdict": "Effectively ad-free"
+ },
+ "nomorflix.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 67.3,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 223,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 71.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NomorFlix \u2014 Watch Free Movies, TV Shows & Anime | Current Link",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://nomorflix.com/",
+  "verdict": "Moderate advertising"
  },
  "nonnullish.github.io": {
   "ad_domains": 0,
@@ -143174,6 +144802,35 @@
   "trackers": 1,
   "url": "https://onlinetools.com/",
   "verdict": "Very clean"
+ },
+ "onoflix.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2530,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ONOFLIX - Watch Movies & Series Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://onoflix.com/",
+  "verdict": "Effectively ad-free"
  },
  "onoflix.ru": {
   "ad_domains": 0,
@@ -152058,6 +153715,37 @@
   "url": "https://phonofilm.net/",
   "verdict": "Effectively ad-free"
  },
+ "phosphoricons.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 79.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 211,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Phosphor Icons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://phosphoricons.com/",
+  "verdict": "Light advertising"
+ },
  "photogpt.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -152752,6 +154440,35 @@
   ],
   "trackers": 0,
   "url": "https://pictogramapp.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "pictogrammers.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2045,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pictogrammers - Open-source iconography for designers and developers",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://pictogrammers.com/",
   "verdict": "Effectively ad-free"
  },
  "picturecards.online": {
@@ -157898,6 +159615,35 @@
   "url": "https://poland.gg/",
   "verdict": "Effectively ad-free"
  },
+ "polaris.shopify.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 735,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Polaris references",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://polaris.shopify.com/icons",
+  "verdict": "Effectively ad-free"
+ },
  "polish-abandonware.pl": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -161624,6 +163370,37 @@
   "trackers": 0,
   "url": "https://pstream.cfd/",
   "verdict": "Effectively ad-free"
+ },
+ "pstream.site": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 835,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamWatch",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://pstream.site/",
+  "verdict": "Very clean"
  },
  "psutierlist.org": {
   "ad_domains": 0,
@@ -168127,6 +169904,37 @@
   "url": "https://redecanais.ooo/",
   "verdict": "Effectively ad-free"
  },
+ "redflix.club": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1685,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Redflix - Watch Free Movies & TV Shows Online | No Login Required",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://redflix.club/",
+  "verdict": "Very clean"
+ },
  "redflix.one": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -168454,6 +170262,37 @@
   "trackers": 4,
   "url": "https://regexcrossword.com/",
   "verdict": "Light advertising"
+ },
+ "reicon.dev": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2070,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Reicon",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://reicon.dev/",
+  "verdict": "Very clean"
  },
  "rejail.ru": {
   "ad_domains": 0,
@@ -171454,6 +173293,35 @@
   "url": "https://rizzking.org/",
   "verdict": "Effectively ad-free"
  },
+ "rizzking.xo.je": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 42,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "rizzking movies",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://rizzking.xo.je/",
+  "verdict": "Effectively ad-free"
+ },
  "rj.hoseinwave.ir": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -173107,6 +174975,35 @@
   "trackers": 1,
   "url": "https://rpubs.com/",
   "verdict": "Very clean"
+ },
+ "rreelstream.live": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 704,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReelStream \u2014 Watch Free Movies & TV Shows",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://rreelstream.live/",
+  "verdict": "Effectively ad-free"
  },
  "rsarchive.org": {
   "ad_domains": 0,
@@ -177831,6 +179728,38 @@
   "url": "https://scrobblerad.io/",
   "verdict": "Effectively ad-free"
  },
+ "scrollcoupons.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 47.8,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 590,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 73.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scroll Coupons: Save with 100% Off Udemy Coupons Codes",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 3,
+  "url": "https://scrollcoupons.com/",
+  "verdict": "Light advertising"
+ },
  "scta.lombardpress.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -182301,6 +184230,35 @@
   "url": "https://simple.wikipedia.org/wiki/Main_Page",
   "verdict": "Effectively ad-free"
  },
+ "simpleicons.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 12,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Simple Icons",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://simpleicons.org/",
+  "verdict": "Effectively ad-free"
+ },
  "simplex.chat": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -184148,6 +186106,37 @@
   "trackers": 0,
   "url": "https://smotret.tv/",
   "verdict": "Effectively ad-free"
+ },
+ "smovies.co": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 22.2,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 688,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome to SMovies",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://smovies.co/",
+  "verdict": "Light advertising"
  },
  "smser.net": {
   "ad_domains": 0,
@@ -192079,6 +194068,35 @@
   "url": "https://streamex.sh/",
   "verdict": "Effectively ad-free"
  },
+ "streamex.ws": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 38,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Streamex - Free Streaming Website for Movies & TV",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://streamex.ws/",
+  "verdict": "Effectively ad-free"
+ },
  "streamfree.top": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -192557,6 +194575,35 @@
   "trackers": 1,
   "url": "https://streamwatch.online/",
   "verdict": "Very clean"
+ },
+ "streamwatch.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 469,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamWatch",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://streamwatch.pages.dev/",
+  "verdict": "Effectively ad-free"
  },
  "streamwriter.org": {
   "ad_domains": 0,
@@ -193226,6 +195273,47 @@
   "trackers": 0,
   "url": "https://study.cs.helsinki.fi/discord/join/fullstack",
   "verdict": "Effectively ad-free"
+ },
+ "studybullet.com": {
+  "ad_domains": 11,
+  "ad_requests": 75,
+  "ad_slots": 8,
+  "ad_weight_pct": 47.8,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "b1sync.outbrain.com",
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2339,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "StudyBullet.com - Get Free Online Courses with Certificates, Udemy Coupon, Udemy Coupon Co",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://studybullet.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "studycraft.dev": {
   "ad_domains": 0,
@@ -195030,6 +197118,40 @@
   "url": "https://svgl.app/",
   "verdict": "Effectively ad-free"
  },
+ "svgsilh.com": {
+  "ad_domains": 4,
+  "ad_requests": 29,
+  "ad_slots": 2,
+  "ad_weight_pct": 77.8,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1122,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 32.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free SVG Image & Icon. | SVG Silh",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 2,
+  "url": "https://svgsilh.com/",
+  "verdict": "Very heavy advertising"
+ },
  "sw.kovidgoyal.net": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -195962,6 +198084,35 @@
   "url": "https://ta.kirmalk.com/",
   "verdict": "Very clean"
  },
+ "tabbutler.netlify.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 141,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tab Butler - A tab manager at your sevice",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://tabbutler.netlify.app/",
+  "verdict": "Effectively ad-free"
+ },
  "tabby.sh": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -196024,6 +198175,35 @@
   "trackers": 1,
   "url": "https://table-plan.com/",
   "verdict": "Light advertising"
+ },
+ "tabler.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 218,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tabler Icons: 6150+ free vector icons for web design",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://tabler.io/icons",
+  "verdict": "Effectively ad-free"
  },
  "tachimanga.app": {
   "ad_domains": 1,
@@ -201184,6 +203364,37 @@
   "url": "https://themockup.club/",
   "verdict": "Moderate advertising"
  },
+ "themoviebox.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10653,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MovieBox - Watch Movies Free Online, Watch TV Series Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://themoviebox.org/",
+  "verdict": "Very clean"
+ },
  "themoviesboss.fans": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -205168,6 +207379,35 @@
   "trackers": 0,
   "url": "https://tonkacine.watch/",
   "verdict": "Very clean"
+ },
+ "tonkacine.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 9,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "TonkaCine",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://tonkacine.xyz/",
+  "verdict": "Effectively ad-free"
  },
  "tonocracy.com": {
   "ad_domains": 0,
@@ -211835,6 +214075,81 @@
   "url": "https://ubuweb.com/",
   "verdict": "Effectively ad-free"
  },
+ "udemyfreecourses.org": {
+  "ad_domains": 9,
+  "ad_requests": 73,
+  "ad_slots": 8,
+  "ad_weight_pct": 57.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1919,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "All Udemy FREE courses (daily updated) - UdemyFreeCourses.org",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 4,
+  "url": "https://udemyfreecourses.org/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "udemyxpert.com": {
+  "ad_domains": 6,
+  "ad_requests": 35,
+  "ad_slots": 2,
+  "ad_weight_pct": 53.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com"
+  ],
+  "ok": true,
+  "page_kb": 1146,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 27.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "100% Free Udemy Coupons August 2026",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://udemyxpert.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "udl.pages.dev": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -214449,6 +216764,35 @@
   "url": "https://v2.sportsurge.net/home5/",
   "verdict": "Effectively ad-free"
  },
+ "v2.way2movies.live": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://v2.way2movies.live/",
+  "verdict": "Effectively ad-free"
+ },
  "v2ex.com": {
   "ad_domains": 3,
   "ad_requests": 8,
@@ -216404,6 +218748,35 @@
   "url": "https://vidbox.vc/",
   "verdict": "Effectively ad-free"
  },
+ "vidbox.website": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 330,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://vidbox.website/",
+  "verdict": "Effectively ad-free"
+ },
  "videa.hu": {
   "ad_domains": 3,
   "ad_requests": 4,
@@ -217809,6 +220182,35 @@
   ],
   "trackers": 0,
   "url": "https://visualizehabit.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "visualpharm.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10025,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "VisualPharm \u2014 2D and 3D Animation Company \u00b7 Illustrations, Icons, Interactive Animations",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://visualpharm.com/",
   "verdict": "Effectively ad-free"
  },
  "visuwords.com": {
@@ -220122,6 +222524,35 @@
   ],
   "trackers": 0,
   "url": "https://warezomen.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "warflix.cv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 26,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DaddyLive - DaddyLiveHD | StreamEast | CrackStreams | Warflix - Live TV Stream Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://warflix.cv/",
   "verdict": "Effectively ad-free"
  },
  "warflix.im": {
@@ -222972,6 +225403,35 @@
   "trackers": 3,
   "url": "https://webslides.tv/",
   "verdict": "Light advertising"
+ },
+ "websvg.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9654,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Web SVG",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://websvg.com/",
+  "verdict": "Effectively ad-free"
  },
  "webteizle3.xyz": {
   "ad_domains": 2,
@@ -229165,6 +231625,37 @@
   "trackers": 0,
   "url": "https://ww0.13dl.app/",
   "verdict": "Effectively ad-free"
+ },
+ "ww1-fmovies.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 21.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 715,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 84.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FMovies - Watch Movies Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://ww1-fmovies.com/",
+  "verdict": "Light advertising"
  },
  "ww1.goojara.to": {
   "ad_domains": 0,
@@ -242930,6 +245421,38 @@
   "url": "https://www.cctv-world.kr/",
   "verdict": "Very heavy advertising"
  },
+ "www.cd3wdproject.org": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 86.4,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 199,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CD3WD Project",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://www.cd3wdproject.org/",
+  "verdict": "Light advertising"
+ },
  "www.cdc.gov": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -256672,6 +259195,35 @@
   "url": "https://www.exploitee.rs/",
   "verdict": "Effectively ad-free"
  },
+ "www.exploremarmaris.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://www.exploremarmaris.com/read/Survival/\", waitin",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "OffGridDownload",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "http://www.exploremarmaris.com/read/Survival/",
+  "verdict": "Effectively ad-free"
+ },
  "www.extreme-down.poker": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -259017,6 +261569,35 @@
   "url": "https://www.flatblackandclassical.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.flaticon.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 466,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "That request didn't go through. Our security filter flagged something. You don't have perm",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.flaticon.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.flexboxdefense.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -259299,6 +261880,35 @@
   "trackers": 4,
   "url": "https://www.flightradar24.com/",
   "verdict": "Very heavy advertising"
+ },
+ "www.flikhub.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1439,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flikhub",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://www.flikhub.net/",
+  "verdict": "Effectively ad-free"
  },
  "www.flippedmath.com": {
   "ad_domains": 0,
@@ -259589,6 +262199,35 @@
   "trackers": 3,
   "url": "https://www.fluentwithstories.com/",
   "verdict": "Light advertising"
+ },
+ "www.fluidicice.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1807,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Preparedness Encyclopedia",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.fluidicice.com/tpe",
+  "verdict": "Effectively ad-free"
  },
  "www.flutetunes.com": {
   "ad_domains": 4,
@@ -266724,6 +269363,35 @@
   "url": "https://www.hermetics.org/library.html",
   "verdict": "Very clean"
  },
+ "www.heroicons-animated.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 434,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "heroicons-animated | Free Animated Heroicons for React",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.heroicons-animated.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.hevyapp.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -268723,6 +271391,131 @@
   "trackers": 0,
   "url": "https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94",
   "verdict": "Effectively ad-free"
+ },
+ "www.iconfinder.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 467,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "That request didn't go through. Our security filter flagged something. You don't have perm",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.iconfinder.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.iconninja.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.iconninja.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.iconpacks.net": {
+  "ad_domains": 5,
+  "ad_requests": 19,
+  "ad_slots": 1,
+  "ad_weight_pct": 50.1,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1204,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 35.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "28,000+ Free Icons - Download SVG & PNG | Free Commercial Use",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 2,
+  "url": "https://www.iconpacks.net/",
+  "verdict": "Very heavy advertising"
+ },
+ "www.iconshock.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 23.9,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 734,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 77.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Icons: Absolutely all the open source icons packed in a single site.",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 3,
+  "url": "https://www.iconshock.com/freeicons/",
+  "verdict": "Light advertising"
  },
  "www.icourse163.org": {
   "ad_domains": 0,
@@ -285620,6 +288413,37 @@
   "url": "https://www.neopets.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.nerdfonts.com": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.3,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2152,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 4,
+  "url": "https://www.nerdfonts.com/",
+  "verdict": "Light advertising"
+ },
  "www.nesfiles.com": {
   "ad_domains": 5,
   "ad_requests": 53,
@@ -288836,6 +291660,35 @@
   "url": "https://www.online-literature.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.onlinecourses.ooo": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.onlinecourses.ooo/",
+  "verdict": "Effectively ad-free"
+ },
  "www.onlinefilmekingyen1.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -288898,6 +291751,35 @@
   "trackers": 1,
   "url": "https://www.onlinefmradio.in/",
   "verdict": "Heavy advertising"
+ },
+ "www.onlinetutorials.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 10,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.onlinetutorials.org/",
+  "verdict": "Effectively ad-free"
  },
  "www.onsites.fyi": {
   "ad_domains": 2,
@@ -290168,6 +293050,39 @@
   "trackers": 0,
   "url": "https://www.orgzlyrevived.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.orioniconlibrary.com": {
+  "ad_domains": 3,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.7,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2207,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 82.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The best Icon Tool \u2022 Orion Icon Library",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://www.orioniconlibrary.com/",
+  "verdict": "Light advertising"
  },
  "www.orionsarm.com": {
   "ad_domains": 1,
@@ -298563,6 +301478,43 @@
   "trackers": 1,
   "url": "https://www.readsomethinggreat.com/",
   "verdict": "Very clean"
+ },
+ "www.real.discount": {
+  "ad_domains": 7,
+  "ad_requests": 53,
+  "ad_slots": 3,
+  "ad_weight_pct": 37.8,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2694,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 17.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Udemy Courses & Coupons - Get Premium Courses for FREE | Real Discount",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 4,
+  "url": "https://www.real.discount/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.realworkfromanywhere.com": {
   "ad_domains": 6,
@@ -308761,6 +311713,35 @@
   "url": "https://www.strawberrymusicplayer.org/",
   "verdict": "Effectively ad-free"
  },
+ "www.streamlinehq.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.streamlinehq.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.stremio.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -310284,6 +313265,35 @@
   "trackers": 1,
   "url": "https://www.szynalski.com/tone-generator/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "www.tabdeck.so": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 451,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tab Deck \u2013 Your all-in-one browser tab/tab group manager",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.tabdeck.so/",
+  "verdict": "Effectively ad-free"
  },
  "www.tachyo.org": {
   "ad_domains": 1,
@@ -325192,6 +328202,35 @@
   ],
   "trackers": 4,
   "url": "https://xiazai001.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "xicons.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 32,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "xicons - Icons for Vue & React",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://xicons.org",
   "verdict": "Effectively ad-free"
  },
  "ximera.osu.edu": {
