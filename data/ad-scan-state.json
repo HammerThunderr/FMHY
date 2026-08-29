@@ -327,6 +327,41 @@
   "url": "https://120minutes.org/",
   "verdict": "Effectively ad-free"
  },
+ "123animes.ru": {
+  "ad_domains": 5,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.3,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "pxdrop.lijit.com",
+   "sync-tm.everesttech.net",
+   "tags.crwdcntrl.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2119,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 66.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "123animehub - Watch Anime Online free Dub and Sub",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://123animes.ru/",
+  "verdict": "Moderate advertising"
+ },
  "123apps.com": {
   "ad_domains": 4,
   "ad_requests": 8,
@@ -366,7 +401,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.3,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -3917,6 +3952,37 @@
   "url": "https://acestream.org/",
   "verdict": "Very clean"
  },
+ "acestreamid.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 1,
+  "ad_weight_pct": 23.3,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 675,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ace stream broadcasts, channels and events",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 5,
+  "url": "https://acestreamid.com/",
+  "verdict": "Light advertising"
+ },
  "acg.rip": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -4594,6 +4660,35 @@
   ],
   "trackers": 0,
   "url": "https://addon-manager.viren070.me/",
+  "verdict": "Effectively ad-free"
+ },
+ "addonsfortheweebs.midnightignite.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 851,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Stremio Addons Dashboard",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://addonsfortheweebs.midnightignite.me/addons",
   "verdict": "Effectively ad-free"
  },
  "adguard-dns.io": {
@@ -9275,6 +9370,79 @@
   "url": "https://ani4u.org/",
   "verdict": "Effectively ad-free"
  },
+ "anibase.net": {
+  "ad_domains": 15,
+  "ad_requests": 66,
+  "ad_slots": 1,
+  "ad_weight_pct": 92.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "dt.adsafeprotected.com",
+   "fw.adsafeprotected.com",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "jsconfig.adsafeprotected.com",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "static.adsafeprotected.com",
+   "tpc.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1272,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 19.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Anibase.Net | The world's largest anime community",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 1,
+  "url": "https://anibase.net/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "anica.jp": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 23.1,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 685,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 83.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "anica.jp - Anime Schedule Calendar",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 1,
+  "url": "https://anica.jp/",
+  "verdict": "Light advertising"
+ },
  "anichart.net": {
   "ad_domains": 78,
   "ad_requests": 302,
@@ -9777,6 +9945,64 @@
   ],
   "trackers": 0,
   "url": "https://anikura.club/",
+  "verdict": "Effectively ad-free"
+ },
+ "anikuro.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8846,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anikuro - Watch Anime Free Online",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://anikuro.ru/",
+  "verdict": "Effectively ad-free"
+ },
+ "anikuro.site": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 37,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kuro - Official Domains",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://anikuro.site/",
   "verdict": "Effectively ad-free"
  },
  "anikuro.to": {
@@ -10484,6 +10710,35 @@
   "url": "https://anime-stats.net/",
   "verdict": "Effectively ad-free"
  },
+ "anime.ameo.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 372,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sprout Anime Recommender, Stats, and Visualizations",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://anime.ameo.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "anime.nexus": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -10823,6 +11078,45 @@
   "url": "https://animecorner.me/",
   "verdict": "Very clean"
  },
+ "animecountdown.com": {
+  "ad_domains": 9,
+  "ad_requests": 33,
+  "ad_slots": 1,
+  "ad_weight_pct": 12.1,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "aebff78559be8891b01bd29643a72a57.safeframe.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 4498,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 34.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Countdown - Anime schedule for popular anime",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://animecountdown.com/",
+  "verdict": "Very heavy advertising"
+ },
  "animedex.fun": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -11005,6 +11299,38 @@
   ],
   "trackers": 0,
   "url": "https://animejoker.com/",
+  "verdict": "Very clean"
+ },
+ "animekarmalist.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 22041,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 87.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Karma List",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://animekarmalist.com/",
   "verdict": "Very clean"
  },
  "animekhor.org": {
@@ -11361,6 +11687,38 @@
   "trackers": 2,
   "url": "https://animesalt.top/",
   "verdict": "Very clean"
+ },
+ "animeschedule.net": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 508,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 71.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Timetable | Air Times | Chart | Summer 2026",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 3,
+  "url": "https://animeschedule.net/",
+  "verdict": "Moderate advertising"
  },
  "animesilo.cc": {
   "ad_domains": 0,
@@ -11987,6 +12345,35 @@
   ],
   "trackers": 0,
   "url": "https://aniplus.co/",
+  "verdict": "Effectively ad-free"
+ },
+ "anisnatch.p1y.top": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://anisnatch.p1y.top/",
   "verdict": "Effectively ad-free"
  },
  "anisnatch.top": {
@@ -12844,7 +13231,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 11.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -13025,7 +13412,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -13939,6 +14326,37 @@
   ],
   "trackers": 0,
   "url": "https://aporee.org/maps/",
+  "verdict": "Effectively ad-free"
+ },
+ "app-lgwebos.pluto.tv": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [
+   "dpm.demdex.net"
+  ],
+  "ok": true,
+  "page_kb": 7819,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pluto TV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://app-lgwebos.pluto.tv/live-tv",
   "verdict": "Effectively ad-free"
  },
  "app-mockup.com": {
@@ -17953,6 +18371,37 @@
   "url": "https://asdesai.com/p/fetch/",
   "verdict": "Effectively ad-free"
  },
+ "asiaflix.in": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.1,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2700,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 82.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Asiaflix | Dramacool | Watch Free Kdramas, Cdramas & Asian Dramas",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 3,
+  "url": "https://asiaflix.in/",
+  "verdict": "Light advertising"
+ },
  "asiaflix.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -18483,6 +18932,35 @@
   ],
   "trackers": 0,
   "url": "https://asyawatch.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "at4klauncher.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 8611,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AT4K Launcher App for Android TV",
+  "topics": [
+   "Smart TV"
+  ],
+  "trackers": 0,
+  "url": "https://at4klauncher.com/",
   "verdict": "Effectively ad-free"
  },
  "atcoder.jp": {
@@ -20862,7 +21340,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 99.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -22220,7 +22698,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -22278,7 +22756,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -22969,6 +23447,35 @@
   "trackers": 1,
   "url": "https://beacon.schneidercorp.com/",
   "verdict": "Light advertising"
+ },
+ "beacons.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 272,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "@streamcorner | STREAMCORNER ANDROID APP (MOBILE/TV), | Beacons",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://beacons.ai/streamcorner",
+  "verdict": "Effectively ad-free"
  },
  "beanconqueror.com": {
   "ad_domains": 0,
@@ -29387,6 +29894,35 @@
   "url": "https://btcpayserver.org/",
   "verdict": "Effectively ad-free"
  },
+ "btorrent.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 335,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u03b2Torrent: Browser WebTorrent Client",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://btorrent.xyz/",
+  "verdict": "Effectively ad-free"
+ },
  "bubblespop.netlify.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -33118,6 +33654,38 @@
   "url": "https://channelstore.roku.com/details/4a41d0921265a5e31429a7679442153f:b5bcb5b630c28b01e93bf59856317b43/playlet",
   "verdict": "Light advertising"
  },
+ "channelsurfer.tv": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 1431,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Channel Surfer - Watch YouTube Like It's Cable TV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://channelsurfer.tv/",
+  "verdict": "Very clean"
+ },
  "char64.itch.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -35741,7 +36309,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.2,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -35832,7 +36400,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35922,7 +36490,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.3,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -36010,7 +36578,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36455,6 +37023,37 @@
   ],
   "trackers": 1,
   "url": "https://cinetaro.to/",
+  "verdict": "Very clean"
+ },
+ "cinetimes.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.5,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1915,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Movies, documentaries and cartoons to discover - Cinetimes",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://cinetimes.org/en/",
   "verdict": "Very clean"
  },
  "cinetrii.com": {
@@ -39954,7 +40553,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -40411,7 +41010,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -42285,7 +42884,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -44411,7 +45010,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 10.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -45372,6 +45971,35 @@
   "url": "https://dad.gallery",
   "verdict": "Effectively ad-free"
  },
+ "daddylive.at": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 26,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DaddyLive - DaddyLiveHD | StreamEast | CrackStreams | Warflix - Live TV Stream Free",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://daddylive.at/",
+  "verdict": "Effectively ad-free"
+ },
  "daddylive.mov": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -45459,6 +46087,38 @@
   ],
   "trackers": 0,
   "url": "https://daftpunk.cafe/",
+  "verdict": "Very clean"
+ },
+ "dailycommercials.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30",
+  "fails": 1,
+  "grade": "A",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 42,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "TVARK",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://dailycommercials.com/",
   "verdict": "Very clean"
  },
  "dailydungeon.net": {
@@ -49975,7 +50635,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -51170,6 +51830,35 @@
   "url": "https://digitaldreamdoor.com/pages/music0.html",
   "verdict": "Ad-saturated / hostile"
  },
+ "digitaler-lesesaal.bundesarchiv.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://digitaler-lesesaal.bundesarchiv.de/en\", waitin",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 11,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Stiftung imai",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://digitaler-lesesaal.bundesarchiv.de/en",
+  "verdict": "Effectively ad-free"
+ },
  "digitalfilmarchive.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -51365,7 +52054,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -54415,6 +55104,35 @@
   "url": "https://docs.unsloth.ai/get-started/fine-tuning-guide",
   "verdict": "Effectively ad-free"
  },
+ "docs.wyzie.ru": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 119,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free, Open-Source API | Wyzie Docs",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://docs.wyzie.ru/",
+  "verdict": "Effectively ad-free"
+ },
  "docs.zfsbootmenu.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -57157,6 +57875,38 @@
   "trackers": 0,
   "url": "https://dsl.richmond.edu/panorama/",
   "verdict": "Effectively ad-free"
+ },
+ "duafile.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 42.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 435,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DuaFile \u2013 Free Movies, TV Series & Entertainment | Stream Instantly",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://duafile.net/",
+  "verdict": "Light advertising"
  },
  "duanjuhk.com": {
   "ad_domains": 1,
@@ -60933,12 +61683,53 @@
   "url": "https://emkc.org/challenges",
   "verdict": "Light advertising"
  },
+ "emmau680.driveraudiencej2zeu49.sbs": {
+  "ad_domains": 11,
+  "ad_requests": 22,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.5,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "15981513.fls.doubleclick.net",
+   "ad.doubleclick.net",
+   "adservice.google.com",
+   "googleads.g.doubleclick.net",
+   "insight.adsrvr.org",
+   "js.adsrvr.org",
+   "match.adsrvr.org",
+   "pixel.rubiconproject.com",
+   "simage2.pubmatic.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 51734,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 42.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Where Winds Meet | Official Website",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 3,
+  "url": "https://emmau680.driveraudiencej2zeu49.sbs/",
+  "verdict": "Very heavy advertising"
+ },
  "emnexmovies.tech": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67072,6 +67863,64 @@
   "url": "https://fbrushes.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "fbstream.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3752,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "THIS DOMAIN HAS BEEN SEIZED",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://fbstream.cc/",
+  "verdict": "Effectively ad-free"
+ },
+ "fcast.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 287,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FCast",
+  "topics": [
+   "Smart TV"
+  ],
+  "trackers": 0,
+  "url": "https://fcast.org/",
+  "verdict": "Effectively ad-free"
+ },
  "fcpic.nesbbs.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -67387,6 +68236,35 @@
   "trackers": 5,
   "url": "https://fern.best/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "ferrolho.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 84,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Magnet Player | Stream torrents in your browser",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://ferrolho.github.io/magnet-player/",
+  "verdict": "Effectively ad-free"
  },
  "feudalwars.net": {
   "ad_domains": 3,
@@ -70348,7 +71226,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70992,7 +71870,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 57.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -71054,7 +71932,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -71738,7 +72616,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -74779,7 +75657,7 @@
   "ad_requests": 107,
   "ad_slots": 4,
   "ad_weight_pct": 62.2,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -76037,7 +76915,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 24.7,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -76204,6 +77082,38 @@
   "trackers": 1,
   "url": "https://freetts.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "freetvz.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2225,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FreeTVz: Ad-Free YouTube TV Alternative | Create Custom Channels",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://freetvz.com/",
+  "verdict": "Very clean"
  },
  "freewebnovel.com": {
   "ad_domains": 1,
@@ -81070,7 +81980,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -82797,7 +83707,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 88.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -84326,6 +85236,38 @@
   "url": "https://gpop.io/",
   "verdict": "Light advertising"
  },
+ "gptsubtitler.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 99.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 190,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AI Subtitle Translator & Audio Transcriber | GPT Subtitler",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 2,
+  "url": "https://gptsubtitler.com/",
+  "verdict": "Light advertising"
+ },
  "gpx.studio": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -85280,7 +86222,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -86363,6 +87305,35 @@
   ],
   "trackers": 0,
   "url": "https://guyinatuxedo.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "guzes.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1686,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://guzes.surge.sh/",
   "verdict": "Effectively ad-free"
  },
  "gwern.net": {
@@ -89534,7 +90505,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91587,7 +92558,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -92431,6 +93402,35 @@
   "title": "Hugging Face \u2013 The AI community building the future.",
   "trackers": 0,
   "url": "https://huggingface.co/",
+  "verdict": "Effectively ad-free"
+ },
+ "huhu.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2321,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "huhu.to",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://huhu.to/",
   "verdict": "Effectively ad-free"
  },
  "human.biodigital.com": {
@@ -93574,6 +94574,35 @@
   "url": "https://iailab.kaist.ac.kr/teaching/deep-learning",
   "verdict": "Effectively ad-free"
  },
+ "iamscum.wordpress.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Checking your browser...",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://iamscum.wordpress.com/guides/",
+  "verdict": "Effectively ad-free"
+ },
  "iamsober.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -94226,7 +95255,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 22.7,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -94258,7 +95287,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -94289,7 +95318,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94318,7 +95347,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -94347,7 +95376,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94376,7 +95405,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94405,7 +95434,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94462,7 +95491,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -94491,7 +95520,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 9.5,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -94522,7 +95551,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://icons-for-free.com/\", waiting until \"domconten",
   "fails": 1,
   "grade": "A+",
@@ -94606,7 +95635,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 61.3,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -95065,6 +96094,37 @@
   "trackers": 0,
   "url": "https://ifdb.org/",
   "verdict": "Effectively ad-free"
+ },
+ "ifiarchiveplayer.ie": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.3,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 13819,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - IFI Archive Player",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 4,
+  "url": "https://ifiarchiveplayer.ie/",
+  "verdict": "Very clean"
  },
  "ifwizz.de": {
   "ad_domains": 0,
@@ -95792,6 +96852,35 @@
   "url": "https://images-of-elements.com/",
   "verdict": "Very heavy advertising"
  },
+ "images.defence.gov.au": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1476,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Defence Imagery: Home Page",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://images.defence.gov.au/assets/",
+  "verdict": "Effectively ad-free"
+ },
  "images.nasa.gov": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -96085,6 +97174,38 @@
   "trackers": 0,
   "url": "https://impossiblelevels.com/",
   "verdict": "Very clean"
+ },
+ "imsdb.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 48.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 432,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Internet Movie Script Database (IMSDb)",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 1,
+  "url": "https://imsdb.com/",
+  "verdict": "Light advertising"
  },
  "imslp.org": {
   "ad_domains": 7,
@@ -101871,7 +102992,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -103853,6 +104974,35 @@
   "url": "https://kazora.cc/",
   "verdict": "Very clean"
  },
+ "kcnawatch.us": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5468,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Latest articles from North Korea | KCNA Watch",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://kcnawatch.us/korea-central-tv-livestream",
+  "verdict": "Effectively ad-free"
+ },
  "kdeconnect.kde.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -104721,6 +105871,48 @@
   "trackers": 0,
   "url": "https://kidpix.app/",
   "verdict": "Effectively ad-free"
+ },
+ "kids-in-mind.com": {
+  "ad_domains": 47,
+  "ad_requests": 123,
+  "ad_slots": 1,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "3fa2da675083d8e905e70f1c8a1e0d73.safeframe.googlesyndication.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.adform.net",
+   "cm.g.doubleclick.net",
+   "cs.media.net",
+   "dis.criteo.com"
+  ],
+  "ok": true,
+  "page_kb": 11270,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 33.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kids-In-Mind.com | Parents' Movie Guide, Ratings and Reviews",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 4,
+  "url": "https://kids-in-mind.com/",
+  "verdict": "Very heavy advertising"
  },
  "kikivoice.ai": {
   "ad_domains": 1,
@@ -105635,6 +106827,101 @@
   "url": "https://kisskh.dk/",
   "verdict": "Effectively ad-free"
  },
+ "kisskh.fr": {
+  "ad_domains": 1,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1652,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 86.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KissKh | Watch Asian Dramas - Movies and Shows in HD Quality.",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://kisskh.fr/",
+  "verdict": "Very clean"
+ },
+ "kisskh.id": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5790,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 88.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "kisskh | Asian Dramas & Movies",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://kisskh.id/",
+  "verdict": "Very clean"
+ },
+ "kisskh.is": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5790,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 88.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "kisskh | Asian Dramas & Movies",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://kisskh.is/",
+  "verdict": "Very clean"
+ },
  "kisskh.ovh": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -105665,6 +106952,37 @@
   ],
   "trackers": 2,
   "url": "https://kisskh.ovh/",
+  "verdict": "Very clean"
+ },
+ "kisskh.red": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1557,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KissKH | Watch Asian Dramas, Movies & K-Dramas Online",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://kisskh.red/",
   "verdict": "Very clean"
  },
  "kisslauncher.com": {
@@ -109040,7 +110358,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112047,6 +113365,35 @@
   ],
   "trackers": 0,
   "url": "https://libregamewiki.org/List_of_games",
+  "verdict": "Effectively ad-free"
+ },
+ "libremdb.iket.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Search | libremdb",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://libremdb.iket.me",
   "verdict": "Effectively ad-free"
  },
  "librepcb.org": {
@@ -115951,6 +117298,35 @@
   "url": "https://localpicks.org/",
   "verdict": "Effectively ad-free"
  },
+ "locatarr.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 54,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Locatarr | Locating *Arr services and aggregating them into a single list. Thus, Locatarr.",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://locatarr.github.io/",
+  "verdict": "Effectively ad-free"
+ },
  "locomalito.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -116689,7 +118065,7 @@
   "ad_requests": 1,
   "ad_slots": 2,
   "ad_weight_pct": 4.7,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -116780,7 +118156,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -117578,7 +118954,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -117607,7 +118983,7 @@
   "ad_requests": 2,
   "ad_slots": 2,
   "ad_weight_pct": 0.5,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -118627,7 +120003,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -122603,7 +123979,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 26.8,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -127951,6 +129327,35 @@
   "url": "https://miroppb.com/",
   "verdict": "Effectively ad-free"
  },
+ "miru.js.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 216,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Miru",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://miru.js.org/en/",
+  "verdict": "Effectively ad-free"
+ },
  "miruro.bz": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -130810,7 +132215,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 79.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -131186,6 +132591,35 @@
   "url": "https://moviescountdown.com/",
   "verdict": "Light advertising"
  },
+ "moviesfoundonline.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://moviesfoundonline.com/\", waiting until \"domcon",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 917,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Video Dictionary",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://moviesfoundonline.com/",
+  "verdict": "Effectively ad-free"
+ },
  "moviesleech.bar": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -131277,6 +132711,35 @@
   "trackers": 2,
   "url": "https://movietomovie.com/",
   "verdict": "Light advertising"
+ },
+ "movingimage.nls.uk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 33,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Human Verification",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://movingimage.nls.uk/",
+  "verdict": "Effectively ad-free"
  },
  "movio.club": {
   "ad_domains": 0,
@@ -134785,6 +136248,35 @@
   "url": "https://myself-bbs.com/",
   "verdict": "Moderate advertising"
  },
+ "mysoccerpulse.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 34,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Security Verification",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://mysoccerpulse.com/",
+  "verdict": "Effectively ad-free"
+ },
  "mythology.net": {
   "ad_domains": 5,
   "ad_requests": 25,
@@ -136027,7 +137519,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -136543,7 +138035,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.6,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -137386,7 +138878,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -137409,6 +138901,38 @@
   "trackers": 0,
   "url": "https://next-box.su/",
   "verdict": "Effectively ad-free"
+ },
+ "next-episode.net": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 27.5,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 616,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Track the TV shows, episodes and movies you watch - Next Episode",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 1,
+  "url": "https://next-episode.net/",
+  "verdict": "Light advertising"
  },
  "nextbox.uno": {
   "ad_domains": 0,
@@ -137624,7 +139148,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -137647,6 +139171,37 @@
   "trackers": 0,
   "url": "https://nextwork.cc/",
   "verdict": "Effectively ad-free"
+ },
+ "nfl-replays.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4319,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NFL Full Game Replays Free",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 1,
+  "url": "https://nfl-replays.com/",
+  "verdict": "Very clean"
  },
  "nfl-video.com": {
   "ad_domains": 0,
@@ -138157,6 +139712,35 @@
   "url": "https://nikgapps.com/",
   "verdict": "Effectively ad-free"
  },
+ "nilaoda.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 215,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u7b80\u4ecb \u00b7 N_m3u8DL-CLI\u6587\u6863",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://nilaoda.github.io/N_m3u8DL-CLI/",
+  "verdict": "Effectively ad-free"
+ },
  "nilch.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -138584,7 +140168,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 66.5,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -139179,7 +140763,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 67.3,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -140975,6 +142559,35 @@
   "trackers": 2,
   "url": "https://nuit-blanche.ch/",
   "verdict": "Light advertising"
+ },
+ "nukkard.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5657,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nukkard: Watch Public Domain Classics for Free",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://nukkard.com/",
+  "verdict": "Effectively ad-free"
  },
  "nullcpy.github.io": {
   "ad_domains": 0,
@@ -143002,6 +144615,35 @@
   "url": "https://oh.taigi.info/",
   "verdict": "Very clean"
  },
+ "oha.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2321,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "oha.to",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://oha.to/",
+  "verdict": "Effectively ad-free"
+ },
  "ohmygit.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -143696,6 +145338,37 @@
   "trackers": 0,
   "url": "https://ollama.com/",
   "verdict": "Effectively ad-free"
+ },
+ "olympicstreams.im": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 70.4,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 220,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Olympic Live Sport Stream Online - All Sports HD Streams | OlympicStreams",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 1,
+  "url": "https://olympicstreams.im/",
+  "verdict": "Light advertising"
  },
  "omega.gg": {
   "ad_domains": 0,
@@ -144808,7 +146481,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153720,7 +155393,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 79.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -154447,7 +156120,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -155279,6 +156952,35 @@
   "trackers": 6,
   "url": "https://pitchfork.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "pitsport.live": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 46,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PitSport",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://pitsport.live/",
+  "verdict": "Effectively ad-free"
  },
  "pivpn.io": {
   "ad_domains": 0,
@@ -159620,7 +161322,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -163376,7 +165078,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 20.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -163784,6 +165486,40 @@
   ],
   "trackers": 1,
   "url": "https://publicdnsserver.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "publicdomainmovie.net": {
+  "ad_domains": 4,
+  "ad_requests": 55,
+  "ad_slots": 4,
+  "ad_weight_pct": 56.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2130,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 22.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Public Domain Movies |",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://publicdomainmovie.net/",
   "verdict": "Ad-saturated / hostile"
  },
  "publicdomainrecipes.com": {
@@ -164594,6 +166330,37 @@
   "trackers": 0,
   "url": "https://pythondiscord.com/resources/",
   "verdict": "Effectively ad-free"
+ },
+ "pytranscriber.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1826,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "pyTranscriber",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 1,
+  "url": "https://pytranscriber.github.io/",
+  "verdict": "Very clean"
  },
  "pyx-1.pretendyoure.xyz": {
   "ad_domains": 1,
@@ -169909,7 +171676,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -170268,7 +172035,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 8.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -172391,6 +174158,37 @@
   "url": "https://revisionscience.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "revoldiv.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 77638,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Revoldiv",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 1,
+  "url": "https://revoldiv.com/",
+  "verdict": "Very clean"
+ },
  "rexdl.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -173298,7 +175096,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -173566,6 +175364,35 @@
   "url": "https://rlsbb.to/",
   "verdict": "Light advertising"
  },
+ "rlsdb.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "503 Service Unavailable",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://rlsdb.com/",
+  "verdict": "Effectively ad-free"
+ },
  "rlsxtvt.icu": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -173651,6 +175478,68 @@
   ],
   "trackers": 0,
   "url": "https://rmpc.mierak.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "rmz.cr": {
+  "ad_domains": 3,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "pxdrop.lijit.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 3261,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 77.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RapidMoviez",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 5,
+  "url": "https://rmz.cr/",
+  "verdict": "Light advertising"
+ },
+ "rmzmirrors.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 64,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RapidMoviez Mirrors - RapidMoviez Mirrors",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://rmzmirrors.com/",
   "verdict": "Effectively ad-free"
  },
  "rncalation.online": {
@@ -174981,7 +176870,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -179007,6 +180896,35 @@
   "url": "https://scolary.com/",
   "verdict": "Effectively ad-free"
  },
+ "score808hd.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 281,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Score808 - Score 808 Live TV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://score808hd.tv/",
+  "verdict": "Effectively ad-free"
+ },
  "scoreascore.com": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -179699,6 +181617,39 @@
   "url": "https://scriptcat.org/",
   "verdict": "Light advertising"
  },
+ "scripts-onscreen.com": {
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 637,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 63.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scripts on Screen",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 1,
+  "url": "https://scripts-onscreen.com/",
+  "verdict": "Moderate advertising"
+ },
  "scrobblerad.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -179733,7 +181684,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 47.8,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -179992,6 +181943,37 @@
   "trackers": 0,
   "url": "https://search-22.com/recipe-search-tools",
   "verdict": "Effectively ad-free"
+ },
+ "search-ace.stream": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 76.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 220,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ace Stream Broadcast Search - Find Content IDs",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 1,
+  "url": "https://search-ace.stream/",
+  "verdict": "Light advertising"
  },
  "search.brave.com": {
   "ad_domains": 0,
@@ -181721,6 +183703,35 @@
   "trackers": 2,
   "url": "https://seriesperu.com/",
   "verdict": "Light advertising"
+ },
+ "seriesvault.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://seriesvault.org/",
+  "verdict": "Effectively ad-free"
  },
  "seriesvault.win": {
   "ad_domains": 0,
@@ -184235,7 +186246,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186112,7 +188123,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 22.2,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -188468,6 +190479,35 @@
   ],
   "trackers": 0,
   "url": "https://sorz.github.io/asstosrt-wasm/",
+  "verdict": "Effectively ad-free"
+ },
+ "sotproxy.ext.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SportOnTV Proxy List",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://sotproxy.ext.io",
   "verdict": "Effectively ad-free"
  },
  "sound-effects.bbcrewind.co.uk": {
@@ -190976,6 +193016,35 @@
   "url": "https://sportsindx.st/",
   "verdict": "Effectively ad-free"
  },
+ "sportsurge.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 265,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sportsurge - Simple Guide to Streaming Sports Online",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "http://sportsurge.st/",
+  "verdict": "Effectively ad-free"
+ },
  "spot-transfer.vercel.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -192723,6 +194792,37 @@
   "url": "https://stattrek.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "status.animaxanime.dpdns.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.1,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 217,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 95.5,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "AnimaxAnime",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://status.animaxanime.dpdns.org/",
+  "verdict": "Effectively ad-free"
+ },
  "status.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -193924,6 +196024,93 @@
   "url": "https://streamcloud.my",
   "verdict": "Effectively ad-free"
  },
+ "streamcorner.cloud": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 106728,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamCorner - Free Live Sports, 24/7 Channels, MLB, NFL, SOCCER, UFC, PPV Events, NBA Lea",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streamcorner.cloud/",
+  "verdict": "Effectively ad-free"
+ },
+ "streamcorner.foo": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 117272,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamCorner - Free Live Sports, 24/7 Channels, MLB, NFL, SOCCER, UFC, PPV Events, NBA Lea",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streamcorner.foo/",
+  "verdict": "Effectively ad-free"
+ },
+ "streamcorner.fun": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 114472,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamCorner - Free Live Sports, 24/7 Channels, MLB, NFL, SOCCER, UFC, PPV Events, NBA Lea",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streamcorner.fun/",
+  "verdict": "Effectively ad-free"
+ },
  "streamcorner.st": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -193980,6 +196167,35 @@
   ],
   "trackers": 0,
   "url": "https://streameast.ga/",
+  "verdict": "Effectively ad-free"
+ },
+ "streameast.ph": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4095,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamEast \u2014 Watch Free Live Sports Streams Online",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streameast.ph/",
   "verdict": "Effectively ad-free"
  },
  "streamed.pk": {
@@ -194073,7 +196289,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -194337,6 +196553,64 @@
   "url": "https://streamkiste.taxi/",
   "verdict": "Effectively ad-free"
  },
+ "streamninja.cloud": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://streamninja.cloud/\nCall log:\n  - navigating to \"https://streamninja.clo",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "offline",
+  "sticky_ads": 0,
+  "title": "StreamCorner",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streamninja.cloud/",
+  "verdict": "Effectively ad-free"
+ },
+ "streamninja.fun": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://streamninja.fun/\nCall log:\n  - navigating to \"https://streamninja.fun/\"",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "offline",
+  "sticky_ads": 0,
+  "title": "StreamCorner",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://streamninja.fun/",
+  "verdict": "Effectively ad-free"
+ },
  "streamo.pro": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -194487,6 +196761,37 @@
   "url": "https://streamsports99.website/",
   "verdict": "Light advertising"
  },
+ "streamtim.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 69.6,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 222,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 79.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamTim",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 3,
+  "url": "https://streamtim.com/",
+  "verdict": "Light advertising"
+ },
  "streamurl.link": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -194581,7 +196886,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -195279,7 +197584,7 @@
   "ad_requests": 75,
   "ad_slots": 8,
   "ad_weight_pct": 47.8,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -195618,6 +197923,42 @@
   "url": "https://sub.wyzie.ru/",
   "verdict": "Effectively ad-free"
  },
+ "subconverter.com": {
+  "ad_domains": 6,
+  "ad_requests": 72,
+  "ad_slots": 6,
+  "ad_weight_pct": 71.5,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1471,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 1.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Free Subtitle Converter - Convert SRT, SUB/IDX, VTT & More | Subconverter",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 1,
+  "url": "https://subconverter.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "subdl.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -195675,6 +198016,35 @@
   ],
   "trackers": 0,
   "url": "https://subfactory.fr/",
+  "verdict": "Effectively ad-free"
+ },
+ "subliminal.readthedocs.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 508,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome to subliminal! \u2014 subliminal 2.2.0 documentation",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://subliminal.readthedocs.io/",
   "verdict": "Effectively ad-free"
  },
  "subs.ro": {
@@ -196011,6 +198381,39 @@
   "url": "https://subtitld.org/",
   "verdict": "Light advertising"
  },
+ "subtitleone.cc": {
+  "ad_domains": 3,
+  "ad_requests": 13,
+  "ad_slots": 1,
+  "ad_weight_pct": 17.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "adservice.google.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1838,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 57.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SubtitleOne.cc - Free Online Subtitle Converter, Editor & Translator",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://subtitleone.cc/",
+  "verdict": "Heavy advertising"
+ },
  "subtitles.ajatt.top": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -196038,6 +198441,35 @@
   ],
   "trackers": 0,
   "url": "https://subtitles.ajatt.top/",
+  "verdict": "Effectively ad-free"
+ },
+ "subtitletools.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 329,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Subtitle Tools - Online tools to fix your subtitles",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://subtitletools.com/",
   "verdict": "Effectively ad-free"
  },
  "subtitlist.com": {
@@ -197123,7 +199555,7 @@
   "ad_requests": 29,
   "ad_slots": 2,
   "ad_weight_pct": 77.8,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -198089,7 +200521,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -198181,7 +200613,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -199156,6 +201588,93 @@
   "url": "https://tap4sport.bz/",
   "verdict": "Effectively ad-free"
  },
+ "tap4sport.ci": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tap4sport.ci/",
+  "verdict": "Effectively ad-free"
+ },
+ "tap4sport.link": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "http://tap4sport.link/",
+  "verdict": "Effectively ad-free"
+ },
+ "tap4sport.pw": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tap4sport.pw/",
+  "verdict": "Effectively ad-free"
+ },
  "tap4sport.st": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -199596,6 +202115,35 @@
   "url": "https://tavernai.net/",
   "verdict": "Effectively ad-free"
  },
+ "tbeezy.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6760,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Welcome to ynoTV | ynoTV Docs",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tbeezy.github.io/ynotvdoc/",
+  "verdict": "Effectively ad-free"
+ },
  "tblock.me": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -199834,6 +202382,35 @@
   "trackers": 0,
   "url": "https://teamforeveronline.wixsite.com/home",
   "verdict": "Light advertising"
+ },
+ "teamup.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 174,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Dubs Release Calendar | Teamup",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://teamup.com/ksdhpfjcouprnauwda",
+  "verdict": "Effectively ad-free"
  },
  "teamwood.itch.io": {
   "ad_domains": 1,
@@ -201817,6 +204394,35 @@
   "url": "https://tfpdl.se/category/movies/",
   "verdict": "Light advertising"
  },
+ "tfpdl.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 645,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TFPDL",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://tfpdl.to/category/movies/",
+  "verdict": "Effectively ad-free"
+ },
  "tftcentral.co.uk": {
   "ad_domains": 2,
   "ad_requests": 3,
@@ -203369,7 +205975,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -204744,6 +207350,37 @@
   "trackers": 4,
   "url": "https://theuselessweb.site/",
   "verdict": "Effectively ad-free"
+ },
+ "thewh1teagle.github.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 34.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 481,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vibe - Local Audio & Video Transcription App",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 1,
+  "url": "https://thewh1teagle.github.io/vibe/",
+  "verdict": "Light advertising"
  },
  "thewhitenoisemachine.com": {
   "ad_domains": 1,
@@ -207385,7 +210022,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -209897,6 +212534,70 @@
   "url": "https://translatedlabs.com/",
   "verdict": "Light advertising"
  },
+ "translatesubtitles.co": {
+  "ad_domains": 3,
+  "ad_requests": 10,
+  "ad_slots": 1,
+  "ad_weight_pct": 60.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 871,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 55.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Translate Subtitles FREE online Subtitles Translator",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 2,
+  "url": "https://translatesubtitles.co/",
+  "verdict": "Heavy advertising"
+ },
+ "translatesubtitles.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 1,
+  "ad_weight_pct": 29.3,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 975,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 73.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Online Subtitle Translator - Translate SRT, VTT, ASS, SUB, SBV & STL",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 2,
+  "url": "https://translatesubtitles.com/",
+  "verdict": "Light advertising"
+ },
  "translator.bookfere.com": {
   "ad_domains": 3,
   "ad_requests": 3,
@@ -211942,6 +214643,35 @@
   "url": "https://tuoverse.com/",
   "verdict": "Very clean"
  },
+ "turboscribe.ai": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 402,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TurboScribe: Transcribe Audio and Video to Text",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://turboscribe.ai/",
+  "verdict": "Effectively ad-free"
+ },
  "turbowarp.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -212591,6 +215321,35 @@
   "url": "https://tv360.vn/",
   "verdict": "Moderate advertising"
  },
+ "tvalt.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1687,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tvalt.surge.sh/",
+  "verdict": "Effectively ad-free"
+ },
  "tvapp.ws": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -212792,6 +215551,64 @@
   "url": "https://tvexplorer.live/",
   "verdict": "Very clean"
  },
+ "tvforfree.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1686,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tvforfree.surge.sh/",
+  "verdict": "Effectively ad-free"
+ },
+ "tvfree.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1690,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tvfree.surge.sh/",
+  "verdict": "Effectively ad-free"
+ },
  "tvfreedom.surge.sh": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -212819,6 +215636,93 @@
   ],
   "trackers": 0,
   "url": "https://tvfreedom.surge.sh/",
+  "verdict": "Effectively ad-free"
+ },
+ "tvhub.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1690,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tvhub.surge.sh/",
+  "verdict": "Effectively ad-free"
+ },
+ "tvids.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://tvids.me/",
+  "verdict": "Effectively ad-free"
+ },
+ "tvmirror.surge.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1685,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVFreedom - guzesqdro",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://tvmirror.surge.sh/",
   "verdict": "Effectively ad-free"
  },
  "tvnow.st": {
@@ -214080,7 +216984,7 @@
   "ad_requests": 73,
   "ad_slots": 8,
   "ad_weight_pct": 57.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -214119,7 +217023,7 @@
   "ad_requests": 35,
   "ad_slots": 2,
   "ad_weight_pct": 53.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -214710,6 +217614,35 @@
   "url": "https://ultraabox.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "unanimated.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Fansub Guides",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://unanimated.github.io/guides.htm",
+  "verdict": "Effectively ad-free"
+ },
  "unapothecary.neocities.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -215182,6 +218115,37 @@
   "trackers": 0,
   "url": "https://unocss.dev/",
   "verdict": "Effectively ad-free"
+ },
+ "unogs.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1615,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 82.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "What's on Netflix",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://unogs.com/",
+  "verdict": "Light advertising"
  },
  "unpackerr.zip": {
   "ad_domains": 0,
@@ -216677,6 +219641,35 @@
   "url": "https://v.qq.com/",
   "verdict": "Effectively ad-free"
  },
+ "v2.gostreameast.link": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 239,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Streameast Official Mirror List (Updated August 2026) - Access Live Sports Streams",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://v2.gostreameast.link/",
+  "verdict": "Effectively ad-free"
+ },
  "v2.hysteria.network": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -216769,7 +219762,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -217341,6 +220334,35 @@
   ],
   "trackers": 0,
   "url": "https://vaultplayer.co.uk/",
+  "verdict": "Effectively ad-free"
+ },
+ "vavoo.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2264,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "vavoo.to",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://vavoo.to/",
   "verdict": "Effectively ad-free"
  },
  "vcalc.com": {
@@ -218753,7 +221775,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -220189,7 +223211,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -222531,7 +225553,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -222734,6 +225756,42 @@
   "trackers": 0,
   "url": "https://watabou.itch.io/",
   "verdict": "Very clean"
+ },
+ "watch-tvseries.net": {
+  "ad_domains": 6,
+  "ad_requests": 14,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "ib.adnxs.com",
+   "match.adsrvr.org",
+   "pxdrop.lijit.com",
+   "secure.adnxs.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 1696,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 58.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch-TVSeries.NET | Watch TV Series online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 4,
+  "url": "https://watch-tvseries.net/",
+  "verdict": "Moderate advertising"
  },
  "watch-wrestling.eu": {
   "ad_domains": 1,
@@ -225409,7 +228467,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -227451,6 +230509,35 @@
   ],
   "trackers": 0,
   "url": "https://wiki.axekin.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "wiki.bakabt.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 41,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sign up - BakaBT Wiki",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://wiki.bakabt.me/index.php/Sign_up",
   "verdict": "Effectively ad-free"
  },
  "wiki.clonehero.net": {
@@ -230624,6 +233711,35 @@
   "url": "https://worldmonitor.app/",
   "verdict": "Effectively ad-free"
  },
+ "worldnews24.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 33,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ABC (Australia) - World News 24 TV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://worldnews24.tv/",
+  "verdict": "Effectively ad-free"
+ },
  "worldofcardgames.com": {
   "ad_domains": 37,
   "ad_requests": 133,
@@ -231631,7 +234747,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 21.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -237231,6 +240347,35 @@
   ],
   "trackers": 0,
   "url": "https://www.anistation.top/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.anisurge.lol": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ANISURGE - Download the Ultimate Anime Streaming App",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://www.anisurge.lol/",
   "verdict": "Effectively ad-free"
  },
  "www.annualreports.com": {
@@ -245426,7 +248571,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 86.4,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -248928,6 +252073,35 @@
   "url": "https://www.colamanga.com/",
   "verdict": "Light advertising"
  },
+ "www.colonialfilm.org.uk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 404,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 98.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Colonial Film Database | colonialfilm",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 4,
+  "url": "http://www.colonialfilm.org.uk/",
+  "verdict": "Effectively ad-free"
+ },
  "www.colorrush.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -251661,6 +254835,41 @@
   "url": "https://www.dailymotion.com/",
   "verdict": "Light advertising"
  },
+ "www.dailyscript.com": {
+  "ad_domains": 5,
+  "ad_requests": 30,
+  "ad_slots": 1,
+  "ad_weight_pct": 81.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1019,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 33.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Daily Script - Movie Scripts and Movie Screenplays",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.dailyscript.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.damninteresting.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -252459,6 +255668,35 @@
   "trackers": 5,
   "url": "https://www.deezer.com/",
   "verdict": "Light advertising"
+ },
+ "www.defenceimagery.mod.uk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4178,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home Page - Welcome to Defence Imagery, where official Royal Navy, Army, RAF, and Ministry",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://www.defenceimagery.mod.uk/",
+  "verdict": "Effectively ad-free"
  },
  "www.degreeless.design": {
   "ad_domains": 0,
@@ -255404,6 +258642,48 @@
   "trackers": 2,
   "url": "https://www.dupple.com/techpresso",
   "verdict": "Effectively ad-free"
+ },
+ "www.dvdsreleasedates.com": {
+  "ad_domains": 91,
+  "ad_requests": 697,
+  "ad_slots": 3,
+  "ad_weight_pct": 51.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "bidline-us-east.bidswitch.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com"
+  ],
+  "ok": true,
+  "page_kb": 1809,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 15.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DVDs Release Dates - Latest Info on New DVD Releases",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://www.dvdsreleasedates.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.dvidshub.net": {
   "ad_domains": 4,
@@ -259200,7 +262480,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://www.exploremarmaris.com/read/Survival/\", waitin",
   "fails": 1,
   "grade": "A+",
@@ -260702,6 +263982,35 @@
   "url": "https://www.filmmusicsite.com/en/",
   "verdict": "Very heavy advertising"
  },
+ "www.filmportal.de": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 737,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Videos | filmportal.de",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://www.filmportal.de/en/videos",
+  "verdict": "Effectively ad-free"
+ },
  "www.filmpreservation.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -261574,7 +264883,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -261886,7 +265195,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -261972,6 +265281,35 @@
   "trackers": 1,
   "url": "https://www.flippity.net/",
   "verdict": "Heavy advertising"
+ },
+ "www.flixwatch.co": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 464,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://www.flixwatch.co/",
+  "verdict": "Effectively ad-free"
  },
  "www.floobynooby.com": {
   "ad_domains": 2,
@@ -262205,7 +265543,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -263623,6 +266961,38 @@
   "trackers": 0,
   "url": "https://www.freeformradio.directory/",
   "verdict": "Effectively ad-free"
+ },
+ "www.freegreatmovies.com": {
+  "ad_domains": 2,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 35.7,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.freegreatmovies.com/\", waiting until \"domc",
+  "fails": 1,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 1242,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 72.0,
+  "starred": 0,
+  "status": "error",
+  "sticky_ads": 0,
+  "title": "Video Dictionary",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://www.freegreatmovies.com/",
+  "verdict": "Light advertising"
  },
  "www.freeintertv.com": {
   "ad_domains": 0,
@@ -269368,7 +272738,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -269637,6 +273007,48 @@
   ],
   "trackers": 1,
   "url": "https://www.hideip.co/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.highdefdigest.com": {
+  "ad_domains": 38,
+  "ad_requests": 161,
+  "ad_slots": 5,
+  "ad_weight_pct": 52.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "700e21b9ee5ef72d1f8e2231db8c73e5.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "ads.yieldmo.com",
+   "bb.lijit.com",
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cs.media.net",
+   "dis.criteo.com",
+   "dsum-sec.casalemedia.com",
+   "dt.adsafeprotected.com",
+   "eb2.3lift.com"
+  ],
+  "ok": true,
+  "page_kb": 2732,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "4k Movie, Streaming, Blu-Ray Disc, and Home Theater Product Reviews & News | High Def Dige",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 4,
+  "url": "https://www.highdefdigest.com/",
   "verdict": "Ad-saturated / hostile"
  },
  "www.higherlowergame.com": {
@@ -271397,7 +274809,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -271426,7 +274838,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -271455,7 +274867,7 @@
   "ad_requests": 19,
   "ad_slots": 1,
   "ad_weight_pct": 50.1,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -271490,7 +274902,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 23.9,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -279302,6 +282714,40 @@
   "trackers": 2,
   "url": "https://www.livecamcroatia.com/en",
   "verdict": "Very heavy advertising"
+ },
+ "www.livechart.me": {
+  "ad_domains": 4,
+  "ad_requests": 12,
+  "ad_slots": 1,
+  "ad_weight_pct": 61.2,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 933,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 49.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Summer 2026 Anime Chart - Television | LiveChart.me",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://www.livechart.me/",
+  "verdict": "Heavy advertising"
  },
  "www.livecoinwatch.com": {
   "ad_domains": 4,
@@ -288418,7 +291864,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 13.3,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -290363,6 +293809,35 @@
   "url": "https://www.npg.org.uk/collections/",
   "verdict": "Effectively ad-free"
  },
+ "www.npmjs.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 97,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "wyzie-lib - npm",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://www.npmjs.com/package/wyzie-lib",
+  "verdict": "Effectively ad-free"
+ },
  "www.nsaneforums.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -290769,6 +294244,38 @@
   "trackers": 2,
   "url": "https://www.nzdf.mil.nz/media-centre/search-our-libraries/documents/",
   "verdict": "Light advertising"
+ },
+ "www.nzonscreen.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6307,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Showcasing NZ television, film, music video and web series | NZ On Screen",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 4,
+  "url": "https://www.nzonscreen.com/",
+  "verdict": "Very clean"
  },
  "www.oalib.com": {
   "ad_domains": 2,
@@ -291665,7 +295172,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -291757,7 +295264,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -293056,7 +296563,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 7.7,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -299982,6 +303489,48 @@
   "url": "https://www.quiverquant.com/",
   "verdict": "Light advertising"
  },
+ "www.quodb.com": {
+  "ad_domains": 47,
+  "ad_requests": 181,
+  "ad_slots": 4,
+  "ad_weight_pct": 15.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "26be3e09f8fab97f17355d71dcf085a5.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ap.lijit.com",
+   "aqfer.lijit.com",
+   "bcp.crwdcntrl.net",
+   "c1.adform.net",
+   "cdn.lijit.com",
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "dt.adsafeprotected.com"
+  ],
+  "ok": true,
+  "page_kb": 10551,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 15.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "QuoDB | The movie quotes database",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.quodb.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "www.quotegarden.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -301484,7 +305033,7 @@
   "ad_requests": 53,
   "ad_slots": 3,
   "ad_weight_pct": 37.8,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -305735,6 +309284,82 @@
   "url": "https://www.scrible.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.scripts.com": {
+  "ad_domains": 4,
+  "ad_requests": 39,
+  "ad_slots": 10,
+  "ad_weight_pct": 65.3,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1491,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 12.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Scripts.com",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 2,
+  "url": "https://www.scripts.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.scriptslug.com": {
+  "ad_domains": 15,
+  "ad_requests": 27,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cdn.id5-sync.com",
+   "dis.eu.criteo.com",
+   "dsum-sec.casalemedia.com",
+   "ib.adnxs.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "image6.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "pixel.quantserve.com",
+   "pixel.rubiconproject.com"
+  ],
+  "ok": true,
+  "page_kb": 2304,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 39.6,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Script Slug | Screenplays & Screenwriting",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 3,
+  "url": "https://www.scriptslug.com/",
+  "verdict": "Very heavy advertising"
+ },
  "www.seafile.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -307535,6 +311160,46 @@
   "trackers": 1,
   "url": "https://www.simplifyingtheory.com/",
   "verdict": "Light advertising"
+ },
+ "www.simplyscripts.com": {
+  "ad_domains": 10,
+  "ad_requests": 70,
+  "ad_slots": 3,
+  "ad_weight_pct": 64.6,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
+  ],
+  "ok": true,
+  "page_kb": 1653,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 12.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SimplyScripts SimplyScripts | Free screenwriters screenplay resource and discussion board.",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 6,
+  "url": "https://www.simplyscripts.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.simscale.com": {
   "ad_domains": 2,
@@ -311718,7 +315383,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -313271,7 +316936,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -319029,6 +322694,44 @@
   "url": "https://www.tvguessr.garden/",
   "verdict": "Light advertising"
  },
+ "www.tvids.net": {
+  "ad_domains": 8,
+  "ad_requests": 21,
+  "ad_slots": 0,
+  "ad_weight_pct": 14.9,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "cm.g.doubleclick.net",
+   "match.adsrvr.org",
+   "pxdrop.lijit.com",
+   "secure.adnxs.com",
+   "tags.crwdcntrl.net",
+   "us-u.openx.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2016,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 36.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TVids.NET | Watch TV Series online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 5,
+  "url": "https://www.tvids.net/",
+  "verdict": "Very heavy advertising"
+ },
  "www.tvids.to": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -320962,6 +324665,40 @@
   "url": "https://www.vanshnookenraggen.com/_index/category/maps/track-maps/",
   "verdict": "Very clean"
  },
+ "www.veed.io": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6840,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 68.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Auto Subtitle Generator - Free to Start, 99.9% Accurate - VEED",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 8,
+  "url": "https://www.veed.io/tools/auto-subtitle-generator-online",
+  "verdict": "Moderate advertising"
+ },
  "www.ventscape.life": {
   "ad_domains": 3,
   "ad_requests": 7,
@@ -321479,6 +325216,38 @@
   "trackers": 2,
   "url": "https://www.video-tutor.net/",
   "verdict": "Light advertising"
+ },
+ "www.videohelp.com": {
+  "ad_domains": 2,
+  "ad_requests": 11,
+  "ad_slots": 1,
+  "ad_weight_pct": 35.8,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 921,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 57.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MKVcleaver 0.8.0.1 / 0.8.0.2 Download Free - VideoHelp",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://www.videohelp.com/software/MKVcleaver",
+  "verdict": "Heavy advertising"
  },
  "www.videolan.org": {
   "ad_domains": 1,
@@ -323898,6 +327667,35 @@
   ],
   "trackers": 1,
   "url": "https://www.whdload.de/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.whenjumpscare.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 513,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Track All Horror Movie Jumpscare Timestamps | WhenJumpScare",
+  "topics": [
+   "Video Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.whenjumpscare.com/",
   "verdict": "Effectively ad-free"
  },
  "www.whentostream.com": {
@@ -328209,7 +332007,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-29T08:19:49+00:00",
+  "checked_utc": "2026-08-29T08:22:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -329412,6 +333210,66 @@
   "url": "https://yieldfinder.app/",
   "verdict": "Heavy advertising"
  },
+ "yifymovies.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.4,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1756,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 89.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The YIFY Movies Original: Download YTS Unblocked movies torrents from YifyMovies.xyz",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 3,
+  "url": "https://yifymovies.xyz/",
+  "verdict": "Very clean"
+ },
+ "yifystatus.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "YTS YIFY Official Status site",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://yifystatus.com/",
+  "verdict": "Effectively ad-free"
+ },
  "yifysubtitles.ch": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -330394,6 +334252,35 @@
   ],
   "trackers": 0,
   "url": "https://yts.gg/",
+  "verdict": "Effectively ad-free"
+ },
+ "ytsproxies.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-29T08:22:00+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 56,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "YTS YIFY Official Proxies Domains",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://ytsproxies.com/",
   "verdict": "Effectively ad-free"
  },
  "ytsubdl.com": {
