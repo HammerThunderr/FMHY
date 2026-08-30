@@ -3302,13 +3302,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -3537,33 +3537,36 @@
   "verdict": "Effectively ad-free"
  },
  "aboutdiscowithlove.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "ad_weight_pct": 12.2,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2000,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 76.9,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://aboutdiscowithlove.blogspot.com/",
+  "title": "aboutdisco",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://aboutdiscowithlove.blogspot.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "abrahamjuliot.github.io": {
   "ad_domains": 0,
@@ -23048,6 +23051,35 @@
   "url": "https://basenotes.com/",
   "verdict": "Effectively ad-free"
  },
+ "bash.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5504,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "hack the terminal \u00b7 Bash",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://bash.tv/mallory/hack-terminal",
+  "verdict": "Effectively ad-free"
+ },
  "bashly.dev": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -32183,13 +32215,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 10,
+  "page_kb": 4,
   "pages": [
    "Music"
   ],
@@ -39050,6 +39082,37 @@
   "trackers": 0,
   "url": "https://clipbook.app/",
   "verdict": "Effectively ad-free"
+ },
+ "clipzeal.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 85.4,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 195,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ClipZeal \u2013 137 Free Online Video, Audio, Image, GIF & PDF Tools",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://clipzeal.com/",
+  "verdict": "Light advertising"
  },
  "clockify.me": {
   "ad_domains": 2,
@@ -47724,6 +47787,35 @@
   "url": "https://database.ilga.org/",
   "verdict": "Moderate advertising"
  },
+ "database.lichess.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 56,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "lichess.org open database",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 0,
+  "url": "https://database.lichess.org/",
+  "verdict": "Effectively ad-free"
+ },
  "databrokerswatch.org": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -53431,6 +53523,39 @@
   "trackers": 0,
   "url": "https://dizilla.to/",
   "verdict": "Effectively ad-free"
+ },
+ "dizipal1453.com": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.6,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2543,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.7,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Dizipal - Orjinal Dizipal Adresi",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://dizipal1453.com/",
+  "verdict": "Light advertising"
  },
  "dizipal1552.com": {
   "ad_domains": 0,
@@ -61524,13 +61649,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 2,
   "pages": [
    "Music"
   ],
@@ -61553,13 +61678,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 3,
   "pages": [
    "Music"
   ],
@@ -62733,33 +62858,36 @@
   "verdict": "Effectively ad-free"
  },
  "en.metal-tracker.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://en.metal-tracker.com/\", waiting until \"domcont",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 9518,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 87.7,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Metal Tracker",
+  "title": "Metal Download, Rock, Heavy music for free! | Metal Torrent Tracker",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 5,
   "url": "https://en.metal-tracker.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "en.namu.wiki": {
   "ad_domains": 0,
@@ -70625,6 +70753,35 @@
   "url": "https://fishshell.com/",
   "verdict": "Effectively ad-free"
  },
+ "fishystream-app.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1722,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Movies & TV Shows Online | FishyStream",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://fishystream-app.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "fitgirl-repacks.site": {
   "ad_domains": 2,
   "ad_requests": 4,
@@ -73409,13 +73566,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1542,
   "pages": [
    "Music"
   ],
@@ -75507,27 +75664,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "ok": true,
+  "page_kb": 3921,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 98.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://fpftp.blogspot.com/",
+  "title": "F.P.F.T.P.",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://fpftp.blogspot.com/",
   "verdict": "Effectively ad-free"
  },
@@ -78971,13 +79128,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 3,
   "pages": [
    "Music"
   ],
@@ -80240,27 +80397,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://gangster.su/\", waiting until \"domcontentloaded",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 309,
+  "ok": true,
+  "page_kb": 1861,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 97.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Gangster",
+  "title": "Best and rare music download in best quality - Gangster.SU",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 6,
   "url": "https://gangster.su/",
   "verdict": "Effectively ad-free"
  },
@@ -81912,13 +82069,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 8,
+  "page_kb": 6,
   "pages": [
    "Music"
   ],
@@ -82147,13 +82304,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 7,
+  "page_kb": 8,
   "pages": [
    "Music"
   ],
@@ -90539,13 +90696,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 5,
   "pages": [
    "Music"
   ],
@@ -98168,27 +98325,29 @@
   "verdict": "Effectively ad-free"
  },
  "inconstantsol.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2835,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://inconstantsol.blogspot.com/",
+  "title": "inconstant sol",
   "topics": [
    "Music Downloads"
   ],
@@ -109209,13 +109368,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1542,
   "pages": [
    "Music"
   ],
@@ -109499,33 +109658,36 @@
   "verdict": "Effectively ad-free"
  },
  "ktimusic.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 15657,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 82.7,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://ktimusic.blogspot.com/",
+  "title": "KTI FLAC archives",
   "topics": [
    "Music Downloads"
   ],
   "trackers": 0,
   "url": "https://ktimusic.blogspot.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "kuasark.com": {
   "ad_domains": 3,
@@ -135319,27 +135481,29 @@
   "verdict": "Very clean"
  },
  "music-republic-world-traditional.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 3542,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://music-republic-world-traditional.blogspot.com/",
+  "title": "MusicRepublic - World Traditional Music from LPs and Cassettes",
   "topics": [
    "Music Downloads"
   ],
@@ -135880,27 +136044,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://musicrider.org/\", waiting until \"domcontentloa",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 3176,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 99.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Music Rider",
+  "title": "Music Rider\ud83c\udfa7",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://musicrider.org/",
   "verdict": "Effectively ad-free"
  },
@@ -136078,9 +136242,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -139402,13 +139566,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 4,
   "pages": [
    "Music"
   ],
@@ -143412,27 +143576,29 @@
   "verdict": "Effectively ad-free"
  },
  "nuclear-holocaust.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1914,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://nuclear-holocaust.blogspot.com/",
+  "title": "Nuclear Holocaust",
   "topics": [
    "Music Downloads"
   ],
@@ -144909,9 +145075,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -144923,9 +145089,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Obscurify",
+  "title": "Vercel Security Checkpoint",
   "topics": [
    "Trackers & Databases"
   ],
@@ -168611,13 +168777,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1542,
   "pages": [
    "Music"
   ],
@@ -170080,13 +170246,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1541,
   "pages": [
    "Music"
   ],
@@ -172705,6 +172871,35 @@
   "url": "https://record.club/",
   "verdict": "Effectively ad-free"
  },
+ "recroom.network": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3226,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rec Room",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://recroom.network/",
+  "verdict": "Effectively ad-free"
+ },
  "rectangleapp.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -173872,13 +174067,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1542,
   "pages": [
    "Music"
   ],
@@ -183797,13 +183992,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 2,
   "pages": [
    "Music"
   ],
@@ -190185,6 +190380,37 @@
   "url": "https://sofaflix.biz/",
   "verdict": "Light advertising"
  },
+ "sofaflix.shop": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.5,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3750,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 3,
+  "refs": 2,
+  "score": 75.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Telegram: Contact @vel1x0",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 6,
+  "url": "https://sofaflix.shop/",
+  "verdict": "Light advertising"
+ },
  "soft.ac": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -191542,27 +191768,29 @@
   "verdict": "Effectively ad-free"
  },
  "sophiesfloorboard.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "networks": [
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 2129,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://sophiesfloorboard.blogspot.com/",
+  "title": "Sophie's Floorboard",
   "topics": [
    "Music Downloads"
   ],
@@ -207187,24 +207415,24 @@
  },
  "themfire.pro": {
   "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 13.2,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "ad_weight_pct": 13.5,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "Error: Page.evaluate: TypeError: el.getBoundingClientRect is not a function\n    at eval (eval at evaluate (:311:30), <anonymous",
-  "fails": 1,
+  "fails": 2,
   "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": false,
-  "page_kb": 3340,
+  "page_kb": 3270,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.4,
+  "score": 81.2,
   "starred": 0,
   "status": "error",
   "sticky_ads": 0,
@@ -207212,7 +207440,7 @@
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 5,
+  "trackers": 6,
   "url": "https://themfire.pro/",
   "verdict": "Light advertising"
  },
@@ -207252,13 +207480,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://themixingbowl.org/\nCall log:\n  - navigating to \"https://themixingbowl.o",
-  "fails": 1,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 24,
   "pages": [
    "Music"
   ],
@@ -207266,9 +207494,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "offline",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "TheMixingBowl",
+  "title": "themixingbowl.org",
   "topics": [
    "Music Downloads"
   ],
@@ -213817,6 +214045,35 @@
   "url": "https://tramphim2.org/",
   "verdict": "Effectively ad-free"
  },
+ "tramphim4.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3482,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tr\u1ea1m Phim | Xem Phim Online Vietsub, Thuy\u1ebft Minh | Phim M\u1edbi HD",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://tramphim4.org/",
+  "verdict": "Effectively ad-free"
+ },
  "transclinicindex.org.uk": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -215485,13 +215742,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1416,
+  "page_kb": 1542,
   "pages": [
    "Music"
   ],
@@ -220063,13 +220320,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 995,
+  "page_kb": 464,
   "pages": [
    "Music"
   ],
@@ -220079,7 +220336,7 @@
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
-  "title": "Uppbeat \u2022 Human-Made Music & Creative Assets for Everyone",
+  "title": "Vercel Security Checkpoint",
   "topics": [
    "Music Streaming"
   ],
@@ -237602,13 +237859,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 5,
   "pages": [
    "Music"
   ],
@@ -241464,9 +241721,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -266527,33 +266784,37 @@
   "verdict": "Heavy advertising"
  },
  "www.flatblackandclassical.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 3,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 4406,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 86.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.flatblackandclassical.com/",
+  "title": "Flat, Black, and Classical: Indian Classical Music on Vinyl and Cassette",
   "topics": [
    "Music Downloads"
   ],
   "trackers": 0,
   "url": "https://www.flatblackandclassical.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "www.flaticon.com": {
   "ad_domains": 0,
@@ -285624,9 +285885,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -303864,33 +304125,38 @@
   "verdict": "Very clean"
  },
  "www.progrockvintage.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 4,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "ad_weight_pct": 2.6,
+  "checked_utc": "2026-08-30T13:18:17+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5927,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 79.2,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.progrockvintage.com/",
+  "title": "PROGROCKVINTAGE",
   "topics": [
    "Music Downloads"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://www.progrockvintage.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.project44.ca": {
   "ad_domains": 0,
@@ -327318,13 +327584,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 4,
   "pages": [
    "Music"
   ],
@@ -331988,9 +332254,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.xdlab.ru/en/\", waiting until \"domcontentlo",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -334531,13 +334797,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-23T08:03:28+00:00",
+  "checked_utc": "2026-08-30T13:18:17+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 8,
   "pages": [
    "Music"
   ],
