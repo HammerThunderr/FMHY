@@ -14738,6 +14738,35 @@
   "url": "https://app.artificialstudio.ai/tools",
   "verdict": "Light advertising"
  },
+ "app.asbplayer.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 95,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "asbplayer",
+  "topics": [
+   "Subtitles"
+  ],
+  "trackers": 0,
+  "url": "https://app.asbplayer.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "app.atlasobscura.com": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -14768,6 +14797,39 @@
   "trackers": 1,
   "url": "https://app.atlasobscura.com/",
   "verdict": "Light advertising"
+ },
+ "app.chillhop.com": {
+  "ad_domains": 3,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 40364,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 69.9,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Livestream - Chillhop Music",
+  "topics": [
+   "Radio"
+  ],
+  "trackers": 13,
+  "url": "https://app.chillhop.com/",
+  "verdict": "Moderate advertising"
  },
  "app.codility.com": {
   "ad_domains": 0,
@@ -20498,6 +20560,35 @@
   ],
   "trackers": 0,
   "url": "https://augustocampos.net/revista-do-linux/index.html",
+  "verdict": "Effectively ad-free"
+ },
+ "aur.chaotic.cx": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 391,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chaotic-AUR",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://aur.chaotic.cx/",
   "verdict": "Effectively ad-free"
  },
  "auroraeditor.com": {
@@ -26587,6 +26678,37 @@
   ],
   "trackers": 1,
   "url": "https://blindtrainer.com/",
+  "verdict": "Light advertising"
+ },
+ "blitztactics.com": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 19.3,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1478,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 83.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Blitz Tactics",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 2,
+  "url": "https://blitztactics.com/",
   "verdict": "Light advertising"
  },
  "blockchair.com": {
@@ -35544,6 +35666,35 @@
   "url": "https://chesslab.me/",
   "verdict": "Light advertising"
  },
+ "chessmd.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 358,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ChessMD",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://chessmd.org/",
+  "verdict": "Effectively ad-free"
+ },
  "chesstempo.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -41143,6 +41294,48 @@
   "url": "https://comicskingdom.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "comicvine.gamespot.com": {
+  "ad_domains": 40,
+  "ad_requests": 126,
+  "ad_slots": 6,
+  "ad_weight_pct": 45.5,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "3a1508cdd911b14b485e610c86c0c8a5.safeframe.googlesyndication.com",
+   "api.id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "cdn.adsafeprotected.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "dis.criteo.com",
+   "eb2.3lift.com",
+   "esp.rtbhouse.com",
+   "fastlane.rubiconproject.com"
+  ],
+  "ok": true,
+  "page_kb": 3455,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Comic Vine",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://comicvine.gamespot.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "comidoc.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -46713,6 +46906,35 @@
   "trackers": 0,
   "url": "https://daftpunk.cafe/",
   "verdict": "Very clean"
+ },
+ "daichungus.codeberg.page": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 30,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Touhou Linux Guide",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://daichungus.codeberg.page/touhoulinuxguide/",
+  "verdict": "Effectively ad-free"
  },
  "dailyanimelist.web.app": {
   "ad_domains": 0,
@@ -63657,9 +63879,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://english-e-reader.net/\", waiting until \"domcont",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -70561,9 +70783,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://fingertabs.com/\", waiting until \"domcontentloa",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -71042,6 +71264,35 @@
   ],
   "trackers": 0,
   "url": "https://fishystream-app.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "fitgirl-download-link-extractor.vercel.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 500,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Vercel Security Checkpoint",
+  "topics": [
+   "Game Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://fitgirl-download-link-extractor.vercel.app/",
   "verdict": "Effectively ad-free"
  },
  "fitgirl-repacks.site": {
@@ -74986,13 +75237,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 4,
   "pages": [
    "Educational"
   ],
@@ -75280,9 +75531,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -92647,6 +92898,35 @@
   "url": "https://histdoc.net/",
   "verdict": "Effectively ad-free"
  },
+ "hister.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 729,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hister | Your Own Search Engine",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://hister.org/",
+  "verdict": "Effectively ad-free"
+ },
  "histogrammaker.net": {
   "ad_domains": 8,
   "ad_requests": 110,
@@ -105879,6 +106159,35 @@
   "url": "https://kartoons.me/",
   "verdict": "Effectively ad-free"
  },
+ "kashcal.onekash.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 994,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "A private calendar for Android with iCloud and CalDAV sync | KashCal",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://kashcal.onekash.org/",
+  "verdict": "Effectively ad-free"
+ },
  "kasper.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -107690,6 +107999,93 @@
   ],
   "trackers": 0,
   "url": "https://kinoger.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "kinogo.ec": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "503 Service Temporarily Unavailable",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://kinogo.ec/",
+  "verdict": "Effectively ad-free"
+ },
+ "kinogo.luxury": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "503 Service Temporarily Unavailable",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://kinogo.luxury/",
+  "verdict": "Effectively ad-free"
+ },
+ "kinogo2026.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "503 Service Temporarily Unavailable",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://kinogo2026.com/",
   "verdict": "Effectively ad-free"
  },
  "kinoking.cc": {
@@ -112553,9 +112949,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -114431,6 +114827,35 @@
   ],
   "trackers": 0,
   "url": "https://librarysearch.gre.ac.uk/",
+  "verdict": "Effectively ad-free"
+ },
+ "librarytechnology.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "403 - Forbidden: Access is denied.",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://librarytechnology.org/libraries/",
   "verdict": "Effectively ad-free"
  },
  "libre.fm": {
@@ -144196,6 +144621,37 @@
   "url": "https://nukkard.com/",
   "verdict": "Effectively ad-free"
  },
+ "nullbeat.thevolecitor.qzz.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 84,
+  "pages": [
+   "Downloading",
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "NullBeat",
+  "topics": [
+   "Downloads",
+   "Music Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://nullbeat.thevolecitor.qzz.io/",
+  "verdict": "Effectively ad-free"
+ },
  "nullcpy.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -162563,6 +163019,38 @@
   "url": "https://pointercrate.com/demonlist/",
   "verdict": "Effectively ad-free"
  },
+ "pointerpointer.com": {
+  "ad_domains": 2,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 58.8,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 413,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 66.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pointer Pointer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://pointerpointer.com/",
+  "verdict": "Moderate advertising"
+ },
  "poipiku.com": {
   "ad_domains": 5,
   "ad_requests": 17,
@@ -163341,6 +163829,40 @@
   "trackers": 0,
   "url": "https://pona.la/",
   "verdict": "Effectively ad-free"
+ },
+ "ponderclub.co": {
+  "ad_domains": 4,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.4,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3808,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 69.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ponder Club | Thoughtful games for restless minds",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 5,
+  "url": "https://ponderclub.co/",
+  "verdict": "Moderate advertising"
  },
  "poolsuite.net": {
   "ad_domains": 0,
@@ -167916,6 +168438,35 @@
   "trackers": 8,
   "url": "https://pvapins.com/free-numbers",
   "verdict": "Moderate advertising"
+ },
+ "pwmt.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 228,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "pwmt.org",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://pwmt.org/projects/zathura/",
+  "verdict": "Effectively ad-free"
  },
  "pwn.college": {
   "ad_domains": 0,
@@ -181440,36 +181991,43 @@
   "verdict": "Light advertising"
  },
  "sanskritstudio.wordpress.com": {
-  "ad_domains": 2,
-  "ad_requests": 8,
-  "ad_slots": 1,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "ad_domains": 9,
+  "ad_requests": 29,
+  "ad_slots": 3,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "B",
+  "fails": 2,
+  "grade": "F",
   "networks": [
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "config.aps.amazon-adsystem.com",
    "googleads.g.doubleclick.net",
-   "static.doubleclick.net"
+   "gum.criteo.com",
+   "id5-sync.com",
+   "securepubads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "sync.smartadserver.com"
   ],
   "ok": false,
-  "page_kb": 2948,
+  "page_kb": 12721,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 76.0,
+  "score": 18.0,
   "starred": 0,
   "status": "blocked",
-  "sticky_ads": 0,
+  "sticky_ads": 2,
   "title": "Sanskrit Studio | Learn Sanskrit Grammar: Usage, Syntax, Examples!",
   "topics": [
    "Courses"
   ],
   "trackers": 2,
   "url": "https://sanskritstudio.wordpress.com/",
-  "verdict": "Light advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "sanuli.fi": {
   "ad_domains": 0,
@@ -182322,6 +182880,42 @@
   "trackers": 2,
   "url": "https://schizoduckie.github.io/DuckieTV/",
   "verdict": "Very clean"
+ },
+ "schmitztimo.wordpress.com": {
+  "ad_domains": 6,
+  "ad_requests": 8,
+  "ad_slots": 4,
+  "ad_weight_pct": 57.8,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "F",
+  "networks": [
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "securepubads.g.doubleclick.net",
+   "sync.smartadserver.com"
+  ],
+  "ok": false,
+  "page_kb": 65,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 24.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 2,
+  "title": "A Brief Cantonese Manual \u2013 Timo Schmitz",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 2,
+  "url": "https://schmitztimo.wordpress.com/2026/04/07/a-brief-cantonese-manual/",
+  "verdict": "Ad-saturated / hostile"
  },
  "scholar.archive.org": {
   "ad_domains": 0,
@@ -195025,6 +195619,36 @@
   "url": "https://sport.tvp.pl/",
   "verdict": "Very heavy advertising"
  },
+ "sportarr.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4843,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sportarr - Automate Your Sports Library",
+  "topics": [
+   "Live TV & Sports",
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://sportarr.net/",
+  "verdict": "Effectively ad-free"
+ },
  "sportera.fans": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -202686,6 +203310,35 @@
   "url": "https://systeme.io/",
   "verdict": "Moderate advertising"
  },
+ "syzygy-tables.info": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 66,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KvK \u2013 Syzygy endgame tablebases",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://syzygy-tables.info/",
+  "verdict": "Effectively ad-free"
+ },
  "t2linux.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -209624,6 +210277,38 @@
   "trackers": 4,
   "url": "https://theuselessweb.site/",
   "verdict": "Effectively ad-free"
+ },
+ "theweekinchess.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 17.5,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "a1.awin1.com",
+   "www.awin1.com"
+  ],
+  "ok": true,
+  "page_kb": 479,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home | The Week in Chess",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://theweekinchess.com/",
+  "verdict": "Light advertising"
  },
  "thewh1teagle.github.io": {
   "ad_domains": 1,
@@ -221145,9 +221830,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -236969,6 +237654,35 @@
   "url": "https://wryun.github.io/es-shell/",
   "verdict": "Effectively ad-free"
  },
+ "wtako.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 231,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WTAKO Network",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://wtako.net/services/aur-audit",
+  "verdict": "Effectively ad-free"
+ },
  "wtf.deals": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -239797,13 +240511,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 0,
+  "page_kb": 4,
   "pages": [
    "Educational"
   ],
@@ -240745,9 +241459,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -245733,6 +246447,40 @@
   "url": "https://www.az-animex.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.azair.eu": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 3,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "adservice.google.com",
+   "adservice.google.cz",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 307,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 63.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Budget air tickets from low-cost airlines - combine lowcost carriers for optimal routing -",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 4,
+  "url": "https://www.azair.eu/",
+  "verdict": "Moderate advertising"
+ },
  "www.azlyrics.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -250187,9 +250935,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.cambridgeenglish.org/learning-english/\", w",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -251893,27 +252641,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.chem.ucalgary.ca/courses/351/Carey5th/Care",
-  "fails": 1,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "AttributeError: 'list' object has no attribute 'get'",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 2207,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 99.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
   "title": "Video-Tutor",
   "topics": [
    "Science & Maths"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html",
   "verdict": "Effectively ad-free"
  },
@@ -269749,6 +270497,37 @@
   "url": "http://www.freemedicaljournals.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.freemindfulness.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.9,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1397,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 89.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Free Mindfulness Project - Free Resources",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://www.freemindfulness.org/download",
+  "verdict": "Very clean"
+ },
  "www.freeonlinetest.in": {
   "ad_domains": 6,
   "ad_requests": 49,
@@ -280221,33 +281000,38 @@
   "verdict": "Heavy advertising"
  },
  "www.japanesewithanime.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1416,
+  "ad_domains": 4,
+  "ad_requests": 17,
+  "ad_slots": 5,
+  "ad_weight_pct": 45.8,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1128,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 22.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.japanesewithanime.com/",
+  "title": "Japanese with Anime",
   "topics": [
    "Courses"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://www.japanesewithanime.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.jcrocket.com": {
   "ad_domains": 1,
@@ -295735,6 +296519,35 @@
   "url": "https://www.nikse.dk/subtitleedit",
   "verdict": "Effectively ad-free"
  },
+ "www.ninsheetmusic.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.ninsheetmusic.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.nirsoft.net": {
   "ad_domains": 4,
   "ad_requests": 22,
@@ -307874,6 +308687,35 @@
   "url": "https://www.real.discount/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.realinks.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 469,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReaLinks \u2013 A curated collection of REAPER resources",
+  "topics": [
+   "Audio Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.realinks.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.realworkfromanywhere.com": {
   "ad_domains": 6,
   "ad_requests": 112,
@@ -307936,6 +308778,35 @@
   ],
   "trackers": 0,
   "url": "https://www.reaper.fm/",
+  "verdict": "Effectively ad-free"
+ },
+ "www.reapertips.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 861,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Reapertips | Learn all things REAPER DAW",
+  "topics": [
+   "Audio Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.reapertips.com/",
   "verdict": "Effectively ad-free"
  },
  "www.reasoned.org": {
@@ -315987,13 +316858,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 464,
+  "page_kb": 500,
   "pages": [
    "Educational"
   ],
@@ -332417,6 +333288,37 @@
   "url": "https://www.worldtimebuddy.com/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.worseonpurpose.com": {
+  "ad_domains": 1,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 35.0,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1306,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.worseonpurpose.com/",
+  "verdict": "Light advertising"
+ },
  "www.worteldrie.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -338056,33 +338958,36 @@
   "verdict": "Effectively ad-free"
  },
  "zdic.net": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://zdic.net/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 50.4,
+  "checked_utc": "2026-09-02T12:18:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 597,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 68.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Lindict",
+  "title": "\u6c49\u5178",
   "topics": [
    "Courses"
   ],
   "trackers": 0,
   "url": "http://zdic.net/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Moderate advertising"
  },
  "zehfernandes.com": {
   "ad_domains": 0,
@@ -338257,13 +339162,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-26T08:26:47+00:00",
+  "checked_utc": "2026-09-02T12:18:10+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://zenith-raincoat-5cf.notion.site/Refold-Mandari",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 43706,
+  "page_kb": 77696,
   "pages": [
    "Educational"
   ],
