@@ -331,6 +331,37 @@
   "url": "https://120minutes.org/",
   "verdict": "Very clean"
  },
+ "123animehub.cc": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.7,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2091,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "123animehub - Watch Anime Online free Dub and Sub",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://123animehub.cc/",
+  "verdict": "Very clean"
+ },
  "123animes.ru": {
   "ad_domains": 5,
   "ad_requests": 9,
@@ -12493,6 +12524,35 @@
   ],
   "trackers": 0,
   "url": "https://animesuge.cz/",
+  "verdict": "Effectively ad-free"
+ },
+ "animesultra.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 790,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AnimesUltra \u2014 Streaming Anime VF & VOSTFR HD Gratuit",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://animesultra.org/",
   "verdict": "Effectively ad-free"
  },
  "animethemes.moe": {
@@ -28639,13 +28699,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -28699,13 +28759,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 3,
   "pages": [
    "Reading"
   ],
@@ -65534,33 +65594,35 @@
   "verdict": "Effectively ad-free"
  },
  "eric.ed.gov": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
-  "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://eric.ed.gov/\nCall log:\n  - navigating to \"https://eric.ed.gov/\", waiting",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 87.2,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 546,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 76.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Institute of Education Sciences",
+  "title": "ERIC - Education Resources Information Center",
   "topics": [
    "Articles & Docs"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://eric.ed.gov/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "erich-friedman.github.io": {
   "ad_domains": 0,
@@ -67663,9 +67725,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -93411,6 +93473,39 @@
   "url": "https://hianime.ad/",
   "verdict": "Light advertising"
  },
+ "hianimes.ru": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 38.9,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "match.adsrvr.org",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 437,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 68.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "HiAnime - Watch Anime Online Free in HD",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://hianimes.ru/",
+  "verdict": "Moderate advertising"
+ },
  "hiddify.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -96204,6 +96299,37 @@
   "trackers": 0,
   "url": "https://hutstep.github.io/magnet2list/",
   "verdict": "Effectively ad-free"
+ },
+ "hw-museum.cz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.7,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1174,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 88.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hardware museum",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
+  "url": "https://hw-museum.cz/",
+  "verdict": "Very clean"
  },
  "hybrid-analysis.com": {
   "ad_domains": 6,
@@ -111406,6 +111532,35 @@
   "url": "https://kryo.to/",
   "verdict": "Effectively ad-free"
  },
+ "kstream.kdesabiz.workers.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 575,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "kstream",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://kstream.kdesabiz.workers.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "ktimusic.blogspot.com": {
   "ad_domains": 2,
   "ad_requests": 7,
@@ -118359,13 +118514,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 6,
   "pages": [
    "Reading"
   ],
@@ -139526,6 +139681,35 @@
   "url": "https://nakastream.tv/",
   "verdict": "Effectively ad-free"
  },
+ "nakastream.wiki": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 96,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nakastream \u2014 Nouveau domaine",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://nakastream.wiki/",
+  "verdict": "Effectively ad-free"
+ },
  "nakka-rocketry.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -146978,9 +147162,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -150245,13 +150429,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 2,
   "pages": [
    "Reading"
   ],
@@ -155936,13 +156120,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -168021,6 +168205,37 @@
   ],
   "trackers": 0,
   "url": "https://projectignis.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "projectjust.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 62,
+  "pages": [
+   "Misc",
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ProjectJust Official Website | Current Domains & Links",
+  "topics": [
+   "Anime & Specialty",
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://projectjust.xyz/",
   "verdict": "Effectively ad-free"
  },
  "projectlearn.io": {
@@ -252392,13 +252607,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 464,
+  "page_kb": 500,
   "pages": [
    "Reading"
   ],
@@ -253522,13 +253737,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 9,
   "pages": [
    "Reading"
   ],
@@ -255628,9 +255843,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -257485,13 +257700,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -261737,13 +261952,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 3,
   "pages": [
    "Reading"
   ],
@@ -268508,9 +268723,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -286662,9 +286877,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -287185,24 +287400,25 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 1,
   "pages": [
    "Reading"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 3,
   "score": 100.0,
-  "starred": 0,
+  "starred": 1,
   "status": "blocked",
   "sticky_ads": 0,
   "title": "Just a moment...",
   "topics": [
+   "Ebooks",
    "Trackers & Databases"
   ],
   "trackers": 0,
@@ -288110,9 +288326,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -288139,9 +288355,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -291313,9 +291529,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -292236,9 +292452,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -295044,6 +295260,36 @@
   "url": "https://www.movy.bz/",
   "verdict": "Effectively ad-free"
  },
+ "www.movy.sx": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2941,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Movy - Watch Free Movies & TV Shows Online",
+  "topics": [
+   "Movies & TV",
+   "Video Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://www.movy.sx/",
+  "verdict": "Effectively ad-free"
+ },
  "www.mowglii.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -296454,13 +296700,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -302296,9 +302542,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -302312,7 +302558,7 @@
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
-  "title": "The Library of Consciousness",
+  "title": "403 Forbidden",
   "topics": [
    "Ebooks"
   ],
@@ -314819,9 +315065,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-01T06:46:52+00:00",
+  "checked_utc": "2026-09-08T12:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -336219,6 +336465,37 @@
   "trackers": 1,
   "url": "https://www.xgcartoon.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.xiaobaotv.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 10.1,
+  "checked_utc": "2026-09-08T12:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1674,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u5c0f\u5b9d\u5f71\u9662 - \u5728\u7ebf\u89c6\u9891",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 1,
+  "url": "https://www.xiaobaotv.com/",
+  "verdict": "Very clean"
  },
  "www.xrel.to": {
   "ad_domains": 0,
