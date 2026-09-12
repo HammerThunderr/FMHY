@@ -2552,40 +2552,44 @@
   "verdict": "Heavy advertising"
  },
  "5e.tools": {
-  "ad_domains": 83,
-  "ad_requests": 655,
+  "ad_domains": 36,
+  "ad_requests": 60,
   "ad_slots": 1,
-  "ad_weight_pct": 55.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 49.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "acdn.adnxs.com",
+   "199eef49d9f7da4531fab0cb2095021d.safeframe.googlesyndication.com",
    "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
-   "ads.yieldmo.com",
-   "ap.lijit.com",
-   "b1-usw1.outbrain.com",
-   "b1sync.outbrain.com",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net"
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "direct.adsrvr.org",
+   "fastlane.rubiconproject.com",
+   "gum.criteo.com",
+   "htlb.casalemedia.com",
+   "ib.adnxs.com"
   ],
   "ok": true,
-  "page_kb": 3108,
+  "page_kb": 1558,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 24.0,
+  "score": 24.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "5etools",
-  "trackers": 2,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
   "url": "https://5e.tools/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -3556,8 +3560,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 6.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.5,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -3567,16 +3571,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2580,
+  "page_kb": 2980,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 81.9,
+  "score": 82.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Abandonware Games - Old Games and Retrogaming",
+  "topics": [
+   "Games"
+  ],
   "trackers": 3,
   "url": "https://abandonwaregames.net/",
   "verdict": "Light advertising"
@@ -3890,7 +3898,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6287,7 +6295,7 @@
   "ad_requests": 66,
   "ad_slots": 2,
   "ad_weight_pct": 93.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -6902,7 +6910,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7954,30 +7962,30 @@
   "verdict": "Very heavy advertising"
  },
  "allchemy.io": {
-  "ad_domains": 42,
-  "ad_requests": 84,
+  "ad_domains": 35,
+  "ad_requests": 79,
   "ad_slots": 1,
-  "ad_weight_pct": 46.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 77.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "81921a906528a08c5e74a82c7b6e9e92.safeframe.googlesyndication.com",
-   "aa.agkn.com",
+   "3ede9e40b8337c192011ff7f2f4f87bc.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
    "ads.pubmatic.com",
-   "ap.lijit.com",
-   "b1sync.outbrain.com",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
-   "cm-x.mgid.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
+   "dt.adsafeprotected.com",
    "eus.rubiconproject.com",
-   "fastlane.rubiconproject.com"
+   "fastlane.rubiconproject.com",
+   "fw.adsafeprotected.com",
+   "googleads.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1701,
+  "page_kb": 1269,
   "pages": [
    "Gaming"
   ],
@@ -7985,8 +7993,12 @@
   "refs": 2,
   "score": 24.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Allchemy",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 2,
   "url": "https://allchemy.io/",
   "verdict": "Ad-saturated / hostile"
@@ -11066,7 +11078,7 @@
   "ad_requests": 114,
   "ad_slots": 0,
   "ad_weight_pct": 11.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -11142,7 +11154,7 @@
   "ad_requests": 525,
   "ad_slots": 1,
   "ad_weight_pct": 38.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -14033,13 +14045,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9915,
+  "page_kb": 2335,
   "pages": [
    "Gaming"
   ],
@@ -14047,8 +14059,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "AnkerGames - Free Pre-installed PC Games",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://ankergames.net/",
   "verdict": "Effectively ad-free"
@@ -14325,7 +14341,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -16759,7 +16775,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -16875,13 +16891,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 155,
+  "page_kb": 156,
   "pages": [
    "Educational"
   ],
@@ -16889,8 +16905,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Anki - powerful, intelligent flashcards",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://apps.ankiweb.net/",
   "verdict": "Effectively ad-free"
@@ -18542,7 +18562,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18657,30 +18677,30 @@
   "verdict": "Effectively ad-free"
  },
  "armorgames.com": {
-  "ad_domains": 55,
-  "ad_requests": 219,
+  "ad_domains": 59,
+  "ad_requests": 182,
   "ad_slots": 7,
-  "ad_weight_pct": 51.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 49.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "acdn.adnxs.com",
+   "53480c9cae9e2100a1e80ead049906aa.safeframe.googlesyndication.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
+   "c21lg-d.media.net",
    "cdn.id5-sync.com",
-   "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "cm.mgid.com",
    "config.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 3570,
+  "page_kb": 2454,
   "pages": [
    "Gaming"
   ],
@@ -18688,8 +18708,12 @@
   "refs": 2,
   "score": 0.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Play Free Games Online at Armor Games",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://armorgames.com/",
   "verdict": "Ad-saturated / hostile"
@@ -19073,7 +19097,7 @@
   "ad_requests": 2,
   "ad_slots": 6,
   "ad_weight_pct": 52.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -19256,7 +19280,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 26.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -20162,13 +20186,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 297,
+  "page_kb": 2208,
   "pages": [
    "Gaming"
   ],
@@ -20176,8 +20200,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "AstralGames ~ Pre-Installed Games",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://astralgames.net/",
   "verdict": "Effectively ad-free"
@@ -20459,8 +20487,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 4.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 4.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -20468,17 +20496,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3721,
+  "page_kb": 3726,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.3,
+  "score": 89.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Atlas of Economic Complexity",
-  "trackers": 10,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 8,
   "url": "https://atlas.hks.harvard.edu/",
   "verdict": "Very clean"
  },
@@ -22595,7 +22627,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -26310,7 +26342,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 8.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -30682,8 +30714,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 18.5,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 18.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -30693,16 +30725,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1525,
+  "page_kb": 1538,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.8,
+  "score": 74.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home | Brackeys",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 2,
   "url": "https://brackeys.com/",
   "verdict": "Light advertising"
@@ -35449,16 +35485,16 @@
   "verdict": "Very heavy advertising"
  },
  "cemu.cfw.guide": {
-  "ad_domains": 59,
-  "ad_requests": 241,
+  "ad_domains": 66,
+  "ad_requests": 318,
   "ad_slots": 2,
-  "ad_weight_pct": 33.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 31.3,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3197a6b04fdfe1a9da38f8487f509db3.safeframe.googlesyndication.com",
+   "3758386d60bc1b27ad63f5b7d9edcabd.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
@@ -35472,7 +35508,7 @@
    "config.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 4736,
+  "page_kb": 4536,
   "pages": [
    "Gaming"
   ],
@@ -35480,8 +35516,12 @@
   "refs": 2,
   "score": 20.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home | Cemu Guide",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://cemu.cfw.guide/",
   "verdict": "Ad-saturated / hostile"
@@ -36191,7 +36231,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36712,13 +36752,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1554,
+  "page_kb": 1568,
   "pages": [
    "Educational"
   ],
@@ -36726,8 +36766,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Introduction - OWASP Cheat Sheet Series",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://cheatsheetseries.owasp.org/",
   "verdict": "Effectively ad-free"
@@ -36917,7 +36961,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 5.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -38343,7 +38387,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -41273,10 +41317,10 @@
  },
  "clonehero.net": {
   "ad_domains": 3,
-  "ad_requests": 3,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 12.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -41286,16 +41330,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1320,
+  "page_kb": 1333,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.8,
+  "score": 78.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Clone Hero",
+  "topics": [
+   "Games"
+  ],
   "trackers": 1,
   "url": "https://clonehero.net/",
   "verdict": "Light advertising"
@@ -41867,13 +41915,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4214,
+  "page_kb": 4216,
   "pages": [
    "Gaming"
   ],
@@ -41881,8 +41929,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Codenames Online",
+  "topics": [
+   "Tabletop Games"
+  ],
   "trackers": 0,
   "url": "https://codenames.game/",
   "verdict": "Effectively ad-free"
@@ -45147,7 +45199,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.4,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -46731,8 +46783,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 33.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 34.3,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -46740,7 +46792,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 815,
+  "page_kb": 819,
   "pages": [
    "Gaming"
   ],
@@ -46748,8 +46800,12 @@
   "refs": 2,
   "score": 77.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Crosshare - Free Crossword Constructor and Daily Mini Crossword Puzzles",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 3,
   "url": "https://crosshare.org/",
   "verdict": "Light advertising"
@@ -47247,7 +47303,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -47261,8 +47317,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CS RIN Blog \u2014 Write.as",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://csrinstaff.writeas.com/",
   "verdict": "Effectively ad-free"
@@ -47729,10 +47789,10 @@
  },
  "cubedesk.io": {
   "ad_domains": 3,
-  "ad_requests": 3,
+  "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 92.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 92.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -47742,17 +47802,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 158,
+  "page_kb": 160,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.5,
+  "score": 61.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CubeDesk - Rubik's Cube Timer | 1v1 | Trainer",
-  "trackers": 2,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 3,
   "url": "https://cubedesk.io/",
   "verdict": "Moderate advertising"
  },
@@ -49602,7 +49666,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -52488,7 +52552,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -52502,8 +52566,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "EmulatorJS | Demo",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://demo.emulatorjs.org/",
   "verdict": "Effectively ad-free"
@@ -54568,7 +54636,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -58178,7 +58246,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -58833,8 +58901,8 @@
   "ad_domains": 2,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 59.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 61.1,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -58843,7 +58911,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 435,
+  "page_kb": 451,
   "pages": [
    "Gaming"
   ],
@@ -58851,8 +58919,12 @@
   "refs": 2,
   "score": 68.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Dolphin Emulator - Guides",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://dolphin-emu.org/docs/guides/",
   "verdict": "Moderate advertising"
@@ -59612,13 +59684,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4255,
+  "page_kb": 4368,
   "pages": [
    "Gaming"
   ],
@@ -59626,8 +59698,12 @@
   "refs": 2,
   "score": 99.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DOS Zone | DOS games in browser",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 1,
   "url": "https://dos.zone/",
   "verdict": "Effectively ad-free"
@@ -60545,13 +60621,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 10013,
+  "page_kb": 10063,
   "pages": [
    "Educational"
   ],
@@ -60559,8 +60635,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Drawabox | A free, exercise based approach to learning the fundamentals of drawing",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://drawabox.com/",
   "verdict": "Effectively ad-free"
@@ -62057,30 +62137,30 @@
   "verdict": "Effectively ad-free"
  },
  "eaglercraft.com": {
-  "ad_domains": 52,
-  "ad_requests": 200,
-  "ad_slots": 5,
-  "ad_weight_pct": 54.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 58,
+  "ad_requests": 265,
+  "ad_slots": 7,
+  "ad_weight_pct": 35.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "88fa1605a97ff31c8ec0caca746015a9.safeframe.googlesyndication.com",
+   "471e945a65589634905b5fea7d326276.safeframe.googlesyndication.com",
+   "59c14c1f9a332a8413af6a55edaf26db.safeframe.googlesyndication.com",
+   "6d70ad9c0fe52581189c00456c346fdf.safeframe.googlesyndication.com",
+   "7d84b4b25c1194c54554ccc5b120e05a.safeframe.googlesyndication.com",
    "aa.agkn.com",
-   "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "afcf9ae2307c40f7845c270920f1b53d.safeframe.googlesyndication.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
-   "c.amazon-adsystem.com",
-   "cdn.id5-sync.com"
+   "b1sync.outbrain.com"
   ],
   "ok": true,
-  "page_kb": 2430,
+  "page_kb": 6759,
   "pages": [
    "Gaming"
   ],
@@ -62088,8 +62168,12 @@
   "refs": 2,
   "score": 0.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 3,
   "title": "Eaglercraft - Free Open Source Browser Minecraft",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 1,
   "url": "https://eaglercraft.com/",
   "verdict": "Ad-saturated / hostile"
@@ -63382,7 +63466,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -63396,8 +63480,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Eclipse",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://eclipseemu.me/play/",
   "verdict": "Effectively ad-free"
@@ -64570,8 +64658,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 10.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 10.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -64582,16 +64670,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2834,
+  "page_kb": 2866,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.6,
+  "score": 74.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Ekvis - Learn Languages And Geography",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://ekvis.com/",
   "verdict": "Light advertising"
@@ -68938,7 +69030,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -68952,8 +69044,12 @@
   "refs": 2,
   "score": 99.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Excalidraw Whiteboard",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://excalidraw.com/",
   "verdict": "Effectively ad-free"
@@ -73987,7 +74083,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -73996,7 +74092,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 33795,
+  "page_kb": 29761,
   "pages": [
    "Gaming"
   ],
@@ -74004,8 +74100,12 @@
   "refs": 2,
   "score": 88.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "FitGirl Repacks - The ONLY official site for FitGirl Repacks. Every single FG repack insta",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://fitgirl-repacks.site/",
   "verdict": "Very clean"
@@ -74678,7 +74778,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -74687,7 +74787,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 998,
+  "page_kb": 1006,
   "pages": [
    "Gaming"
   ],
@@ -74695,8 +74795,12 @@
   "refs": 2,
   "score": 91.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Flashpoint Archive",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://flashpointarchive.org/",
   "verdict": "Very clean"
@@ -76280,7 +76384,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 2.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -82037,7 +82141,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -82045,7 +82149,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6714,
+  "page_kb": 6748,
   "pages": [
    "Educational"
   ],
@@ -82053,8 +82157,12 @@
   "refs": 2,
   "score": 92.8,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Full stack open",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 3,
   "url": "https://fullstackopen.com/en/",
   "verdict": "Very clean"
@@ -82956,8 +83064,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 51.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 48.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -82966,7 +83074,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 351,
+  "page_kb": 377,
   "pages": [
    "Gaming"
   ],
@@ -82974,8 +83082,12 @@
   "refs": 2,
   "score": 75.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "GAM.ONL \ud83d\udd79\ufe0f Play Retro Games Online",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 1,
   "url": "https://gam.onl/",
   "verdict": "Light advertising"
@@ -83186,13 +83298,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3003,
+  "page_kb": 2591,
   "pages": [
    "Gaming"
   ],
@@ -83200,8 +83312,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free PC Games | GameBounty",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://gamebounty.world/",
   "verdict": "Effectively ad-free"
@@ -83675,18 +83791,15 @@
   "verdict": "Light advertising"
  },
  "gamesfrog.com": {
-  "ad_domains": 8,
-  "ad_requests": 58,
-  "ad_slots": 2,
-  "ad_weight_pct": 2.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 5,
+  "ad_requests": 28,
+  "ad_slots": 1,
+  "ad_weight_pct": 31.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "adx-uswest.adnxs.com",
-   "cdn.adnxs.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
@@ -83694,19 +83807,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 48917,
+  "page_kb": 3308,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 25.3,
+  "score": 30.5,
   "starred": 2,
-  "sticky_ads": 1,
+  "status": "online",
+  "sticky_ads": 0,
   "title": "Play Games Online \u2013 GamesFrog.com",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 9,
   "url": "https://gamesfrog.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "gamesnostalgia.com": {
   "ad_domains": 2,
@@ -85052,7 +85169,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -87583,7 +87700,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -88103,17 +88220,16 @@
  },
  "gn-math.dev": {
   "ad_domains": 20,
-  "ad_requests": 75,
-  "ad_slots": 3,
-  "ad_weight_pct": 3.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_requests": 55,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "2bb6ba71a302199913f82d24f52c5b34.safeframe.googlesyndication.com",
+   "80f6fb4bd855e51e933aac27fbfef07c.safeframe.googlesyndication.com",
    "ad.doubleclick.net",
-   "ap.lijit.com",
    "api.id5-sync.com",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
@@ -88122,22 +88238,27 @@
    "g2.gumgum.com",
    "gum.criteo.com",
    "ib.adnxs.com",
-   "id5-sync.com"
+   "id5-sync.com",
+   "image8.pubmatic.com"
   ],
   "ok": true,
-  "page_kb": 30607,
+  "page_kb": 56139,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 25.0,
-  "starred": 2,
+  "score": 43.0,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "gn-math",
-  "trackers": 6,
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
   "url": "https://gn-math.dev/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "gnucash.org": {
   "ad_domains": 0,
@@ -91003,34 +91124,39 @@
   "verdict": "Light advertising"
  },
  "grubiks.com": {
-  "ad_domains": 4,
-  "ad_requests": 19,
-  "ad_slots": 2,
-  "ad_weight_pct": 42.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 5,
+  "ad_requests": 35,
+  "ad_slots": 3,
+  "ad_weight_pct": 50.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1402,
+  "page_kb": 1803,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 33.0,
+  "score": 23.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Play Online 3D Puzzles, Rubik's Cube Solver and More! - Grubiks",
-  "trackers": 3,
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 4,
   "url": "https://grubiks.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "grubpick.com": {
   "ad_domains": 1,
@@ -95944,7 +96070,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://hi10anime.com/\", waiting until \"domcontentload",
   "fails": 1,
   "grade": "A+",
@@ -96563,7 +96689,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 9.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -96681,13 +96807,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 44,
+  "page_kb": 41,
   "pages": [
    "Gaming"
   ],
@@ -96695,8 +96821,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "HizSearch - Game Search Engine",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://hizsearch.pages.dev/",
   "verdict": "Effectively ad-free"
@@ -98114,7 +98244,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98128,8 +98258,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home Page | hShop",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://hshop.erista.me/",
   "verdict": "Effectively ad-free"
@@ -98873,7 +99007,7 @@
   "ad_requests": 7,
   "ad_slots": 0,
   "ad_weight_pct": 19.7,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -99741,7 +99875,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -99755,8 +99889,12 @@
   "refs": 2,
   "score": 99.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Rubik\u2019s Cube Explorer",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 2,
   "url": "https://iamthecu.be/",
   "verdict": "Effectively ad-free"
@@ -101431,7 +101569,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 5.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -101942,7 +102080,7 @@
   "ad_requests": 40,
   "ad_slots": 3,
   "ad_weight_pct": 69.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -102398,7 +102536,7 @@
   "ad_requests": 16,
   "ad_slots": 1,
   "ad_weight_pct": 16.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -103549,13 +103687,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 49233,
+  "page_kb": 24721,
   "pages": [
    "Educational"
   ],
@@ -103563,8 +103701,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Integrity Index \u2014 Track Money in Politics",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://integrityindex.us/",
   "verdict": "Effectively ad-free"
@@ -105265,7 +105407,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -106384,7 +106526,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -106777,39 +106919,43 @@
   "verdict": "Heavy advertising"
  },
  "javascript.info": {
-  "ad_domains": 37,
-  "ad_requests": 135,
+  "ad_domains": 22,
+  "ad_requests": 62,
   "ad_slots": 0,
-  "ad_weight_pct": 18.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 17.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "07030ba1465b7d44c2315521982beb08.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
    "api.id5-sync.com",
-   "bcp.crwdcntrl.net",
-   "c.amazon-adsystem.com",
    "cm.g.doubleclick.net",
-   "contextual.media.net",
    "cs.media.net",
-   "dis.criteo.com",
-   "dpm.demdex.net",
-   "dsum-sec.casalemedia.com"
+   "fastlane.rubiconproject.com",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "ib.adnxs.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 5149,
+  "page_kb": 4234,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 33.3,
+  "score": 33.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Modern JavaScript Tutorial",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 5,
   "url": "https://javascript.info/",
   "verdict": "Very heavy advertising"
@@ -108731,34 +108877,36 @@
   "verdict": "Effectively ad-free"
  },
  "jperm.net": {
-  "ad_domains": 4,
-  "ad_requests": 31,
-  "ad_slots": 1,
-  "ad_weight_pct": 70.5,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 2,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 57.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "C",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com"
+   "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1244,
+  "page_kb": 680,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 38.0,
+  "score": 62.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "J Perm | Speedcubing Tutorials",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://jperm.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "jpop.xyz": {
   "ad_domains": 0,
@@ -109339,7 +109487,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112044,7 +112192,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -113749,8 +113897,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 49.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 50.5,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -113758,7 +113906,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 335,
+  "page_kb": 343,
   "pages": [
    "Educational"
   ],
@@ -113766,8 +113914,12 @@
   "refs": 2,
   "score": 80.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "How to tie 200+ animated 3D knots | Step-by-step instructions | Knots 3D",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://knots3d.com/",
   "verdict": "Light advertising"
@@ -113932,7 +114084,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -113946,8 +114098,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://koboldplus.club/",
   "verdict": "Effectively ad-free"
@@ -115359,7 +115515,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -115869,7 +116025,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -116078,13 +116234,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 240,
+  "page_kb": 227,
   "pages": [
    "Educational"
   ],
@@ -116092,8 +116248,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LandChad.net",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://landchad.net/",
   "verdict": "Effectively ad-free"
@@ -117458,8 +117618,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 1,
-  "ad_weight_pct": 28.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 28.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -117468,17 +117628,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 559,
+  "page_kb": 563,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.4,
+  "score": 68.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Learn to Code HTML & CSS - Beginner & Advanced",
-  "trackers": 4,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 3,
   "url": "https://learn.shayhowe.com/",
   "verdict": "Moderate advertising"
  },
@@ -117664,13 +117828,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2789,
+  "page_kb": 2945,
   "pages": [
    "Educational"
   ],
@@ -117678,8 +117842,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LEARN GERMAN",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://learngerman.dw.com/en/learn-german/s-9528",
   "verdict": "Effectively ad-free"
@@ -118308,8 +118476,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 11.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -118318,16 +118486,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2799,
+  "page_kb": 3099,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.7,
+  "score": 79.1,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LeetCode - The World's Leading Online Programming Learning Platform",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 7,
   "url": "https://leetcode.com/",
   "verdict": "Light advertising"
@@ -119964,7 +120136,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -121491,8 +121663,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -121500,16 +121672,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2635,
+  "page_kb": 3232,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.0,
+  "score": 92.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LionBot - The Best Discord Productivity Bot | LionBot",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://lionbot.org",
   "verdict": "Very clean"
@@ -123028,7 +123204,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123088,7 +123264,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 59.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -123395,7 +123571,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -125183,7 +125359,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -125421,13 +125597,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 105,
+  "page_kb": 104,
   "pages": [
    "Educational"
   ],
@@ -125435,8 +125611,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Lucas Chess",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://lucaschess.pythonanywhere.com/",
   "verdict": "Effectively ad-free"
@@ -126402,7 +126582,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -129048,7 +129228,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -130695,13 +130875,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 12993,
+  "page_kb": 7429,
   "pages": [
    "Gaming"
   ],
@@ -130709,8 +130889,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Marble Blast Web",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://marbleblast.vaniverse.io/",
   "verdict": "Effectively ad-free"
@@ -136679,7 +136863,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 38.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -138772,22 +138956,28 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://morbidkuriosity.com/\", waiting until \"domconte",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 2835,
+  "ok": false,
+  "page_kb": 41,
   "pages": [
-   "Educational"
+   "Educational",
+   "Misc"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 4,
   "score": 100.0,
-  "starred": 2,
+  "starred": 4,
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Morbid Kuriosity - Something Darker",
+  "title": "MorbidKuriosity",
+  "topics": [
+   "Everything Else",
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://morbidkuriosity.com/",
   "verdict": "Effectively ad-free"
@@ -140310,7 +140500,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -142801,7 +142991,7 @@
   "ad_requests": 102,
   "ad_slots": 5,
   "ad_weight_pct": 12.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -143959,8 +144149,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 63.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 63.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -143968,17 +144158,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 446,
+  "page_kb": 451,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 77.5,
+  "score": 78.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NandGame - Build a computer from scratch.",
-  "trackers": 3,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 2,
   "url": "https://nandgame.com/",
   "verdict": "Light advertising"
  },
@@ -145376,34 +145570,40 @@
   "verdict": "Very clean"
  },
  "netgames.io": {
-  "ad_domains": 7,
-  "ad_requests": 39,
+  "ad_domains": 9,
+  "ad_requests": 32,
   "ad_slots": 1,
-  "ad_weight_pct": 81.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 78.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ag.innovid.com",
-   "ce1cf7ade9b11faae3e01c8ea5f5cec5.safeframe.googlesyndication.com",
+   "3637c814c684be4d5a19dee4cb1c32ea.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
    "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
    "securepubads.g.doubleclick.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1180,
+  "page_kb": 1054,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 27.5,
+  "score": 23.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "netgames.io - Social games for your phone",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 3,
   "url": "https://netgames.io/",
   "verdict": "Ad-saturated / hostile"
@@ -146028,7 +146228,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 88.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -148425,7 +148625,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -148439,8 +148639,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NoPayStation v3",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://nopaystation.com/",
   "verdict": "Effectively ad-free"
@@ -149583,7 +149787,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 13.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -149937,7 +150141,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 45.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -150415,7 +150619,7 @@
   "ad_requests": 141,
   "ad_slots": 8,
   "ad_weight_pct": 65.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -150855,7 +151059,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 19.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -152028,7 +152232,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 16.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -153300,8 +153504,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 66.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 66.5,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -153309,7 +153513,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 432,
+  "page_kb": 441,
   "pages": [
    "Educational"
   ],
@@ -153317,8 +153521,12 @@
   "refs": 2,
   "score": 79.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Omniglot - the encyclopedia of writing systems and languages",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://omniglot.com/",
   "verdict": "Light advertising"
@@ -153509,7 +153717,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153977,13 +154185,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3285,
+  "page_kb": 3344,
   "pages": [
    "Gaming"
   ],
@@ -153991,8 +154199,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Online-Fix - \u0417\u0430\u043f\u0443\u0441\u043a \u0438\u0433\u0440 \u043f\u043e \u0441\u0435\u0442\u0438",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 0,
   "url": "https://online-fix.me/",
   "verdict": "Effectively ad-free"
@@ -154002,7 +154214,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -154016,8 +154228,12 @@
   "refs": 2,
   "score": 99.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Games",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://online-go.com/",
   "verdict": "Effectively ad-free"
@@ -156188,7 +156404,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -156197,7 +156413,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1706,
+  "page_kb": 1714,
   "pages": [
    "Gaming"
   ],
@@ -156205,8 +156421,12 @@
   "refs": 2,
   "score": 91.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "OpenMW",
+  "topics": [
+   "Games"
+  ],
   "trackers": 0,
   "url": "https://openmw.org/",
   "verdict": "Very clean"
@@ -156538,7 +156758,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -156552,8 +156772,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - OpenRCT2",
+  "topics": [
+   "Games"
+  ],
   "trackers": 0,
   "url": "https://openrct2.io/",
   "verdict": "Effectively ad-free"
@@ -156954,13 +157178,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1117,
+  "page_kb": 1351,
   "pages": [
    "Educational"
   ],
@@ -156968,8 +157192,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Open Syllabus",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://opensyllabus.org/",
   "verdict": "Effectively ad-free"
@@ -157200,7 +157428,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -157214,8 +157442,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "OpenVim - Interactive Vim tutorial",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://openvim.com/",
   "verdict": "Effectively ad-free"
@@ -157289,7 +157521,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 3.1,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -158892,7 +159124,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 21.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -160041,36 +160273,46 @@
   "verdict": "Moderate advertising"
  },
  "painting.tube": {
-  "ad_domains": 6,
-  "ad_requests": 9,
+  "ad_domains": 54,
+  "ad_requests": 125,
   "ad_slots": 0,
-  "ad_weight_pct": 42.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 37.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
+   "6aa2f6a5b26206ccb5b87237d9b68524.safeframe.googlesyndication.com",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
+   "c21lg-d.media.net",
    "cdn.id5-sync.com",
-   "id5-sync.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "cm.mgid.com",
+   "contextual.media.net",
+   "cs.media.net",
+   "d9.flashtalking.com",
+   "direct.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 688,
+  "page_kb": 1586,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 50.5,
+  "score": 26.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PaintingTube - Art, Painting & Drawing Videos for Artists",
-  "trackers": 6,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 7,
   "url": "https://painting.tube",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "paintingdemos.com": {
   "ad_domains": 2,
@@ -163011,7 +163253,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -163025,8 +163267,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PirateHive - Your Ultimate Digital Resource Hub",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://phantomcodex9.github.io/piratehive/",
   "verdict": "Effectively ad-free"
@@ -163770,7 +164016,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -163784,8 +164030,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PHP: The Right Way | Reference for PHP best practices",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://phptherightway.com/",
   "verdict": "Effectively ad-free"
@@ -166408,7 +166658,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -166422,8 +166672,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Stanford Encyclopedia of Philosophy",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://plato.stanford.edu/index.html",
   "verdict": "Effectively ad-free"
@@ -166870,7 +167124,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -166884,8 +167138,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "web\u042fcade",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://play.webrcade.com/",
   "verdict": "Effectively ad-free"
@@ -167072,10 +167330,10 @@
  },
  "playclassic.games": {
   "ad_domains": 11,
-  "ad_requests": 34,
+  "ad_requests": 43,
   "ad_slots": 3,
-  "ad_weight_pct": 1.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -167083,26 +167341,30 @@
    "c.amazon-adsystem.com",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "gum.criteo.com",
    "id.crwdcntrl.net",
    "id5-sync.com",
    "lb.eu-1-id5-sync.com",
    "match.adsrvr.org",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 70810,
+  "page_kb": 59362,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 27.8,
+  "score": 27.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Classic games online",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 3,
   "url": "https://playclassic.games/",
   "verdict": "Ad-saturated / hostile"
@@ -167582,7 +167844,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -169303,7 +169565,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -170676,8 +170938,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 8.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -170686,16 +170948,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1898,
+  "page_kb": 1903,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.8,
+  "score": 85.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Web Security Academy: Free Online Training from PortSwigger",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 2,
   "url": "https://portswigger.net/web-security",
   "verdict": "Very clean"
@@ -172965,7 +173231,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -174074,8 +174340,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 26.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 27.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -174083,16 +174349,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1052,
+  "page_kb": 1057,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.7,
+  "score": 79.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PS Vita Roms Download - PS Vita VPK - Nonpdrm - PS Vita Roms Download \u2013 PS Vita VPK \u2013 Nonp",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 2,
   "url": "https://psvitavpk.com/",
   "verdict": "Light advertising"
@@ -174251,7 +174521,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 73.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -175110,7 +175380,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -176011,33 +176281,35 @@
   "verdict": "Ad-saturated / hostile"
  },
  "questions.examside.com": {
-  "ad_domains": 3,
-  "ad_requests": 8,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 31.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 42.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1306,
+  "page_kb": 364,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 63.5,
+  "score": 80.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "JEE Main, JEE Advanced, NEET, GATE CSE, ECE, EE, Civil, ME, PI Previous Years Questions - ",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://questions.examside.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "queststoredb.com": {
   "ad_domains": 0,
@@ -177126,7 +177398,7 @@
   "ad_requests": 153,
   "ad_slots": 3,
   "ad_weight_pct": 32.7,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -179386,8 +179658,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 4.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 4.1,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -179395,7 +179667,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3739,
+  "page_kb": 3743,
   "pages": [
    "Educational"
   ],
@@ -179403,8 +179675,12 @@
   "refs": 2,
   "score": 93.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Learn a Language by Reading | Readlang",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 1,
   "url": "https://readlang.com/",
   "verdict": "Very clean"
@@ -181699,7 +181975,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -185619,33 +185895,38 @@
   "verdict": "Effectively ad-free"
  },
  "roll20.net": {
-  "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_domains": 4,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 14.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 14.3,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "C",
   "networks": [
    "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3206,
+  "page_kb": 3405,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 72.2,
+  "score": 69.8,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Roll20: Online virtual tabletop for pen and paper RPGs and board games",
-  "trackers": 8,
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 4,
   "url": "https://roll20.net/",
-  "verdict": "Light advertising"
+  "verdict": "Moderate advertising"
  },
  "romhacking.com": {
   "ad_domains": 1,
@@ -185711,7 +185992,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -185725,8 +186006,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Romheaven",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://romheaven.com/",
   "verdict": "Effectively ad-free"
@@ -186989,13 +187274,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 612,
+  "page_kb": 613,
   "pages": [
    "Gaming"
   ],
@@ -187003,8 +187288,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Ruffle - Flash Emulator",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://ruffle.rs/",
   "verdict": "Effectively ad-free"
@@ -188026,7 +188315,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -188040,8 +188329,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sabaki \u2014 An elegant Go board and SGF editor for a more civilized age",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://sabaki.yichuanshen.de/",
   "verdict": "Effectively ad-free"
@@ -188051,7 +188344,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 18.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -188334,7 +188627,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -191744,7 +192037,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -192821,8 +193114,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 54.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 55.1,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -192830,7 +193123,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 513,
+  "page_kb": 518,
   "pages": [
    "Educational"
   ],
@@ -192838,18 +193131,22 @@
   "refs": 2,
   "score": 78.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Select Star SQL",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 2,
   "url": "https://selectstarsql.com/",
   "verdict": "Light advertising"
  },
  "selenite.cc": {
   "ad_domains": 4,
-  "ad_requests": 15,
+  "ad_requests": 12,
   "ad_slots": 0,
-  "ad_weight_pct": 59.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 58.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -192860,16 +193157,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1081,
+  "page_kb": 1098,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 50.0,
+  "score": 54.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Study math for free - Mathplanet",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 1,
   "url": "https://selenite.cc/",
   "verdict": "Heavy advertising"
@@ -193188,7 +193489,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -193202,8 +193503,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Front Page at Sensei's Library",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://senseis.xmp.net/",
   "verdict": "Effectively ad-free"
@@ -195640,7 +195945,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -196059,7 +196364,7 @@
   "ad_requests": 43,
   "ad_slots": 0,
   "ad_weight_pct": 13.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -196220,7 +196525,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -197628,7 +197933,7 @@
   "ad_requests": 0,
   "ad_slots": 10,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -198931,7 +199236,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 22.1,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -199591,7 +199896,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -201465,7 +201770,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -201924,7 +202229,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -203531,13 +203836,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 871,
+  "page_kb": 380,
   "pages": [
    "Educational"
   ],
@@ -203545,8 +203850,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sign language dictionary | SpreadTheSign",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://spreadthesign.com/",
   "verdict": "Effectively ad-free"
@@ -204061,7 +204370,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -204623,7 +204932,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -205365,8 +205674,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -205374,16 +205683,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1737,
+  "page_kb": 2707,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.5,
+  "score": 92.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "STEAMRIP \u00bb Free Pre-installed Steam Games",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 1,
   "url": "https://steamrip.com/",
   "verdict": "Very clean"
@@ -205392,8 +205705,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 6.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -205401,16 +205714,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7922,
+  "page_kb": 8437,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.3,
+  "score": 88.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SteamUnderground - Pre-installed Pc Games",
+  "topics": [
+   "Game Downloads"
+  ],
   "trackers": 2,
   "url": "https://steamunderground.net/",
   "verdict": "Very clean"
@@ -206103,7 +206420,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -206989,7 +207306,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -208065,13 +208382,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6868,
+  "page_kb": 6526,
   "pages": [
    "Educational"
   ],
@@ -208079,8 +208396,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "StudyKit \u2014 Build Healthy Study Habits",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://studykit.app/",
   "verdict": "Effectively ad-free"
@@ -208115,40 +208436,44 @@
   "verdict": "Effectively ad-free"
  },
  "studyspanish.com": {
-  "ad_domains": 74,
-  "ad_requests": 202,
-  "ad_slots": 3,
-  "ad_weight_pct": 32.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 39,
+  "ad_requests": 100,
+  "ad_slots": 2,
+  "ad_weight_pct": 39.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "20528b6acc7b93607d5be552cb7023a2.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "acdn.adnxs.com",
    "ads.pubmatic.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "b1sync.outbrain.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net",
    "cdn.id5-sync.com",
-   "cm.g.doubleclick.net"
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "e390ea43718e0b49184d0466fab5e62b.safeframe.googlesyndication.com",
+   "fastlane.rubiconproject.com",
+   "ghb.adtelligent.com",
+   "ghb1.adtelligent.com",
+   "htlb.casalemedia.com"
   ],
   "ok": true,
-  "page_kb": 2441,
+  "page_kb": 2314,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 13.5,
+  "score": 19.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "StudySpanish",
-  "trackers": 3,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 2,
   "url": "https://studyspanish.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -209100,7 +209425,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 3.4,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -211407,7 +211732,7 @@
   "ad_requests": 9,
   "ad_slots": 0,
   "ad_weight_pct": 31.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -212436,7 +212761,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -212910,8 +213235,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 13.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 14.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -212919,16 +213244,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1107,
+  "page_kb": 1111,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.0,
+  "score": 86.9,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Teach Yourself Computer Science",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 3,
   "url": "https://teachyourselfcs.com/",
   "verdict": "Very clean"
@@ -213601,7 +213930,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -213615,8 +213944,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Telemelt 2",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://telemelt.com/",
   "verdict": "Effectively ad-free"
@@ -214938,7 +215271,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 66.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -215121,7 +215454,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 12.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -216819,7 +217152,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -225251,13 +225584,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 7643,
+  "page_kb": 7401,
   "pages": [
    "Educational"
   ],
@@ -225265,8 +225598,12 @@
   "refs": 2,
   "score": 99.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Connect and Enhance Your Life in Japanese(Tsunahiro) | Learning Japanese | Agency for Cult",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 2,
   "url": "https://tsunagarujp.mext.go.jp/?lang_id=EN",
   "verdict": "Effectively ad-free"
@@ -226247,7 +226584,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 20.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -230230,7 +230567,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -233760,8 +234097,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 76.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 77.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -233769,7 +234106,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 206,
+  "page_kb": 211,
   "pages": [
    "Gaming"
   ],
@@ -233777,8 +234114,12 @@
   "refs": 2,
   "score": 75.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Vimm's Lair: Preserving the Classics",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 1,
   "url": "https://vimm.net/",
   "verdict": "Light advertising"
@@ -233916,7 +234257,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 10.7,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -234991,7 +235332,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -237373,7 +237714,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -237405,7 +237746,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -239038,13 +239379,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 132445,
+  "page_kb": 130606,
   "pages": [
    "Gaming"
   ],
@@ -239052,8 +239393,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "RetroArch Web Player",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://web.libretro.com/",
   "verdict": "Effectively ad-free"
@@ -244540,13 +244885,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1636,
+  "page_kb": 2537,
   "pages": [
    "Gaming"
   ],
@@ -244554,8 +244899,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Woogles.io",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://woogles.io/",
   "verdict": "Effectively ad-free"
@@ -244702,13 +245051,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 20,
+  "page_kb": 0,
   "pages": [
    "Gaming"
   ],
@@ -244716,8 +245065,12 @@
   "refs": 2,
   "score": 99.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Wordle Analyzer",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 1,
   "url": "https://wordle-analyzer.com/",
   "verdict": "Effectively ad-free"
@@ -245588,40 +245941,44 @@
   "verdict": "Effectively ad-free"
  },
  "worldofcardgames.com": {
-  "ad_domains": 37,
-  "ad_requests": 133,
+  "ad_domains": 53,
+  "ad_requests": 153,
   "ad_slots": 1,
-  "ad_weight_pct": 11.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 14.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
+   "3d55d403374096c5ade8afdcc8743374.safeframe.googlesyndication.com",
    "a.teads.tv",
+   "a6245.casalemedia.com",
    "ads.pubmatic.com",
    "api.id5-sync.com",
    "at.teads.tv",
    "btlr.sharethrough.com",
+   "c21lg-d.media.net",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
-   "direct.adsrvr.org",
-   "e1cf780b31ec5d28bfe9a18184f15c06.safeframe.googlesyndication.com",
-   "fastlane.rubiconproject.com",
-   "g2.gumgum.com",
-   "grid-bidder.criteo.com"
+   "cs.media.net",
+   "direct.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 5999,
+  "page_kb": 6065,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 33.9,
+  "score": 31.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free Card Games Online | Play Single or Multiplayer",
-  "trackers": 1,
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 2,
   "url": "https://worldofcardgames.com/",
   "verdict": "Very heavy advertising"
  },
@@ -245852,7 +246209,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 11.7,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -246474,7 +246831,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 80.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -247422,7 +247779,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
   "fails": 1,
   "grade": "A+",
@@ -248129,7 +248486,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 27.4,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -255293,13 +255650,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1509,
+  "page_kb": 29134,
   "pages": [
    "Gaming"
   ],
@@ -255307,8 +255664,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Home \u2014 Axekin",
+  "title": "Home \u00b7 Axekin",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://www.axekin.com/",
   "verdict": "Effectively ad-free"
@@ -256218,7 +256579,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 26.1,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -260714,7 +261075,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -262664,7 +263025,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -262673,7 +263034,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1324,
+  "page_kb": 1333,
   "pages": [
    "Gaming"
   ],
@@ -262681,8 +263042,12 @@
   "refs": 2,
   "score": 91.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ChronoCrash - Where classic and modern gaming collide.",
+  "topics": [
+   "Games"
+  ],
   "trackers": 0,
   "url": "https://www.chronocrash.com/",
   "verdict": "Very clean"
@@ -263489,7 +263854,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 18.9,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -264584,7 +264949,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 1.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -265709,8 +266074,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 0.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -265719,16 +266084,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 57846,
+  "page_kb": 39429,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.3,
+  "score": 86.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Coursicle | All your academics, all in one place",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 3,
   "url": "https://www.coursicle.com/",
   "verdict": "Very clean"
@@ -266032,8 +266401,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -266041,16 +266410,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2520,
+  "page_kb": 2524,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 90.9,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Crafting Interpreters",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 3,
   "url": "https://www.craftinginterpreters.com/",
   "verdict": "Very clean"
@@ -266120,34 +266493,33 @@
   "verdict": "Light advertising"
  },
  "www.crazygames.com": {
-  "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 0.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
-  "networks": [
-   "ad.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 3960,
+  "page_kb": 2664,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.5,
+  "score": 98.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free Online Games on CrazyGames | Play Now!",
-  "trackers": 4,
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
   "url": "https://www.crazygames.com/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.creativefabrica.com": {
   "ad_domains": 4,
@@ -269538,10 +269910,10 @@
  },
  "www.dnd-compendium.com": {
   "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 1.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -269549,16 +269921,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9254,
+  "page_kb": 9266,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.2,
+  "score": 92.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "D&D Compendium",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://www.dnd-compendium.com/",
   "verdict": "Very clean"
@@ -269567,8 +269943,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -269576,16 +269952,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 10719,
+  "page_kb": 12152,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.6,
+  "score": 93.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "D&D Beyond | Play Your Way With the Official D&D Toolset | Dungeons & Dragons",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://www.dndbeyond.com/",
   "verdict": "Very clean"
@@ -269595,7 +269975,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -269697,7 +270077,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 20.7,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -272275,7 +272655,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 9.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -275266,7 +275646,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -276253,7 +276633,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 63.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -278466,7 +278846,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -278480,8 +278860,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "QWOP",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 0,
   "url": "https://www.foddy.net/Athletics.html",
   "verdict": "Effectively ad-free"
@@ -279121,7 +279505,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -280933,7 +281317,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -282024,8 +282408,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 25.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 25.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -282033,16 +282417,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1146,
+  "page_kb": 1152,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.4,
+  "score": 80.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "GeoGebra - the world\u2019s favorite, free math tools used by over 100 million students and tea",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://www.geogebra.org/",
   "verdict": "Light advertising"
@@ -283016,7 +283404,7 @@
   "ad_requests": 40,
   "ad_slots": 4,
   "ad_weight_pct": 63.1,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -286290,7 +286678,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -289387,7 +289775,7 @@
   "ad_requests": 65,
   "ad_slots": 1,
   "ad_weight_pct": 80.3,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -292240,7 +292628,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -292959,10 +293347,10 @@
  },
  "www.kongregate.com": {
   "ad_domains": 8,
-  "ad_requests": 15,
+  "ad_requests": 17,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -292977,17 +293365,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 64931,
+  "page_kb": 45268,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 51.9,
+  "score": 48.1,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Play Free Online Games on Kongregate \u2013 The Ultimate Gaming Platform",
-  "trackers": 2,
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
   "url": "https://www.kongregate.com/",
   "verdict": "Heavy advertising"
  },
@@ -293558,13 +293950,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1880,
+  "page_kb": 1894,
   "pages": [
    "Educational"
   ],
@@ -293572,8 +293964,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Language Reactor",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://www.languagereactor.com/",
   "verdict": "Effectively ad-free"
@@ -293616,13 +294012,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1644,
+  "page_kb": 1641,
   "pages": [
    "Educational"
   ],
@@ -293630,8 +294026,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Language Transfer",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://www.languagetransfer.org/",
   "verdict": "Effectively ad-free"
@@ -296714,7 +297114,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -298412,7 +298812,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -303673,31 +304073,37 @@
   "verdict": "Effectively ad-free"
  },
  "www.myabandonware.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 3,
+  "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 16.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 18.6,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
+   "currency.prebid.org",
+   "htlb.casalemedia.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 949,
+  "page_kb": 894,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.0,
+  "score": 73.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "My Abandonware - Download Old Video Games",
+  "topics": [
+   "Games"
+  ],
   "trackers": 2,
   "url": "https://www.myabandonware.com/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "www.myanonamouse.net": {
   "ad_domains": 0,
@@ -305323,33 +305729,36 @@
   "verdict": "Light advertising"
  },
  "www.nesfiles.com": {
-  "ad_domains": 5,
-  "ad_requests": 53,
-  "ad_slots": 4,
-  "ad_weight_pct": 64.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 4,
+  "ad_requests": 52,
+  "ad_slots": 5,
+  "ad_weight_pct": 66.7,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1538,
+  "page_kb": 1562,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.0,
+  "score": 12.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 1,
   "title": "The NES Files - NES photos, full color manuals, and more - The NES Files",
-  "trackers": 2,
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 1,
   "url": "https://www.nesfiles.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -306374,7 +306783,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -306496,15 +306905,15 @@
  },
  "www.nitrome.com": {
   "ad_domains": 7,
-  "ad_requests": 16,
+  "ad_requests": 14,
   "ad_slots": 8,
-  "ad_weight_pct": 10.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 11.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "853792f7f6e7246a2fa8285da952d586.safeframe.googlesyndication.com",
+   "ab2e181c202f7737ffd6190222b5acc4.safeframe.googlesyndication.com",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
@@ -306513,16 +306922,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4005,
+  "page_kb": 4030,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 17.6,
+  "score": 20.4,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Nitrome - Play Free Games",
+  "topics": [
+   "Browser Games"
+  ],
   "trackers": 4,
   "url": "https://www.nitrome.com/",
   "verdict": "Ad-saturated / hostile"
@@ -307056,7 +307469,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -307325,7 +307738,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -308351,8 +308764,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 34.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 34.4,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -308361,17 +308774,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 871,
+  "page_kb": 875,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.0,
+  "score": 68.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Omni Calculator",
-  "trackers": 13,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 12,
   "url": "https://www.omnicalculator.com/",
   "verdict": "Moderate advertising"
  },
@@ -308630,7 +309047,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 6.8,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -310387,8 +310804,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 11.3,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -310396,17 +310813,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1249,
+  "page_kb": 1432,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.7,
+  "score": 88.8,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Ova Games - Download PC Games Free Full Version",
-  "trackers": 3,
+  "topics": [
+   "Game Downloads"
+  ],
+  "trackers": 2,
   "url": "https://www.ovagames.com/",
   "verdict": "Very clean"
  },
@@ -311811,7 +312232,7 @@
   "ad_requests": 201,
   "ad_slots": 1,
   "ad_weight_pct": 56.1,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -315350,7 +315771,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -315380,22 +315801,26 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 575,
+  "ok": false,
+  "page_kb": 34,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 2,
+  "starred": 0,
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Home - Print Paper Chess",
+  "title": "Security Verification",
+  "topics": [
+   "Tabletop Games"
+  ],
   "trackers": 0,
   "url": "https://www.printchess.com/",
   "verdict": "Effectively ad-free"
@@ -316026,7 +316451,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 23.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -316838,8 +317263,8 @@
   "ad_domains": 4,
   "ad_requests": 12,
   "ad_slots": 0,
-  "ad_weight_pct": 19.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 18.8,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -316850,17 +317275,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4652,
+  "page_kb": 4897,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.8,
+  "score": 53.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Physics wallah Live Courses for JEE, NEET & Class 6,7,8,9,10,11,12 | NCERT Solutions",
-  "trackers": 15,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 14,
   "url": "https://www.pw.live/",
   "verdict": "Heavy advertising"
  },
@@ -319499,8 +319928,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 86.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 86.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -319508,7 +319937,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 320,
+  "page_kb": 326,
   "pages": [
    "Educational"
   ],
@@ -319516,8 +319945,12 @@
   "refs": 2,
   "score": 78.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "RefSeek - Academic Search Engine",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://www.refseek.com/",
   "verdict": "Light advertising"
@@ -319964,7 +320397,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -319978,8 +320411,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Retro eXo",
+  "topics": [
+   "Games"
+  ],
   "trackers": 0,
   "url": "https://www.retro-exo.com/",
   "verdict": "Effectively ad-free"
@@ -320608,7 +321045,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 67.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -324865,8 +325302,8 @@
   "ad_domains": 3,
   "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 30.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 35.5,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -324876,7 +325313,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1395,
+  "page_kb": 1128,
   "pages": [
    "Educational"
   ],
@@ -324884,8 +325321,12 @@
   "refs": 2,
   "score": 63.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "American Sign Language ASL Dictionary",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 1,
   "url": "https://www.signasl.org/",
   "verdict": "Moderate advertising"
@@ -324894,8 +325335,8 @@
   "ad_domains": 4,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 39.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 36.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -324906,7 +325347,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1064,
+  "page_kb": 1150,
   "pages": [
    "Educational"
   ],
@@ -324914,8 +325355,12 @@
   "refs": 2,
   "score": 59.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "British Sign Language BSL Dictionary",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 1,
   "url": "https://www.signbsl.com/",
   "verdict": "Moderate advertising"
@@ -325689,13 +326134,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11856,
+  "page_kb": 11857,
   "pages": [
    "Gaming"
   ],
@@ -325703,8 +326148,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Skraper",
+  "topics": [
+   "Emulation & ROMs"
+  ],
   "trackers": 0,
   "url": "https://www.skraper.net/",
   "verdict": "Effectively ad-free"
@@ -327700,40 +328149,44 @@
   "verdict": "Light advertising"
  },
  "www.spanishdict.com": {
-  "ad_domains": 78,
-  "ad_requests": 268,
-  "ad_slots": 4,
-  "ad_weight_pct": 47.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 80,
+  "ad_requests": 256,
+  "ad_slots": 2,
+  "ad_weight_pct": 62.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3d71ef3dee6378ab063fbb9473b25cb2.safeframe.googlesyndication.com",
-   "a5620.casalemedia.com",
-   "aax.amazon-adsystem.com",
+   "aa.agkn.com",
+   "ad.doubleclick.net",
    "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "af00e37873c6f151174d200e78e74fe2.safeframe.googlesyndication.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net"
+   "c1.adform.net",
+   "cdn.doubleverify.com"
   ],
   "ok": true,
-  "page_kb": 2246,
+  "page_kb": 2242,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 8.0,
+  "score": 18.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SpanishDictionary.com | English to Spanish Translation, Dictionary, Translator",
-  "trackers": 4,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 3,
   "url": "https://www.spanishdict.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -329275,7 +329728,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 21.6,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -330772,7 +331225,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 5.5,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -332412,7 +332865,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -333290,23 +333743,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 290,
+  "page_kb": 291,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 98.0,
+  "score": 98.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Your Career in Web Development Starts Here | The Odin Project",
-  "trackers": 4,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 3,
   "url": "https://www.theodinproject.com/",
   "verdict": "Effectively ad-free"
  },
@@ -333315,7 +333772,7 @@
   "ad_requests": 286,
   "ad_slots": 4,
   "ad_weight_pct": 64.2,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -333515,7 +333972,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -333696,7 +334153,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -335276,7 +335733,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -338393,30 +338850,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.urbandictionary.com": {
-  "ad_domains": 59,
-  "ad_requests": 188,
+  "ad_domains": 55,
+  "ad_requests": 258,
   "ad_slots": 8,
-  "ad_weight_pct": 59.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 34.2,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "7d8940f1aff43fb2ba27bbc8cd44f699.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "ads.pubmatic.com",
+   "ads.yieldmo.com",
    "ap.lijit.com",
-   "api-taboola.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
    "btlr.sharethrough.com",
-   "c1.adform.net",
-   "c21lg-d.media.net",
-   "c5f6297d5618ed5d2dbfa87bc8fbae83.safeframe.googlesyndication.com",
+   "cdn.flashtalking.com",
    "cdn.id5-sync.com",
-   "cdn.taboola.com"
+   "ce.lijit.com",
+   "cm.adform.net"
   ],
   "ok": true,
-  "page_kb": 4143,
+  "page_kb": 2946,
   "pages": [
    "Educational"
   ],
@@ -338424,8 +338881,12 @@
   "refs": 2,
   "score": 0.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Urban Dictionary, August 13: Quiche Peanemis",
+  "title": "Urban Dictionary, September 12: Brought-upsy",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 1,
   "url": "https://www.urbandictionary.com/",
   "verdict": "Ad-saturated / hostile"
@@ -338510,7 +338971,7 @@
   "ad_requests": 12,
   "ad_slots": 1,
   "ad_weight_pct": 61.4,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -339333,7 +339794,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -339347,8 +339808,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "vhs-Lernportal - Willkommen im vhs-Lernportal",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://www.vhs-lernportal.de/",
   "verdict": "Effectively ad-free"
@@ -342573,13 +343038,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 72,
+  "page_kb": 70,
   "pages": [
    "Educational"
   ],
@@ -342587,8 +343052,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Wikipedia",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://www.wikipedia.org/",
   "verdict": "Effectively ad-free"
@@ -342689,7 +343158,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -342703,8 +343172,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Wiktionary",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://www.wiktionary.org/",
   "verdict": "Effectively ad-free"
@@ -343740,42 +344213,46 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.worldometers.info": {
-  "ad_domains": 107,
-  "ad_requests": 556,
-  "ad_slots": 2,
-  "ad_weight_pct": 81.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 84,
+  "ad_requests": 393,
+  "ad_slots": 0,
+  "ad_weight_pct": 83.3,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "13bee2811bcff16a59957f2823afe4c7.safeframe.googlesyndication.com",
-   "aa.agkn.com",
+   "5b3f9fa06fcf348059ce2e05aabb3b39.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
-   "api-taboola.com",
    "api.id5-sync.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net"
+   "bcp.crwdcntrl.net",
+   "be.durationmedia.net"
   ],
   "ok": true,
-  "page_kb": 1850,
+  "page_kb": 1381,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 13.5,
+  "score": 29.0,
   "starred": 2,
-  "sticky_ads": 1,
+  "status": "online",
+  "sticky_ads": 0,
   "title": "Worldometer - real time world statistics",
-  "trackers": 3,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 2,
   "url": "https://www.worldometers.info/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.worldsrc.net": {
   "ad_domains": 1,
@@ -345428,13 +345905,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 17524,
+  "page_kb": 17433,
   "pages": [
    "Gaming"
   ],
@@ -345442,8 +345919,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Reviving Classic PC Games | Zomb's Lair",
+  "topics": [
+   "Games"
+  ],
   "trackers": 0,
   "url": "https://www.zombs-lair.com/",
   "verdict": "Effectively ad-free"
@@ -346632,7 +347113,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -346646,8 +347127,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "GoldenDict-ng",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://xiaoyifang.github.io/goldendict-ng/",
   "verdict": "Effectively ad-free"
@@ -348202,7 +348687,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -348211,7 +348696,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 7869,
+  "page_kb": 7874,
   "pages": [
    "Educational"
   ],
@@ -348219,8 +348704,12 @@
   "refs": 2,
   "score": 91.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Welcome to Yomitan - Yomitan",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://yomitan.wiki/",
   "verdict": "Very clean"
@@ -349849,8 +350338,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 11.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 10.9,
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -349858,17 +350347,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1503,
+  "page_kb": 1567,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.0,
+  "score": 89.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ZeiGames - Free Pre-Installed PC Games",
-  "trackers": 2,
+  "topics": [
+   "Game Downloads"
+  ],
+  "trackers": 1,
   "url": "https://zeigames.com/",
   "verdict": "Very clean"
  },
@@ -349877,7 +350370,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -349891,8 +350384,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The FAME: Index of pages",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://zeljko-heimer-fame.from.hr/descr/index.html",
   "verdict": "Effectively ad-free"
@@ -350439,7 +350936,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -350453,8 +350950,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Chinese Classical Literature",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://zhongwen.com/gudian.htm",
   "verdict": "Effectively ad-free"
@@ -351053,7 +351554,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 10.0,
-  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "checked_utc": "2026-09-12T21:42:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
