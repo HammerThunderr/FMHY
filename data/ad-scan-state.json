@@ -3890,7 +3890,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -3904,8 +3904,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CreepJS",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://abrahamjuliot.github.io/creepjs",
   "verdict": "Effectively ad-free"
@@ -6279,40 +6283,44 @@
   "verdict": "Moderate advertising"
  },
  "agnai.chat": {
-  "ad_domains": 48,
-  "ad_requests": 156,
-  "ad_slots": 3,
-  "ad_weight_pct": 89.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 27,
+  "ad_requests": 66,
+  "ad_slots": 2,
+  "ad_weight_pct": 93.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "8e48d2f4102a64851ef597aa6350da67.safeframe.googlesyndication.com",
+   "516f1484cabba9abce8cf78a1f710593.safeframe.googlesyndication.com",
    "aax.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "ade.googlesyndication.com",
-   "adx-winners-us-west-2-rtb.adroll.com",
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
-   "beacon-nf-sjc4.rubiconproject.com",
-   "beacon-sjc4.rubiconproject.com",
-   "bid.g.doubleclick.net",
    "c.amazon-adsystem.com",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "direct.adsrvr.org",
+   "fastlane.rubiconproject.com",
+   "g2.gumgum.com"
   ],
   "ok": true,
-  "page_kb": 2309,
+  "page_kb": 828,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.0,
+  "score": 19.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Information - Agnaistic",
-  "trackers": 2,
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 1,
   "url": "https://agnai.chat/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -6894,13 +6902,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 934,
+  "page_kb": 1061,
   "pages": [
    "Adblock"
   ],
@@ -6908,8 +6916,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "AirVPN - The air to breathe the real Internet - AirVPN",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://airvpn.org/",
   "verdict": "Effectively ad-free"
@@ -11050,19 +11062,17 @@
   "verdict": "Effectively ad-free"
  },
  "anilist.co": {
-  "ad_domains": 86,
-  "ad_requests": 883,
-  "ad_slots": 1,
-  "ad_weight_pct": 25.4,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_domains": 49,
+  "ad_requests": 114,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "8451d857dceb3198758b253c8f3cc3b8.safeframe.googlesyndication.com",
+   "4e7fe27e716c8706305059b41440fbe3.safeframe.googlesyndication.com",
    "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "acdn.adnxs.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
@@ -11070,23 +11080,29 @@
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
    "c1.adform.net",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "cm.adform.net",
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 6190,
+  "page_kb": 5696,
   "pages": [
    "Reading",
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 25.8,
+  "score": 37.8,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "AniList: Track, Discover, Share Anime & Manga",
+  "topics": [
+   "Trackers & Databases"
+  ],
   "trackers": 3,
   "url": "https://anilist.co/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "animagraffs.com": {
   "ad_domains": 3,
@@ -11122,40 +11138,44 @@
   "verdict": "Light advertising"
  },
  "animalia.bio": {
-  "ad_domains": 97,
-  "ad_requests": 1015,
-  "ad_slots": 2,
-  "ad_weight_pct": 44.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 81,
+  "ad_requests": 525,
+  "ad_slots": 1,
+  "ad_weight_pct": 38.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "adx-winners-us-west-2-rtb.adroll.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
-   "bb.lijit.com",
-   "bcp.crwdcntrl.net"
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 3853,
+  "page_kb": 2924,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 17.5,
+  "score": 22.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Animalia - Online Animals Encyclopedia",
-  "trackers": 5,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 6,
   "url": "https://animalia.bio/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -14305,7 +14325,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -14319,8 +14339,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - The Hitchhiker's Guide",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://anonymousplanet.net/",
   "verdict": "Effectively ad-free"
@@ -16735,13 +16759,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 672,
+  "page_kb": 679,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -16749,8 +16773,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Applio \u2014 Open source, free AI voice conversion tool",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://applio.org/",
   "verdict": "Effectively ad-free"
@@ -18514,7 +18542,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18528,8 +18556,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "arkenfox gui",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://arkenfox.github.io/gui/",
   "verdict": "Effectively ad-free"
@@ -19039,9 +19071,9 @@
  "artificialanalysis.ai": {
   "ad_domains": 1,
   "ad_requests": 2,
-  "ad_slots": 7,
-  "ad_weight_pct": 50.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_slots": 6,
+  "ad_weight_pct": 52.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -19049,7 +19081,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 578,
+  "page_kb": 571,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -19057,8 +19089,12 @@
   "refs": 2,
   "score": 48.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "AI Model & API Providers Analysis | Artificial Analysis",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://artificialanalysis.ai/",
   "verdict": "Heavy advertising"
@@ -19219,8 +19255,8 @@
   "ad_domains": 6,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 26.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 26.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -19233,17 +19269,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1941,
+  "page_kb": 1965,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.1,
+  "score": 53.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Alcumus - Art of Problem Solving",
-  "trackers": 6,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 4,
   "url": "https://artofproblemsolving.com/alcumus",
   "verdict": "Heavy advertising"
  },
@@ -22555,13 +22595,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1530,
+  "page_kb": 327,
   "pages": [
    "Adblock"
   ],
@@ -22569,8 +22609,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Awesome Privacy | The Ultimate List of Private Apps",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://awesome-privacy.xyz/",
   "verdict": "Effectively ad-free"
@@ -26266,7 +26310,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 8.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -26277,17 +26321,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3937,
+  "page_kb": 3990,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 72.5,
+  "score": 73.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "BetterExplained \u2013 Math lessons that click",
-  "trackers": 8,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 7,
   "url": "https://betterexplained.com/",
   "verdict": "Light advertising"
  },
@@ -36143,13 +36191,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 206,
+  "page_kb": 207,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -36157,8 +36205,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DeepSeek - Into the Unknown",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://chat.deepseek.com/",
   "verdict": "Effectively ad-free"
@@ -36864,8 +36916,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -36874,16 +36926,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2743,
+  "page_kb": 2744,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.7,
+  "score": 85.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - Chemistry LibreTexts",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 5,
   "url": "https://chem.libretexts.org",
   "verdict": "Very clean"
@@ -38286,8 +38342,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 4.5,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 4.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -38295,16 +38351,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5877,
+  "page_kb": 5882,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.8,
+  "score": 90.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Bartosz Ciechanowski",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 2,
   "url": "https://ciechanow.ski/",
   "verdict": "Very clean"
@@ -45086,8 +45146,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 1.4,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -45095,16 +45155,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 14022,
+  "page_kb": 11585,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 3,
-  "score": 94.4,
-  "starred": 3,
+  "refs": 2,
+  "score": 94.3,
+  "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - CorsFlix",
+  "topics": [
+   "Movies & TV",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://corsflix.net",
   "verdict": "Very clean"
@@ -49537,7 +49602,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49551,8 +49616,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "DanStore - Microsoft Store Explorer",
+  "title": "DanStore \u2014 Independent Windows App Explorer & Package Tools",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 0,
   "url": "https://danstore-ms.vercel.app/",
   "verdict": "Effectively ad-free"
@@ -54498,8 +54567,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.3,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -54507,16 +54576,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3054,
+  "page_kb": 3058,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.4,
+  "score": 92.3,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DiffusionBee - Stable Diffusion App for AI Art",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://diffusionbee.com/",
   "verdict": "Very clean"
@@ -58105,13 +58178,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1110,
+  "page_kb": 1113,
   "pages": [
    "Adblock"
   ],
@@ -58119,8 +58192,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "3x-ui \u2014 Advanced web panel for managing Xray-core servers",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://docs.sanaei.dev/",
   "verdict": "Effectively ad-free"
@@ -76203,7 +76280,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 2.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -76214,17 +76291,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13637,
+  "page_kb": 13627,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 77.8,
+  "score": 77.3,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free AI Character Roleplay, AI Girlfriend, AI Boyfriend, ChatGPT Prompts Store | FlowGPT",
-  "trackers": 3,
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 4,
   "url": "https://flowgpt.com",
   "verdict": "Light advertising"
  },
@@ -84971,7 +85052,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -84985,8 +85066,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Aegis Authenticator",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://getaegis.app/",
   "verdict": "Effectively ad-free"
@@ -87498,7 +87583,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -87512,8 +87597,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Trend Micro Site Safety Center",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://global.sitesafety.trendmicro.com/",
   "verdict": "Effectively ad-free"
@@ -95855,13 +95944,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://hi10anime.com/\", waiting until \"domcontentload",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 8720,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Streaming"
   ],
@@ -95869,8 +95958,13 @@
   "refs": 4,
   "score": 100.0,
   "starred": 2,
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Hi10 Anime | High Quality 10-bit Anime Encodes",
+  "title": "hi10anime",
+  "topics": [
+   "Torrents",
+   "Video Downloads"
+  ],
   "trackers": 0,
   "url": "https://hi10anime.com/",
   "verdict": "Effectively ad-free"
@@ -96468,8 +96562,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 8.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 9.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -96477,16 +96571,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1880,
+  "page_kb": 1725,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.0,
+  "score": 89.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Histography - Timeline of History",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 3,
   "url": "https://histography.io/",
   "verdict": "Very clean"
@@ -98772,34 +98870,39 @@
  },
  "hybrid-analysis.com": {
   "ad_domains": 6,
-  "ad_requests": 8,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 19.7,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "adobedc.demdex.net",
    "cm.everesttech.net",
+   "crowdstrikeinc.demdex.net",
    "dpm.demdex.net",
    "secure.adnxs.com",
-   "www.googleadservices.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1557,
+  "page_kb": 876,
   "pages": [
    "Adblock",
    "Mobile"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.0,
+  "score": 58.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Free Automated Malware Analysis Service - powered by Falcon Sandbox",
-  "trackers": 0,
+  "title": "Hybrid Analysis",
+  "topics": [
+   "Adblocking",
+   "Android Apps"
+  ],
+  "trackers": 6,
   "url": "https://hybrid-analysis.com/",
   "verdict": "Moderate advertising"
  },
@@ -101327,8 +101430,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 3.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -101337,16 +101440,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7858,
+  "page_kb": 4865,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.7,
+  "score": 85.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Documentaries - watch free online documentaries - ihavenotv.com",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://ihavenotv.com",
   "verdict": "Very clean"
@@ -101831,34 +101938,40 @@
   "verdict": "Effectively ad-free"
  },
  "images-of-elements.com": {
-  "ad_domains": 4,
-  "ad_requests": 36,
+  "ad_domains": 6,
+  "ad_requests": 40,
   "ad_slots": 3,
-  "ad_weight_pct": 69.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 69.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com"
+   "tpc.googlesyndication.com",
+   "trc.taboola.com"
   ],
   "ok": true,
-  "page_kb": 936,
+  "page_kb": 915,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 28.0,
+  "score": 22.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Chemical Elements - Infos and Images",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://images-of-elements.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "images.defence.gov.au": {
   "ad_domains": 0,
@@ -102282,10 +102395,10 @@
  },
  "in-the-sky.org": {
   "ad_domains": 3,
-  "ad_requests": 15,
+  "ad_requests": 16,
   "ad_slots": 1,
-  "ad_weight_pct": 19.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 16.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -102295,16 +102408,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2729,
+  "page_kb": 2680,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.8,
+  "score": 52.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "In-The-Sky.org",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://in-the-sky.org/",
   "verdict": "Heavy advertising"
@@ -105148,7 +105265,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105162,8 +105279,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Is it really foss?",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 0,
   "url": "https://isitreallyfoss.com",
   "verdict": "Effectively ad-free"
@@ -106262,8 +106383,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 7.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -106271,16 +106392,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2374,
+  "page_kb": 2381,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 90.9,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Jan - Open-Source ChatGPT Replacement",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 2,
   "url": "https://jan.ai/",
   "verdict": "Very clean"
@@ -109214,7 +109339,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -109228,8 +109353,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://justdeleteme.xyz/",
   "verdict": "Effectively ad-free"
@@ -111915,7 +112044,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -111929,8 +112058,12 @@
   "refs": 11,
   "score": 100.0,
   "starred": 3,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SOX Media Player | KindleModShelf",
+  "topics": [
+   "Ebooks"
+  ],
   "trackers": 0,
   "url": "https://kindlemodshelf.me/sox",
   "verdict": "Effectively ad-free"
@@ -115226,7 +115359,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -115239,9 +115372,14 @@
   "popups": 0,
   "refs": 4,
   "score": 100.0,
-  "starred": 2,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Kuroiru - The Ultimate Anime Tracker",
+  "topics": [
+   "Anime & Specialty",
+   "Trackers & Databases"
+  ],
   "trackers": 0,
   "url": "https://kuroiru.co/",
   "verdict": "Effectively ad-free"
@@ -115727,29 +115865,35 @@
   "verdict": "Moderate advertising"
  },
  "labmode.co.uk": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 4.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 11032,
+  "page_kb": 3464,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 92.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Laboratory Storage & Biobanking Equipment | LABMODE",
-  "trackers": 0,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
   "url": "https://labmode.co.uk/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "labs.google": {
   "ad_domains": 1,
@@ -119820,13 +119964,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 991,
+  "page_kb": 429,
   "pages": [
    "Adblock"
   ],
@@ -119834,8 +119978,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LibreWolf",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://librewolf.net/",
   "verdict": "Effectively ad-free"
@@ -122880,13 +123028,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 672,
+  "page_kb": 677,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -122894,8 +123042,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "llama.app - Official home for llama.cpp",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://llama.app/",
   "verdict": "Effectively ad-free"
@@ -122935,8 +123087,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 46.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 59.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -122945,7 +123097,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 361,
+  "page_kb": 291,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -122953,8 +123105,12 @@
   "refs": 2,
   "score": 75.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "LLM Explorer: AI Agent and Open-Source Language Model Directory",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://llm-explorer.com/",
   "verdict": "Light advertising"
@@ -123239,7 +123395,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123253,8 +123409,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Download LM Studio - Mac, Linux, Windows",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://lmstudio.ai/download",
   "verdict": "Effectively ad-free"
@@ -125023,23 +125183,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2289,
+  "page_kb": 2419,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 98.0,
+  "score": 99.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "\u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0435 \u0440\u0435\u043f\u0430\u043a\u0438 \u043e\u0442 ELCHUPACABRA - REPACK \u0441\u043a\u0430\u0447\u0430\u0442\u044c",
-  "trackers": 4,
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 2,
   "url": "https://lrepacks.net/",
   "verdict": "Effectively ad-free"
  },
@@ -126238,7 +126402,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -126252,8 +126416,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Stability Matrix - The Ultimate AI Art Manager",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://lykos.ai/",
   "verdict": "Effectively ad-free"
@@ -128880,13 +129048,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11,
+  "page_kb": 675,
   "pages": [
    "Reading"
   ],
@@ -128894,8 +129062,13 @@
   "refs": 6,
   "score": 100.0,
   "starred": 6,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "MangaBaka - Manga & Light Novel database",
+  "title": "MangaBaka - the open manga and light novel database",
+  "topics": [
+   "Ebooks",
+   "Trackers & Databases"
+  ],
   "trackers": 0,
   "url": "https://mangabaka.org/",
   "verdict": "Effectively ad-free"
@@ -136505,8 +136678,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 51.1,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 38.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -136514,18 +136687,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 324,
+  "page_kb": 439,
   "pages": [
    "Reading",
    "Streaming"
   ],
   "popups": 0,
   "refs": 3,
-  "score": 78.5,
+  "score": 79.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "MKissa \u2014 M.Kissa",
-  "trackers": 4,
+  "topics": [
+   "Anime & Specialty",
+   "Comics & Manga"
+  ],
+  "trackers": 2,
   "url": "https://mkissa.to/",
   "verdict": "Light advertising"
  },
@@ -140132,7 +140310,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -140146,8 +140324,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DNSveil (formerly Secure DNS Client) | DNSveil",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://msasanmh.github.io/DNSveil/",
   "verdict": "Effectively ad-free"
@@ -142615,20 +142797,30 @@
   "verdict": "Effectively ad-free"
  },
  "myanimelist.net": {
-  "ad_domains": 2,
-  "ad_requests": 4,
-  "ad_slots": 0,
-  "ad_weight_pct": 5.8,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_domains": 19,
+  "ad_requests": 102,
+  "ad_slots": 5,
+  "ad_weight_pct": 12.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "display.bidder.taboola.com",
+   "grid-bidder.criteo.com",
+   "gum.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "htlb.casalemedia.com",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
    "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
+   "sshowads.pubmatic.com",
+   "st.pubmatic.com"
   ],
   "ok": true,
-  "page_kb": 5514,
+  "page_kb": 5193,
   "pages": [
    "Reading",
    "Storage",
@@ -142636,13 +142828,18 @@
   ],
   "popups": 0,
   "refs": 7,
-  "score": 83.1,
+  "score": 11.6,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "MyAnimeList.net - Anime and Manga Database and Community",
+  "topics": [
+   "File Storage",
+   "Trackers & Databases"
+  ],
   "trackers": 4,
   "url": "https://myanimelist.net/",
-  "verdict": "Light advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "myasiantv.com.bz": {
   "ad_domains": 1,
@@ -145830,8 +146027,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 88.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 88.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -145839,7 +146036,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 178,
+  "page_kb": 182,
   "pages": [
    "Downloading"
   ],
@@ -145847,8 +146044,12 @@
   "refs": 2,
   "score": 80.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Release tracker for Software Developers and DevOps - NewReleases.io",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 1,
   "url": "https://newreleases.io/",
   "verdict": "Light advertising"
@@ -149381,8 +149582,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 13.5,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 13.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -149390,17 +149591,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1162,
+  "page_kb": 1165,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 88.1,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NPTEL",
-  "trackers": 2,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
   "url": "https://nptel.ac.in/courses",
   "verdict": "Very clean"
  },
@@ -149729,10 +149934,10 @@
  },
  "ntv.cx": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 36.9,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 45.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -149740,17 +149945,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 449,
+  "page_kb": 380,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 4,
-  "score": 76.0,
-  "starred": 4,
+  "refs": 2,
+  "score": 79.0,
+  "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NTVSTREAM - Watch Live Sports Streaming Free | HD Sports & 24/7 Channels",
-  "trackers": 6,
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 3,
   "url": "http://ntv.cx/",
   "verdict": "Light advertising"
  },
@@ -150202,30 +150411,30 @@
   "verdict": "Effectively ad-free"
  },
  "number.academy": {
-  "ad_domains": 18,
-  "ad_requests": 217,
-  "ad_slots": 10,
-  "ad_weight_pct": 78.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 12,
+  "ad_requests": 141,
+  "ad_slots": 8,
+  "ad_weight_pct": 65.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ad.doubleclick.net",
-   "adx-winners-us-west-2-rtb.adroll.com",
-   "b1sync.outbrain.com",
-   "c1.adform.net",
    "cm.g.doubleclick.net",
    "cms.quantserve.com",
-   "d.adroll.com",
-   "d.agkn.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
+   "match.adsrvr.org",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
-   "s.adroll.com"
+   "sync-tm.everesttech.net",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2757,
+  "page_kb": 2291,
   "pages": [
    "Educational"
   ],
@@ -150233,9 +150442,13 @@
   "refs": 2,
   "score": 0.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 1,
   "title": "Number academy the encyclopedia of numbers",
-  "trackers": 4,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 3,
   "url": "https://number.academy/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -150641,8 +150854,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 19.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 19.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -150650,16 +150863,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 871,
+  "page_kb": 876,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 3,
-  "score": 85.5,
-  "starred": 2,
+  "refs": 2,
+  "score": 85.2,
+  "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NuvioSync - Move Your Stremio Setup To Nuvio",
+  "topics": [
+   "Smart TV",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://nuviosync.com/",
   "verdict": "Very clean"
@@ -151809,8 +152027,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 16.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 16.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -151819,16 +152037,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1869,
+  "page_kb": 1829,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.4,
+  "score": 79.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "MIT OpenCourseWare | Free Online Course Materials",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 4,
   "url": "https://ocw.mit.edu/",
   "verdict": "Light advertising"
@@ -153287,7 +153509,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153301,8 +153523,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "1.1.1.1 \u2014 The free app that makes your Internet faster.",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://one.one.one.one/",
   "verdict": "Effectively ad-free"
@@ -157062,8 +157288,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 2.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -157072,16 +157298,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11267,
+  "page_kb": 10674,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.6,
+  "score": 87.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Open WebUI: Self-Hosted AI Platform",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://openwebui.com/",
   "verdict": "Very clean"
@@ -158661,8 +158891,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 21.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 21.3,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -158670,16 +158900,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1340,
+  "page_kb": 1388,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.2,
+  "score": 82.3,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Our World in Data",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 2,
   "url": "https://ourworldindata.org/",
   "verdict": "Light advertising"
@@ -167348,7 +167582,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -167362,8 +167596,12 @@
   "refs": 2,
   "score": 99.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "A Neural Network Playground",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://playground.tensorflow.org/",
   "verdict": "Effectively ad-free"
@@ -169065,13 +169303,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5570,
+  "page_kb": 5546,
   "pages": [
    "Storage"
   ],
@@ -169079,8 +169317,12 @@
   "refs": 3,
   "score": 100.0,
   "starred": 3,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Geometry Dash Demonlist",
+  "topics": [
+   "File Storage"
+  ],
   "trackers": 0,
   "url": "https://pointercrate.com/demonlist/",
   "verdict": "Effectively ad-free"
@@ -172723,7 +172965,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -172737,8 +172979,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Project Atlas \u2022 Project Atlas",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://project-atlas-dbb.pages.dev/",
   "verdict": "Effectively ad-free"
@@ -174001,29 +174247,36 @@
   "verdict": "Effectively ad-free"
  },
  "ptable.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 73.3,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
   "ok": true,
-  "page_kb": 21,
+  "page_kb": 333,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 70.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Periodic Table - Ptable - Properties",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://ptable.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Moderate advertising"
  },
  "pubchem.ncbi.nlm.nih.gov": {
   "ad_domains": 1,
@@ -174857,7 +175110,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -174871,8 +175124,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PygmalionAI",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://pygmalion.chat/",
   "verdict": "Effectively ad-free"
@@ -176865,30 +177122,30 @@
   "verdict": "Light advertising"
  },
  "radiopaedia.org": {
-  "ad_domains": 81,
-  "ad_requests": 287,
+  "ad_domains": 51,
+  "ad_requests": 153,
   "ad_slots": 3,
-  "ad_weight_pct": 38.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 32.7,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "aa.agkn.com",
-   "acdn.adnxs.com",
+   "8ec0609b4a619082e778fa1cc1112604.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "addkt-d.openx.net",
    "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "apps.smartadserver.com",
-   "b1sync.outbrain.com",
-   "btlr.sharethrough.com"
+   "btlr.sharethrough.com",
+   "cdn.id5-sync.com",
+   "client.aps.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 1889,
+  "page_kb": 2015,
   "pages": [
    "Educational"
   ],
@@ -176896,8 +177153,12 @@
   "refs": 2,
   "score": 15.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Radiopaedia.org, the peer-reviewed collaborative radiology resource",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://radiopaedia.org/",
   "verdict": "Ad-saturated / hostile"
@@ -181438,13 +181699,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 782,
+  "page_kb": 733,
   "pages": [
    "Streaming"
   ],
@@ -181452,8 +181713,12 @@
   "refs": 4,
   "score": 100.0,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home | SeaDex",
+  "topics": [
+   "Torrents"
+  ],
   "trackers": 0,
   "url": "https://releases.moe/",
   "verdict": "Effectively ad-free"
@@ -187785,8 +188050,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 18.5,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 18.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -187794,16 +188059,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 830,
+  "page_kb": 834,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.8,
+  "score": 84.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SABnzbd - The free and easy binary newsreader",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 3,
   "url": "https://sabnzbd.org/",
   "verdict": "Light advertising"
@@ -188065,7 +188334,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -188079,8 +188348,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Portmaster - Application Firewall by Safing",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://safing.io/",
   "verdict": "Effectively ad-free"
@@ -191471,7 +191744,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -191485,9 +191758,15 @@
   "popups": 0,
   "refs": 6,
   "score": 100.0,
-  "starred": 4,
+  "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Seanime Docs",
+  "topics": [
+   "Comics & Manga",
+   "Movies & TV",
+   "Torrents"
+  ],
   "trackers": 0,
   "url": "https://seanime.app/",
   "verdict": "Effectively ad-free"
@@ -195361,7 +195640,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -195375,8 +195654,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Signal >> Home",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://signal.org/",
   "verdict": "Effectively ad-free"
@@ -195773,38 +196056,43 @@
  },
  "simkl.com": {
   "ad_domains": 11,
-  "ad_requests": 55,
+  "ad_requests": 43,
   "ad_slots": 0,
-  "ad_weight_pct": 7.1,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 13.3,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "1f61496f3358aef1707a9d36cb1a01b0.safeframe.googlesyndication.com",
+   "7632d31375153c2f384c3c4a983e13de.safeframe.googlesyndication.com",
    "cm.g.doubleclick.net",
-   "cms.quantserve.com",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
-   "match.adsrvr.org",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com",
-   "www.googletagservices.com"
+   "www.googletagservices.com",
+   "x.bidswitch.net"
   ],
   "ok": true,
-  "page_kb": 16051,
+  "page_kb": 7804,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 8,
-  "score": 40.5,
+  "score": 37.9,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Simkl - Watch and Track Movies, Anime, TV Shows",
-  "trackers": 2,
+  "topics": [
+   "Torrents",
+   "Trackers & Databases"
+  ],
+  "trackers": 1,
   "url": "https://simkl.com/",
   "verdict": "Very heavy advertising"
  },
@@ -195932,13 +196220,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3457,
+  "page_kb": 3449,
   "pages": [
    "Adblock"
   ],
@@ -195946,8 +196234,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SimpleX Chat: private and secure messenger without any user IDs (not even random)",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://simplex.chat/",
   "verdict": "Effectively ad-free"
@@ -197336,7 +197628,7 @@
   "ad_requests": 0,
   "ad_slots": 10,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -197351,8 +197643,13 @@
   "refs": 2,
   "score": 70.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Soulseek",
+  "topics": [
+   "Downloads",
+   "Music Downloads"
+  ],
   "trackers": 0,
   "url": "https://slsknet.org/",
   "verdict": "Moderate advertising"
@@ -198633,8 +198930,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 19.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 22.1,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -198643,16 +198940,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2614,
+  "page_kb": 2389,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.7,
+  "score": 73.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "\u062f\u0627\u0646\u0644\u0648\u062f \u0631\u0627\u06cc\u06af\u0627\u0646 \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 7,
   "url": "https://soft98.ir/",
   "verdict": "Light advertising"
@@ -199290,13 +199591,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 60,
+  "page_kb": 61,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -199304,8 +199605,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sonar | Sonar",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://sonar.dphn.ai/",
   "verdict": "Effectively ad-free"
@@ -201160,13 +201465,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5043,
+  "page_kb": 5064,
   "pages": [
    "Educational"
   ],
@@ -201174,8 +201479,12 @@
   "refs": 2,
   "score": 98.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Space Dashboard",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 3,
   "url": "https://spacedashboard.com/",
   "verdict": "Effectively ad-free"
@@ -201615,13 +201924,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 785,
+  "page_kb": 469,
   "pages": [
    "Educational"
   ],
@@ -201629,8 +201938,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Wikispecies, free species directory",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://species.wikimedia.org/",
   "verdict": "Effectively ad-free"
@@ -203748,13 +204061,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 1128,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Adblock"
   ],
@@ -203762,8 +204075,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Surveillance Self-Defense",
+  "title": "503 first byte timeout",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://ssd.eff.org/",
   "verdict": "Effectively ad-free"
@@ -204306,13 +204623,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 38,
+  "page_kb": 40,
   "pages": [
    "Adblock"
   ],
@@ -204320,8 +204637,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DuckDuckGo Private Search Engine",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://start.duckduckgo.com/",
   "verdict": "Effectively ad-free"
@@ -205782,7 +206103,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -205796,8 +206117,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Open-source two-factor authentication app - Stratum",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://stratumauth.com",
   "verdict": "Effectively ad-free"
@@ -206660,36 +206985,33 @@
   "verdict": "Effectively ad-free"
  },
  "streamsports99.ru": {
-  "ad_domains": 6,
-  "ad_requests": 14,
-  "ad_slots": 2,
-  "ad_weight_pct": 0.4,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
-  "networks": [
-   "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
-   "match.adsrvr.org",
-   "pxdrop.lijit.com",
-   "secure.adnxs.com",
-   "tags.crwdcntrl.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 4377,
+  "page_kb": 4074,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 50.8,
+  "score": 100.0,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "StreamSports99 - Watch Free Live Sports Anytime, Anywhere",
+  "topics": [
+   "Live TV & Sports"
+  ],
   "trackers": 0,
   "url": "https://streamsports99.ru",
-  "verdict": "Heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "streamsports99.su": {
   "ad_domains": 0,
@@ -208777,8 +209099,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 5.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 3.4,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -208789,17 +209111,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3140,
+  "page_kb": 5204,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.2,
+  "score": 74.8,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Suno | AI Music Generator",
-  "trackers": 4,
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 5,
   "url": "https://suno.com/",
   "verdict": "Light advertising"
  },
@@ -211077,42 +211403,38 @@
   "verdict": "Effectively ad-free"
  },
  "tailscale.com": {
-  "ad_domains": 18,
-  "ad_requests": 49,
+  "ad_domains": 4,
+  "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 28.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 31.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
    "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
-   "d.adroll.com",
-   "dsum-sec.casalemedia.com",
-   "eb2.3lift.com",
    "googleads.g.doubleclick.net",
-   "ib.adnxs.com",
-   "image2.pubmatic.com",
-   "match.adsrvr.org",
-   "pixel.rubiconproject.com",
-   "rtb-csync.smartadserver.com",
-   "s.adroll.com"
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2582,
+  "page_kb": 2335,
   "pages": [
    "Adblock"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 22.4,
+  "score": 56.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud",
-  "trackers": 17,
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 7,
   "url": "https://tailscale.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "tailspark.co": {
   "ad_domains": 1,
@@ -212114,13 +212436,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2334,
+  "page_kb": 2651,
   "pages": [
    "Reading",
    "Streaming"
@@ -212129,8 +212451,13 @@
   "refs": 4,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "TasteDive | Recommends music, movies, TV shows, books, games, people, places, brands and p",
+  "topics": [
+   "Ebooks",
+   "Trackers & Databases"
+  ],
   "trackers": 0,
   "url": "https://tastedive.com/",
   "verdict": "Effectively ad-free"
@@ -214610,8 +214937,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 69.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 66.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -214619,7 +214946,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 406,
+  "page_kb": 431,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -214627,8 +214954,12 @@
   "refs": 2,
   "score": 78.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "TextFX",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://textfx.withgoogle.com/",
   "verdict": "Light advertising"
@@ -214789,8 +215120,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 12.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -214800,17 +215131,22 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1330,
+  "page_kb": 1355,
   "pages": [
    "Educational",
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.3,
+  "score": 79.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Japan Walkaround",
+  "topics": [
+   "Courses",
+   "Radio"
+  ],
   "trackers": 2,
   "url": "https://thatguyedd.github.io/",
   "verdict": "Light advertising"
@@ -216483,13 +216819,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 288,
+  "page_kb": 286,
   "pages": [
    "Adblock"
   ],
@@ -216497,8 +216833,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The New Oil | Home",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://thenewoil.org/",
   "verdict": "Effectively ad-free"
@@ -225906,8 +226246,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 19.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 20.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -225917,16 +226257,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 923,
+  "page_kb": 914,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.5,
+  "score": 75.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Pauls Online Math Notes",
+  "title": "Paul's Online Notes",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 2,
   "url": "https://tutorial.math.lamar.edu/",
   "verdict": "Light advertising"
@@ -229886,13 +230230,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 519,
+  "page_kb": 1735,
   "pages": [
    "Adblock"
   ],
@@ -229900,8 +230244,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "URL and website scanner - urlscan.io",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://urlscan.io/",
   "verdict": "Effectively ad-free"
@@ -233567,8 +233915,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 10.7,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -233576,19 +233924,26 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 180,
+  "page_kb": 202,
   "pages": [
    "Downloading",
-   "Gaming"
+   "Gaming",
+   "Mobile"
   ],
   "popups": 0,
-  "refs": 2,
-  "score": 89.5,
+  "refs": 3,
+  "score": 90.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Virgil Game Search",
+  "title": "Virgil Search",
+  "topics": [
+   "Android Apps",
+   "Downloads",
+   "Game Downloads"
+  ],
   "trackers": 0,
-  "url": "https://virgil-search.pages.dev/Games/",
+  "url": "https://virgil-search.pages.dev/?engine=games",
   "verdict": "Very clean"
  },
  "virgil.samidy.com": {
@@ -234636,23 +234991,28 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1054,
+  "page_kb": 1527,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 99.5,
+  "score": 98.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "VK \u0412\u0438\u0434\u0435\u043e \u2014 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
-  "trackers": 1,
+  "topics": [
+   "Live TV & Sports",
+   "Movies & TV"
+  ],
+  "trackers": 4,
   "url": "https://vkvideo.ru/",
   "verdict": "Effectively ad-free"
  },
@@ -237012,8 +237372,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.7,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -237021,16 +237381,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4395,
+  "page_kb": 4707,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 3,
+  "refs": 2,
   "score": 93.2,
-  "starred": 3,
+  "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CorsFlix",
+  "topics": [
+   "Movies & TV",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://watch.corsflix.dpdns.org",
   "verdict": "Very clean"
@@ -237039,8 +237404,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.7,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -237048,16 +237413,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4398,
+  "page_kb": 4710,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 3,
+  "refs": 2,
   "score": 93.2,
-  "starred": 3,
+  "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CorsFlix",
+  "topics": [
+   "Movies & TV",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://watch.corsflix.net",
   "verdict": "Very clean"
@@ -245481,8 +245851,8 @@
   "ad_domains": 1,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 14.1,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 11.7,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -245490,17 +245860,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5329,
+  "page_kb": 6482,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.5,
+  "score": 81.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NASA Worldview",
-  "trackers": 4,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 5,
   "url": "https://worldview.earthdata.nasa.gov/",
   "verdict": "Light advertising"
  },
@@ -246099,8 +246473,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 82.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 80.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -246108,7 +246482,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 332,
+  "page_kb": 348,
   "pages": [
    "Educational"
   ],
@@ -246116,8 +246490,12 @@
   "refs": 2,
   "score": 78.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Wumbo",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 2,
   "url": "https://wumbo.net/",
   "verdict": "Light advertising"
@@ -247040,32 +247418,34 @@
   "verdict": "Effectively ad-free"
  },
  "www.1shows.org": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "static.doubleclick.net"
-  ],
-  "ok": true,
-  "page_kb": 3912,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 185,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 89.5,
-  "starred": 4,
+  "score": 100.0,
+  "starred": 2,
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Galaxy Brain meme 1 Hour - YouTube",
+  "title": "1Shows",
+  "topics": [
+   "Movies & TV",
+   "Video Downloads"
+  ],
   "trackers": 0,
   "url": "https://www.1shows.org/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.1tamilblasters.luxe": {
   "ad_domains": 0,
@@ -247748,8 +248128,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 27.3,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 27.4,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -247758,7 +248138,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 605,
+  "page_kb": 624,
   "pages": [
    "Downloading"
   ],
@@ -247766,8 +248146,12 @@
   "refs": 2,
   "score": 75.8,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "4shared - free file sharing and storage",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 3,
   "url": "https://www.4shared.com/",
   "verdict": "Light advertising"
@@ -255833,8 +256217,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 25.6,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 26.1,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -255842,16 +256226,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 593,
+  "page_kb": 597,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 82.2,
+  "score": 82.0,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Bazarr",
+  "topics": [
+   "Subtitles",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://www.bazarr.media/",
   "verdict": "Light advertising"
@@ -260325,13 +260714,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 899,
+  "page_kb": 907,
   "pages": [
    "Educational"
   ],
@@ -260339,8 +260728,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://www.cbusters.com/home",
   "verdict": "Effectively ad-free"
@@ -263095,8 +263488,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 18.9,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -263104,16 +263497,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 979,
+  "page_kb": 869,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.8,
+  "score": 85.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Class Central \u2022 Find the best courses, wherever they exist.",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 1,
   "url": "https://www.classcentral.com/",
   "verdict": "Very clean"
@@ -264186,8 +264583,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -264198,16 +264595,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 41444,
+  "page_kb": 53766,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.9,
+  "score": 76.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Comfy - Professional Control of Visual AI",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 5,
   "url": "https://www.comfy.org/",
   "verdict": "Light advertising"
@@ -269191,10 +269592,10 @@
  },
  "www.docplus.com": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.4,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 0.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -269202,17 +269603,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9734,
+  "page_kb": 21955,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.8,
+  "score": 94.1,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DOCUMENTARY+",
-  "trackers": 3,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 2,
   "url": "https://www.docplus.com/",
   "verdict": "Very clean"
  },
@@ -269291,8 +269696,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 18.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 20.7,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -269300,17 +269705,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1504,
+  "page_kb": 1385,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.2,
+  "score": 80.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Documentary Area - Best Documentaries Online",
-  "trackers": 5,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 6,
   "url": "https://www.documentaryarea.com/",
   "verdict": "Light advertising"
  },
@@ -271865,8 +272274,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 9.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -271875,17 +272284,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5964,
+  "page_kb": 5944,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 77.0,
+  "score": 77.4,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "edX | Online Courses, Certificates & Degrees from Leading Institutions",
-  "trackers": 13,
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 12,
   "url": "https://www.edx.org/",
   "verdict": "Light advertising"
  },
@@ -274853,7 +275266,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -274867,8 +275280,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "eyedex - open directory search engine",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 0,
   "url": "https://www.eyedex.org/",
   "verdict": "Effectively ad-free"
@@ -275835,8 +276252,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 63.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 63.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -275844,7 +276261,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 780,
+  "page_kb": 792,
   "pages": [
    "Educational"
   ],
@@ -275852,8 +276269,12 @@
   "refs": 2,
   "score": 75.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Feynman Lectures on Physics",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 4,
   "url": "https://www.feynmanlectures.caltech.edu/",
   "verdict": "Light advertising"
@@ -278700,7 +279121,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -278714,8 +279135,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Flags of the World",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://www.fotw.info/flags/index.html",
   "verdict": "Effectively ad-free"
@@ -280508,13 +280933,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 25668,
+  "page_kb": 27822,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -280522,8 +280947,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Future Tools - The Pulse of AI",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://www.futuretools.io/?pricing-model=free",
   "verdict": "Effectively ad-free"
@@ -282583,38 +283012,39 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.godchecker.com": {
-  "ad_domains": 10,
-  "ad_requests": 134,
-  "ad_slots": 5,
-  "ad_weight_pct": 70.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 7,
+  "ad_requests": 40,
+  "ad_slots": 4,
+  "ad_weight_pct": 63.1,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ad.doubleclick.net",
-   "ade.googlesyndication.com",
+   "c1.adform.net",
    "cm.g.doubleclick.net",
+   "d.agkn.com",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "www.googletagservices.com"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2204,
+  "page_kb": 1163,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 8.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 1,
   "title": "Godchecker - Your Guide To The Gods",
-  "trackers": 4,
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 2,
   "url": "https://www.godchecker.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -285860,7 +286290,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -285874,8 +286304,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Historical Tech Tree",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 0,
   "url": "https://www.historicaltechtree.com/",
   "verdict": "Effectively ad-free"
@@ -288949,35 +289383,42 @@
   "verdict": "Light advertising"
  },
  "www.internetchemistry.com": {
-  "ad_domains": 8,
-  "ad_requests": 58,
-  "ad_slots": 2,
-  "ad_weight_pct": 72.2,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 11,
+  "ad_requests": 65,
+  "ad_slots": 1,
+  "ad_weight_pct": 80.3,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
-   "dis.criteo.com",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
+   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
+   "trc.taboola.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
   ],
   "ok": true,
-  "page_kb": 1183,
+  "page_kb": 2298,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.5,
+  "score": 23.5,
   "starred": 2,
-  "sticky_ads": 1,
+  "status": "online",
+  "sticky_ads": 0,
   "title": "Chemistry Search",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 3,
   "url": "https://www.internetchemistry.com/search.php",
   "verdict": "Ad-saturated / hostile"
@@ -291799,7 +292240,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -291813,8 +292254,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "KiCad - Schematic Capture & PCB Design Software",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://www.kicad.org/",
   "verdict": "Effectively ad-free"
@@ -296269,13 +296714,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 89,
   "pages": [
    "Educational"
   ],
@@ -296283,8 +296728,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "403 - Forbidden",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://www.lostandfoundnature.com/",
   "verdict": "Effectively ad-free"
@@ -297963,13 +298412,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3446,
+  "page_kb": 5493,
   "pages": [
    "Educational"
   ],
@@ -297977,8 +298426,12 @@
   "refs": 2,
   "score": 95.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Manim Community",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 0,
   "url": "https://www.manim.community/",
   "verdict": "Effectively ad-free"
@@ -305921,7 +306374,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -305932,11 +306385,15 @@
    "Streaming"
   ],
   "popups": 0,
-  "refs": 4,
+  "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Nikse - Subtitle Edit",
+  "topics": [
+   "Subtitles"
+  ],
   "trackers": 0,
   "url": "https://www.nikse.dk/subtitleedit",
   "verdict": "Effectively ad-free"
@@ -306599,7 +307056,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -306613,8 +307070,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "No Trace Project",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://www.notrace.how/",
   "verdict": "Effectively ad-free"
@@ -306864,13 +307325,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1197,
+  "page_kb": 1204,
   "pages": [
    "Downloading"
   ],
@@ -306878,8 +307339,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Nsane Forums - Computer and Technology Community, Software Update, Free Giveaways, Nsane.D",
+  "topics": [
+   "Downloads"
+  ],
   "trackers": 0,
   "url": "https://www.nsaneforums.com/",
   "verdict": "Effectively ad-free"
@@ -308164,8 +308629,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 6.8,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -308173,16 +308638,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2245,
+  "page_kb": 2242,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.7,
+  "score": 91.6,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "OneZoom web software Tree of Life Explorer",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 1,
   "url": "https://www.onezoom.org/",
   "verdict": "Very clean"
@@ -311338,38 +311807,46 @@
   "verdict": "Effectively ad-free"
  },
  "www.periodic-table.org": {
-  "ad_domains": 8,
-  "ad_requests": 15,
-  "ad_slots": 0,
-  "ad_weight_pct": 51.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_domains": 59,
+  "ad_requests": 201,
+  "ad_slots": 1,
+  "ad_weight_pct": 56.1,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
    "cdn.id5-sync.com",
-   "id5-sync.com",
-   "image6.pubmatic.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "u.openx.net",
-   "us-u.openx.net",
-   "www.googletagmanager.com"
+   "ce.lijit.com",
+   "cm.adform.net",
+   "cm.g.doubleclick.net",
+   "cs.media.net"
   ],
   "ok": true,
-  "page_kb": 542,
+  "page_kb": 1121,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 37.5,
+  "score": 24.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Periodic Table of Elements",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 2,
   "url": "https://www.periodic-table.org/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.periodicvideos.com": {
   "ad_domains": 0,
@@ -314873,7 +315350,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -314887,8 +315364,13 @@
   "refs": 4,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PrimeWire Official - Watch Movies Online for Free",
+  "topics": [
+   "Anime & Specialty",
+   "Movies & TV"
+  ],
   "trackers": 0,
   "url": "https://www.primewire.mov/",
   "verdict": "Effectively ad-free"
@@ -315543,8 +316025,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 22.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 23.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -315552,16 +316034,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 725,
+  "page_kb": 730,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.7,
+  "score": 83.4,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Prompt Engineering Guide | Prompt Engineering Guide",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://www.promptingguide.ai",
   "verdict": "Light advertising"
@@ -320121,8 +320607,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 22.2,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "ad_weight_pct": 67.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -320130,17 +320616,25 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 731,
+  "page_kb": 249,
   "pages": [
    "Reading",
    "Streaming"
   ],
   "popups": 0,
-  "refs": 14,
-  "score": 83.9,
-  "starred": 6,
+  "refs": 12,
+  "score": 80.0,
+  "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Rive Manga",
+  "topics": [
+   "Anime & Specialty",
+   "Comics & Manga",
+   "Live TV & Sports",
+   "Movies & TV",
+   "Torrents"
+  ],
   "trackers": 1,
   "url": "https://www.rivestream.app/",
   "verdict": "Light advertising"
@@ -328780,8 +329274,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 22.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 21.6,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -328792,16 +329286,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1387,
+  "page_kb": 1473,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 67.7,
+  "score": 68.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Get Trained | ACS Stop the Bleed",
+  "topics": [
+   "Science & Maths"
+  ],
   "trackers": 3,
   "url": "https://www.stopthebleed.org/get-trained/",
   "verdict": "Moderate advertising"
@@ -330273,8 +330771,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 5.9,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 5.5,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -330282,16 +330780,20 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2825,
+  "page_kb": 3116,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.0,
+  "score": 87.2,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SWE-bench Leaderboards",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 1,
   "url": "https://www.swebench.com/",
   "verdict": "Very clean"
@@ -331910,13 +332412,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 271,
+  "page_kb": 273,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -331924,8 +332426,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free Text to Speech Online",
+  "topics": [
+   "AI Tools"
+  ],
   "trackers": 0,
   "url": "https://www.text-to-speech.online/",
   "verdict": "Effectively ad-free"
@@ -332805,30 +333311,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.theoi.com": {
-  "ad_domains": 65,
-  "ad_requests": 244,
+  "ad_domains": 72,
+  "ad_requests": 286,
   "ad_slots": 4,
-  "ad_weight_pct": 68.7,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 64.2,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "60a589c689659bfb566de0b633334774.safeframe.googlesyndication.com",
+   "992c450e09c74e27cb20b1800378a59e.safeframe.googlesyndication.com",
    "a.teads.tv",
+   "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
-   "ads.pubmatic.com",
+   "ad.doubleclick.net",
    "ads.scorecardresearch.com",
-   "adx-winners-us-west-2-rtb.adroll.com",
+   "ads.yieldmo.com",
    "api.id5-sync.com",
    "at.teads.tv",
-   "btlr.sharethrough.com",
-   "c.amazon-adsystem.com",
-   "c.aps.amazon-adsystem.com",
-   "c1.adform.net"
+   "b1sync.outbrain.com",
+   "bb.lijit.com",
+   "btlr.sharethrough.com"
   ],
   "ok": true,
-  "page_kb": 2607,
+  "page_kb": 2629,
   "pages": [
    "Educational"
   ],
@@ -332836,8 +333342,12 @@
   "refs": 2,
   "score": 3.5,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 1,
   "title": "THEOI GREEK MYTHOLOGY - Exploring Mythology in Classical Literature & Art",
+  "topics": [
+   "Learning"
+  ],
   "trackers": 3,
   "url": "https://www.theoi.com/",
   "verdict": "Ad-saturated / hostile"
@@ -333005,7 +333515,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -333019,8 +333529,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Punctuation Guide",
+  "topics": [
+   "Courses"
+  ],
   "trackers": 0,
   "url": "https://www.thepunctuationguide.com/",
   "verdict": "Effectively ad-free"
@@ -333182,7 +333696,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T16:09:28+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -333196,8 +333710,13 @@
   "refs": 4,
   "score": 100.0,
   "starred": 4,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The StoryGraph | Because life's too short for a book you're not in the mood for",
+  "topics": [
+   "Ebooks",
+   "Trackers & Databases"
+  ],
   "trackers": 0,
   "url": "https://www.thestorygraph.com/",
   "verdict": "Effectively ad-free"
@@ -334757,13 +335276,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1660,
+  "page_kb": 1661,
   "pages": [
    "Adblock"
   ],
@@ -334771,8 +335290,12 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Tor Project | Anonymity Online",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://www.torproject.org/",
   "verdict": "Effectively ad-free"
@@ -337986,8 +338509,8 @@
   "ad_domains": 2,
   "ad_requests": 12,
   "ad_slots": 1,
-  "ad_weight_pct": 63.6,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 61.4,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -337996,7 +338519,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 519,
+  "page_kb": 491,
   "pages": [
    "Adblock"
   ],
@@ -338004,8 +338527,12 @@
   "refs": 2,
   "score": 56.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Check if a Website is Malicious/Scam or Safe/Legit | URLVoid",
+  "topics": [
+   "Adblocking"
+  ],
   "trackers": 0,
   "url": "https://www.urlvoid.com/",
   "verdict": "Heavy advertising"
@@ -350525,29 +351052,33 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 9.8,
-  "checked_utc": "2026-08-13T17:57:57+00:00",
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-09-12T21:40:48+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1868,
+  "page_kb": 1873,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.1,
+  "score": 83.0,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Zperiod: Interactive Periodic Table (118 Elements, 3D Atom Models)",
-  "trackers": 2,
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 6,
   "url": "https://zperiod.app/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "zradio.co.il": {
   "ad_domains": 3,
