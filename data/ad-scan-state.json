@@ -3342,30 +3342,30 @@
   "verdict": "Effectively ad-free"
  },
  "a-z-animals.com": {
-  "ad_domains": 67,
-  "ad_requests": 200,
+  "ad_domains": 84,
+  "ad_requests": 380,
   "ad_slots": 3,
-  "ad_weight_pct": 81.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 38.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "12a855035e0f8414f31624ab0fb4d085.safeframe.googlesyndication.com",
    "a.teads.tv",
-   "ade.googlesyndication.com",
+   "a4192.casalemedia.com",
+   "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "ap.lijit.com",
    "api.id5-sync.com",
    "at.teads.tv",
-   "bid.g.doubleclick.net",
-   "bidline-us-east.bidswitch.net",
+   "b1sync.outbrain.com",
    "btlr.sharethrough.com",
-   "c.amazon-adsystem.com"
+   "c1.adform.net",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 11472,
+  "page_kb": 3660,
   "pages": [
    "Educational"
   ],
@@ -3373,6 +3373,7 @@
   "refs": 1,
   "score": 8.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 1,
   "title": "Animal Encyclopedia With Facts, Pictures, Stories, and More! - A-Z Animals",
   "topics": [
@@ -4115,10 +4116,10 @@
  },
  "academo.org": {
   "ad_domains": 3,
-  "ad_requests": 8,
+  "ad_requests": 9,
   "ad_slots": 1,
-  "ad_weight_pct": 40.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 42.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -4128,14 +4129,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1013,
+  "page_kb": 1038,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 57.5,
+  "score": 56.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home | Academo.org - Free, interactive, education.",
   "topics": [
@@ -14842,7 +14844,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -14851,7 +14853,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 55137,
+  "page_kb": 81482,
   "pages": [
    "Adblock"
   ],
@@ -14859,6 +14861,7 @@
   "refs": 1,
   "score": 90.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ANY.RUN - Interactive Online Malware Sandbox",
   "topics": [
@@ -15214,7 +15217,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -15222,20 +15225,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 10124,
+  "page_kb": 10126,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 94.2,
+  "score": 94.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NASA Open APIs",
   "topics": [
    "Learning"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://api.nasa.gov/",
   "verdict": "Very clean"
  },
@@ -15493,7 +15497,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -15509,6 +15513,7 @@
   "refs": 1,
   "score": 95.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Project Apollo Archive",
   "topics": [
@@ -16232,8 +16237,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 27.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 28.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -16241,20 +16246,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 604,
+  "page_kb": 609,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 80.8,
+  "score": 81.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Dashboard - ToolBaz Pro",
   "topics": [
    "AI Tools"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://app.toolbaz.com/ai-tools/list",
   "verdict": "Light advertising"
  },
@@ -20036,13 +20042,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 7849,
+  "page_kb": 7851,
   "pages": [
    "Educational"
   ],
@@ -20050,6 +20056,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home | ASLCORE",
   "topics": [
@@ -28234,13 +28241,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1879,
+  "page_kb": 1887,
   "pages": [
    "Downloading"
   ],
@@ -28248,6 +28255,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "decryption's blog - Build A Fully Automated Usenet Piracy Machine With Plex, Sabnzbd & Son",
   "topics": [
@@ -31839,7 +31847,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -31853,6 +31861,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "BSL SignBank",
   "topics": [
@@ -33252,7 +33261,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -33266,6 +33275,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Calculating Empires",
   "topics": [
@@ -33948,8 +33958,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 9.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -33957,20 +33967,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2415,
+  "page_kb": 1838,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 5,
-  "score": 91.1,
+  "score": 90.3,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Arena AI: The Official AI Ranking & LLM Leaderboard",
   "topics": [
    "AI Tools"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://canaryarena.ai/",
   "verdict": "Very clean"
  },
@@ -38281,13 +38292,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2661,
+  "page_kb": 2679,
   "pages": [
    "Educational"
   ],
@@ -38295,6 +38306,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Chromatone | Chromatone.center",
   "topics": [
@@ -40066,45 +40078,33 @@
   "verdict": "Effectively ad-free"
  },
  "citywalks.live": {
-  "ad_domains": 62,
-  "ad_requests": 239,
-  "ad_slots": 2,
-  "ad_weight_pct": 23.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
-  "networks": [
-   "2102a01ae57b91e1878083f0b1fe086a.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "ads.pubmatic.com",
-   "adstudio-asset-lib.flashtalking.com",
-   "ap.lijit.com",
-   "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net",
-   "c1.adform.net",
-   "cdn.flashtalking.com",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 4182,
+  "page_kb": 61,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 22.5,
+  "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "City Walks Live: Virtual Tours in the World. Travels, Flights & Hotels",
+  "title": "Robot Challenge Screen",
   "topics": [
    "Courses"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://citywalks.live/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "civarchive.com": {
   "ad_domains": 1,
@@ -41834,13 +41834,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 409,
+  "page_kb": 845,
   "pages": [
    "Adblock"
   ],
@@ -41848,6 +41848,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "briar / briar \u00b7 GitLab",
   "topics": [
@@ -45908,13 +45909,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 947,
+  "page_kb": 937,
   "pages": [
    "Adblock"
   ],
@@ -45922,6 +45923,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Cover Your Tracks",
   "topics": [
@@ -47545,11 +47547,11 @@
   "verdict": "Very clean"
  },
  "cstimer.net": {
-  "ad_domains": 9,
-  "ad_requests": 16,
+  "ad_domains": 8,
+  "ad_requests": 17,
   "ad_slots": 0,
-  "ad_weight_pct": 92.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 92.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -47557,7 +47559,6 @@
    "cdn.id5-sync.com",
    "googleads.g.doubleclick.net",
    "id5-sync.com",
-   "image6.pubmatic.com",
    "lb.eu-1-id5-sync.com",
    "lbs.eu-1-id5-sync.com",
    "pagead2.googlesyndication.com",
@@ -47565,14 +47566,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 521,
+  "page_kb": 467,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 35.5,
+  "score": 35.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "csTimer - Professional Rubik's Cube Speedsolving/Training Timer",
   "topics": [
@@ -48068,7 +48070,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -48082,6 +48084,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Cuckoo Sandbox",
   "topics": [
@@ -50224,8 +50227,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 7.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 8.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -50236,7 +50239,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5968,
+  "page_kb": 5977,
   "pages": [
    "Educational"
   ],
@@ -50244,6 +50247,7 @@
   "refs": 1,
   "score": 72.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Census Bureau Data",
   "topics": [
@@ -50284,25 +50288,26 @@
  },
  "data.gov": {
   "ad_domains": 1,
-  "ad_requests": 9,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 30.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 31.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1901,
+  "page_kb": 1888,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 68.5,
+  "score": 76.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Data.gov Home - Data.gov",
   "topics": [
@@ -50310,7 +50315,7 @@
   ],
   "trackers": 0,
   "url": "https://data.gov/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "data.im-ldi.com": {
   "ad_domains": 2,
@@ -50377,8 +50382,8 @@
   "ad_domains": 2,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 67.7,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 74.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -50387,20 +50392,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 713,
+  "page_kb": 893,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 69.0,
+  "score": 68.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "UNdata",
   "topics": [
    "Learning"
   ],
-  "trackers": 5,
+  "trackers": 6,
   "url": "https://data.un.org/",
   "verdict": "Moderate advertising"
  },
@@ -50436,36 +50442,41 @@
   "verdict": "Very clean"
  },
  "databank.worldbank.org": {
-  "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_domains": 7,
+  "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 0.1,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 13.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "D",
   "networks": [
+   "ad.doubleclick.net",
    "cm.everesttech.net",
    "dpm.demdex.net",
-   "worldbank.demdex.net"
+   "googleads.g.doubleclick.net",
+   "worldbank.demdex.net",
+   "www.googleadservices.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 818,
+  "page_kb": 1267,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.5,
+  "score": 53.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DataBank | The World Bank",
   "topics": [
    "Learning"
   ],
-  "trackers": 0,
+  "trackers": 6,
   "url": "https://databank.worldbank.org/",
-  "verdict": "Light advertising"
+  "verdict": "Heavy advertising"
  },
  "database.ilga.org": {
   "ad_domains": 3,
@@ -50725,33 +50736,33 @@
   "verdict": "Very clean"
  },
  "datausa.io": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [
-   "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9515,
+  "page_kb": 1713,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 87.6,
+  "score": 90.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Data USA",
   "topics": [
    "Learning"
   ],
-  "trackers": 5,
+  "trackers": 1,
   "url": "https://datausa.io/",
   "verdict": "Very clean"
  },
@@ -55777,13 +55788,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 267,
+  "page_kb": 272,
   "pages": [
    "Adblock",
    "Mobile"
@@ -55792,6 +55803,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Privacy Guides Community - The largest personal privacy forum - Ask questions, find consum",
   "topics": [
@@ -58082,7 +58094,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -58096,6 +58108,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "FAQ: Installation - Manim Community v0.21.0",
   "topics": [
@@ -60906,8 +60919,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 1.1,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -60916,14 +60929,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 28459,
+  "page_kb": 19541,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 88.0,
+  "score": 87.7,
   "starred": 2,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Dreamina: Create realistic talking avatars with AI avatar generator",
   "topics": [
@@ -60938,7 +60952,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -60946,7 +60960,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3611,
+  "page_kb": 3618,
   "pages": [
    "Educational"
   ],
@@ -60954,6 +60968,7 @@
   "refs": 1,
   "score": 95.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Dreaming \u2013 Immersive Language Learning",
   "topics": [
@@ -61562,31 +61577,30 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 21,
+  "page_kb": 307,
   "pages": [
    "Adblock",
-   "Gaming",
-   "Storage"
+   "Gaming"
   ],
   "popups": 0,
-  "refs": 4,
+  "refs": 2,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "DuckDuckGo - Protection. Privacy. Peace of mind.",
+  "title": "DuckDuckGo !Bangs",
   "topics": [
    "Adblocking",
-   "Browser Games",
-   "File Storage"
+   "Browser Games"
   ],
   "trackers": 0,
-  "url": "https://duckduckgo.com/?q=site%3At.me+books&ia=web",
+  "url": "https://duckduckgo.com/bangs",
   "verdict": "Effectively ad-free"
  },
  "due.moe": {
@@ -62550,35 +62564,29 @@
   "verdict": "Very clean"
  },
  "easiestsolve.com": {
-  "ad_domains": 10,
-  "ad_requests": 15,
+  "ad_domains": 3,
+  "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 15.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 15.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "ib.adnxs.com",
-   "image2.pubmatic.com",
    "pagead2.googlesyndication.com",
-   "pixel.quantserve.com",
-   "rules.quantcount.com",
-   "secure.quantserve.com",
-   "static.doubleclick.net",
-   "us-u.openx.net"
+   "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1601,
+  "page_kb": 1605,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 44.8,
+  "score": 71.3,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Easiest Solve \u2013 Easiest Way to Solve a Rubik's Cube \u2013 Anyone Can Solve a Rubik's cube",
   "topics": [
@@ -62586,7 +62594,7 @@
   ],
   "trackers": 0,
   "url": "https://easiestsolve.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "easterneuropeanmovies.com": {
   "ad_domains": 1,
@@ -62838,7 +62846,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62852,6 +62860,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "EasySubs \u2013 Learn languages from videos you watch",
   "topics": [
@@ -63916,8 +63925,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 51.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 52.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -63925,7 +63934,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 322,
+  "page_kb": 327,
   "pages": [
    "Educational"
   ],
@@ -63933,6 +63942,7 @@
   "refs": 1,
   "score": 80.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Geography Quizzes & Guides | OpenGuessr Education",
   "topics": [
@@ -68417,7 +68427,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -68431,6 +68441,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "European Alternatives",
   "topics": [
@@ -74553,45 +74564,37 @@
   "verdict": "Effectively ad-free"
  },
  "flagid.org": {
-  "ad_domains": 65,
-  "ad_requests": 208,
-  "ad_slots": 3,
-  "ad_weight_pct": 70.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 14,
+  "ad_slots": 2,
+  "ad_weight_pct": 42.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "742180926c9a8b74b59df80780155704.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "ads.pubmatic.com",
-   "adx2.adform.net",
-   "ap.lijit.com",
-   "bcp.crwdcntrl.net",
-   "c1.adform.net",
-   "cdn-gusw1-xch.media.net",
-   "ce.lijit.com",
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "cs.media.net"
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1702,
+  "page_kb": 1158,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 14.0,
+  "score": 44.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Identify a Flag - Flagid",
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://flagid.org/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "flagle-game.com": {
   "ad_domains": 53,
@@ -75011,36 +75014,38 @@
   "verdict": "Effectively ad-free"
  },
  "flavourmachine.com": {
-  "ad_domains": 3,
-  "ad_requests": 12,
+  "ad_domains": 4,
+  "ad_requests": 18,
   "ad_slots": 1,
-  "ad_weight_pct": 3.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "D",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 14688,
+  "page_kb": 14785,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 64.2,
+  "score": 51.6,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Flavourmachine Magic - Earth Magic Portal Generator",
   "topics": [
    "Courses"
   ],
-  "trackers": 4,
+  "trackers": 5,
   "url": "https://flavourmachine.com/portal-generator/",
-  "verdict": "Moderate advertising"
+  "verdict": "Heavy advertising"
  },
  "flemmix.fast": {
   "ad_domains": 0,
@@ -82831,13 +82836,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 439,
+  "page_kb": 16,
   "pages": [
    "Educational"
   ],
@@ -82845,6 +82850,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "git-commands | \ud83d\udcbb Main Git Commands",
   "topics": [
@@ -85025,7 +85031,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -85039,6 +85045,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "GeoGrid \u2014 Free Daily Geography Grid Game | Unlimited Mode & Country Grid Puzzle",
   "topics": [
@@ -86895,13 +86902,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 295,
+  "page_kb": 183,
   "pages": [
    "Adblock",
    "Linux"
@@ -86910,6 +86917,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "lolcat/4get: 4get is a proxy search engine that doesn't suck - 4get - lolcat's git serber",
   "topics": [
@@ -90458,13 +90466,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1627,
+  "page_kb": 1630,
   "pages": [
    "Downloading",
    "Streaming"
@@ -90473,6 +90481,7 @@
   "refs": 3,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Adjust subtitles in seconds like a pro \u2013 Telegraph",
   "topics": [
@@ -97680,7 +97689,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -97694,6 +97703,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Horizon EDA",
   "topics": [
@@ -99486,7 +99496,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -99500,6 +99510,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "HyperPhysics Concepts",
   "topics": [
@@ -101338,28 +101349,28 @@
   "verdict": "Light advertising"
  },
  "iep.utm.edu": {
-  "ad_domains": 3,
-  "ad_requests": 3,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 26.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 24.4,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
-   "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 661,
+  "page_kb": 645,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 3,
-  "score": 71.8,
+  "score": 77.3,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Fallacies | Internet Encyclopedia of Philosophy",
   "topics": [
@@ -101367,7 +101378,7 @@
   ],
   "trackers": 3,
   "url": "https://iep.utm.edu/fallacy/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "iestudar.com": {
   "ad_domains": 4,
@@ -102265,7 +102276,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -102273,20 +102284,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 42097,
+  "page_kb": 41353,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 94.8,
+  "score": 94.3,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NASA Image and Video Library",
   "topics": [
    "Learning"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://images.nasa.gov/",
   "verdict": "Very clean"
  },
@@ -111769,7 +111781,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -111783,6 +111795,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "KiCad Libraries",
   "topics": [
@@ -118276,8 +118289,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 3.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 1.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -118286,20 +118299,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 12821,
+  "page_kb": 24655,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.3,
+  "score": 83.7,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Prompt Engineering Guide: The Ultimate Guide to Generative AI",
   "topics": [
    "AI Tools"
   ],
-  "trackers": 4,
+  "trackers": 7,
   "url": "https://learnprompting.org/docs/introduction",
   "verdict": "Light advertising"
  },
@@ -120575,8 +120589,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 9.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -120584,16 +120598,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1343,
+  "page_kb": 1788,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 88.4,
+  "score": 89.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Models Table (10,000+ data points) \u2014 Dr Alan D. Thompson \u2014 LifeArchitect.ai",
+  "title": "Models Table (1,000+ models and 40,000+ data points) \u2014 Dr Alan D. Thompson \u2014 LifeArchitect",
   "topics": [
    "AI Tools"
   ],
@@ -120602,39 +120617,37 @@
   "verdict": "Very clean"
  },
  "lifeprint.com": {
-  "ad_domains": 6,
-  "ad_requests": 59,
-  "ad_slots": 3,
-  "ad_weight_pct": 36.7,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 12,
+  "ad_slots": 2,
+  "ad_weight_pct": 17.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "static.doubleclick.net",
-   "tpc.googlesyndication.com"
+   "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2055,
+  "page_kb": 1430,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 16.0,
+  "score": 53.2,
   "starred": 1,
-  "sticky_ads": 1,
+  "status": "online",
+  "sticky_ads": 0,
   "title": "ASL American Sign Language",
   "topics": [
    "Courses"
   ],
   "trackers": 2,
   "url": "https://lifeprint.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "lifeundertheice.org": {
   "ad_domains": 1,
@@ -123320,7 +123333,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -123334,6 +123347,7 @@
   "refs": 1,
   "score": 99.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Lizard Point Quizzes - Interactive Map Quizzes",
   "topics": [
@@ -131790,16 +131804,17 @@
   "verdict": "Effectively ad-free"
  },
  "material-properties.org": {
-  "ad_domains": 6,
-  "ad_requests": 9,
+  "ad_domains": 7,
+  "ad_requests": 15,
   "ad_slots": 0,
   "ad_weight_pct": 10.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "D",
   "networks": [
    "cdn.id5-sync.com",
+   "fid.agkn.com",
    "id5-sync.com",
    "image6.pubmatic.com",
    "lb.eu-1-id5-sync.com",
@@ -131807,14 +131822,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2774,
+  "page_kb": 2810,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 62.4,
+  "score": 50.4,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Material Properties | Website about Elements and Materials",
   "topics": [
@@ -131822,7 +131838,7 @@
   ],
   "trackers": 2,
   "url": "https://material-properties.org/",
-  "verdict": "Moderate advertising"
+  "verdict": "Heavy advertising"
  },
  "material-shell.com": {
   "ad_domains": 2,
@@ -131889,8 +131905,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -131899,14 +131915,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2956,
+  "page_kb": 2955,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.9,
+  "score": 85.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Bookshelves - Mathematics LibreTexts",
   "topics": [
@@ -131950,13 +131967,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2432,
+  "page_kb": 2497,
   "pages": [
    "Educational"
   ],
@@ -131964,8 +131981,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "MathDash \u2014 Learn Math with the Right Guidance",
+  "title": "MathDash \u2014 Know Exactly Where Your Student Stands | AMC, MATHCOUNTS & AIME",
   "topics": [
    "Science & Maths"
   ],
@@ -132417,7 +132435,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -132431,6 +132449,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "MatsuriDayo",
   "topics": [
@@ -134278,13 +134297,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1442,
+  "page_kb": 300,
   "pages": [
    "Educational",
    "Gaming"
@@ -134293,6 +134312,7 @@
   "refs": 3,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Memorize Earth \u2014 Geography Trainer",
   "topics": [
@@ -140722,7 +140742,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -140736,6 +140756,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - StoreWeb",
   "topics": [
@@ -144858,7 +144879,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -144872,6 +144893,7 @@
   "refs": 4,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "higher category theory and physics in nLab",
   "topics": [
@@ -145624,13 +145646,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 716,
+  "page_kb": 421,
   "pages": [
    "Adblock"
   ],
@@ -145638,6 +145660,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NetBird - Open Source Zero Trust Networking",
   "topics": [
@@ -146028,7 +146051,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -146042,6 +146065,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NeverWrite \u2014 Private knowledge workspace for small teams",
   "topics": [
@@ -148177,13 +148201,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 622,
+  "page_kb": 615,
   "pages": [
    "Adblock"
   ],
@@ -148191,6 +148215,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DuckDuckGo No-AI: Private Search Without AI",
   "topics": [
@@ -150286,8 +150311,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 38.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 41.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -150295,22 +150320,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 394,
+  "page_kb": 372,
   "pages": [
    "Educational",
    "Reading"
   ],
   "popups": 0,
   "refs": 3,
-  "score": 80.0,
+  "score": 80.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Search - NASA Technical Reports Server (NTRS)",
   "topics": [
    "Articles & Docs",
    "Learning"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://ntrs.nasa.gov/collections/pubspace",
   "verdict": "Light advertising"
  },
@@ -152475,7 +152501,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -152489,6 +152515,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ODCrawler",
   "topics": [
@@ -156560,7 +156587,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -156574,6 +156601,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Open Music Theory \u2013 Open Music Theory",
   "topics": [
@@ -157858,7 +157886,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -157871,7 +157899,8 @@
   "popups": 0,
   "refs": 1,
   "score": 100.0,
-  "starred": 1,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "oPhysics",
   "topics": [
@@ -159537,8 +159566,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -159546,14 +159575,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5450,
+  "page_kb": 4267,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 92.6,
+  "score": 92.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Outside Simulator",
   "topics": [
@@ -163186,7 +163216,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -163200,6 +163230,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Personaldata.info",
   "topics": [
@@ -168949,7 +168980,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -168963,6 +168994,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Awesome Privacy | awesome-privacy",
   "topics": [
@@ -172835,13 +172867,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 149,
+  "page_kb": 154,
   "pages": [
    "Adblock",
    "Mobile"
@@ -172850,6 +172882,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Privacy Guides: Independent Privacy & Security Resources",
   "topics": [
@@ -172865,13 +172898,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1013,
+  "page_kb": 1017,
   "pages": [
    "Adblock",
    "Mobile"
@@ -172880,6 +172913,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Privacy Guides: Independent Privacy & Security Resources",
   "topics": [
@@ -173120,7 +173154,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -173135,6 +173169,7 @@
   "refs": 3,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "PrivSec - A practical approach to Privacy and Security",
   "topics": [
@@ -177564,10 +177599,10 @@
  },
  "radiologyassistant.nl": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 7.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 7.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -177575,14 +177610,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3786,
+  "page_kb": 3903,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 89.3,
+  "score": 87.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Radiology Assistant : Home",
   "topics": [
@@ -178086,8 +178122,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 2.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 3.8,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -178095,14 +178131,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 18524,
+  "page_kb": 11340,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.3,
+  "score": 89.6,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "RAMMB/CIRA SLIDER: GOES-19 (East; 75.2W) Satellite Imagery: Full Disk Sector: GeoColor (CI",
   "topics": [
@@ -183116,7 +183153,7 @@
   "ad_requests": 0,
   "ad_slots": 2,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -183130,6 +183167,7 @@
   "refs": 1,
   "score": 90.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Report an issue | AdGuard",
   "topics": [
@@ -186937,30 +186975,30 @@
   "verdict": "Moderate advertising"
  },
  "rpgbot.net": {
-  "ad_domains": 74,
-  "ad_requests": 196,
+  "ad_domains": 57,
+  "ad_requests": 180,
   "ad_slots": 2,
-  "ad_weight_pct": 84.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 46.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "32e320cba87ec9d20e6ed576772ca825.safeframe.googlesyndication.com",
    "a.teads.tv",
-   "aa.agkn.com",
    "ad.doubleclick.net",
-   "ade.googlesyndication.com",
-   "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
-   "ads.yieldmo.com",
    "api.id5-sync.com",
-   "at.teads.tv",
-   "bid.g.doubleclick.net",
    "btlr.sharethrough.com",
-   "c.amazon-adsystem.com"
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "content.quantcount.com",
+   "creative-measurement.quantcount.com",
+   "d9.flashtalking.com",
+   "direct.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 15925,
+  "page_kb": 2420,
   "pages": [
    "Educational"
   ],
@@ -186968,6 +187006,7 @@
   "refs": 1,
   "score": 12.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 1,
   "title": "RPGBOT.net - Award-Winning Online Resource for TTRPGs",
   "topics": [
@@ -187448,37 +187487,39 @@
   "verdict": "Light advertising"
  },
  "rubikstrainer.com": {
-  "ad_domains": 4,
-  "ad_requests": 20,
+  "ad_domains": 5,
+  "ad_requests": 34,
   "ad_slots": 2,
-  "ad_weight_pct": 57.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 63.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 855,
+  "page_kb": 1233,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 32.0,
+  "score": 24.5,
   "starred": 1,
-  "sticky_ads": 0,
+  "status": "online",
+  "sticky_ads": 1,
   "title": "Solve the Rubiks Cube in seconds. Alghoritms, Practice, Formula, Timer, Speedcubing | Rubi",
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://rubikstrainer.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "rubikverse.com": {
   "ad_domains": 2,
@@ -188317,8 +188358,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 2.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 2.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -188327,7 +188368,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 26182,
+  "page_kb": 26198,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -188335,6 +188376,7 @@
   "refs": 1,
   "score": 82.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free AI Writer, Content Generator & Writing Assistant | Rytr",
   "topics": [
@@ -189341,7 +189383,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -189355,6 +189397,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Cuckoo Sandbox",
   "topics": [
@@ -190031,7 +190074,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -190045,6 +190088,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SBB Home",
   "topics": [
@@ -191194,8 +191238,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 38.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 90.8,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -191203,7 +191247,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 404,
+  "page_kb": 177,
   "pages": [
    "Downloading",
    "Linux",
@@ -191213,6 +191257,7 @@
   "refs": 5,
   "score": 80.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Scnlog.me \u2013 Latest releases from The Scene",
   "topics": [
@@ -196191,17 +196236,15 @@
   "verdict": "Effectively ad-free"
  },
  "signacademy.org": {
-  "ad_domains": 7,
-  "ad_requests": 47,
-  "ad_slots": 3,
-  "ad_weight_pct": 6.7,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 5,
+  "ad_requests": 44,
+  "ad_slots": 5,
+  "ad_weight_pct": 6.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
@@ -196209,22 +196252,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11442,
+  "page_kb": 11501,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 30.2,
+  "score": 16.2,
   "starred": 1,
-  "sticky_ads": 0,
+  "status": "online",
+  "sticky_ads": 2,
   "title": "Sign Academy - Curated Youtube Videos for Free Sign Language Education - Sign Academy",
   "topics": [
    "Courses"
   ],
   "trackers": 1,
   "url": "https://signacademy.org/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "signal.org": {
   "ad_domains": 0,
@@ -196292,13 +196336,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 10870,
+  "page_kb": 14096,
   "pages": [
    "Adblock"
   ],
@@ -196306,6 +196350,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Signal Stickers",
   "topics": [
@@ -196320,13 +196365,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 444,
+  "page_kb": 446,
   "pages": [
    "Educational"
   ],
@@ -196334,6 +196379,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sign Dictionary",
   "topics": [
@@ -202216,32 +202262,33 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 3.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 2.8,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4905,
+  "page_kb": 6148,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.3,
+  "score": 86.6,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SpaceFromSpace | Satellite Imagery Archive",
   "topics": [
    "Learning"
   ],
-  "trackers": 9,
+  "trackers": 3,
   "url": "https://spacefromspace.com/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "spacesim.co": {
   "ad_domains": 0,
@@ -204193,40 +204240,37 @@
   "verdict": "Light advertising"
  },
  "sqlbolt.com": {
-  "ad_domains": 7,
-  "ad_requests": 32,
+  "ad_domains": 3,
+  "ad_requests": 11,
   "ad_slots": 1,
-  "ad_weight_pct": 57.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 50.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1033,
+  "page_kb": 859,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 27.5,
+  "score": 52.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SQLBolt - Learn SQL - Introduction to SQL",
   "topics": [
    "Courses"
   ],
-  "trackers": 3,
+  "trackers": 4,
   "url": "https://sqlbolt.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "sqlpd.com": {
   "ad_domains": 0,
@@ -206529,33 +206573,36 @@
   "verdict": "Effectively ad-free"
  },
  "store.rg-adguard.net": {
-  "ad_domains": 8,
-  "ad_requests": 26,
+  "ad_domains": 10,
+  "ad_requests": 73,
   "ad_slots": 2,
-  "ad_weight_pct": 48.1,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 70.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "22c5003b41366098678ca4eda42a80df.safeframe.googlesyndication.com",
+   "bb.lijit.com",
    "cm.g.doubleclick.net",
-   "cs.media.net",
-   "db4e7b8246cacfa7d502d8b90bb7331e.safeframe.googlesyndication.com",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
+   "ssum-sec.casalemedia.com",
    "stats.g.doubleclick.net",
+   "sync.targeting.unrulymedia.com",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1145,
+  "page_kb": 1406,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 14.0,
+  "score": 13.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 1,
   "title": "Microsoft Store - Generation Project (v1.2.3) [by @rgadguard]",
   "topics": [
@@ -209771,21 +209818,21 @@
   "ad_domains": 6,
   "ad_requests": 48,
   "ad_slots": 2,
-  "ad_weight_pct": 73.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 72.9,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "sync-tm.everesttech.net",
    "sync.teads.tv",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 946,
+  "page_kb": 912,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -209793,6 +209840,7 @@
   "refs": 1,
   "score": 25.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Suno AI Wiki | Suno Wiki",
   "topics": [
@@ -212021,13 +212069,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1336,
+  "page_kb": 1186,
   "pages": [
    "Adblock"
   ],
@@ -212035,6 +212083,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Tails",
   "topics": [
@@ -215294,13 +215343,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 230,
+  "page_kb": 231,
   "pages": [
    "Educational"
   ],
@@ -215308,6 +215357,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Teuteuf Games | Play Online Games Free",
   "topics": [
@@ -221693,11 +221743,11 @@
   "verdict": "Effectively ad-free"
  },
  "toolbaz.com": {
-  "ad_domains": 53,
-  "ad_requests": 220,
+  "ad_domains": 70,
+  "ad_requests": 305,
   "ad_slots": 0,
-  "ad_weight_pct": 6.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 8.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -221712,18 +221762,19 @@
    "b1sync.outbrain.com",
    "c1.adform.net",
    "cdn.id5-sync.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net"
+   "ce.lijit.com",
+   "cm.adform.net"
   ],
   "ok": true,
-  "page_kb": 7069,
+  "page_kb": 4866,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 40.5,
+  "score": 39.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ToolBaz : Free AI Tools (GPT-5, Claude, Gemini & More)",
   "topics": [
@@ -222554,7 +222605,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -222568,6 +222619,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Tor Project | Anonymity Online",
   "topics": [
@@ -224630,7 +224682,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -224639,7 +224691,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 996,
+  "page_kb": 1136,
   "pages": [
    "Educational"
   ],
@@ -224647,6 +224699,7 @@
   "refs": 1,
   "score": 91.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Travel Remotely",
   "topics": [
@@ -233273,13 +233326,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1703,
+  "page_kb": 1621,
   "pages": [
    "Educational"
   ],
@@ -233287,6 +233340,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Vexilo - Discover Flags from Around the World",
   "topics": [
@@ -234903,30 +234957,30 @@
   "verdict": "Effectively ad-free"
  },
  "virtualvacation.us": {
-  "ad_domains": 51,
-  "ad_requests": 168,
+  "ad_domains": 60,
+  "ad_requests": 176,
   "ad_slots": 3,
-  "ad_weight_pct": 16.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 16.8,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "275251dc6d5960ad9a9c1e2344276df8.safeframe.googlesyndication.com",
+   "137b988e9668fc5d3158b9f0e2bc3b15.safeframe.googlesyndication.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
+   "ads.yieldmo.com",
    "ap.lijit.com",
-   "b1sync.outbrain.com",
-   "bb.lijit.com",
    "bcp.crwdcntrl.net",
    "c1.adform.net",
    "cdn.id5-sync.com",
    "ce.lijit.com",
    "cm.adform.net",
-   "cm.g.doubleclick.net"
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com"
   ],
   "ok": true,
-  "page_kb": 7115,
+  "page_kb": 6971,
   "pages": [
    "Educational",
    "Gaming",
@@ -234934,8 +234988,9 @@
   ],
   "popups": 0,
   "refs": 4,
-  "score": 20.7,
+  "score": 20.6,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "City Guesser - Can you guess what city you're in?",
   "topics": [
@@ -235445,7 +235500,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -235459,6 +235514,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Open Music Theory \u2013 Simple Book Publishing",
   "topics": [
@@ -237313,7 +237369,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -237322,7 +237378,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 3339,
+  "page_kb": 1798,
   "pages": [
    "Educational"
   ],
@@ -237330,6 +237386,7 @@
   "refs": 1,
   "score": 91.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Walk with Feel",
   "topics": [
@@ -239652,8 +239709,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 2.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -239661,14 +239718,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4784,
+  "page_kb": 6769,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 92.4,
+  "score": 92.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Evan Chen \u2022 Homepage of Evan Chen",
   "topics": [
@@ -240322,7 +240380,7 @@
   "ad_requests": 11,
   "ad_slots": 2,
   "ad_weight_pct": 3.7,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -240333,7 +240391,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11176,
+  "page_kb": 11177,
   "pages": [
    "Adblock"
   ],
@@ -240341,6 +240399,7 @@
   "refs": 1,
   "score": 58.1,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "What every Browser knows about you",
   "topics": [
@@ -242776,7 +242835,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -242790,6 +242849,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Archiveteam",
   "topics": [
@@ -243606,7 +243666,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -243620,6 +243680,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Creating a Character Card | PygmalionAI Wiki",
   "topics": [
@@ -246113,8 +246174,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 34.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 31.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -246122,7 +246183,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 437,
+  "page_kb": 487,
   "pages": [
    "Educational"
   ],
@@ -246130,6 +246191,7 @@
   "refs": 1,
   "score": 80.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "WorldFindr \u2014 Geography Quiz",
   "topics": [
@@ -249624,7 +249686,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -249638,6 +249700,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Acaeum",
   "topics": [
@@ -252258,8 +252321,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 9.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -252268,14 +252331,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3191,
+  "page_kb": 3184,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.3,
+  "score": 83.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Animated Knots by Grog | Learn how to tie knots with step-by-step animation",
   "topics": [
@@ -252290,7 +252354,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -252303,7 +252367,8 @@
   "popups": 0,
   "refs": 1,
   "score": 100.0,
-  "starred": 1,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Physics animations and film clips: Physclips.",
   "topics": [
@@ -253661,8 +253726,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 47.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 49.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -253670,7 +253735,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 348,
+  "page_kb": 347,
   "pages": [
    "Educational"
   ],
@@ -253678,6 +253743,7 @@
   "refs": 1,
   "score": 80.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Free ASL Dictionary: 1,000+ Video Signs Online | Anysign",
   "topics": [
@@ -255166,15 +255232,15 @@
  },
  "www.astrobin.com": {
   "ad_domains": 8,
-  "ad_requests": 26,
+  "ad_requests": 27,
   "ad_slots": 1,
-  "ad_weight_pct": 15.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 14.4,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "46b79de2c931470a5e22d93ccc1fa34e.safeframe.googlesyndication.com",
+   "027dc033402e1b988b339cb4b4f78fe2.safeframe.googlesyndication.com",
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
@@ -255184,20 +255250,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8730,
+  "page_kb": 8388,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 30.7,
+  "score": 31.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Search - AstroBin",
   "topics": [
    "Learning"
   ],
-  "trackers": 5,
+  "trackers": 4,
   "url": "https://www.astrobin.com/search/",
   "verdict": "Very heavy advertising"
  },
@@ -255596,13 +255663,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 45,
+  "page_kb": 268,
   "pages": [
    "Artificial-Intelligence",
    "Music"
@@ -255611,6 +255678,7 @@
   "refs": 3,
   "score": 99.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Download Audacity AI Plugins",
   "topics": [
@@ -258095,20 +258163,17 @@
   "verdict": "Very clean"
  },
  "www.bing.com": {
-  "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "ib.adnxs.com",
-   "m.adnxs.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 4834,
+  "page_kb": 57,
   "pages": [
    "Artificial-Intelligence",
    "Misc",
@@ -258116,8 +258181,9 @@
   ],
   "popups": 0,
   "refs": 5,
-  "score": 88.0,
+  "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Search - Microsoft Bing",
   "topics": [
@@ -258127,7 +258193,7 @@
   ],
   "trackers": 0,
   "url": "https://www.bing.com/?mkt=zh-CN",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.bingeclock.com": {
   "ad_domains": 2,
@@ -259950,27 +260016,28 @@
  },
  "www.browserscan.net": {
   "ad_domains": 3,
-  "ad_requests": 22,
-  "ad_slots": 4,
-  "ad_weight_pct": 10.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_requests": 13,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6214,
+  "page_kb": 5956,
   "pages": [
    "Adblock"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 35.3,
+  "score": 67.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Best BrowserScan Fingerprint Detection Tool - Improve your online privacy security | Brows",
   "topics": [
@@ -259978,7 +260045,7 @@
   ],
   "trackers": 1,
   "url": "https://www.browserscan.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "www.bruji.com": {
   "ad_domains": 0,
@@ -261356,13 +261423,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 734,
+  "page_kb": 846,
   "pages": [
    "Educational"
   ],
@@ -261370,6 +261437,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Catalogue of Life",
   "topics": [
@@ -264164,13 +264232,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1092,
+  "page_kb": 1107,
   "pages": [
    "Educational"
   ],
@@ -264178,6 +264246,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Citywalki: Virtual walking tour in cities around the world",
   "topics": [
@@ -267231,13 +267300,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 248,
+  "page_kb": 1169,
   "pages": [
    "Educational"
   ],
@@ -267245,6 +267314,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Flags of the World",
   "topics": [
@@ -267501,8 +267571,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 11.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 11.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -267518,8 +267588,9 @@
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.3,
+  "score": 78.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Ctrl+Paint - Digital Painting Simplified",
   "topics": [
@@ -267533,8 +267604,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 10.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -267544,14 +267615,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1486,
+  "page_kb": 1498,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 79.7,
+  "score": 79.6,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "CubeSkills - Learn To Solve the Rubik's Cube",
   "topics": [
@@ -269441,13 +269513,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 33,
+  "page_kb": 34,
   "pages": [
    "Adblock"
   ],
@@ -269455,6 +269527,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Device Info - Web browser security, privacy, and troubleshooting tool.",
   "topics": [
@@ -274983,7 +275056,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -274997,6 +275070,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Images | ESO",
   "topics": [
@@ -276147,8 +276221,8 @@
   "ad_domains": 2,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 15.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 15.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -276157,14 +276231,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3208,
+  "page_kb": 3331,
   "pages": [
    "Adblock"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 69.8,
+  "score": 69.9,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Data breach checker \u2014 check if your email is hacked | F\u2011Secure",
   "topics": [
@@ -277510,13 +277585,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 971,
+  "page_kb": 1015,
   "pages": [
    "Educational",
    "Streaming"
@@ -277525,6 +277600,7 @@
   "refs": 2,
   "score": 99.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "National Film Preservation Foundation: Home",
   "topics": [
@@ -278124,7 +278200,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -278138,6 +278214,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "World Flag Chart",
   "topics": [
@@ -285739,30 +285816,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.handspeak.com": {
-  "ad_domains": 76,
-  "ad_requests": 461,
-  "ad_slots": 6,
-  "ad_weight_pct": 39.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 64,
+  "ad_requests": 496,
+  "ad_slots": 7,
+  "ad_weight_pct": 30.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "435e7d71413e3664f8666879e74f8c94.safeframe.googlesyndication.com",
+   "7d79395620e15496914c067c2914c647.safeframe.googlesyndication.com",
    "a.teads.tv",
-   "aa.agkn.com",
    "ad.doubleclick.net",
-   "ade.googlesyndication.com",
-   "ads.pubmatic.com",
    "api.id5-sync.com",
    "at.teads.tv",
-   "bcp.crwdcntrl.net",
-   "bid.g.doubleclick.net",
    "btlr.sharethrough.com",
-   "c.amazon-adsystem.com"
+   "c.amazon-adsystem.com",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "content.quantcount.com",
+   "creative-measurement.quantcount.com"
   ],
   "ok": true,
-  "page_kb": 9013,
+  "page_kb": 6817,
   "pages": [
    "Educational"
   ],
@@ -285770,12 +285847,13 @@
   "refs": 1,
   "score": 0.0,
   "starred": 1,
-  "sticky_ads": 2,
+  "status": "online",
+  "sticky_ads": 1,
   "title": "Sign Language \u2022 ASL | HandSpeak\u00ae",
   "topics": [
    "Courses"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://www.handspeak.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -288127,7 +288205,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -288141,6 +288219,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The HTML Hobbyist",
   "topics": [
@@ -289199,7 +289278,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -289213,6 +289292,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "What is the Usenet?",
   "topics": [
@@ -291616,45 +291696,46 @@
   "verdict": "Very heavy advertising"
  },
  "www.jetpunk.com": {
-  "ad_domains": 80,
-  "ad_requests": 340,
+  "ad_domains": 74,
+  "ad_requests": 222,
   "ad_slots": 1,
-  "ad_weight_pct": 53.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 43.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "229f402c32d868bf5322d5ed6e230ca5.safeframe.googlesyndication.com",
+   "21064a968c29d780512d42e7b7510844.safeframe.googlesyndication.com",
    "a.teads.tv",
-   "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
-   "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
+   "ads175.adtelligent.com",
+   "ap.lijit.com",
    "ascendeum-d.openx.net",
    "b1sync.outbrain.com",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net"
+   "cdn.flashtalking.com"
   ],
   "ok": true,
-  "page_kb": 2599,
+  "page_kb": 1755,
   "pages": [
    "Educational",
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 24.0,
+  "score": 24.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "JetPunk - It's Quiz Time!",
   "topics": [
    "Browser Games",
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.jetpunk.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -292083,8 +292164,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 8.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 12.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -292093,16 +292174,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3853,
+  "page_kb": 2805,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.6,
+  "score": 82.8,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Images | NASA Jet Propulsion Laboratory (JPL)",
+  "title": "NASA JPL Image Gallery \u2013 Space Photos & Science | NASA Jet Propulsion Laboratory (JPL)",
   "topics": [
    "Learning"
   ],
@@ -292208,7 +292290,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -292222,6 +292304,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "JustDeleteAccount.com - Home",
   "topics": [
@@ -295764,8 +295847,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 68.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 75.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -295775,7 +295858,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 448,
+  "page_kb": 418,
   "pages": [
    "Educational"
   ],
@@ -295783,6 +295866,7 @@
   "refs": 1,
   "score": 69.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Music Theory that isn't boring - Lightnote",
   "topics": [
@@ -295889,7 +295973,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -295903,6 +295987,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "DM Screen",
   "topics": [
@@ -296123,11 +296208,11 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.linguee.es": {
-  "ad_domains": 68,
-  "ad_requests": 284,
+  "ad_domains": 81,
+  "ad_requests": 436,
   "ad_slots": 2,
-  "ad_weight_pct": 80.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 83.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -296137,16 +296222,16 @@
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ap.lijit.com",
-   "b1sync.outbrain.com",
-   "b596df1925f65a2bf2475dd9cac2a0c2.safeframe.googlesyndication.com",
+   "assets.quantcount.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net"
+   "c1.adform.net",
+   "cb05a5a14ad629d15174e3a1ad20c2b7.safeframe.googlesyndication.com",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 2888,
+  "page_kb": 1326,
   "pages": [
    "Educational"
   ],
@@ -296154,6 +296239,7 @@
   "refs": 1,
   "score": 20.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Linguee | Diccionario espa\u00f1ol-ingl\u00e9s, entre otros idiomas",
   "topics": [
@@ -297628,8 +297714,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 16.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -297637,14 +297723,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1025,
+  "page_kb": 1028,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.8,
+  "score": 85.7,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Apollo Image Atlas",
   "topics": [
@@ -299936,22 +300023,22 @@
  },
  "www.masterstech-home.com": {
   "ad_domains": 5,
-  "ad_requests": 40,
+  "ad_requests": 38,
   "ad_slots": 1,
-  "ad_weight_pct": 75.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 74.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "c1.adform.net",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 904,
+  "page_kb": 875,
   "pages": [
    "Educational"
   ],
@@ -299959,6 +300046,7 @@
   "refs": 1,
   "score": 35.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "A Basic Guide to ASL",
   "topics": [
@@ -299973,7 +300061,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -299987,6 +300075,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Justin Wyss-Gallifent",
   "topics": [
@@ -302272,7 +302361,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -302286,6 +302375,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Mamont's open FTP Index",
   "topics": [
@@ -302425,7 +302515,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -302439,6 +302529,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "MobileSign",
   "topics": [
@@ -303238,8 +303329,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 18.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 18.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -303248,14 +303339,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 944,
+  "page_kb": 947,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 81.4,
+  "score": 81.2,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Motion Mountain - The Captivating Free Physics Pdf Book",
   "topics": [
@@ -304385,7 +304477,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -304399,6 +304491,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "musictheory.net",
   "topics": [
@@ -304929,7 +305022,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -304942,7 +305035,8 @@
   "popups": 0,
   "refs": 3,
   "score": 100.0,
-  "starred": 1,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "myPhysicsLab Two Chaotic Pendulums",
   "topics": [
@@ -305899,37 +305993,41 @@
   "verdict": "Effectively ad-free"
  },
  "www.ndpsoftware.com": {
-  "ad_domains": 4,
-  "ad_requests": 13,
+  "ad_domains": 7,
+  "ad_requests": 36,
   "ad_slots": 1,
-  "ad_weight_pct": 59.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 63.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 745,
+  "page_kb": 1116,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 47.0,
+  "score": 28.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "NDP Software :: Git Cheatsheet",
   "topics": [
    "Courses"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.needrom.com": {
   "ad_domains": 0,
@@ -306279,35 +306377,37 @@
   "verdict": "Effectively ad-free"
  },
  "www.netknots.com": {
-  "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_domains": 5,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 46.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 30.2,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
+   "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com",
    "www.googletagservices.com"
   ],
   "ok": true,
-  "page_kb": 1896,
+  "page_kb": 1469,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 63.0,
+  "score": 58.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Trusted Knots by NetKnots | How to tie the right knots | Animated Knots for Fishing, Scout",
   "topics": [
    "Learning"
   ],
-  "trackers": 5,
+  "trackers": 6,
   "url": "https://www.netknots.com/",
   "verdict": "Moderate advertising"
  },
@@ -313196,45 +313296,38 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.physicsclassroom.com": {
-  "ad_domains": 54,
-  "ad_requests": 176,
-  "ad_slots": 4,
-  "ad_weight_pct": 55.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_domains": 4,
+  "ad_requests": 4,
+  "ad_slots": 2,
+  "ad_weight_pct": 28.3,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "500f6677a959430358b715e96faca0e2.safeframe.googlesyndication.com",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "api.id5-sync.com",
-   "beacon-iad6.rubiconproject.com",
-   "c.amazon-adsystem.com",
-   "cdn.doubleverify.com",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "client.aps.amazon-adsystem.com",
-   "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com"
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2435,
+  "page_kb": 856,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 0.0,
+  "score": 47.4,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 2,
   "title": "The Physics Classroom",
   "topics": [
    "Science & Maths"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://www.physicsclassroom.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "www.physicsforums.com": {
   "ad_domains": 2,
@@ -316775,8 +316868,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 42.2,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 43.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -316784,7 +316877,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 391,
+  "page_kb": 396,
   "pages": [
    "Educational"
   ],
@@ -316792,6 +316885,7 @@
   "refs": 1,
   "score": 80.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Manual for the Universe",
   "topics": [
@@ -318101,7 +318195,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -318115,6 +318209,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Qubes OS: A reasonably secure operating system | Qubes OS",
   "topics": [
@@ -324673,8 +324768,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 14.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -324682,14 +324777,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3212,
+  "page_kb": 3735,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.8,
+  "score": 84.7,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sentinel Hub",
   "topics": [
@@ -325832,13 +325928,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 134,
+  "page_kb": 135,
   "pages": [
    "Educational"
   ],
@@ -325846,6 +325942,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Home - SignDeaf - Learn Sign Language Online",
   "topics": [
@@ -325859,8 +325956,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 27.1,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 28.6,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -325871,20 +325968,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1258,
+  "page_kb": 1214,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 64.0,
+  "score": 61.7,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "ASL Dictionary | Learn American Sign Language Signs",
   "topics": [
    "Courses"
   ],
-  "trackers": 6,
+  "trackers": 9,
   "url": "https://www.signlanguage101.com/asl/dictionary",
   "verdict": "Moderate advertising"
  },
@@ -326019,8 +326117,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 76.4,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 76.9,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -326028,14 +326126,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 216,
+  "page_kb": 221,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 3,
   "score": 80.0,
-  "starred": 1,
+  "starred": 0,
+  "status": "online",
   "sticky_ads": 0,
   "title": "simloops \u2014 runnable simulations",
   "topics": [
@@ -326050,8 +326149,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 26.5,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 27.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -326059,14 +326158,15 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 573,
+  "page_kb": 577,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 81.8,
+  "score": 81.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Music Theory Lessons Online",
   "topics": [
@@ -326833,7 +326933,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -326847,6 +326947,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Sign Language Dictionary",
   "topics": [
@@ -328916,23 +329017,23 @@
  },
  "www.splung.com": {
   "ad_domains": 6,
-  "ad_requests": 43,
+  "ad_requests": 107,
   "ad_slots": 4,
-  "ad_weight_pct": 60.7,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 61.4,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "cm.g.doubleclick.net",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "x.bidswitch.net"
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 947,
+  "page_kb": 963,
   "pages": [
    "Educational"
   ],
@@ -328940,6 +329041,7 @@
   "refs": 1,
   "score": 16.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Physics Online, Physics Help, Physics Course",
   "topics": [
@@ -329325,13 +329427,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1,
+  "page_kb": 2,
   "pages": [
    "Educational"
   ],
@@ -329339,6 +329441,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "SQL Practice Online \u2014 Free Interactive SQL Editor",
   "topics": [
@@ -330511,8 +330614,8 @@
   "ad_domains": 3,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 31.3,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 31.5,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -330522,20 +330625,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1321,
+  "page_kb": 1326,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 64.5,
+  "score": 62.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Strong ASL - Learn American Sign Language Online",
   "topics": [
    "Courses"
   ],
-  "trackers": 2,
+  "trackers": 7,
   "url": "https://www.strongasl.com/",
   "verdict": "Moderate advertising"
  },
@@ -333205,8 +333309,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 48.6,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 49.1,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -333215,7 +333319,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 364,
+  "page_kb": 366,
   "pages": [
    "Educational"
   ],
@@ -333223,6 +333327,7 @@
   "refs": 1,
   "score": 75.5,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "teoria : Music Theory Web",
   "topics": [
@@ -334565,7 +334670,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -334579,6 +334684,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "The Scale of Life",
   "topics": [
@@ -336726,8 +336832,8 @@
   "ad_domains": 5,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 30.9,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 32.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -336739,7 +336845,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1541,
+  "page_kb": 1523,
   "pages": [
    "Educational"
   ],
@@ -336747,6 +336853,7 @@
   "refs": 1,
   "score": 59.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Trancy - YouTube AI Bilingual Subtitles & Language Reactor Pro",
   "topics": [
@@ -340816,8 +340923,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -340825,20 +340932,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2687,
+  "page_kb": 2692,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 91.6,
+  "score": 92.0,
   "starred": 1,
+  "status": "online",
   "sticky_ads": 0,
   "title": "Visualizing SEP: An interactive data visualization of the Stanford Encyclopedia of Philoso",
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.visualizingsep.com/",
   "verdict": "Very clean"
  },
@@ -344453,28 +344561,34 @@
   "verdict": "Moderate advertising"
  },
  "www.worlddata.info": {
-  "ad_domains": 2,
-  "ad_requests": 27,
+  "ad_domains": 7,
+  "ad_requests": 90,
   "ad_slots": 6,
-  "ad_weight_pct": 64.8,
-  "checked_utc": "2026-08-14T14:46:47+00:00",
+  "ad_weight_pct": 66.7,
+  "checked_utc": "2026-09-13T17:05:32+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "bid.g.doubleclick.net",
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "vast.doubleverify.com"
   ],
   "ok": true,
-  "page_kb": 762,
+  "page_kb": 1695,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 19.0,
+  "score": 0.0,
   "starred": 1,
-  "sticky_ads": 0,
+  "status": "online",
+  "sticky_ads": 1,
   "title": "Worlddata: The world in numbers",
   "topics": [
    "Learning"
