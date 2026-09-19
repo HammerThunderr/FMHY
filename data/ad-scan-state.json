@@ -1457,7 +1457,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -4774,8 +4774,8 @@
   "ad_domains": 2,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 86.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 86.1,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -4784,13 +4784,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 564,
+  "page_kb": 573,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.0,
+  "score": 68.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -4798,7 +4798,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 3,
+  "trackers": 6,
   "url": "https://activisthandbook.org/",
   "verdict": "Moderate advertising"
  },
@@ -7657,7 +7657,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.8,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -7665,7 +7665,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 29013,
+  "page_kb": 29261,
   "pages": [
    "Educational"
   ],
@@ -19573,7 +19573,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -19582,7 +19582,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2525,
+  "page_kb": 2531,
   "pages": [
    "Educational"
   ],
@@ -23198,13 +23198,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 649,
+  "page_kb": 484,
   "pages": [
    "Educational"
   ],
@@ -26742,7 +26742,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -45200,7 +45200,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -45211,7 +45211,7 @@
    "esri.demdex.net"
   ],
   "ok": true,
-  "page_kb": 41417,
+  "page_kb": 41449,
   "pages": [
    "Educational",
    "Misc"
@@ -46034,35 +46034,36 @@
   "verdict": "Effectively ad-free"
  },
  "countryeconomy.com": {
-  "ad_domains": 11,
-  "ad_requests": 19,
+  "ad_domains": 15,
+  "ad_requests": 24,
   "ad_slots": 0,
-  "ad_weight_pct": 55.4,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 59.3,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "ads.pubmatic.com",
    "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "gum.criteo.com",
+   "id5-sync.com",
+   "image6.pubmatic.com",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "static.criteo.net",
-   "stats.g.doubleclick.net",
-   "tags.crwdcntrl.net",
-   "www.googletagmanager.com",
-   "www.googletagservices.com"
+   "stats.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1613,
+  "page_kb": 1453,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 28.0,
+  "score": 25.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -46070,9 +46071,9 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 7,
+  "trackers": 10,
   "url": "https://countryeconomy.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "couponscorpion.com": {
   "ad_domains": 13,
@@ -49426,13 +49427,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3955,
+  "page_kb": 2308,
   "pages": [
    "Educational"
   ],
@@ -51176,8 +51177,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -51187,13 +51188,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2678,
+  "page_kb": 2690,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 81.0,
+  "score": 80.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -64744,13 +64745,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 41699,
+  "page_kb": 38419,
   "pages": [
    "Educational"
   ],
@@ -66462,8 +66463,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.3,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -66471,13 +66472,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1213,
+  "page_kb": 1217,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.8,
+  "score": 88.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -75226,7 +75227,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75429,34 +75430,34 @@
  },
  "flagstories.co": {
   "ad_domains": 3,
-  "ad_requests": 11,
+  "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 16.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
-  "error": "",
-  "fails": 0,
+  "ad_weight_pct": 77.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "C",
   "networks": [
    "sb.scorecardresearch.com",
    "securepubads.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
-  "ok": true,
-  "page_kb": 2579,
+  "ok": false,
+  "page_kb": 536,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 64.8,
+  "score": 67.5,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
   "title": "Flag Stories",
   "topics": [
    "Learning"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://flagstories.co/",
   "verdict": "Moderate advertising"
  },
@@ -91322,7 +91323,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -93950,13 +93951,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 50,
+  "page_kb": 51,
   "pages": [
    "Educational"
   ],
@@ -95765,7 +95766,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -99740,8 +99741,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -99749,13 +99750,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2774,
+  "page_kb": 2780,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 90.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -106263,13 +106264,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 14,
+  "page_kb": 92,
   "pages": [
    "Educational"
   ],
@@ -107475,13 +107476,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 8706,
+  "page_kb": 5209,
   "pages": [
    "Educational"
   ],
@@ -117749,7 +117750,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -119032,7 +119033,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -119092,7 +119093,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -120827,7 +120828,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -122023,7 +122024,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -124232,10 +124233,10 @@
  },
  "livingatlas.arcgis.com": {
   "ad_domains": 14,
-  "ad_requests": 33,
+  "ad_requests": 34,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -124254,7 +124255,7 @@
    "sync.crwdcntrl.net"
   ],
   "ok": true,
-  "page_kb": 5963,
+  "page_kb": 5658,
   "pages": [
    "Educational",
    "Misc"
@@ -124265,7 +124266,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Home | ArcGIS Living Atlas of the World",
+  "title": "Home | ArcGIS Living Atlas",
   "topics": [
    "Everything Else",
    "Learning"
@@ -125006,8 +125007,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -125015,7 +125016,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4677,
+  "page_kb": 4683,
   "pages": [
    "Educational"
   ],
@@ -132439,8 +132440,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -132448,13 +132449,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 12468,
+  "page_kb": 5512,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.4,
+  "score": 92.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -136583,7 +136584,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -136821,36 +136822,33 @@
   "verdict": "Very clean"
  },
  "mimo-international.com": {
-  "ad_domains": 2,
-  "ad_requests": 8,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 26.7,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 3585,
+  "page_kb": 38,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 64.2,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "MIMO - Musical Instrument Museums Online",
+  "title": "The URL you requested has been blocked",
   "topics": [
    "Learning"
   ],
-  "trackers": 9,
+  "trackers": 0,
   "url": "https://mimo-international.com/MIMO/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "minato-jf.jp": {
   "ad_domains": 1,
@@ -138081,8 +138079,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 19.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 18.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -138090,13 +138088,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1450,
+  "page_kb": 1525,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.2,
+  "score": 83.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -143583,7 +143581,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -143591,7 +143589,7 @@
    "stats.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1460,
+  "page_kb": 889,
   "pages": [
    "Educational"
   ],
@@ -146713,7 +146711,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -147426,15 +147424,16 @@
   "verdict": "Effectively ad-free"
  },
  "newfastuff.com": {
-  "ad_domains": 5,
-  "ad_requests": 42,
+  "ad_domains": 6,
+  "ad_requests": 60,
   "ad_slots": 3,
-  "ad_weight_pct": 23.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 24.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
@@ -147442,13 +147441,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4847,
+  "page_kb": 4860,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 16.7,
+  "score": 13.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 2,
@@ -154086,30 +154085,30 @@
   "verdict": "Very clean"
  },
  "oilprice.com": {
-  "ad_domains": 104,
-  "ad_requests": 626,
-  "ad_slots": 7,
-  "ad_weight_pct": 38.3,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 66,
+  "ad_requests": 207,
+  "ad_slots": 6,
+  "ad_weight_pct": 43.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3d7db8e1fbc9bac4b1be38834531dd95.safeframe.googlesyndication.com",
-   "aax-eu.amazon-adsystem.com",
+   "6d1676615f644892d213c3213ba13e0f.safeframe.googlesyndication.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
    "ads.yieldmo.com",
-   "akl-navvy.media.net",
    "ap.lijit.com",
    "api.id5-sync.com",
    "apps.smartadserver.com",
-   "b1sync.outbrain.com"
+   "bcp.crwdcntrl.net",
+   "be.durationmedia.net",
+   "btlr.sharethrough.com",
+   "c.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 2300,
+  "page_kb": 1662,
   "pages": [
    "Educational"
   ],
@@ -154123,7 +154122,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 10,
+  "trackers": 9,
   "url": "https://oilprice.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -155530,10 +155529,10 @@
  },
  "online-courses.club": {
   "ad_domains": 2,
-  "ad_requests": 5,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 41.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 35.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -155542,13 +155541,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1379,
+  "page_kb": 1613,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.0,
+  "score": 68.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -164865,11 +164864,11 @@
   "verdict": "Effectively ad-free"
  },
  "philosophy.stackexchange.com": {
-  "ad_domains": 75,
-  "ad_requests": 342,
-  "ad_slots": 7,
-  "ad_weight_pct": 67.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 67,
+  "ad_requests": 252,
+  "ad_slots": 5,
+  "ad_weight_pct": 65.5,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -164877,18 +164876,18 @@
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
+   "ad07af7747066940fc0983410b3aba2c.safeframe.googlesyndication.com",
    "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
+   "api.id5-sync.com",
    "apps.smartadserver.com",
-   "b1sync.outbrain.com",
    "btlr.sharethrough.com",
-   "c1.adform.net",
    "cdn.doubleverify.com",
-   "cdn.indexww.com",
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com"
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 2511,
+  "page_kb": 2038,
   "pages": [
    "Educational"
   ],
@@ -173024,13 +173023,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1964,
+  "page_kb": 3062,
   "pages": [
    "Educational"
   ],
@@ -175057,7 +175056,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186717,7 +186716,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -189013,7 +189012,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -192732,8 +192731,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 5.3,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -192742,13 +192741,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3247,
+  "page_kb": 3282,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.4,
+  "score": 85.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -195705,7 +195704,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -201354,7 +201353,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -220312,36 +220311,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "thetruesize.com": {
-  "ad_domains": 122,
-  "ad_requests": 885,
-  "ad_slots": 2,
-  "ad_weight_pct": 82.1,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 82,
+  "ad_requests": 374,
+  "ad_slots": 1,
+  "ad_weight_pct": 33.1,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "433573561459fd215c5f5a4570bc71d9.safeframe.googlesyndication.com",
    "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "acdn.adnxs.com",
-   "ad.doubleclick.net",
-   "ade.googlesyndication.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
-   "bb.lijit.com"
+   "bidline-us-east.bidswitch.net",
+   "bidline-us-west.bidswitch.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com",
+   "ce.lijit.com"
   ],
   "ok": true,
-  "page_kb": 9355,
+  "page_kb": 2442,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 16.5,
+  "score": 23.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -220349,7 +220348,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 7,
+  "trackers": 4,
   "url": "https://thetruesize.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -228670,13 +228669,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2798,
+  "page_kb": 2920,
   "pages": [
    "Educational"
   ],
@@ -230658,7 +230657,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -235156,19 +235155,19 @@
   "verdict": "Effectively ad-free"
  },
  "vexle.org": {
-  "ad_domains": 59,
-  "ad_requests": 139,
-  "ad_slots": 4,
-  "ad_weight_pct": 27.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 53,
+  "ad_requests": 119,
+  "ad_slots": 3,
+  "ad_weight_pct": 38.1,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "35ed62cdbbeb3141ea87d80e6228fa9d.safeframe.googlesyndication.com",
+   "47088bf6e0399207dcf8f786458c216e.safeframe.googlesyndication.com",
    "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
@@ -235179,13 +235178,13 @@
    "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 2806,
+  "page_kb": 1752,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.9,
+  "score": 14.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -235193,7 +235192,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://vexle.org/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -247879,32 +247878,28 @@
   "verdict": "Effectively ad-free"
  },
  "worldbirthsanddeaths.com": {
-  "ad_domains": 8,
-  "ad_requests": 65,
+  "ad_domains": 4,
+  "ad_requests": 16,
   "ad_slots": 1,
-  "ad_weight_pct": 14.7,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 9.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "D",
   "networks": [
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5588,
+  "page_kb": 5180,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 32.2,
+  "score": 53.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -247912,9 +247907,9 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://worldbirthsanddeaths.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Heavy advertising"
  },
  "worldcam.eu": {
   "ad_domains": 5,
@@ -248332,13 +248327,13 @@
  },
  "worldpoverty.io": {
   "ad_domains": 4,
-  "ad_requests": 8,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 60.1,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 57.1,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -248346,13 +248341,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 928,
+  "page_kb": 907,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 57.5,
+  "score": 63.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -248360,9 +248355,9 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 7,
+  "trackers": 2,
   "url": "https://worldpoverty.io/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "worldradiohistory.com": {
   "ad_domains": 0,
@@ -251091,8 +251086,8 @@
   "ad_domains": 3,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 39.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 40.3,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -251102,7 +251097,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 395,
+  "page_kb": 401,
   "pages": [
    "Educational"
   ],
@@ -254778,39 +254773,42 @@
   "verdict": "Effectively ad-free"
  },
  "www.animeoutline.com": {
-  "ad_domains": 5,
-  "ad_requests": 29,
-  "ad_slots": 2,
-  "ad_weight_pct": 22.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 8,
+  "ad_requests": 51,
+  "ad_slots": 4,
+  "ad_weight_pct": 29.6,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "c1.adform.net",
    "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4057,
+  "page_kb": 3298,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 32.9,
+  "score": 0.2,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 2,
   "title": "How to Draw Anime & Manga Tutorials - AnimeOutline",
   "topics": [
    "Learning"
   ],
   "trackers": 2,
   "url": "https://www.animeoutline.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.animeparadise.moe": {
   "ad_domains": 0,
@@ -256825,8 +256823,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 17.3,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -256836,13 +256834,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2026,
+  "page_kb": 11525,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.8,
+  "score": 83.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -256859,27 +256857,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 243,
+  "ok": false,
+  "page_kb": 89,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 99.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Toys from Trash",
+  "title": "403 - Forbidden",
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://www.arvindguptatoys.com/toys.html",
   "verdict": "Effectively ad-free"
  },
@@ -261570,8 +261568,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 34.4,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 34.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -261579,7 +261577,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 482,
+  "page_kb": 486,
   "pages": [
    "Educational"
   ],
@@ -261800,7 +261798,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -265155,27 +265153,28 @@
   "verdict": "Effectively ad-free"
  },
  "www.chiffandfipple.com": {
-  "ad_domains": 3,
-  "ad_requests": 6,
+  "ad_domains": 4,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 49.4,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 51.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "cm.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 862,
+  "page_kb": 854,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 66.0,
+  "score": 61.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -265340,40 +265339,37 @@
   "verdict": "Effectively ad-free"
  },
  "www.chorder.com": {
-  "ad_domains": 6,
-  "ad_requests": 46,
-  "ad_slots": 4,
-  "ad_weight_pct": 39.7,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 3,
+  "ad_requests": 19,
+  "ad_slots": 2,
+  "ad_weight_pct": 36.0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "tpc.googlesyndication.com",
    "z-na.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 1995,
+  "page_kb": 989,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 11.0,
+  "score": 36.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "C MAJOR Guitar Chord Fingering | Chorder.com",
   "topics": [
    "Learning"
   ],
   "trackers": 2,
   "url": "https://www.chorder.com/guitar-chords/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.chosic.com": {
   "ad_domains": 51,
@@ -266123,10 +266119,10 @@
  },
  "www.city-data.com": {
   "ad_domains": 4,
-  "ad_requests": 7,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 24.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 24.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -266137,13 +266133,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1765,
+  "page_kb": 1771,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 63.2,
+  "score": 64.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -269345,7 +269341,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -273826,35 +273822,35 @@
  },
  "www.drumeo.com": {
   "ad_domains": 12,
-  "ad_requests": 17,
+  "ad_requests": 21,
   "ad_slots": 0,
-  "ad_weight_pct": 7.8,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 11.5,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
+   "aa.agkn.com",
    "ad.doubleclick.net",
    "c.amazon-adsystem.com",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "dpm.demdex.net",
    "googleads.g.doubleclick.net",
    "image2.pubmatic.com",
-   "s.ad.smaato.net",
+   "pixel.rubiconproject.com",
    "s.amazon-adsystem.com",
-   "secure.adnxs.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com",
    "x.bidswitch.net"
   ],
   "ok": true,
-  "page_kb": 4655,
+  "page_kb": 4947,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 39.6,
+  "score": 32.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -273862,7 +273858,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 12,
+  "trackers": 14,
   "url": "https://www.drumeo.com/coop3rdrumm3r/",
   "verdict": "Very heavy advertising"
  },
@@ -276811,13 +276807,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 94,
+  "page_kb": 109,
   "pages": [
    "Educational"
   ],
@@ -276829,7 +276825,7 @@
   "sticky_ads": 0,
   "title": "Erowid",
   "topics": [
-   "Learning"
+   "Science & Maths"
   ],
   "trackers": 0,
   "url": "https://www.erowid.org/",
@@ -278063,8 +278059,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 54.4,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 54.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -278072,7 +278068,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 512,
+  "page_kb": 518,
   "pages": [
    "Educational"
   ],
@@ -279239,13 +279235,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 877,
+  "ok": false,
+  "page_kb": 89,
   "pages": [
    "Educational"
   ],
@@ -279253,9 +279249,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Ian's Shoelace Site",
+  "title": "403 - Forbidden",
   "topics": [
    "Learning"
   ],
@@ -281387,30 +281383,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.foldnfly.com": {
-  "ad_domains": 76,
-  "ad_requests": 327,
+  "ad_domains": 74,
+  "ad_requests": 315,
   "ad_slots": 5,
-  "ad_weight_pct": 91.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 39.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "a.teads.tv",
-   "ad.doubleclick.net",
-   "ade.googlesyndication.com",
+   "a1512.casalemedia.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "api.id5-sync.com",
    "at.teads.tv",
    "b1sync.outbrain.com",
+   "bid.g.doubleclick.net",
    "btlr.sharethrough.com",
-   "c.amazon-adsystem.com",
-   "c.aps.amazon-adsystem.com",
-   "cdn.flashtalking.com"
+   "c1.adform.net",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 21242,
+  "page_kb": 3524,
   "pages": [
    "Educational"
   ],
@@ -281424,7 +281420,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://www.foldnfly.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -284337,8 +284333,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -284346,13 +284342,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4816,
+  "page_kb": 4224,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.5,
+  "score": 93.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -286402,13 +286398,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1075,
+  "page_kb": 1712,
   "pages": [
    "Educational"
   ],
@@ -287220,8 +287216,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 33.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 33.5,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -287229,7 +287225,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 823,
+  "page_kb": 829,
   "pages": [
    "Educational"
   ],
@@ -289543,8 +289539,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 29.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 27.4,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -289554,13 +289550,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1132,
+  "page_kb": 1230,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.8,
+  "score": 69.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -290550,13 +290546,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 449,
+  "ok": false,
+  "page_kb": 279,
   "pages": [
    "Educational",
    "Misc"
@@ -290565,9 +290561,9 @@
   "refs": 3,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "ibiblio \u2013 The Public's Library and Digital Archive",
+  "title": "\u2060World War II Database",
   "topics": [
    "Everything Else",
    "Learning"
@@ -290704,13 +290700,13 @@
  },
  "www.icivics.org": {
   "ad_domains": 4,
-  "ad_requests": 7,
+  "ad_requests": 15,
   "ad_slots": 0,
-  "ad_weight_pct": 28.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 29.2,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "D",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -290718,13 +290714,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2389,
+  "page_kb": 2367,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 58.8,
+  "score": 47.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -290732,9 +290728,9 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 9,
+  "trackers": 7,
   "url": "https://www.icivics.org/games",
-  "verdict": "Moderate advertising"
+  "verdict": "Heavy advertising"
  },
  "www.icloud.com": {
   "ad_domains": 0,
@@ -291086,8 +291082,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 44.3,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 44.4,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -291096,7 +291092,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 383,
+  "page_kb": 391,
   "pages": [
    "Educational"
   ],
@@ -291899,7 +291895,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -294386,8 +294382,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 6.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -294398,13 +294394,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9204,
+  "page_kb": 10077,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 71.9,
+  "score": 71.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -295072,13 +295068,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 651,
+  "page_kb": 653,
   "pages": [
    "Educational"
   ],
@@ -295340,8 +295336,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 8.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 9.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -295351,13 +295347,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3597,
+  "page_kb": 3218,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.7,
+  "score": 79.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -302640,39 +302636,33 @@
   "verdict": "Very clean"
  },
  "www.mclelun.com": {
-  "ad_domains": 5,
-  "ad_requests": 35,
-  "ad_slots": 4,
-  "ad_weight_pct": 20.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "tpc.googlesyndication.com"
-  ],
-  "ok": true,
-  "page_kb": 3920,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 776,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 24.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Tutorial",
+  "title": "https://www.mclelun.com/p/tutorial.html",
   "topics": [
    "Learning"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://www.mclelun.com/p/tutorial.html",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.mcmaster.com": {
   "ad_domains": 0,
@@ -305393,8 +305383,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 82.8,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 16.6,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -305403,13 +305393,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 209,
+  "page_kb": 1048,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.5,
+  "score": 82.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -310522,25 +310512,25 @@
  "www.numbeo.com": {
   "ad_domains": 3,
   "ad_requests": 7,
-  "ad_slots": 2,
-  "ad_weight_pct": 27.5,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_slots": 1,
+  "ad_weight_pct": 26.4,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1430,
+  "page_kb": 1521,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 56.2,
+  "score": 61.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -310550,7 +310540,7 @@
   ],
   "trackers": 1,
   "url": "https://www.numbeo.com/cost-of-living/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "www.nushell.sh": {
   "ad_domains": 0,
@@ -312527,13 +312517,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1365,
+  "page_kb": 1417,
   "pages": [
    "Educational"
   ],
@@ -313922,8 +313912,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 10.1,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -313932,13 +313922,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3365,
+  "page_kb": 3369,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.5,
+  "score": 83.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -314925,7 +314915,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -315108,13 +315098,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2193,
+  "page_kb": 1919,
   "pages": [
    "Educational"
   ],
@@ -315193,30 +315183,28 @@
   "verdict": "Effectively ad-free"
  },
  "www.photoshoptutorials.ws": {
-  "ad_domains": 12,
-  "ad_requests": 56,
+  "ad_domains": 10,
+  "ad_requests": 71,
   "ad_slots": 2,
-  "ad_weight_pct": 37.3,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 42.7,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "akl-navvy.media.net",
-   "c21lg-d.media.net",
+   "c1.adform.net",
+   "cdn.flashtalking.com",
    "cm.g.doubleclick.net",
-   "contextual.media.net",
-   "cs.media.net",
+   "d9.flashtalking.com",
    "googleads.g.doubleclick.net",
-   "hblg.media.net",
-   "hbx.media.net",
-   "lg3.media.net",
    "pagead2.googlesyndication.com",
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2197,
+  "page_kb": 2375,
   "pages": [
    "Educational"
   ],
@@ -315487,7 +315475,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -318287,7 +318275,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -320227,27 +320215,28 @@
   "verdict": "Effectively ad-free"
  },
  "www.qrz.com": {
-  "ad_domains": 3,
-  "ad_requests": 7,
+  "ad_domains": 4,
+  "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 71.8,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 62.4,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
+   "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 926,
+  "page_kb": 963,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 64.5,
+  "score": 60.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -327961,7 +327950,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -328790,13 +328779,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1937,
+  "page_kb": 1512,
   "pages": [
    "Educational"
   ],
@@ -332270,8 +332259,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 18.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 17.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -332279,13 +332268,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1092,
+  "page_kb": 1133,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.4,
+  "score": 86.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -334116,29 +334105,26 @@
   "verdict": "Very clean"
  },
  "www.symbols.com": {
-  "ad_domains": 11,
-  "ad_requests": 71,
-  "ad_slots": 9,
-  "ad_weight_pct": 52.6,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_domains": 8,
+  "ad_requests": 50,
+  "ad_slots": 7,
+  "ad_weight_pct": 69.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ad.doubleclick.net",
    "cm.g.doubleclick.net",
-   "dis.criteo.com",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
+   "match.adsrvr.org",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "www.googletagservices.com"
+   "trc.taboola.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2491,
+  "page_kb": 1509,
   "pages": [
    "Educational"
   ],
@@ -339483,7 +339469,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -339541,13 +339527,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 58,
+  "page_kb": 65,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -341033,18 +341019,16 @@
   "verdict": "Very heavy advertising"
  },
  "www.ultimate-guitar.com": {
-  "ad_domains": 90,
-  "ad_requests": 340,
+  "ad_domains": 82,
+  "ad_requests": 416,
   "ad_slots": 2,
-  "ad_weight_pct": 74.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 62.6,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "05453acf647237d8edf3878a8708aa80.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
+   "6411b6656c6e8d8c9da992430b285f4c.safeframe.googlesyndication.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
@@ -341053,10 +341037,12 @@
    "api.id5-sync.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
-   "c.amazon-adsystem.com"
+   "be.durationmedia.net",
+   "c.amazon-adsystem.com",
+   "c1.adform.net"
   ],
   "ok": true,
-  "page_kb": 2116,
+  "page_kb": 2091,
   "pages": [
    "Educational"
   ],
@@ -341177,7 +341163,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -345599,13 +345585,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9388,
+  "page_kb": 8773,
   "pages": [
    "Educational"
   ],
@@ -346649,8 +346635,8 @@
   "ad_domains": 5,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 7.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 8.3,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -346662,14 +346648,14 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3070,
+  "page_kb": 2744,
   "pages": [
    "Educational",
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 72.9,
+  "score": 72.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -346966,7 +346952,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -351990,8 +351976,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 3.8,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -351999,13 +351985,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 12866,
+  "page_kb": 4057,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.4,
+  "score": 90.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -354579,8 +354565,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 14.4,
-  "checked_utc": "2026-08-20T08:21:01+00:00",
+  "ad_weight_pct": 14.9,
+  "checked_utc": "2026-09-19T12:05:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -354588,13 +354574,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1145,
+  "page_kb": 1151,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 87.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
