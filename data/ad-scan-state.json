@@ -8889,8 +8889,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 92.8,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 99.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -8898,13 +8898,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 304,
+  "page_kb": 288,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -8912,7 +8912,7 @@
   "topics": [
    "iOS Apps"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://altsource.by.lao.sb/browse/",
   "verdict": "Light advertising"
  },
@@ -13385,13 +13385,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11945,
+  "page_kb": 25906,
   "pages": [
    "Music"
   ],
@@ -13872,13 +13872,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2108,
+  "page_kb": 2137,
   "pages": [
    "Music"
   ],
@@ -15449,8 +15449,8 @@
   "ad_domains": 2,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 69.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 76.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -15459,7 +15459,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 353,
+  "page_kb": 320,
   "pages": [
    "Mobile"
   ],
@@ -15639,13 +15639,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1138,
+  "page_kb": 1294,
   "pages": [
    "Music"
   ],
@@ -17001,8 +17001,8 @@
   "ad_domains": 2,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 8.7,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 8.8,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -17011,13 +17011,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4747,
+  "page_kb": 4813,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.7,
+  "score": 78.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -17152,7 +17152,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -19994,7 +19994,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -22076,32 +22076,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "audiotoolset.com": {
-  "ad_domains": 8,
-  "ad_requests": 29,
+  "ad_domains": 62,
+  "ad_requests": 154,
   "ad_slots": 4,
-  "ad_weight_pct": 44.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 51.3,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "35f240efdbfc9cd3aba199ed1207a48b.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
-   "googleads.g.doubleclick.net",
-   "id5-sync.com",
-   "image6.pubmatic.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
+   "client.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 1423,
+  "page_kb": 2262,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 10.5,
+  "score": 9.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -23675,7 +23679,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -25384,8 +25388,8 @@
   "ad_domains": 5,
   "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 17.8,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 18.1,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -25397,13 +25401,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2489,
+  "page_kb": 2510,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 62.1,
+  "score": 62.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -26035,8 +26039,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 11.1,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 14.8,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -26044,13 +26048,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1409,
+  "page_kb": 1067,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 89.5,
+  "score": 87.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -26111,13 +26115,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1545,
+  "page_kb": 1989,
   "pages": [
    "Music"
   ],
@@ -26127,7 +26131,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "beatboss",
+  "title": "BeatBoss",
   "topics": [
    "Music Streaming"
   ],
@@ -26898,7 +26902,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -26907,7 +26911,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 133946,
+  "page_kb": 133950,
   "pages": [
    "Mobile"
   ],
@@ -37184,13 +37188,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [],
   "ok": true,
-  "page_kb": 8838,
+  "page_kb": 7544,
   "pages": [
    "Music"
   ],
@@ -37204,7 +37208,7 @@
   "topics": [
    "Trackers & Databases"
   ],
-  "trackers": 114,
+  "trackers": 90,
   "url": "https://chartrank.app/",
   "verdict": "Very clean"
  },
@@ -37253,7 +37257,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -37262,13 +37266,13 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 7520,
+  "page_kb": 7457,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 91.0,
+  "score": 90.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -37276,7 +37280,7 @@
   "topics": [
    "Trackers & Databases"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://charts.spotify.com/home",
   "verdict": "Very clean"
  },
@@ -42353,8 +42357,8 @@
   "ad_domains": 3,
   "ad_requests": 8,
   "ad_slots": 1,
-  "ad_weight_pct": 68.9,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 69.0,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -42364,7 +42368,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 599,
+  "page_kb": 606,
   "pages": [
    "Music"
   ],
@@ -46313,36 +46317,36 @@
   "verdict": "Effectively ad-free"
  },
  "copter.io": {
-  "ad_domains": 40,
-  "ad_requests": 82,
-  "ad_slots": 1,
-  "ad_weight_pct": 42.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_domains": 16,
+  "ad_requests": 25,
+  "ad_slots": 0,
+  "ad_weight_pct": 53.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "79ce0d7acaf5e63c8d3aed5923c56497.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "acdn.adnxs.com",
-   "ads.pubmatic.com",
-   "ap.lijit.com",
-   "b1sync.outbrain.com",
+   "6a2b73529a5af82491a84bd1fc72dd1c.safeframe.googlesyndication.com",
    "btlr.sharethrough.com",
-   "c1.adform.net",
    "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "cs.media.net",
-   "direct.adsrvr.org"
+   "direct.adsrvr.org",
+   "fastlane.rubiconproject.com",
+   "grid-bidder.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "htlb.casalemedia.com",
+   "ib.adnxs.com",
+   "pagead2.googlesyndication.com",
+   "prebid-server.rubiconproject.com",
+   "securepubads.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2333,
+  "page_kb": 2569,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.5,
+  "score": 26.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -50075,7 +50079,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -51499,7 +51503,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -51512,7 +51516,7 @@
   "popups": 0,
   "refs": 1,
   "score": 100.0,
-  "starred": 0,
+  "starred": 1,
   "status": "online",
   "sticky_ads": 0,
   "title": "Login | Unison",
@@ -53614,13 +53618,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 289,
+  "page_kb": 271,
   "pages": [
    "Mobile"
   ],
@@ -54424,8 +54428,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -54433,13 +54437,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4901,
+  "page_kb": 4994,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.0,
+  "score": 90.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -54447,7 +54451,7 @@
   "topics": [
    "iOS Apps"
   ],
-  "trackers": 8,
+  "trackers": 7,
   "url": "https://departures.to/",
   "verdict": "Very clean"
  },
@@ -57221,7 +57225,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -57454,8 +57458,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.6,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -57463,7 +57467,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5074,
+  "page_kb": 5080,
   "pages": [
    "Music"
   ],
@@ -63434,8 +63438,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 63.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 64.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -63443,7 +63447,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 249,
+  "page_kb": 254,
   "pages": [
    "Music"
   ],
@@ -72490,30 +72494,30 @@
   "verdict": "Effectively ad-free"
  },
  "fakeinfo.net": {
-  "ad_domains": 58,
-  "ad_requests": 169,
+  "ad_domains": 66,
+  "ad_requests": 217,
   "ad_slots": 0,
-  "ad_weight_pct": 66.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "5942b2fc3394b9e4372f323d6d2e9993.safeframe.googlesyndication.com",
+   "a89f283f82e6dbeaef0dc834cc5a2d92.safeframe.googlesyndication.com",
    "acdn.adnxs.com",
    "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
+   "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
    "bidder.criteo.com",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net"
+   "c1.adform.net",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 1207,
+  "page_kb": 1217,
   "pages": [
    "Mobile"
   ],
@@ -73227,13 +73231,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1605,
+  "page_kb": 1606,
   "pages": [
    "Mobile"
   ],
@@ -76789,23 +76793,23 @@
  "flashmuseum.net": {
   "ad_domains": 1,
   "ad_requests": 1,
-  "ad_slots": 0,
-  "ad_weight_pct": 6.3,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_slots": 2,
+  "ad_weight_pct": 6.6,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2474,
+  "page_kb": 2421,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.8,
+  "score": 81.7,
   "starred": 2,
   "status": "online",
   "sticky_ads": 0,
@@ -76815,7 +76819,7 @@
   ],
   "trackers": 1,
   "url": "https://flashmuseum.net/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "flashmuseum.org": {
   "ad_domains": 1,
@@ -78619,28 +78623,30 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 120,
+  "page_kb": 311,
   "pages": [
-   "Educational"
+   "Educational",
+   "Misc"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 4,
   "score": 100.0,
   "starred": 2,
   "status": "online",
   "sticky_ads": 0,
-  "title": "piracyglossary",
+  "title": "provide",
   "topics": [
+   "Everything Else",
    "Learning"
   ],
   "trackers": 0,
-  "url": "https://fluffle.cc/piracyglossary",
+  "url": "https://fluffle.cc/provide",
   "verdict": "Effectively ad-free"
  },
  "flukeout.github.io": {
@@ -82801,8 +82807,8 @@
   "ad_domains": 2,
   "ad_requests": 14,
   "ad_slots": 2,
-  "ad_weight_pct": 15.9,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -82811,13 +82817,13 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2517,
+  "page_kb": 2445,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 55.0,
+  "score": 56.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -83412,13 +83418,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 12015,
+  "page_kb": 12196,
   "pages": [
    "Music"
   ],
@@ -85263,7 +85269,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -88568,8 +88574,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 33.4,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 34.1,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -88577,7 +88583,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 441,
+  "page_kb": 446,
   "pages": [
    "Mobile"
   ],
@@ -91529,13 +91535,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 606,
+  "page_kb": 757,
   "pages": [
    "Music"
   ],
@@ -91656,13 +91662,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2297,
+  "page_kb": 2325,
   "pages": [
    "Mobile"
   ],
@@ -92250,8 +92256,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 51.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 51.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -92259,7 +92265,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 306,
+  "page_kb": 308,
   "pages": [
    "Music"
   ],
@@ -97504,7 +97510,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -97512,7 +97518,7 @@
    "sb.scorecardresearch.com"
   ],
   "ok": true,
-  "page_kb": 138,
+  "page_kb": 109,
   "pages": [
    "Music"
   ],
@@ -98737,7 +98743,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98931,8 +98937,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 17.4,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 19.3,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -98940,13 +98946,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 961,
+  "page_kb": 891,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 86.3,
+  "score": 85.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -99877,7 +99883,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -107869,13 +107875,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 95,
+  "page_kb": 336,
   "pages": [
    "Mobile"
   ],
@@ -109093,7 +109099,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -109864,8 +109870,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 33.3,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 33.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -109873,7 +109879,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 463,
+  "page_kb": 469,
   "pages": [
    "Music"
   ],
@@ -110263,7 +110269,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110292,7 +110298,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112734,7 +112740,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -117158,13 +117164,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3320,
+  "page_kb": 3544,
   "pages": [
    "Gaming"
   ],
@@ -117782,30 +117788,30 @@
   "verdict": "Very clean"
  },
  "kpop.fandom.com": {
-  "ad_domains": 108,
-  "ad_requests": 408,
+  "ad_domains": 115,
+  "ad_requests": 596,
   "ad_slots": 3,
-  "ad_weight_pct": 42.6,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 55.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "9eff47b3fe84e44bce9c9791c86eba3d.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
+   "ap.lijit.com",
    "api.id5-sync.com",
+   "apps.smartadserver.com",
    "as-sec.casalemedia.com",
-   "b1sync.outbrain.com",
-   "ba08e325b30e31e5534bf5012d0c8471.safeframe.googlesyndication.com",
-   "bcp.crwdcntrl.net",
-   "c.amazon-adsystem.com",
-   "c1.adform.net"
+   "b1sync.outbrain.com"
   ],
   "ok": true,
-  "page_kb": 4528,
+  "page_kb": 5479,
   "pages": [
    "Music"
   ],
@@ -117886,13 +117892,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 551,
+  "page_kb": 550,
   "pages": [
    "Music"
   ],
@@ -120212,7 +120218,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -125807,13 +125813,13 @@
  },
  "live365.com": {
   "ad_domains": 4,
-  "ad_requests": 17,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 32.7,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 33.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -125821,13 +125827,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2132,
+  "page_kb": 2127,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 46.5,
+  "score": 61.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -125837,7 +125843,7 @@
   ],
   "trackers": 2,
   "url": "https://live365.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "liveam.tv": {
   "ad_domains": 2,
@@ -125983,10 +125989,10 @@
  },
  "liveplasma.com": {
   "ad_domains": 4,
-  "ad_requests": 13,
+  "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 71.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 72.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -125997,13 +126003,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1227,
+  "page_kb": 1216,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 52.0,
+  "score": 55.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -126011,7 +126017,7 @@
   "topics": [
    "Trackers & Databases"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://liveplasma.com/",
   "verdict": "Heavy advertising"
  },
@@ -127301,13 +127307,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 264,
+  "page_kb": 279,
   "pages": [
    "Music"
   ],
@@ -128205,13 +128211,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4545,
+  "page_kb": 4226,
   "pages": [
    "Music"
   ],
@@ -131202,7 +131208,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -131210,7 +131216,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 52100,
+  "page_kb": 52101,
   "pages": [
    "Music"
   ],
@@ -133238,7 +133244,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -133736,13 +133742,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2237,
+  "page_kb": 1291,
   "pages": [
    "Adblock",
    "Misc"
@@ -134691,13 +134697,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 53,
+  "page_kb": 51,
   "pages": [
    "Music"
   ],
@@ -138279,7 +138285,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145741,7 +145747,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145902,8 +145908,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 45.4,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 45.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -145911,7 +145917,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 346,
+  "page_kb": 347,
   "pages": [
    "Music"
   ],
@@ -146058,8 +146064,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -146067,13 +146073,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3098,
+  "page_kb": 3034,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 91.9,
+  "score": 91.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -146829,13 +146835,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11,
+  "page_kb": 195,
   "pages": [
    "Music"
   ],
@@ -146845,7 +146851,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "restorativland.org | 502: Bad gateway",
+  "title": "Mydora",
   "topics": [
    "Music Streaming"
   ],
@@ -152133,8 +152139,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.6,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 7.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -152142,13 +152148,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1929,
+  "page_kb": 1934,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 91.2,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -154768,7 +154774,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -157207,7 +157213,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -167884,8 +167890,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.3,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 6.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -167893,7 +167899,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2375,
+  "page_kb": 2380,
   "pages": [
    "Adblock"
   ],
@@ -169155,7 +169161,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -172502,8 +172508,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 9.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -172511,7 +172517,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1656,
+  "page_kb": 1636,
   "pages": [
    "Music"
   ],
@@ -173813,8 +173819,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 66.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 66.1,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -173825,7 +173831,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 448,
+  "page_kb": 450,
   "pages": [
    "Music"
   ],
@@ -181216,13 +181222,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1296,
+  "page_kb": 1297,
   "pages": [
    "Music"
   ],
@@ -182197,7 +182203,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186256,7 +186262,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186988,11 +186994,11 @@
   "verdict": "Light advertising"
  },
  "remixsearch.net": {
-  "ad_domains": 68,
-  "ad_requests": 311,
+  "ad_domains": 72,
+  "ad_requests": 293,
   "ad_slots": 5,
-  "ad_weight_pct": 44.7,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 36.0,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -187011,7 +187017,7 @@
    "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 4657,
+  "page_kb": 5795,
   "pages": [
    "Music"
   ],
@@ -193105,7 +193111,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -193989,46 +193995,46 @@
   "verdict": "Very heavy advertising"
  },
  "samplette.io": {
-  "ad_domains": 64,
-  "ad_requests": 275,
-  "ad_slots": 3,
-  "ad_weight_pct": 70.7,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_domains": 14,
+  "ad_requests": 20,
+  "ad_slots": 0,
+  "ad_weight_pct": 32.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "a.teads.tv",
-   "acdn.adnxs.com",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "ads.scorecardresearch.com",
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c21lg-d.media.net",
-   "cd138d7c77f30a4f8f1b70d0773b1d2c.safeframe.googlesyndication.com",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "config.aps.amazon-adsystem.com",
+   "dmp.adform.net",
+   "gum.criteo.com",
+   "pagead2.googlesyndication.com",
+   "s.amazon-adsystem.com",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net"
   ],
   "ok": true,
-  "page_kb": 3604,
+  "page_kb": 912,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 15.0,
+  "score": 30.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\u0394\u03ae\u03bc\u03b7\u03c4\u03c1\u03b1 \u0393\u03b1\u03bb\u03ac\u03bd\u03b7 - \u039a\u03b9 \u0395\u03af\u03c7\u03b5\u03c2 \u03a7\u03b1\u03b8\u03b5\u03af",
+  "title": "Gusgus - Higher",
   "topics": [
    "Trackers & Databases"
   ],
   "trackers": 0,
   "url": "https://samplette.io/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "samplv1.sourceforge.io": {
   "ad_domains": 0,
@@ -199761,7 +199767,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -202547,7 +202553,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -205733,33 +205739,34 @@
   "verdict": "Light advertising"
  },
  "songslikex.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 58.6,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 91.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [
+   "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 149,
+  "page_kb": 194,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 80.5,
+  "score": 75.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "AI-Powered Song Finder & Playlist Generator - Songs Like X",
+  "title": "Find songs similar to any song | Songs Like X",
   "topics": [
    "Trackers & Databases"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://songslikex.com/",
   "verdict": "Light advertising"
  },
@@ -205997,7 +206004,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -206849,10 +206856,10 @@
  },
  "soundsofmaine.life": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 1.8,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 0.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -206860,13 +206867,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 15991,
+  "page_kb": 30521,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 92.1,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -208584,8 +208591,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 20.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 55.1,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -208593,17 +208600,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 825,
+  "page_kb": 312,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.8,
+  "score": 80.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Spin the Wheel - Free Custom Spinner & Name Picker | SpinWheelPlus",
+  "title": "Spin the Wheel - Free Spinner, Name Picker | SpinWheelPlus",
   "topics": [
    "Everything Else"
   ],
@@ -211107,13 +211114,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 651,
+  "page_kb": 654,
   "pages": [
    "Music"
   ],
@@ -214350,13 +214357,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://studyn.org/\", waiting until \"domcontentloaded\"",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 3280,
+  "ok": false,
+  "page_kb": 1738,
   "pages": [
    "Educational"
   ],
@@ -214364,9 +214371,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Bot #1 de Estudos no Brasil | Studyn",
+  "title": "\u2060Studyn",
   "topics": [
    "Learning"
   ],
@@ -218680,10 +218687,10 @@
  },
  "taskito.io": {
   "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 2.4,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 2.8,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -218693,13 +218700,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6565,
+  "page_kb": 5815,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 81.8,
+  "score": 83.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -221597,7 +221604,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 3.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -221606,7 +221613,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 8116,
+  "page_kb": 8157,
   "pages": [
    "Music"
   ],
@@ -222075,8 +222082,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 16.1,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 15.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -222084,7 +222091,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2806,
+  "page_kb": 2910,
   "pages": [
    "Music"
   ],
@@ -223606,46 +223613,46 @@
   "verdict": "Light advertising"
  },
  "theonestopradio.com": {
-  "ad_domains": 13,
-  "ad_requests": 72,
-  "ad_slots": 0,
-  "ad_weight_pct": 17.3,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_domains": 18,
+  "ad_requests": 121,
+  "ad_slots": 2,
+  "ad_weight_pct": 15.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "ad.doubleclick.net",
+   "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
+   "dt.adsafeprotected.com",
    "fw.adsafeprotected.com",
    "googleads.g.doubleclick.net",
    "googleads4.g.doubleclick.net",
-   "onetag-sys.com",
+   "jsconfig.adsafeprotected.com",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "stats.g.doubleclick.net",
-   "sync-tm.everesttech.net",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
+   "pixel.adsafeprotected.com",
+   "s0.2mdn.net"
   ],
   "ok": true,
-  "page_kb": 7962,
+  "page_kb": 7721,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 33.8,
+  "score": 14.8,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 2,
   "title": "Best fm channel list | OneStop Radio",
   "topics": [
    "Radio"
   ],
   "trackers": 5,
   "url": "https://theonestopradio.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "theonion.com": {
   "ad_domains": 25,
@@ -227630,7 +227637,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -230367,10 +230374,10 @@
  },
  "transitapp.com": {
   "ad_domains": 3,
-  "ad_requests": 6,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 38.9,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 59.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -230380,13 +230387,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1210,
+  "page_kb": 1059,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 66.0,
+  "score": 64.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -232405,36 +232412,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "tunein.com": {
-  "ad_domains": 80,
-  "ad_requests": 462,
+  "ad_domains": 89,
+  "ad_requests": 1026,
   "ad_slots": 0,
-  "ad_weight_pct": 28.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 29.6,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
+   "ads.scorecardresearch.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "c1.adform.net",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net"
+   "c1.adform.net"
   ],
   "ok": true,
-  "page_kb": 4270,
+  "page_kb": 4639,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 28.9,
+  "score": 28.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -235931,8 +235938,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 8.8,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 8.9,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -235940,13 +235947,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1814,
+  "page_kb": 1818,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 89.6,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -236669,13 +236676,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 360,
+  "page_kb": 320,
   "pages": [
    "Music"
   ],
@@ -239890,13 +239897,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1879,
+  "page_kb": 1886,
   "pages": [
    "Music"
   ],
@@ -261428,7 +261435,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -264330,7 +264337,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -264681,9 +264688,9 @@
  "www.besteveralbums.com": {
   "ad_domains": 3,
   "ad_requests": 3,
-  "ad_slots": 2,
-  "ad_weight_pct": 29.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_slots": 3,
+  "ad_weight_pct": 24.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -264693,13 +264700,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 703,
+  "page_kb": 861,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 61.2,
+  "score": 58.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -267952,7 +267959,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -267960,7 +267967,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13172,
+  "page_kb": 13158,
   "pages": [
    "Music"
   ],
@@ -268473,13 +268480,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4554,
+  "page_kb": 4556,
   "pages": [
    "Misc"
   ],
@@ -272170,7 +272177,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -274401,8 +274408,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 16.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -274410,13 +274417,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 963,
+  "page_kb": 965,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 86.8,
+  "score": 86.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -278077,13 +278084,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2894,
+  "page_kb": 4422,
   "pages": [
    "Mobile"
   ],
@@ -284976,28 +284983,26 @@
   "verdict": "Effectively ad-free"
  },
  "www.filmmusicsite.com": {
-  "ad_domains": 4,
-  "ad_requests": 25,
-  "ad_slots": 2,
-  "ad_weight_pct": 17.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.5,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "A",
   "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3318,
+  "page_kb": 2792,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 39.0,
+  "score": 87.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -285007,7 +285012,7 @@
   ],
   "trackers": 1,
   "url": "https://www.filmmusicsite.com/en/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Very clean"
  },
  "www.filmportal.de": {
   "ad_domains": 0,
@@ -285194,8 +285199,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 1.3,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -285205,13 +285210,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 12820,
+  "page_kb": 12920,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.4,
+  "score": 85.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -285286,7 +285291,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -287126,7 +287131,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -287137,7 +287142,7 @@
    "Mobile"
   ],
   "popups": 0,
-  "refs": 1,
+  "refs": 2,
   "score": 100.0,
   "starred": 0,
   "status": "online",
@@ -293584,13 +293589,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [],
   "ok": true,
-  "page_kb": 2961,
+  "page_kb": 3144,
   "pages": [
    "Music"
   ],
@@ -295357,13 +295362,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [],
   "ok": true,
-  "page_kb": 3015,
+  "page_kb": 2845,
   "pages": [
    "Music"
   ],
@@ -296509,30 +296514,30 @@
   "verdict": "Very clean"
  },
  "www.idownloadblog.com": {
-  "ad_domains": 107,
-  "ad_requests": 2181,
+  "ad_domains": 77,
+  "ad_requests": 366,
   "ad_slots": 12,
-  "ad_weight_pct": 66.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 49.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "140194079aa46f4c0e3371d42a37497b.safeframe.googlesyndication.com",
    "a.teads.tv",
+   "a1732.casalemedia.com",
    "aax-eu.amazon-adsystem.com",
-   "ad.doubleclick.net",
-   "ade.googlesyndication.com",
-   "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "ap.lijit.com",
    "api.id5-sync.com",
    "at.teads.tv",
-   "b1sync.outbrain.com",
-   "b935e4fd2213169eac4541faeceb6ee4.safeframe.googlesyndication.com",
-   "bb.lijit.com"
+   "btlr.sharethrough.com",
+   "cdn.flashtalking.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com"
   ],
   "ok": true,
-  "page_kb": 4035,
+  "page_kb": 2360,
   "pages": [
    "Mobile"
   ],
@@ -296546,7 +296551,7 @@
   "topics": [
    "iOS Apps"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.idownloadblog.com/tag/jailbreak/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -309911,7 +309916,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -309920,22 +309925,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 544,
+  "page_kb": 1079,
   "pages": [
    "Music"
   ],
   "popups": 0,
-  "refs": 1,
+  "refs": 3,
   "score": 88.0,
-  "starred": 0,
+  "starred": 2,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Mixcloud - This is Audio Culture",
+  "title": "Mixcloud NTS Radio | Mixcloud",
   "topics": [
-   "Radio"
+   "Radio",
+   "Trackers & Databases"
   ],
   "trackers": 6,
-  "url": "https://www.mixcloud.com/",
+  "url": "https://www.mixcloud.com/NTSRadio/",
   "verdict": "Very clean"
  },
  "www.mixesdb.com": {
@@ -312150,7 +312156,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -318685,13 +318691,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2710,
+  "page_kb": 2644,
   "pages": [
    "Music"
   ],
@@ -324212,7 +324218,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -326266,13 +326272,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 532,
+  "page_kb": 540,
   "pages": [
    "Music"
   ],
@@ -330932,8 +330938,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 23.7,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 24.0,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -330941,13 +330947,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 676,
+  "page_kb": 679,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.2,
+  "score": 83.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -334480,7 +334486,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -339538,13 +339544,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1882,
+  "page_kb": 1884,
   "pages": [
    "Music"
   ],
@@ -340549,8 +340555,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 51.1,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 57.2,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -340558,7 +340564,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 316,
+  "page_kb": 285,
   "pages": [
    "Music"
   ],
@@ -340577,36 +340583,36 @@
   "verdict": "Light advertising"
  },
  "www.tapmusic.net": {
-  "ad_domains": 13,
-  "ad_requests": 17,
-  "ad_slots": 0,
-  "ad_weight_pct": 86.4,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_domains": 72,
+  "ad_requests": 201,
+  "ad_slots": 1,
+  "ad_weight_pct": 65.3,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "aax-eu.amazon-adsystem.com",
+   "acec112934243978a2de4e5ecfae0cf1.safeframe.googlesyndication.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "at.teads.tv",
+   "b1sync.outbrain.com",
+   "c.amazon-adsystem.com",
+   "c1.adform.net",
    "cdn.id5-sync.com",
-   "id5-sync.com",
-   "image6.pubmatic.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "partners.tremorhub.com",
-   "pixel.quantserve.com",
-   "rules.quantcount.com",
-   "secure.quantserve.com",
-   "sync.outbrain.com",
-   "sync.taboola.com",
-   "sync.teads.tv"
+   "ce.lijit.com",
+   "client.aps.amazon-adsystem.com",
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 521,
+  "page_kb": 1231,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 33.5,
+  "score": 24.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -340616,7 +340622,7 @@
   ],
   "trackers": 2,
   "url": "https://www.tapmusic.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.tapology.com": {
   "ad_domains": 0,
@@ -344942,13 +344948,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [],
   "ok": true,
-  "page_kb": 2943,
+  "page_kb": 2997,
   "pages": [
    "Music"
   ],
@@ -345187,7 +345193,7 @@
   "ad_requests": 0,
   "ad_slots": 3,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -347398,8 +347404,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.8,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 13.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -347407,13 +347413,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 996,
+  "page_kb": 1288,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.6,
+  "score": 88.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -347616,13 +347622,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 0,
+  "page_kb": 1,
   "pages": [
    "Misc"
   ],
@@ -358618,8 +358624,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 4.3,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -358627,13 +358633,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3936,
+  "page_kb": 7287,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 93.3,
+  "score": 94.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -359607,8 +359613,8 @@
   "ad_domains": 7,
   "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 69.5,
-  "checked_utc": "2026-08-27T23:06:55+00:00",
+  "ad_weight_pct": 70.7,
+  "checked_utc": "2026-09-27T07:07:10+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -359622,13 +359628,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 976,
+  "page_kb": 980,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 47.5,
+  "score": 45.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -359636,7 +359642,7 @@
   "topics": [
    "Radio"
   ],
-  "trackers": 3,
+  "trackers": 7,
   "url": "https://zeno.fm/",
   "verdict": "Heavy advertising"
  },
