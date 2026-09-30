@@ -11021,13 +11021,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-09-30T07:27:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 0,
+  "page_kb": 524,
   "pages": [
    "Non-Eng"
   ],
@@ -11037,7 +11037,7 @@
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
-  "title": "403: Forbidden",
+  "title": "Vercel Security Checkpoint",
   "topics": [
    "Non-English"
   ],
@@ -21817,33 +21817,37 @@
   "verdict": "Very clean"
  },
  "audiobookpl.tumblr.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 3,
+  "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 13.1,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "pagead2.googlesyndication.com",
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 2074,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 69.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Audiobook PL",
+  "title": "Fundacja Promocji Czytelnictwa",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "https://audiobookpl.tumblr.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Moderate advertising"
  },
  "audiobooks4soul.com": {
   "ad_domains": 0,
@@ -53361,9 +53365,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-09-30T07:27:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -203103,33 +203107,38 @@
   "verdict": "Very clean"
  },
  "sitedepoesias.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1544,
+  "ad_domains": 4,
+  "ad_requests": 17,
+  "ad_slots": 2,
+  "ad_weight_pct": 73.8,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 642,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 36.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Bot Verification",
+  "title": "Une Versos Paralelos: Poesias de paz, poemas de amor, esperan\u00e7a, rom\u00e2nticos, de afetividad",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://sitedepoesias.com",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "sites.pitt.edu": {
   "ad_domains": 0,
@@ -228963,13 +228972,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-09-30T07:27:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
@@ -233146,33 +233155,37 @@
   "verdict": "Effectively ad-free"
  },
  "tsundoku.com.br": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://tsundoku.com.br/\", waiting until \"domcontentlo",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_domains": 3,
+  "ad_requests": 22,
+  "ad_slots": 6,
+  "ad_weight_pct": 3.2,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 18490,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 28.9,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Tsundoku Tradu\u00e7\u00f5es",
+  "title": "Tsundoku Tradu\u00e7\u00f5es - Tradu\u00e7\u00e3o de Light Novels, Web Novels e Mang\u00e1s com qualidade",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://tsundoku.com.br",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "ttorrent.org": {
   "ad_domains": 0,
@@ -263260,36 +263273,33 @@
   "verdict": "Moderate advertising"
  },
  "www.artehqs.com.br": {
-  "ad_domains": 2,
-  "ad_requests": 9,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 10.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://www.artehqs.com.br/\", waiting until \"domcontent",
-  "fails": 1,
-  "grade": "B",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
-  ],
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 2,
+  "grade": "A+",
+  "networks": [],
   "ok": false,
-  "page_kb": 3242,
+  "page_kb": 1537,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.3,
+  "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Arte HQs",
+  "title": "http://www.artehqs.com.br/",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "http://www.artehqs.com.br",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.artic.edu": {
   "ad_domains": 0,
@@ -264924,13 +264934,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-09-30T07:27:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 3,
   "pages": [
    "Non-Eng"
   ],
@@ -301119,13 +301129,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30",
-  "fails": 1,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 282,
+  "ok": true,
+  "page_kb": 103,
   "pages": [
    "Non-Eng"
   ],
@@ -301133,9 +301143,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "JPop Singles",
+  "title": "JpopSingles - JpopSingles",
   "topics": [
    "Non-English"
   ],
@@ -331530,29 +331540,27 @@
   "verdict": "Effectively ad-free"
  },
  "www.root-me.org": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:311:30",
-  "fails": 2,
+  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": false,
-  "page_kb": 28,
+  "networks": [],
+  "ok": true,
+  "page_kb": 61,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 95.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "TryHackMe",
+  "title": "Making sure you're not a bot!",
   "topics": [
    "Courses"
   ],
@@ -334725,13 +334733,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-09-30T07:27:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 7,
   "pages": [
    "Educational"
   ],
