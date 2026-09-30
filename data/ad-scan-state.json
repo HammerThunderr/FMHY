@@ -1241,13 +1241,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 214,
+  "page_kb": 185,
   "pages": [
    "Streaming"
   ],
@@ -12585,9 +12585,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -43162,6 +43162,35 @@
   ],
   "trackers": 0,
   "url": "https://cloudretro.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "cloudreve.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2301,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 97.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Cloudreve - Self-hosted file management and sharing system",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 6,
+  "url": "https://cloudreve.org/",
   "verdict": "Effectively ad-free"
  },
  "cloudstream.miraheze.org": {
@@ -76137,27 +76166,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://finttv.in/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 749,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 99.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "finttv",
+  "title": "FINTTV \u2013 free sports broadcasts \u2013 FINTTV \u2013 free sports streams",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://finttv.in/",
   "verdict": "Effectively ad-free"
  },
@@ -86279,9 +86308,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -87173,9 +87202,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://gdrivelatinohd.net/\", waiting until \"domconten",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -119784,23 +119813,23 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://lamovie.org/\", waiting until \"domcontentloaded",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 7959,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 3,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "LaMovie",
+  "title": "LaMovie - Pel\u00edculas, Series y Animes Online en HD Gratis",
   "topics": [
    "Non-English"
   ],
@@ -126420,36 +126449,44 @@
   "verdict": "Moderate advertising"
  },
  "liveam.tv": {
-  "ad_domains": 2,
-  "ad_requests": 3,
-  "ad_slots": 0,
-  "ad_weight_pct": 77.7,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://liveam.tv/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
-  "grade": "B",
+  "ad_domains": 10,
+  "ad_requests": 65,
+  "ad_slots": 1,
+  "ad_weight_pct": 18.1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
   "networks": [
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
+   "stats.g.doubleclick.net",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
   ],
-  "ok": false,
-  "page_kb": 281,
+  "ok": true,
+  "page_kb": 5868,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.5,
+  "score": 30.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "liveam",
+  "title": "Liveam.tv \u2013 \u0442\u0435\u043b\u0435\u0448\u043e\u0443 \u0442\u0430 \u0441\u0435\u0440\u0456\u0430\u043b\u0438",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
-  "url": "http://liveam.tv/",
-  "verdict": "Light advertising"
+  "trackers": 2,
+  "url": "https://liveam.tv/",
+  "verdict": "Very heavy advertising"
  },
  "livebootlegconcert.blogspot.com": {
   "ad_domains": 1,
@@ -134724,6 +134761,37 @@
   "trackers": 0,
   "url": "https://maps.apple.com/",
   "verdict": "Effectively ad-free"
+ },
+ "maps.chizutodesign.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4717,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u6771\u4eac\u65ad\u9762\u56f3 \u2014 Tokyo in Cross-Section",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://maps.chizutodesign.com/tokyo-danmenzu/",
+  "verdict": "Very clean"
  },
  "maps.drsys.eu": {
   "ad_domains": 0,
@@ -143408,6 +143476,38 @@
   ],
   "trackers": 1,
   "url": "https://morse.withgoogle.com/learn/",
+  "verdict": "Very clean"
+ },
+ "mos.caldis.me": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.3,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2151,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mos | Smooth scrolling for mouse wheels on macOS",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 1,
+  "url": "https://mos.caldis.me/",
   "verdict": "Very clean"
  },
  "mosermichael.github.io": {
@@ -174530,6 +174630,64 @@
   "url": "https://podnews.net/",
   "verdict": "Effectively ad-free"
  },
+ "podreczniki.cfd": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3345,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "podreczniki.lol | Strona g\u0142\u00f3wna",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://podreczniki.cfd/",
+  "verdict": "Effectively ad-free"
+ },
+ "podreczniki.lol": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "podreczniki.lol",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://podreczniki.lol/",
+  "verdict": "Effectively ad-free"
+ },
  "podscripts.co": {
   "ad_domains": 5,
   "ad_requests": 7,
@@ -187603,6 +187761,35 @@
   "url": "https://relatedanime.com/",
   "verdict": "Light advertising"
  },
+ "releasehive.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 772,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ReleaseHive - Your Source for Latest Releases",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://releasehive.com/",
+  "verdict": "Effectively ad-free"
+ },
  "releases.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -193177,13 +193364,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://rukino.org/\", waiting until \"domcontentloaded\"",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 2929,
   "pages": [
    "Non-Eng"
   ],
@@ -193191,9 +193378,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "RUkino",
+  "title": "RUkino \u0440\u0443\u0441\u0441\u043a\u0438\u0435 \u0444\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b",
   "topics": [
    "Non-English"
   ],
@@ -199809,13 +199996,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://series.ly/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 201,
   "pages": [
    "Non-Eng"
   ],
@@ -199823,9 +200010,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Series.ly",
+  "title": "Ingresar | Series.ly",
   "topics": [
    "Non-English"
   ],
@@ -201197,33 +201384,35 @@
   "verdict": "Effectively ad-free"
  },
  "shiza-project.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://shiza-project.com/\", waiting until \"domcontent",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1096,
+  "ad_weight_pct": 6.5,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2486,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 90.2,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Shiza Project",
+  "title": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - SHIZA-Project",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 4,
   "url": "https://shiza-project.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "shizuku.rikka.app": {
   "ad_domains": 0,
@@ -215613,33 +215802,35 @@
   "verdict": "Effectively ad-free"
  },
  "subs.ro": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://subs.ro/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4360,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 93.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Subs.ro",
+  "title": "Subtitrari filme si seriale in limba romana - Subs.ro",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://subs.ro/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "subs.sab.bz": {
   "ad_domains": 0,
@@ -220897,16 +221088,16 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 4.4,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation.",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
-  "ok": false,
-  "page_kb": 3666,
+  "ok": true,
+  "page_kb": 3662,
   "pages": [
    "Non-Eng"
   ],
@@ -220914,7 +221105,7 @@
   "refs": 2,
   "score": 88.3,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
   "title": "\u2060Teleonline",
   "topics": [
@@ -222405,13 +222596,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 7,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
@@ -240966,9 +241157,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "Error: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://veziseriale.org/\nCall log:\n  - navigating to \"https://veziseriale.org/",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -243262,6 +243453,35 @@
   "url": "https://vivaldi.com/android/",
   "verdict": "Effectively ad-free"
  },
+ "vivarium.su": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "vivarium",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://vivarium.su/",
+  "verdict": "Effectively ad-free"
+ },
  "vivarium.wtf": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -244477,25 +244697,25 @@
  "voxfilmeonline.biz": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://voxfilmeonline.biz/\", waiting until \"domconten",
-  "fails": 1,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 500,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "VoxFilmeOnline",
+  "title": "VoxFilmeOnline \u2013 Filme Online HD Subtitrate \u00een Rom\u00e2n\u0103",
   "topics": [
    "Non-English"
   ],
@@ -246695,6 +246915,35 @@
   ],
   "trackers": 0,
   "url": "https://watchseries.bar/",
+  "verdict": "Effectively ad-free"
+ },
+ "watchseries.free": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 95,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WatchSeries \u2013 Unleash the Magic of Movies, Anytime, Anywhere",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://watchseries.free/",
   "verdict": "Effectively ad-free"
  },
  "watchseries.plus": {
@@ -278788,13 +279037,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T13:04:02+00:00",
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 2,
   "pages": [
    "Non-Eng"
   ],
@@ -284930,6 +285179,48 @@
   "trackers": 0,
   "url": "https://www.ezcv.pro/",
   "verdict": "Effectively ad-free"
+ },
+ "www.f-16.net": {
+  "ad_domains": 13,
+  "ad_requests": 76,
+  "ad_slots": 3,
+  "ad_weight_pct": 76.4,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "2c228a7cb9add4f614e0a0a20e8bcdd3.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "dsum-sec.casalemedia.com",
+   "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2277,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 13.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "F-16.net \u2013 The ultimate F-16 Fighting Falcon reference & community",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 3,
+  "url": "https://www.f-16.net/",
+  "verdict": "Ad-saturated / hostile"
  },
  "www.f-secure.com": {
   "ad_domains": 2,
@@ -307527,32 +307818,23 @@
   "verdict": "Effectively ad-free"
  },
  "www.maid.my.id": {
-  "ad_domains": 8,
-  "ad_requests": 18,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-08-31T07:39:18+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
-  "networks": [
-   "aa.agkn.com",
-   "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
-   "d.agkn.com",
-   "match.adsrvr.org",
-   "pxdrop.lijit.com",
-   "secure.adnxs.com",
-   "tags.crwdcntrl.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 568,
+  "page_kb": 526,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 47.5,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -307562,7 +307844,7 @@
   ],
   "trackers": 0,
   "url": "https://www.maid.my.id/",
-  "verdict": "Heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.majorgeeks.com": {
   "ad_domains": 14,
@@ -332507,36 +332789,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.sapo.pt": {
-  "ad_domains": 28,
-  "ad_requests": 77,
-  "ad_slots": 3,
-  "ad_weight_pct": 4.3,
-  "checked_utc": "2026-08-31T07:39:18+00:00",
+  "ad_domains": 29,
+  "ad_requests": 52,
+  "ad_slots": 2,
+  "ad_weight_pct": 1.9,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
    "ads.pubmatic.com",
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
+   "cad9caf3a5fafd31c6584d04aee97023.safeframe.googlesyndication.com",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
-   "dc4b6283bc2103fc027d5a9d2447082b.safeframe.googlesyndication.com",
    "direct.adsrvr.org",
-   "esp.rtbhouse.com",
+   "dis.eu.criteo.com",
    "fastlane.rubiconproject.com",
    "google-bidout-d.openx.net",
    "grid-bidder.criteo.com",
    "gum.criteo.com"
   ],
   "ok": true,
-  "page_kb": 6602,
+  "page_kb": 13440,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 27.8,
+  "score": 34.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -332546,7 +332828,7 @@
   ],
   "trackers": 0,
   "url": "https://www.sapo.pt",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.sastra.org": {
   "ad_domains": 0,
@@ -344309,13 +344591,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-08-31T07:39:18+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.theses.fr/\", waiting until \"domcontentload",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 872,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
@@ -344323,7 +344605,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
   "title": "Theses.fr",
   "topics": [
