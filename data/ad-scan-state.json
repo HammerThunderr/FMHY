@@ -263070,33 +263070,36 @@
   "verdict": "Light advertising"
  },
  "www.aqua-calc.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T22:12:29+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 6,
+  "ad_weight_pct": 38.1,
+  "checked_utc": "2026-10-03T22:26:22+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 467,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 75.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "Aqua-Calc: Unit Conversions and Online Calculators",
   "topics": [
    "Learning"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://www.aqua-calc.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.aquariumofpacific.org": {
   "ad_domains": 2,
@@ -276494,9 +276497,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T22:12:29+00:00",
+  "checked_utc": "2026-10-03T22:26:22+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.cryptool.org/\", waiting until \"domcontentl",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -276508,7 +276511,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "\u2060CrypTool",
   "topics": [
