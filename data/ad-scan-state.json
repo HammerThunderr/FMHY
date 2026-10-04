@@ -2833,26 +2833,26 @@
  },
  "67movies.st": {
   "ad_domains": 2,
-  "ad_requests": 12,
+  "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "googleads.g.doubleclick.net",
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 11245,
+  "page_kb": 6839,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.0,
-  "starred": 2,
+  "score": 91.0,
+  "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "67movies.st \u2014 Watch Movies & TV Shows in HD Online",
@@ -2861,7 +2861,7 @@
   ],
   "trackers": 0,
   "url": "https://67movies.st/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "720pier.ru": {
   "ad_domains": 0,
@@ -3438,8 +3438,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.9,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 12.4,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -3447,13 +3447,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1317,
+  "page_kb": 1402,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.5,
+  "score": 88.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -15681,6 +15681,37 @@
   "url": "https://anysoftkeyboard.github.io/",
   "verdict": "Effectively ad-free"
  },
+ "anything.rip": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1,
+  "pages": [
+   "Downloading",
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Rip Anything From Anywhere",
+  "topics": [
+   "Downloads",
+   "Music Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://anything.rip/",
+  "verdict": "Effectively ad-free"
+ },
  "anythingllm.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -25820,27 +25851,25 @@
   "verdict": "Effectively ad-free"
  },
  "bbflix.one": {
-  "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 24.2,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 25.2,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
-   "bcp.crwdcntrl.net",
-   "match.adsrvr.org",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 703,
+  "page_kb": 690,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.9,
+  "score": 82.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -25850,7 +25879,7 @@
   ],
   "trackers": 1,
   "url": "https://bbflix.one/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "bbs.archlinux.org": {
   "ad_domains": 0,
@@ -27781,6 +27810,48 @@
   "trackers": 0,
   "url": "https://bible.beginnerprivacy.com/opsec/",
   "verdict": "Effectively ad-free"
+ },
+ "biblehub.com": {
+  "ad_domains": 113,
+  "ad_requests": 976,
+  "ad_slots": 5,
+  "ad_weight_pct": 67.6,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "05728946c704f8f01c8ea44407e35765.safeframe.googlesyndication.com",
+   "a2.adform.net",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
+   "ad.doubleclick.net",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
+   "api.id5-sync.com",
+   "aqfer.lijit.com",
+   "b1sync.outbrain.com"
+  ],
+  "ok": true,
+  "page_kb": 2988,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 4.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Bible Hub: Online Bible Study Suite",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 2,
+  "url": "https://biblehub.com/",
+  "verdict": "Ad-saturated / hostile"
  },
  "biblioreads.eu.org": {
   "ad_domains": 0,
@@ -29787,6 +29858,35 @@
   "trackers": 3,
   "url": "https://bluew.org/",
   "verdict": "Very clean"
+ },
+ "bmanga.dedyn.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 15059,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "bManga \u2014 read manga, manhwa & manhua in the dark",
+  "topics": [
+   "Comics & Manga"
+  ],
+  "trackers": 0,
+  "url": "https://bmanga.dedyn.io/",
+  "verdict": "Effectively ad-free"
  },
  "bmz.absolutezero.fyi": {
   "ad_domains": 0,
@@ -34416,37 +34516,38 @@
   "verdict": "Light advertising"
  },
  "calcplex.com": {
-  "ad_domains": 3,
-  "ad_requests": 12,
-  "ad_slots": 1,
-  "ad_weight_pct": 81.6,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_domains": 4,
+  "ad_requests": 26,
+  "ad_slots": 2,
+  "ad_weight_pct": 82.5,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 646,
+  "page_kb": 948,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.5,
+  "score": 27.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "CalcPlex | Learn to Master Your Graphing Calculator",
   "topics": [
    "Learning"
   ],
   "trackers": 1,
   "url": "https://calcplex.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "calculatecgpa.com": {
   "ad_domains": 101,
@@ -50894,13 +50995,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 461,
+  "page_kb": 464,
   "pages": [
    "Streaming"
   ],
@@ -50910,7 +51011,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Daddylive - DaddyLiveHD | StreamEast | CrackStreams - Stream Anytime, Anywhere",
+  "title": "Daddylive - DaddyLiveHD | CrackStreams - Stream Anytime, Anywhere",
   "topics": [
    "Live TV & Sports"
   ],
@@ -50952,13 +51053,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 475,
+  "page_kb": 479,
   "pages": [
    "Streaming"
   ],
@@ -50968,7 +51069,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Daddylive - DaddyLiveHD | StreamEast | CrackStreams - Stream Anytime, Anywhere",
+  "title": "Daddylive - DaddyLiveHD | CrackStreams - Stream Anytime, Anywhere",
   "topics": [
    "Live TV & Sports"
   ],
@@ -56147,6 +56248,35 @@
   ],
   "trackers": 0,
   "url": "https://devtoolstips.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "dexter.pw": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2842,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Stream \u00b7 Watch Films & Series Online in 4K",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://dexter.pw/",
   "verdict": "Effectively ad-free"
  },
  "dezflight-underground.com": {
@@ -61464,6 +61594,37 @@
   "url": "https://donghua4k.net/",
   "verdict": "Effectively ad-free"
  },
+ "donghuastream.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": false,
+  "page_kb": 440,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.5,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://donghuastream.org/",
+  "verdict": "Effectively ad-free"
+ },
  "donkuri.github.io": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -66264,8 +66425,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 38.1,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 38.6,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -66274,7 +66435,7 @@
    "z-na.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 406,
+  "page_kb": 410,
   "pages": [
    "Reading"
   ],
@@ -88469,6 +88630,47 @@
   "url": "https://geti2p.net/en/",
   "verdict": "Effectively ad-free"
  },
+ "getindevice.com": {
+  "ad_domains": 11,
+  "ad_requests": 79,
+  "ad_slots": 11,
+  "ad_weight_pct": 81.3,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "ad.doubleclick.net",
+   "b1sync.outbrain.com",
+   "cm.g.doubleclick.net",
+   "dsp.adkernel.com",
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1713,
+  "pages": [
+   "Downloading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 0.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TeraBox Video Downloader & Player - No Quality Loss",
+  "topics": [
+   "Downloads"
+  ],
+  "trackers": 2,
+  "url": "https://getindevice.com/terabox-downloader/",
+  "verdict": "Ad-saturated / hostile"
+ },
  "getintra.org": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -94442,6 +94644,37 @@
   "trackers": 0,
   "url": "https://guess-the-year.davjhan.com/",
   "verdict": "Effectively ad-free"
+ },
+ "guessdash.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 59.7,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 291,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GuessDash: Ready, set, guess",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://guessdash.com/",
+  "verdict": "Light advertising"
  },
  "guessme.io": {
   "ad_domains": 3,
@@ -112736,6 +112969,35 @@
   "url": "https://jummb.us/",
   "verdict": "Effectively ad-free"
  },
+ "jumo-dl.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 200,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Jumo-DL",
+  "topics": [
+   "Music Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://jumo-dl.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "jumpstick.app": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -122918,13 +123180,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-27T13:18:43+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 524,
+  "ok": true,
+  "page_kb": 6858,
   "pages": [
    "Streaming"
   ],
@@ -122932,9 +123194,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Vercel Security Checkpoint",
+  "title": "moanatv.",
   "topics": [
    "Movies & TV"
   ],
@@ -129989,20 +130251,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 374,
+  "page_kb": 328,
   "pages": [
    "Educational"
   ],
   "popups": 0,
-  "refs": 1,
+  "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "online",
   "sticky_ads": 0,
   "title": "Free chess game database for Scid and PGN",
@@ -130727,6 +130989,37 @@
   "trackers": 2,
   "url": "https://m-selig.ae.illinois.edu/ads.html",
   "verdict": "Effectively ad-free"
+ },
+ "m-zone.org": {
+  "ad_domains": 1,
+  "ad_requests": 7,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7965,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "M-Zone - Movies, Shows, Anime, Watchlists and Reviews",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://m-zone.org/",
+  "verdict": "Light advertising"
  },
  "m.dict.cc": {
   "ad_domains": 16,
@@ -132331,6 +132624,35 @@
   "trackers": 3,
   "url": "https://magnifiedsand.com/",
   "verdict": "Light advertising"
+ },
+ "magofluid.gaia3d.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4208,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gaia3D Mago Fluid",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://magofluid.gaia3d.com/",
+  "verdict": "Effectively ad-free"
  },
  "mahjong-solitaire.app": {
   "ad_domains": 0,
@@ -145623,6 +145945,37 @@
   "url": "https://mugenguild.com/",
   "verdict": "Effectively ad-free"
  },
+ "muitube.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 95.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 183,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MuiTube - distraction-free YouTube",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://muitube.com/",
+  "verdict": "Light advertising"
+ },
  "mullvad.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -152456,8 +152809,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.5,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -152465,13 +152818,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2812,
+  "page_kb": 2652,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.8,
+  "score": 91.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -158545,6 +158898,35 @@
   ],
   "trackers": 0,
   "url": "https://omega.gg/MotionBox/",
+  "verdict": "Effectively ad-free"
+ },
+ "omer-faruq.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 557,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "KOReader Plugin Finder \u2014 search plugins and user patches by what they do",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://omer-faruq.github.io/koreader-plugin-index/",
   "verdict": "Effectively ad-free"
  },
  "omgspace.net": {
@@ -166029,22 +166411,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 50.7,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 9.7,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 334,
+  "page_kb": 1793,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 79.5,
+  "score": 89.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -166054,7 +166436,7 @@
   ],
   "trackers": 2,
   "url": "https://pantyflix.com/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "panx.io": {
   "ad_domains": 0,
@@ -175279,13 +175661,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 688,
+  "page_kb": 717,
   "pages": [
    "Misc"
   ],
@@ -176489,36 +176871,33 @@
   "verdict": "Very clean"
  },
  "popwatch.to": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "static.doubleclick.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 5523,
+  "page_kb": 9432,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.5,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "PopWatch \u2014 Watch Movies & TV Shows Online Free",
+  "title": "Watch Movies, TV Shows & Anime Online Free | Popcorn Time",
   "topics": [
    "Movies & TV"
   ],
   "trackers": 0,
   "url": "https://popwatch.to/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "portableapps.com": {
   "ad_domains": 2,
@@ -192799,6 +193178,38 @@
   "url": "https://routinehub.co/",
   "verdict": "Ad-saturated / hostile"
  },
+ "roxiestreams.biz": {
+  "ad_domains": 2,
+  "ad_requests": 22,
+  "ad_slots": 0,
+  "ad_weight_pct": 100.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "D",
+  "networks": [
+   "platform.foremedia.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 173,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 48.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 1,
+  "url": "https://roxiestreams.biz/",
+  "verdict": "Heavy advertising"
+ },
  "roxiestreams.cc": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -195114,6 +195525,35 @@
   ],
   "trackers": 0,
   "url": "https://sakuranovel.id/",
+  "verdict": "Effectively ad-free"
+ },
+ "sakusaku.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 275,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Anime Catalog \u00b7 sakusaku",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://sakusaku.to/",
   "verdict": "Effectively ad-free"
  },
  "salmosonline.com": {
@@ -198368,6 +198808,35 @@
   "trackers": 0,
   "url": "https://seadex.pages.dev/",
   "verdict": "Effectively ad-free"
+ },
+ "sealplus.in": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 31,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10278,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 70.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Seal Plus APK Download \u2014 Official Android Video Downloader",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://sealplus.in/",
+  "verdict": "Moderate advertising"
  },
  "seanime.app": {
   "ad_domains": 0,
@@ -202215,13 +202684,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-27T13:18:43+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 1,
   "pages": [
    "Streaming"
   ],
@@ -211176,6 +211645,35 @@
   "url": "https://squig.link/",
   "verdict": "Light advertising"
  },
+ "squigly.link": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1861,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Squigly | One link. Every listener.",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://squigly.link/",
+  "verdict": "Effectively ad-free"
+ },
  "squirdle.fireblend.com": {
   "ad_domains": 44,
   "ad_requests": 127,
@@ -213755,20 +214253,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3891,
+  "page_kb": 1281,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
   "score": 100.0,
-  "starred": 0,
+  "starred": 1,
   "status": "online",
   "sticky_ads": 0,
   "title": "StreamAggregator",
@@ -217722,13 +218220,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 10810,
+  "page_kb": 2284,
   "pages": [
    "Streaming"
   ],
@@ -226802,6 +227300,35 @@
   ],
   "trackers": 0,
   "url": "https://thu-tram.github.io/tpl/",
+  "verdict": "Effectively ad-free"
+ },
+ "thugtv.online": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2806,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ThugTV \u2014 Stream & Download Movies and TV Shows Free in HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://thugtv.online/",
   "verdict": "Effectively ad-free"
  },
  "thunderapp.dev": {
@@ -237936,6 +238463,35 @@
   ],
   "trackers": 0,
   "url": "https://unixporn.github.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "unmusic.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 30495,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "unmusic",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://unmusic.xyz/",
   "verdict": "Effectively ad-free"
  },
  "unocss.dev": {
@@ -291611,13 +292167,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-27T13:18:43+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 3,
   "pages": [
    "Gaming"
   ],
@@ -294877,8 +295433,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 29.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "ad_weight_pct": 32.2,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -294887,13 +295443,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1287,
+  "page_kb": 1171,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.5,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -324853,7 +325409,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T12:16:28+00:00",
+  "checked_utc": "2026-10-04T13:28:45+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -335234,6 +335790,37 @@
   "trackers": 0,
   "url": "https://www.shadertoy.com/",
   "verdict": "Effectively ad-free"
+ },
+ "www.shahflix.net": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 40.5,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 800,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ShahFlix - Stream Movies & TV Shows Online | ShahFlix",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://www.shahflix.net/",
+  "verdict": "Light advertising"
  },
  "www.shanaproject.com": {
   "ad_domains": 2,
@@ -356784,6 +357371,38 @@
   "url": "https://www.yourworldoftext.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.yout-ube.com": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 53.1,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 304,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch YouTube Videos with No Ads on Auto-Repeat in Full Screen",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://www.yout-ube.com/",
+  "verdict": "Light advertising"
+ },
  "www.yoyomanga.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -362932,6 +363551,35 @@
   "trackers": 1,
   "url": "https://zoowomaniacos.org/",
   "verdict": "Very clean"
+ },
+ "zoryva.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-04T13:28:45+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 16120,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zoryva X \u2014 Stream Movies, TV Shows & Anime in HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://zoryva.me/",
+  "verdict": "Effectively ad-free"
  },
  "zperiod.app": {
   "ad_domains": 2,
