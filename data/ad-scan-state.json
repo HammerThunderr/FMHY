@@ -31310,7 +31310,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -129653,8 +129653,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.6,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "ad_weight_pct": 0.7,
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -129662,7 +129662,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 26931,
+  "page_kb": 26835,
   "pages": [
    "Non-Eng"
   ],
@@ -201609,24 +201609,24 @@
  },
  "shareses.com": {
   "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 14.6,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "ad_weight_pct": 14.8,
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1970,
+  "page_kb": 1978,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.2,
+  "score": 85.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -201636,7 +201636,7 @@
   ],
   "trackers": 2,
   "url": "https://shareses.com",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "sharkwouter.github.io": {
   "ad_domains": 0,
@@ -246021,8 +246021,8 @@
   "ad_domains": 3,
   "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 84.9,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "ad_weight_pct": 86.8,
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -246032,7 +246032,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 657,
+  "page_kb": 750,
   "pages": [
    "Non-Eng"
   ],
@@ -264899,8 +264899,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 34.8,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "ad_weight_pct": 36.4,
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -264908,13 +264908,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 823,
+  "page_kb": 802,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -264922,7 +264922,7 @@
   "topics": [
    "Ebooks"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.astrumargenteum.org/library/",
   "verdict": "Light advertising"
  },
@@ -359826,32 +359826,28 @@
   "verdict": "Effectively ad-free"
  },
  "yacreader.com": {
-  "ad_domains": 8,
-  "ad_requests": 1069,
-  "ad_slots": 7,
-  "ad_weight_pct": 36.6,
-  "checked_utc": "2026-09-04T17:05:11+00:00",
+  "ad_domains": 4,
+  "ad_requests": 32,
+  "ad_slots": 1,
+  "ad_weight_pct": 53.1,
+  "checked_utc": "2026-10-04T17:49:43+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "b1sync.outbrain.com",
-   "c1.adform.net",
    "cm.g.doubleclick.net",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "sync.teads.tv",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2350,
+  "page_kb": 1078,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 0.0,
+  "score": 33.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -359859,9 +359855,9 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://yacreader.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "yacy.net": {
   "ad_domains": 0,
