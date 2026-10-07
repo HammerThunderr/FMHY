@@ -1237,34 +1237,37 @@
   "verdict": "Effectively ad-free"
  },
  "1shows.bz": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 185,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 3548,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 100.0,
+  "score": 91.0,
   "starred": 2,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "1Shows",
+  "title": "YouTube",
   "topics": [
    "Movies & TV",
    "Video Downloads"
   ],
   "trackers": 0,
   "url": "http://1shows.bz",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "1tamilyogi.me": {
   "ad_domains": 0,
@@ -2305,13 +2308,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -12684,9 +12687,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -18496,9 +18499,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -20802,13 +20805,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 2796,
+  "ok": false,
+  "page_kb": 2,
   "pages": [
    "Non-Eng"
   ],
@@ -20816,9 +20819,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Manga",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
@@ -22655,6 +22658,35 @@
   ],
   "trackers": 0,
   "url": "https://aur.chaotic.cx/",
+  "verdict": "Effectively ad-free"
+ },
+ "aurasports.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1809,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AuraSports | Live Sports Fixtures & Responsive Iframe Embeds",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://aurasports.xyz/",
   "verdict": "Effectively ad-free"
  },
  "auroraeditor.com": {
@@ -26063,13 +26095,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://bbs.itzmx.com/\", waiting until \"domcontentload",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 276,
+  "page_kb": 601,
   "pages": [
    "Non-Eng"
   ],
@@ -26077,7 +26109,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "\u2060ZMX",
   "topics": [
@@ -36432,6 +36464,35 @@
   "url": "https://cataclysmdda.org/",
   "verdict": "Effectively ad-free"
  },
+ "catalog.gfs-dlps.workers.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 7,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GFS Catalog \u2014 PS5 Game Package Catalog",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://catalog.gfs-dlps.workers.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "catchascience.wordpress.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -39061,6 +39122,37 @@
   "trackers": 0,
   "url": "https://chessmd.org/",
   "verdict": "Effectively ad-free"
+ },
+ "chessort.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 39.8,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 439,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Chessort: The Chess Puzzle Sorting Game",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
+  "url": "https://chessort.com/",
+  "verdict": "Light advertising"
  },
  "chesstempo.com": {
   "ad_domains": 0,
@@ -47503,20 +47595,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-06T21:43:43+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2248,
+  "page_kb": 2163,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
   "score": 100.0,
-  "starred": 1,
+  "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "Watch Live Sports Free | IPL, NBA, World Cup 2026, Premier League & More | COSECTV",
@@ -51628,13 +51720,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 12103,
+  "page_kb": 12121,
   "pages": [
    "Educational"
   ],
@@ -53720,9 +53812,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -59817,7 +59909,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -64667,6 +64759,35 @@
   "url": "https://durdraw.org/",
   "verdict": "Very clean"
  },
+ "dvdeez.top": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 9,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DVDeez \u2013 DVD and Bluray ISO Torrent Archive",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 0,
+  "url": "https://dvdeez.top/",
+  "verdict": "Effectively ad-free"
+ },
  "dw-anime.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -65945,9 +66066,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -86782,13 +86903,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 89,
+  "ok": true,
+  "page_kb": 61,
   "pages": [
    "Non-Eng"
   ],
@@ -86796,9 +86917,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "Robot Challenge Screen",
   "topics": [
    "Non-English"
   ],
@@ -102524,15 +102645,15 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://humungus-cinebisart.blogspot.com/\", waiting un",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [
    "pagead2.googlesyndication.com"
   ],
   "ok": false,
-  "page_kb": 28434,
+  "page_kb": 28943,
   "pages": [
    "Non-Eng"
   ],
@@ -102540,7 +102661,7 @@
   "refs": 2,
   "score": 95.5,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "Cin\u00e9-Bis-Art",
   "topics": [
@@ -113583,7 +113704,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -113599,7 +113720,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "JustIndex \u00b7 Just Best Index Only",
+  "title": "The Best Anime & Manga Sites in One Place \u00b7 JustIndex",
   "topics": [
    "Everything Else"
   ],
@@ -146186,15 +146307,15 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://muaddib-sci-fi.blogspot.com/\", waiting until \"",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [
    "pagead2.googlesyndication.com"
   ],
   "ok": false,
-  "page_kb": 2540,
+  "page_kb": 2501,
   "pages": [
    "Non-Eng"
   ],
@@ -146202,7 +146323,7 @@
   "refs": 2,
   "score": 95.5,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "MuaDib",
   "topics": [
@@ -146586,6 +146707,37 @@
   "trackers": 2,
   "url": "https://multimovies.wtf/",
   "verdict": "Moderate advertising"
+ },
+ "multinime.site": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.2,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 14266,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Multinime - Watch Anime Online Free with Zero Buffering",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 1,
+  "url": "https://multinime.site/",
+  "verdict": "Very clean"
  },
  "multiplayerpiano.com": {
   "ad_domains": 36,
@@ -147706,13 +147858,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 89,
+  "ok": true,
+  "page_kb": 61,
   "pages": [
    "Music"
   ],
@@ -147720,9 +147872,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "Robot Challenge Screen",
   "topics": [
    "Trackers & Databases"
   ],
@@ -149138,9 +149290,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -161631,6 +161783,35 @@
   "url": "https://openconnect.github.io/openconnect-gui/",
   "verdict": "Very clean"
  },
+ "opendisplay.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3414,
+  "pages": [
+   "Linux"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenDisplay \u2014 Turn your spare Apple devices into second monitors for your Mac (free & open",
+  "topics": [
+   "Linux & Mac"
+  ],
+  "trackers": 0,
+  "url": "https://opendisplay.app/",
+  "verdict": "Effectively ad-free"
+ },
  "opendronelog.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -171612,6 +171793,35 @@
   "trackers": 1,
   "url": "https://pippinbarr.com/chesses/",
   "verdict": "Light advertising"
+ },
+ "pippo26442999.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 10005,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Pippo Library",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://pippo26442999.github.io/.exFAT/",
+  "verdict": "Effectively ad-free"
  },
  "pirataria.link": {
   "ad_domains": 0,
@@ -209571,13 +209781,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-06T21:43:43+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 127,
+  "ok": false,
+  "page_kb": 15,
   "pages": [
    "Non-Eng"
   ],
@@ -209585,9 +209795,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "\u6578\u5b78\u8001\u5e2b\u5f35\u65ed\u7684\u4e2a\u4eba\u7a7a\u95f4-\u6578\u5b78\u8001\u5e2b\u5f35\u65ed\u4e2a\u4eba\u4e3b\u9875-\u54d4\u54e9\u54d4\u54e9\u89c6\u9891",
+  "title": "\u6578\u5b78\u8001\u5e2b\u5f35\u65ed",
   "topics": [
    "Non-English"
   ],
@@ -223990,27 +224200,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1,
+  "ok": true,
+  "page_kb": 1472,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 97.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "\u041a\u0430\u0442\u0430\u043b\u043e\u0433 Telegram-\u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u0438 \u0447\u0430\u0442\u043e\u0432 / \u0420\u043e\u0441\u0441\u0438\u044f \u2014 TGStat",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 5,
   "url": "https://tgstat.ru/",
   "verdict": "Effectively ad-free"
  },
@@ -224398,8 +224608,8 @@
   "ad_domains": 3,
   "ad_requests": 10,
   "ad_slots": 1,
-  "ad_weight_pct": 31.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "ad_weight_pct": 37.8,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -230206,13 +230416,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 89,
+  "ok": true,
+  "page_kb": 61,
   "pages": [
    "Music"
   ],
@@ -230220,9 +230430,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "Robot Challenge Screen",
   "topics": [
    "Audio Tools"
   ],
@@ -230615,13 +230825,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 3,
   "pages": [
    "Non-Eng"
   ],
@@ -254371,13 +254581,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3609,
+  "page_kb": 2479,
   "pages": [
    "Streaming"
   ],
@@ -260988,13 +261198,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 7,
   "pages": [
    "Music"
   ],
@@ -261477,9 +261687,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -265080,33 +265290,36 @@
   "verdict": "Moderate advertising"
  },
  "www.artehqs.com.br": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T07:27:30+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://www.artehqs.com.br/\", waiting until \"domcontent",
+  "fails": 3,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
   "ok": false,
-  "page_kb": 1537,
+  "page_kb": 3129,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 78.1,
   "starred": 0,
-  "status": "blocked",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "http://www.artehqs.com.br/",
+  "title": "Arte HQs",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "http://www.artehqs.com.br",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.artic.edu": {
   "ad_domains": 0,
@@ -266738,13 +266951,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T07:27:30+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 2,
   "pages": [
    "Non-Eng"
   ],
@@ -268365,35 +268578,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.bimiacg14.net": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 0.2,
-  "checked_utc": "2026-09-06T21:43:43+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 94398,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.9,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "M\u7ad9_\u54d4\u54aa\u52a8\u6f2b,\u54d4\u54aa\u54d4\u54aa,\u706b\u5f71\u5fcd\u8005,\u6d77\u8d3c\u738b,\u8fd9\u91cc\u662f\u5174\u8da3\u4f7f\u7136\u7684\u65e0\u540d\u5c0f\u7ad9_bimibimi",
+  "title": "Region Restricted",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://www.bimiacg14.net/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.bing.com": {
   "ad_domains": 0,
@@ -268551,8 +268762,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 76.6,
-  "checked_utc": "2026-09-06T21:43:43+00:00",
+  "ad_weight_pct": 76.8,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -268561,14 +268772,14 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 318,
+  "page_kb": 321,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
   "score": 70.0,
-  "starred": 1,
+  "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "Bintv Official Mirror List (Updated 2026)",
@@ -272673,8 +272884,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.2,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -272682,13 +272893,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5738,
+  "page_kb": 5774,
   "pages": [
    "Misc"
   ],
   "popups": 0,
-  "refs": 3,
-  "score": 92.4,
+  "refs": 4,
+  "score": 92.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -280600,13 +280811,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
@@ -291699,13 +291910,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 89,
+  "ok": true,
+  "page_kb": 151,
   "pages": [
    "Music"
   ],
@@ -291713,7 +291924,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
   "title": "403 - Forbidden",
   "topics": [
@@ -299257,15 +299468,15 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.huya.com/\", waiting until \"domcontentloade",
-  "fails": 2,
+  "fails": 3,
   "grade": "A",
   "networks": [
    "ad.doubleclick.net"
   ],
   "ok": false,
-  "page_kb": 6765,
+  "page_kb": 6332,
   "pages": [
    "Non-Eng"
   ],
@@ -299273,7 +299484,7 @@
   "refs": 2,
   "score": 94.0,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "Huya",
   "topics": [
@@ -346308,9 +346519,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-30T14:17:10+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.theses.fr/\", waiting until \"domcontentload",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -357847,13 +358058,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 89,
+  "ok": true,
+  "page_kb": 151,
   "pages": [
    "Music"
   ],
@@ -357861,7 +358072,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
   "title": "403 - Forbidden",
   "topics": [
@@ -360794,13 +361005,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-06T21:43:43+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3348,
+  "page_kb": 2715,
   "pages": [
    "Non-Eng"
   ],
@@ -361701,6 +361912,37 @@
   "trackers": 2,
   "url": "https://youglish.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "youplex.cc": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.1,
+  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 16370,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Youplex - The Best Torrent Search Engine (The Pirate Bay, 1337x, YTS, LimeTorrents) | Youp",
+  "topics": [
+   "Torrents"
+  ],
+  "trackers": 1,
+  "url": "https://youplex.cc/",
+  "verdict": "Very clean"
  },
  "youraislopbores.me": {
   "ad_domains": 7,
@@ -363523,7 +363765,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-07T13:41:48+00:00",
+  "checked_utc": "2026-10-07T19:33:18+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
