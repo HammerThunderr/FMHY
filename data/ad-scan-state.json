@@ -3848,13 +3848,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-04T07:22:37+00:00",
+  "checked_utc": "2026-10-11T07:48:46+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -64487,9 +64487,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-04T07:22:37+00:00",
+  "checked_utc": "2026-10-11T07:48:46+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -139305,13 +139305,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-04T07:22:37+00:00",
+  "checked_utc": "2026-10-11T07:48:46+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1541,
+  "page_kb": 1538,
   "pages": [
    "Music"
   ],
@@ -230813,13 +230813,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-11T06:38:30+00:00",
+  "checked_utc": "2026-10-11T07:48:46+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5705,
+  "page_kb": 5717,
   "pages": [
    "Misc"
   ],
@@ -335420,36 +335420,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.sakuraost.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 9.1,
-  "checked_utc": "2026-09-11T06:38:30+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1716,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-11T07:48:46+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1538,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "SAKURA OST | Download Anime Music",
+  "title": "https://www.sakuraost.com/",
   "topics": [
    "Music Streaming"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://www.sakuraost.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.saltyourmeat.com": {
   "ad_domains": 1,
