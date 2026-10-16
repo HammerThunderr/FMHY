@@ -10706,6 +10706,37 @@
   "url": "https://anichart.net",
   "verdict": "Very heavy advertising"
  },
+ "anicine.sbs": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.5,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4956,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.2,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AniCine \u2013 Watch Free Movies, TV Shows & Anime Online HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://anicine.sbs/",
+  "verdict": "Very clean"
+ },
  "anicine.xyz": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -10893,13 +10924,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-09T08:00:18+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 3,
   "pages": [
    "Streaming"
   ],
@@ -25841,33 +25872,39 @@
   "verdict": "Effectively ad-free"
  },
  "baronip-coupons.blogspot.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1541,
+  "ad_domains": 5,
+  "ad_requests": 21,
+  "ad_slots": 2,
+  "ad_weight_pct": 23.7,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "static.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3216,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 27.2,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://baronip-coupons.blogspot.com/",
+  "title": "BARONIP COUPONS",
   "topics": [
    "File Storage"
   ],
-  "trackers": 0,
+  "trackers": 12,
   "url": "https://baronip-coupons.blogspot.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Ad-saturated / hostile"
  },
  "basarat.gitbook.io": {
   "ad_domains": 0,
@@ -29256,13 +29293,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-15T17:46:13+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1853,
+  "page_kb": 1927,
   "pages": [
    "Educational"
   ],
@@ -48719,33 +48756,41 @@
   "verdict": "Light advertising"
  },
  "coursesbag.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 7,
+  "ad_requests": 38,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1541,
+  "ad_weight_pct": 63.8,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1262,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 33.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.coursesbag.com/",
+  "title": "Courses Bag - Free Online Courses & Learning Resources",
   "topics": [
    "File Storage"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://coursesbag.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "coursevania.com": {
   "ad_domains": 2,
@@ -115216,6 +115261,35 @@
   "url": "https://kagane.org/",
   "verdict": "Effectively ad-free"
  },
+ "kagane.si": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5577,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kagane",
+  "topics": [
+   "Comics & Manga"
+  ],
+  "trackers": 0,
+  "url": "https://kagane.si/",
+  "verdict": "Effectively ad-free"
+ },
  "kagane.to": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -116118,13 +116192,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 778,
+  "page_kb": 772,
   "pages": [
    "Streaming"
   ],
@@ -117845,13 +117919,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1813,
+  "page_kb": 1838,
   "pages": [
    "Non-Eng"
   ],
@@ -121114,13 +121188,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-24T18:01:53+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 14691,
   "pages": [
    "Streaming"
   ],
@@ -121128,9 +121202,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "This website has been temporarily rate limited | kuroanime.lol | Cloudflare",
+  "title": "KUROANIME \u2014 Watch Anime Online Free",
   "topics": [
    "Anime & Specialty"
   ],
@@ -143345,13 +143419,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T19:04:30+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 4,
   "pages": [
    "Streaming"
   ],
@@ -149470,9 +149544,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T19:04:30+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://musicrider.org/\nCall log:\n  - navigating to \"https://musicrider.org/\", ",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -150861,9 +150935,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -191311,36 +191385,33 @@
   "verdict": "Effectively ad-free"
  },
  "remotebackendjobs.com": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 78.0,
-  "checked_utc": "2026-09-15T17:46:13+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 365,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 73.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Remote Backend Jobs \u2014 Exclusively remote backend jobs",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://remotebackendjobs.com/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "remotefirstjobs.com": {
   "ad_domains": 4,
@@ -191437,36 +191508,33 @@
   "verdict": "Light advertising"
  },
  "remotejavajobs.com": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 77.1,
-  "checked_utc": "2026-09-15T17:46:13+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 369,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 9,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 73.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Remote Java Jobs \u2014 Exclusively remote java jobs",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://remotejavajobs.com",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "remotejobs.com": {
   "ad_domains": 0,
@@ -196741,13 +196809,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-08T19:26:17+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 7,
   "pages": [
    "Streaming"
   ],
@@ -211816,13 +211884,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 15,
+  "page_kb": 6,
   "pages": [
    "Non-Eng"
   ],
@@ -217216,13 +217284,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1,
+  "ok": true,
+  "page_kb": 246,
   "pages": [
    "Streaming"
   ],
@@ -217230,9 +217298,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "StreamCorner",
   "topics": [
    "Live TV & Sports"
   ],
@@ -217985,6 +218053,37 @@
   ],
   "trackers": 1,
   "url": "https://streamo.pro/",
+  "verdict": "Very clean"
+ },
+ "streamo.st": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 5.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3492,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Streamo \u2014 Stream Movies & TV Shows Online",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 1,
+  "url": "https://streamo.st/",
   "verdict": "Very clean"
  },
  "streamr.pages.dev": {
@@ -251028,6 +251127,40 @@
   "url": "https://watchseries.domain/",
   "verdict": "Effectively ad-free"
  },
+ "watchseries.domains": {
+  "ad_domains": 4,
+  "ad_requests": 12,
+  "ad_slots": 0,
+  "ad_weight_pct": 20.9,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "match.adsrvr.org",
+   "pxdrop.lijit.com",
+   "tags.crwdcntrl.net"
+  ],
+  "ok": true,
+  "page_kb": 79,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 59.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WatchSeries Alternative Domains & Proxy Mirrors",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://watchseries.domains/",
+  "verdict": "Moderate advertising"
+ },
  "watchseries.free": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -268386,33 +268519,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.atlasofwonders.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1541,
+  "ad_weight_pct": 33.8,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 609,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 74.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.atlasofwonders.com/",
+  "title": "Atlas of Wonders",
   "topics": [
    "Video Tools"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://www.atlasofwonders.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.atlassian.com": {
   "ad_domains": 5,
@@ -271177,13 +271313,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1541,
+  "ok": true,
+  "page_kb": 9313,
   "pages": [
    "Streaming"
   ],
@@ -271191,9 +271327,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.bintv.cc/",
+  "title": "BINTV \u2014 Live Sports Streaming",
   "topics": [
    "Live TV & Sports"
   ],
@@ -323599,13 +323735,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 1,
   "pages": [
    "Storage"
   ],
@@ -349206,9 +349342,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-10-16T17:42:12+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.theses.fr/\", waiting until \"domcontentload",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -349220,7 +349356,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "Theses.fr",
   "topics": [
@@ -355220,9 +355356,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
-  "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.videohelp.com/software/MKVcleaver\nCall log:\n  - navigating to \"https",
-  "fails": 2,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -355234,9 +355370,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "mkv-extract",
+  "title": "VideoHelp",
   "topics": [
    "Subtitles"
   ],
@@ -357650,33 +357786,41 @@
   "verdict": "Moderate advertising"
  },
  "www.whatismymovie.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 7,
+  "ad_requests": 16,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.whatismymovie.com/\", waiting until \"domcon",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 80.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "ad.doubleclick.net",
+   "api.id5-sync.com",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "config.aps.amazon-adsystem.com",
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 543,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 38.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "WhatsatMovie",
+  "title": "What is my movie? Describe and find movies",
   "topics": [
    "Video Tools"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://www.whatismymovie.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "www.whats-on-netflix.com": {
   "ad_domains": 1,
@@ -367737,6 +367881,37 @@
   ],
   "trackers": 1,
   "url": "https://zxcprime.icu/",
+  "verdict": "Very clean"
+ },
+ "zxcstream.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-10-16T17:42:12+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4333,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 93.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ZXC[STREAM]",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://zxcstream.com/",
   "verdict": "Very clean"
  },
  "zxpinstaller.com": {
