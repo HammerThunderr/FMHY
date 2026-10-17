@@ -2958,37 +2958,35 @@
   "verdict": "Effectively ad-free"
  },
  "7movies.ac": {
-  "ad_domains": 3,
-  "ad_requests": 4,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 1.8,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "static.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 9716,
+  "page_kb": 1206,
   "pages": [
+   "Non-Eng",
    "Streaming"
   ],
   "popups": 0,
-  "refs": 2,
-  "score": 83.6,
-  "starred": 2,
+  "refs": 6,
+  "score": 100.0,
+  "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "7Movies \u2014 Watch something unforgettable",
+  "title": "7Movies \u2014 Watch Movies & TV Shows Online in HD",
   "topics": [
-   "Movies & TV"
+   "Movies & TV",
+   "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://7movies.ac/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "7movies.in": {
   "ad_domains": 1,
@@ -3055,6 +3053,35 @@
   "trackers": 1,
   "url": "https://7movies.pro/",
   "verdict": "Light advertising"
+ },
+ "7movies.ws": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 164,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "7Movies \u2014 Watch Movies & TV Shows Online in HD",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://7movies.ws/",
+  "verdict": "Effectively ad-free"
  },
  "7plus.com.au": {
   "ad_domains": 24,
@@ -11264,13 +11291,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 136,
+  "page_kb": 146,
   "pages": [
    "Music"
   ],
@@ -13966,6 +13993,37 @@
   "trackers": 2,
   "url": "https://animetvn.com/",
   "verdict": "Very clean"
+ },
+ "animetvplus.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 22.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1594,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "animeTVplus \u2014 Watch Anime Online in HD",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://animetvplus.xyz/",
+  "verdict": "Light advertising"
  },
  "animevietsub.link": {
   "ad_domains": 0,
@@ -37981,13 +38039,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6249,
+  "page_kb": 4071,
   "pages": [
    "Misc"
   ],
@@ -41528,25 +41586,26 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6185,
+  "page_kb": 7015,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 4,
   "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "Cinejoy",
   "topics": [
-   "Movies & TV"
+   "Movies & TV",
+   "Video Downloads"
   ],
   "trackers": 0,
   "url": "https://cinejoy.pk/",
@@ -41609,6 +41668,37 @@
   "trackers": 0,
   "url": "https://cinelibre.fr/",
   "verdict": "Effectively ad-free"
+ },
+ "cinelite.xyz": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.8,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 23012,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CineLite - Watch Free Movies & TV Shows Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://cinelite.xyz/",
+  "verdict": "Very clean"
  },
  "cinelove.live": {
   "ad_domains": 0,
@@ -41974,6 +42064,37 @@
   "trackers": 1,
   "url": "https://cineru.lk/",
   "verdict": "Moderate advertising"
+ },
+ "cineruv.website": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5796,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "cineruv",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://cineruv.website/",
+  "verdict": "Very clean"
  },
  "cinestream.info": {
   "ad_domains": 0,
@@ -45630,6 +45751,35 @@
   "trackers": 1,
   "url": "https://colorword.recu3125.com/",
   "verdict": "Very clean"
+ },
+ "com-x.life": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 74,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Com-X.life \u2014 \u0432\u0445\u043e\u0434",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://com-x.life/",
+  "verdict": "Effectively ad-free"
  },
  "comfy.guide": {
   "ad_domains": 0,
@@ -49759,36 +49909,33 @@
   "verdict": "Very clean"
  },
  "crocheting101.com": {
-  "ad_domains": 2,
-  "ad_requests": 6,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "static.doubleclick.net"
-  ],
-  "ok": true,
-  "page_kb": 7343,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Crocheting101 \u2013 How to Crochet for Complete Beginners",
+  "title": "Just a moment...",
   "topics": [
    "Learning"
   ],
   "trackers": 0,
   "url": "https://crocheting101.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "cronobook.com": {
   "ad_domains": 12,
@@ -50562,6 +50709,37 @@
   "trackers": 1,
   "url": "https://css-tip.com/",
   "verdict": "Moderate advertising"
+ },
+ "css-tricks.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1350,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 88.5,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CSS-Tricks - Learning for front-end designers and developers",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://css-tricks.com/",
+  "verdict": "Very clean"
  },
  "cssbattle.dev": {
   "ad_domains": 4,
@@ -51751,6 +51929,35 @@
   "trackers": 19,
   "url": "https://cybertalentskids.com/",
   "verdict": "Moderate advertising"
+ },
+ "cybrox.pro": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 3,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 2,
+  "title": "Free Video & Audio Downloader | CYBROX",
+  "topics": [
+   "Music Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://cybrox.pro/",
+  "verdict": "Light advertising"
  },
  "cyclonicwx.com": {
   "ad_domains": 6,
@@ -60544,7 +60751,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -72398,6 +72605,35 @@
   "url": "https://ev.io/",
   "verdict": "Ad-saturated / hostile"
  },
+ "ev01.ws": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 161,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ev01 - Watch Full Movies & TV Series Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://ev01.ws/",
+  "verdict": "Effectively ad-free"
+ },
  "evan-buss.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -72968,31 +73204,39 @@
   "verdict": "Effectively ad-free"
  },
  "examsnet.com": {
-  "ad_domains": 4,
-  "ad_requests": 30,
-  "ad_slots": 4,
-  "ad_weight_pct": 45.1,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "ad_domains": 21,
+  "ad_requests": 127,
+  "ad_slots": 5,
+  "ad_weight_pct": 66.2,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "api-taboola.com",
+   "cdn.flashtalking.com",
+   "cdn.taboola.com",
+   "cds.taboola.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
+   "dsp.adkernel.com",
+   "dsum-sec.casalemedia.com",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "gum.criteo.com",
+   "ib.adnxs.com",
+   "images.taboola.com"
   ],
   "ok": true,
-  "page_kb": 1087,
+  "page_kb": 2213,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 22.5,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Examsnet - The free online exam papers practice site",
   "topics": [
    "Learning"
@@ -75039,6 +75283,35 @@
   "trackers": 8,
   "url": "https://fanfox.net/",
   "verdict": "Light advertising"
+ },
+ "fanlore.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://fanlore.org/",
+  "verdict": "Effectively ad-free"
  },
  "fantasticsoda.com": {
   "ad_domains": 4,
@@ -81699,13 +81972,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://forgejo.sny.sh/sun/Tent\nCall log:\n  - navigating to \"https://forgejo.s",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 36,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Music"
   ],
@@ -81713,9 +81986,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "sun/Tent: A simple alternative front-end for Bandcamp. - Forgejo: Beyond coding. We forge.",
+  "title": "Bandcamp",
   "topics": [
    "Music Streaming"
   ],
@@ -88744,6 +89017,35 @@
   ],
   "trackers": 0,
   "url": "https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/",
+  "verdict": "Effectively ad-free"
+ },
+ "gbhwdb.gekkio.fi": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 811,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home - Game Boy hardware database",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://gbhwdb.gekkio.fi/",
   "verdict": "Effectively ad-free"
  },
  "gdlrrlist.com": {
@@ -101796,7 +102098,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.1,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -101804,7 +102106,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4160,
+  "page_kb": 4223,
   "pages": [
    "Misc"
   ],
@@ -103125,6 +103427,48 @@
   "trackers": 0,
   "url": "https://howtolinux.vercel.app",
   "verdict": "Effectively ad-free"
+ },
+ "howtomechatronics.com": {
+  "ad_domains": 15,
+  "ad_requests": 30,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.5,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "dsum-sec.casalemedia.com",
+   "fid.agkn.com",
+   "ib.adnxs.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "pixel.quantserve.com",
+   "pixel.rubiconproject.com",
+   "rules.quantcount.com"
+  ],
+  "ok": true,
+  "page_kb": 2463,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 41.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "How To Mechatronics",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 1,
+  "url": "https://howtomechatronics.com/",
+  "verdict": "Very heavy advertising"
  },
  "hoy.tv": {
   "ad_domains": 2,
@@ -109473,8 +109817,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 4.3,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "ad_weight_pct": 4.4,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -109482,7 +109826,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7695,
+  "page_kb": 7797,
   "pages": [
    "Misc"
   ],
@@ -117634,6 +117978,35 @@
   ],
   "trackers": 0,
   "url": "https://kindle-epub-fix.netlify.app/",
+  "verdict": "Effectively ad-free"
+ },
+ "kindle.hrincar.eu": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kindle Weather Dashboard Config",
+  "topics": [
+   "Ebooks"
+  ],
+  "trackers": 0,
+  "url": "https://kindle.hrincar.eu/weather/config.html",
   "verdict": "Effectively ad-free"
  },
  "kindlemodding.org": {
@@ -148094,6 +148467,35 @@
   "url": "https://muffon.netlify.app/",
   "verdict": "Effectively ad-free"
  },
+ "mugen.doomjoshuaboy.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 2,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 3655,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 90.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DJB MUGEN & IKEMEN Community",
+  "topics": [
+   "Games"
+  ],
+  "trackers": 0,
+  "url": "https://mugen.doomjoshuaboy.com/",
+  "verdict": "Very clean"
+ },
  "mugen.karaokes.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -148978,6 +149380,37 @@
   ],
   "trackers": 2,
   "url": "https://museumoffailure.com/",
+  "verdict": "Very clean"
+ },
+ "music-atlas.app": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 16969,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 94.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Music Atlas: Interactive Map of 74,000 Artists & Genres",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://music-atlas.app/",
   "verdict": "Very clean"
  },
  "music-republic-world-traditional.blogspot.com": {
@@ -163849,6 +164282,35 @@
   "url": "https://openinframap.org/",
   "verdict": "Effectively ad-free"
  },
+ "opening-hours.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 167,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OSM Opening Hours Validation",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://opening-hours.pages.dev/",
+  "verdict": "Effectively ad-free"
+ },
  "openings.moe": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -165454,6 +165916,37 @@
   "trackers": 1,
   "url": "https://openwebui.com/",
   "verdict": "Very clean"
+ },
+ "openweird.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 88.9,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 196,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 80.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OpenWeird \ud83d\udc7e Weird Web Randomizer",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 1,
+  "url": "https://openweird.com/",
+  "verdict": "Light advertising"
  },
  "openwhyd.org": {
   "ad_domains": 1,
@@ -172975,6 +173468,35 @@
   "url": "https://pierrepapierciseaux.net/.skynet/?lang=en",
   "verdict": "Effectively ad-free"
  },
+ "pigeonpod.cloud": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 132,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "YouTube to Podcast RSS, Auto-sync | PigeonPod",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://pigeonpod.cloud/",
+  "verdict": "Effectively ad-free"
+ },
  "pilot.wp.pl": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -176441,6 +176963,40 @@
   "url": "https://playlin.io/",
   "verdict": "Very clean"
  },
+ "playlister.cc": {
+  "ad_domains": 4,
+  "ad_requests": 11,
+  "ad_slots": 0,
+  "ad_weight_pct": 22.5,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2004,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 59.8,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Playlister",
+  "topics": [
+   "Audio Tools"
+  ],
+  "trackers": 1,
+  "url": "https://playlister.cc/",
+  "verdict": "Moderate advertising"
+ },
  "playlisthospital.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -179581,6 +180137,35 @@
   ],
   "trackers": 0,
   "url": "https://portapps.io/",
+  "verdict": "Effectively ad-free"
+ },
+ "ported2browser.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 14,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Quick check \u00b7 Ported2Browser",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://ported2browser.com/",
   "verdict": "Effectively ad-free"
  },
  "portmaster.games": {
@@ -186514,6 +187099,35 @@
   "trackers": 7,
   "url": "https://radioyanosik.pl/",
   "verdict": "Light advertising"
+ },
+ "radmanplays.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 30,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Minecraft",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://radmanplays.github.io/classic-launcher/",
+  "verdict": "Effectively ad-free"
  },
  "radoxo.com": {
   "ad_domains": 6,
@@ -201892,7 +202506,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -214234,7 +214848,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -216520,6 +217134,35 @@
   "trackers": 1,
   "url": "https://sti.nasa.gov/",
   "verdict": "Very clean"
+ },
+ "stickfrag.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 436,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Play StickFrag \u2013 free stickman shooter in your browser",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://stickfrag.com/",
+  "verdict": "Effectively ad-free"
  },
  "stiftung-imai.de": {
   "ad_domains": 0,
@@ -227595,7 +228238,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -229194,7 +229837,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -232561,13 +233204,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1350,
+  "page_kb": 1318,
   "pages": [
    "Mobile"
   ],
@@ -232577,7 +233220,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "tone \u2014 Photos, printed.",
+  "title": "tone \u2014 Give your photos the texture of print.",
   "topics": [
    "Android Apps",
    "iOS Apps"
@@ -237362,6 +238005,35 @@
   ],
   "trackers": 0,
   "url": "https://tsukihime.org/",
+  "verdict": "Effectively ad-free"
+ },
+ "tsukuyomi.tv": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 590,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tsukuyomi \u2014 Watch Anime Online And Free",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://tsukuyomi.tv/",
   "verdict": "Effectively ad-free"
  },
  "tsunagarujp.mext.go.jp": {
@@ -253919,6 +254591,35 @@
   "trackers": 0,
   "url": "https://wen-ware.com/",
   "verdict": "Light advertising"
+ },
+ "wenku.mojimoon.top": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "\u8f7b\u5c0f\u8bf4\u6587\u5e93 EPUB \u4e0b\u8f7d",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://wenku.mojimoon.top/",
+  "verdict": "Effectively ad-free"
  },
  "wenomad.so": {
   "ad_domains": 1,
@@ -282453,6 +283154,35 @@
   "url": "https://www.designarena.ai/",
   "verdict": "Moderate advertising"
  },
+ "www.designeng.tools": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 3,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [],
+  "ok": true,
+  "page_kb": 44,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "DesignEng: Curated Design Engineering Tools & Resources",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 0,
+  "url": "https://www.designeng.tools/",
+  "verdict": "Very clean"
+ },
  "www.designer.tips": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -286518,6 +287248,37 @@
   "url": "https://www.ehistory.go.kr/",
   "verdict": "Effectively ad-free"
  },
+ "www.elararchive.org": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 11.7,
+  "checked_utc": "2026-10-17T16:40:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1350,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 87.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "| Endangered Languages Archive",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://www.elararchive.org/",
+  "verdict": "Very clean"
+ },
  "www.eldritchdark.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -286982,13 +287743,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1229,
+  "page_kb": 1263,
   "pages": [
    "Misc"
   ],
@@ -319824,13 +320585,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 229,
+  "page_kb": 167,
   "pages": [
    "Educational"
   ],
@@ -332187,13 +332948,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 467,
+  "page_kb": 462,
   "pages": [
    "Gaming"
   ],
@@ -352253,7 +353014,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -352261,7 +353022,7 @@
    "sb.scorecardresearch.com"
   ],
   "ok": true,
-  "page_kb": 10740,
+  "page_kb": 13593,
   "pages": [
    "Storage"
   ],
@@ -366027,18 +366788,18 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-17T12:47:49+00:00",
+  "checked_utc": "2026-10-17T16:40:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 187,
+  "page_kb": 189,
   "pages": [
    "Mobile"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 5,
   "score": 100.0,
   "starred": 0,
   "status": "online",
