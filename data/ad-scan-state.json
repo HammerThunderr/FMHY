@@ -46167,13 +46167,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-09T23:29:27+00:00",
+  "checked_utc": "2026-10-17T06:11:15+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 7,
   "pages": [
    "Reading"
   ],
@@ -305231,33 +305231,38 @@
   "verdict": "Heavy advertising"
  },
  "www.japanesewithanime.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-09T23:29:27+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1538,
+  "ad_domains": 4,
+  "ad_requests": 17,
+  "ad_slots": 5,
+  "ad_weight_pct": 46.0,
+  "checked_utc": "2026-10-17T06:11:15+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1132,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 22.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.japanesewithanime.com/",
+  "title": "Japanese with Anime",
   "topics": [
    "Courses"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://www.japanesewithanime.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.jcrocket.com": {
   "ad_domains": 1,
@@ -344660,27 +344665,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-09T23:29:27+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-17T06:11:15+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1118,
+  "ok": true,
+  "page_kb": 1375,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 99.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "https://www.stevvgame.com/",
+  "title": "Stevv Game - Repack PC Games Download",
   "topics": [
    "Game Downloads"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://www.stevvgame.com/",
   "verdict": "Effectively ad-free"
  },
