@@ -1547,6 +1547,28 @@
     {
       "page": "Adblock",
       "section": "Antivirus",
+      "subsection": "Sandboxes / VMs",
+      "subsubsection": null,
+      "title": "Dangerzone",
+      "url": "https://dangerzone.rocks/",
+      "description": "Convert Malicious PDFs to Safe Files /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Dangerzone",
+          "url": "https://dangerzone.rocks/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/freedomofpress/dangerzone"
+        }
+      ]
+    },
+    {
+      "page": "Adblock",
+      "section": "Antivirus",
       "subsection": "Online Scanners",
       "subsubsection": null,
       "title": "VirusTotal",
@@ -1586,7 +1608,7 @@
       "title": "Hybrid Analysis",
       "url": "https://hybrid-analysis.com/",
       "description": "Online File Scanner",
-      "starred": true,
+      "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
@@ -1663,28 +1685,6 @@
         {
           "text": "GitHub",
           "url": "https://github.com/JusticeRage/Manalyze"
-        }
-      ]
-    },
-    {
-      "page": "Adblock",
-      "section": "Antivirus",
-      "subsection": "Online Scanners",
-      "subsubsection": null,
-      "title": "Dangerzone",
-      "url": "https://dangerzone.rocks/",
-      "description": "Convert Malicious PDFs to Safe Files /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Dangerzone",
-          "url": "https://dangerzone.rocks/"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/freedomofpress/dangerzone"
         }
       ]
     },
@@ -6629,17 +6629,13 @@
       "section": "Proxy",
       "subsection": null,
       "subsubsection": null,
-      "title": "SimpleDnsCrypt",
-      "url": "https://github.com/instantsc/SimpleDnsCrypt",
-      "description": "or / - Local DNS Encryption Proxy",
+      "title": "DNSCrypt",
+      "url": "https://dnscrypt.info/",
+      "description": "Local DNS Encryption Proxy",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
-        {
-          "text": "SimpleDnsCrypt",
-          "url": "https://github.com/instantsc/SimpleDnsCrypt"
-        },
         {
           "text": "DNSCrypt",
           "url": "https://dnscrypt.info/"
@@ -7865,7 +7861,7 @@
       "subsubsection": null,
       "title": "Qwen Studio",
       "url": "https://chat.qwen.ai/",
-      "description": "Qwen3.8 Max / Qwen3.7 Plus / Sign-Up / / /",
+      "description": "Qwen3.8 Max / Qwen3.7 Plus / No Sign-Up / Clear Cookies to Reset Limits / / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -12039,7 +12035,7 @@
       "subsubsection": null,
       "title": "⁠Prompy",
       "url": "https://www.prompy.me/",
-      "description": ", or - Image Prompt Indexes",
+      "description": ", , or - Image Prompt Indexes",
       "starred": false,
       "third_party_index": true,
       "section_link": false,
@@ -12047,6 +12043,10 @@
         {
           "text": "⁠Prompy",
           "url": "https://www.prompy.me/"
+        },
+        {
+          "text": "⁠Awesome GPT Image",
+          "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
         },
         {
           "text": "Awesome Nano Banana Pro Prompts",
@@ -15351,28 +15351,6 @@
       "section": "Software Sites",
       "subsection": null,
       "subsubsection": null,
-      "title": "LRepacks",
-      "url": "https://lrepacks.net/",
-      "description": "Use Adblock +",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "LRepacks",
-          "url": "https://lrepacks.net/"
-        },
-        {
-          "text": "Translator",
-          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators"
-        }
-      ]
-    },
-    {
-      "page": "Downloading",
-      "section": "Software Sites",
-      "subsection": null,
-      "subsubsection": null,
       "title": "Nsane Forums",
       "url": "https://www.nsaneforums.com/",
       "description": "Requires Sign-Up",
@@ -15405,6 +15383,28 @@
         {
           "text": "User Ranks",
           "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mobilism-ranks.md"
+        }
+      ]
+    },
+    {
+      "page": "Downloading",
+      "section": "Software Sites",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "LRepacks",
+      "url": "https://lrepacks.net/",
+      "description": "Avoid Redirects / Use Adblock +",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "LRepacks",
+          "url": "https://lrepacks.net/"
+        },
+        {
+          "text": "Translator",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators"
         }
       ]
     },
@@ -20149,6 +20149,32 @@
       "section": "Science / Math",
       "subsection": null,
       "subsubsection": null,
+      "title": "LabPlot",
+      "url": "https://labplot.org/",
+      "description": ", or - Scientific Data Plotters",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "LabPlot",
+          "url": "https://labplot.org/"
+        },
+        {
+          "text": "PubQ Studio",
+          "url": "https://pubq-studio.onrender.com/"
+        },
+        {
+          "text": "ISciDAVis",
+          "url": "https://sourceforge.net/projects/scidavis/"
+        }
+      ]
+    },
+    {
+      "page": "Educational",
+      "section": "Science / Math",
+      "subsection": null,
+      "subsubsection": null,
       "title": "BOINC",
       "url": "https://boinc.berkeley.edu/",
       "description": "Donate Idle CPU + GPU Resources to Scientific Research / / / /",
@@ -21293,28 +21319,6 @@
         {
           "text": "MathJax",
           "url": "https://www.mathjax.org/"
-        }
-      ]
-    },
-    {
-      "page": "Educational",
-      "section": "Science / Math",
-      "subsection": "Math",
-      "subsubsection": null,
-      "title": "LabPlot",
-      "url": "https://labplot.org/",
-      "description": "or - Scientific Data Plotters",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "LabPlot",
-          "url": "https://labplot.org/"
-        },
-        {
-          "text": "ISciDAVis",
-          "url": "https://sourceforge.net/projects/scidavis/"
         }
       ]
     },
@@ -28645,6 +28649,24 @@
       "section": "History",
       "subsection": "Tech History",
       "subsubsection": null,
+      "title": "Gaming History / Preservation",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_history_.2F_preservation",
+      "description": null,
+      "starred": false,
+      "third_party_index": false,
+      "section_link": true,
+      "all_links": [
+        {
+          "text": "Gaming History / Preservation",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_history_.2F_preservation"
+        }
+      ]
+    },
+    {
+      "page": "Educational",
+      "section": "History",
+      "subsection": "Tech History",
+      "subsubsection": null,
       "title": "⁠Historical Tech Tree",
       "url": "https://www.historicaltechtree.com/",
       "description": "or - Historical Discovery / Tech Timelines",
@@ -28915,24 +28937,6 @@
         {
           "text": "WalkmanLand",
           "url": "https://walkman.land/"
-        }
-      ]
-    },
-    {
-      "page": "Educational",
-      "section": "History",
-      "subsection": "Tech History",
-      "subsubsection": null,
-      "title": "⁠Game Boy Hardware Database",
-      "url": "https://gbhwdb.gekkio.fi/",
-      "description": "Game Boy Console & Cartridge Archive",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠Game Boy Hardware Database",
-          "url": "https://gbhwdb.gekkio.fi/"
         }
       ]
     },
@@ -53290,7 +53294,7 @@
       "subsection": "Decomps / Ports",
       "subsubsection": null,
       "title": "Quiver Launcher",
-      "url": "https://github.com/tgeorgiadis/quiver-launcher",
+      "url": "https://quiverlauncher.com/",
       "description": "or - Launch / Manage Recompiled Games ⁠",
       "starred": false,
       "third_party_index": false,
@@ -53298,6 +53302,10 @@
       "all_links": [
         {
           "text": "Quiver Launcher",
+          "url": "https://quiverlauncher.com/"
+        },
+        {
+          "text": "GitHub",
           "url": "https://github.com/tgeorgiadis/quiver-launcher"
         },
         {
@@ -55328,18 +55336,14 @@
       "subsection": "Emulators",
       "subsubsection": null,
       "title": "CloudRetro",
-      "url": "https://cloudretro.io/",
-      "description": "Cloud Gaming Service for Emulators /",
+      "url": "https://github.com/giongto35/cloud-game",
+      "description": "Cloud Gaming Service for Emulators",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
           "text": "CloudRetro",
-          "url": "https://cloudretro.io/"
-        },
-        {
-          "text": "GitHub",
           "url": "https://github.com/giongto35/cloud-game"
         }
       ]
@@ -56145,7 +56149,7 @@
       "subsubsection": null,
       "title": "RetroGameTalk",
       "url": "https://retrogametalk.com/",
-      "description": "(sign-up required) / , , / , , / or - ROM Fan Translations / Hacks",
+      "description": "(sign-up required) / , , / , or / - ROM Fan Translations / Hacks",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -56181,10 +56185,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/5CKzeWmZZU"
-        },
-        {
-          "text": "Reality Incorporated",
-          "url": "https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks"
         }
       ]
     },
@@ -62753,6 +62753,24 @@
         {
           "text": "Rooms",
           "url": "https://rooms.xyz/"
+        }
+      ]
+    },
+    {
+      "page": "Gaming",
+      "section": "Browser Games",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "⁠Crazy Cattle 3D",
+      "url": "https://crazycattle3d.github.io/",
+      "description": "Sheep Battle Royale",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Crazy Cattle 3D",
+          "url": "https://crazycattle3d.github.io/"
         }
       ]
     },
@@ -69843,7 +69861,7 @@
       "subsubsection": null,
       "title": "PokéVoid",
       "url": "https://pokevoid.com/",
-      "description": "Pokémon Roguelike / PokéRogue Alt / /",
+      "description": "Pokémon Roguelike / PokéRogue Alt /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -69851,10 +69869,6 @@
         {
           "text": "PokéVoid",
           "url": "https://pokevoid.com/"
-        },
-        {
-          "text": "Wiki",
-          "url": "https://pokevoid.wiki/"
         },
         {
           "text": "Discord",
@@ -72457,7 +72471,7 @@
       "subsubsection": null,
       "title": "Nix",
       "url": "https://nixos.org/",
-      "description": ", , or - Package Managers",
+      "description": ", , or / , / / - Package Managers",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -72481,6 +72495,22 @@
         {
           "text": "Homebrew",
           "url": "https://brew.sh/"
+        },
+        {
+          "text": "GUI",
+          "url": "https://github.com/Homebrew/BrewUI"
+        },
+        {
+          "text": "2",
+          "url": "https://github.com/buresdv/Cork/"
+        },
+        {
+          "text": "Casks GUI",
+          "url": "https://github.com/alielsokary/CaskHub"
+        },
+        {
+          "text": "X",
+          "url": "https://x.com/MacHomebrew"
         }
       ]
     },
@@ -77763,17 +77793,13 @@
       "section": "Linux Tools",
       "subsection": "Server / Selfhosting",
       "subsubsection": null,
-      "title": "omnisearch",
-      "url": "https://git.bwaaa.monster/omnisearch/about/",
-      "description": ", , , / / or / - Self-Hosted Search Engines",
+      "title": "SearXNG",
+      "url": "https://docs.searxng.org/",
+      "description": ", , / / or / - Self-Hosted Search Engines",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
-        {
-          "text": "omnisearch",
-          "url": "https://git.bwaaa.monster/omnisearch/about/"
-        },
         {
           "text": "SearXNG",
           "url": "https://docs.searxng.org/"
@@ -77801,6 +77827,70 @@
         {
           "text": "GitHub",
           "url": "https://github.com/zincsearch/zincsearch"
+        }
+      ]
+    },
+    {
+      "page": "Linux",
+      "section": "Linux Tools",
+      "subsection": "Server / Selfhosting",
+      "subsubsection": null,
+      "title": "Moe Memos",
+      "url": "https://memos.moe/",
+      "description": "(android) or / - Self-Hosted Note-Taking",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Moe Memos",
+          "url": "https://memos.moe/"
+        },
+        {
+          "text": "Kept",
+          "url": "https://www.keepitkept.xyz/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/ericerkz/kept"
+        }
+      ]
+    },
+    {
+      "page": "Linux",
+      "section": "Linux Tools",
+      "subsection": "Server / Selfhosting",
+      "subsubsection": null,
+      "title": "BookStack",
+      "url": "https://www.bookstackapp.com/",
+      "description": ", / or / - Self-Hosted Info Managers",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "BookStack",
+          "url": "https://www.bookstackapp.com/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/BookStackApp/BookStack"
+        },
+        {
+          "text": "NoteDiscovery",
+          "url": "https://www.notediscovery.com/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/gamosoft/NoteDiscovery/"
+        },
+        {
+          "text": "Siyuan",
+          "url": "https://b3log.org/siyuan/en"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/siyuan-note/siyuan"
         }
       ]
     },
@@ -78137,7 +78227,7 @@
       "subsubsection": null,
       "title": "Dolphin",
       "url": "https://userbase.kde.org/Dolphin",
-      "description": "or - File Managers",
+      "description": ", / or - File Managers",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -78149,6 +78239,14 @@
         {
           "text": "Source Code",
           "url": "https://invent.kde.org/system/dolphin"
+        },
+        {
+          "text": "Strata",
+          "url": "https://stratafiles.io/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/lgse/strata"
         },
         {
           "text": "SpaceFM",
@@ -80883,7 +80981,7 @@
       "subsubsection": null,
       "title": "PortingKit",
       "url": "https://www.portingkit.com/",
-      "description": "or - Run Windows Games / Programs on Mac",
+      "description": "Run Windows Games / Programs on Mac",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -80891,10 +80989,6 @@
         {
           "text": "PortingKit",
           "url": "https://www.portingkit.com/"
-        },
-        {
-          "text": "PlayOnMac",
-          "url": "https://www.playonmac.com/en/"
         }
       ]
     },
@@ -81781,7 +81875,7 @@
       "subsubsection": null,
       "title": "Homebrew",
       "url": "https://brew.sh/",
-      "description": ", , or - Package Managers",
+      "description": ", / / , , or - Package Managers",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -81792,6 +81886,10 @@
         },
         {
           "text": "GUI",
+          "url": "https://github.com/Homebrew/BrewUI"
+        },
+        {
+          "text": "2",
           "url": "https://github.com/buresdv/Cork/"
         },
         {
@@ -82529,6 +82627,24 @@
         {
           "text": "The Levelator",
           "url": "https://archive.org/details/conversationsnetwork_org-levelator"
+        }
+      ]
+    },
+    {
+      "page": "Linux",
+      "section": "Mac Apps",
+      "subsection": "Mac Audio",
+      "subsubsection": null,
+      "title": "⁠Silkwave Clarity",
+      "url": "https://www.silkwave.ai/silkwave-clarity",
+      "description": "Noise Suppression Software",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Silkwave Clarity",
+          "url": "https://www.silkwave.ai/silkwave-clarity"
         }
       ]
     },
@@ -83335,7 +83451,7 @@
       "subsubsection": null,
       "title": "LuLu",
       "url": "https://objective-see.org/products/lulu.html",
-      "description": "Mac Firewall",
+      "description": "Mac Firewall /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -83343,6 +83459,10 @@
         {
           "text": "LuLu",
           "url": "https://objective-see.org/products/lulu.html"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/objective-see/LuLu"
         }
       ]
     },
@@ -88197,6 +88317,24 @@
       "section": "Food",
       "subsection": null,
       "subsubsection": null,
+      "title": "⁠Save The Food",
+      "url": "https://savethefood.com/",
+      "description": "Food Waste Prevention Tips / Tools",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Save The Food",
+          "url": "https://savethefood.com/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Food",
+      "subsection": null,
+      "subsubsection": null,
       "title": "FoodExpirationDates",
       "url": "https://github.com/lorenzovngl/FoodExpirationDates",
       "description": "or - Food Expiration Trackers",
@@ -89349,6 +89487,24 @@
         {
           "text": "Discord",
           "url": "https://discord.com/invite/fashionreps"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Fashion / Clothing",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "⁠Doppel",
+      "url": "https://doppel.fit/",
+      "description": "Replica Clothing Quality Control Platform",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Doppel",
+          "url": "https://doppel.fit/"
         }
       ]
     },
@@ -97725,24 +97881,6 @@
       "section": "Health",
       "subsection": "Physical Health",
       "subsubsection": null,
-      "title": "BMI Chart",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png",
-      "description": "BMI Range Graph",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "BMI Chart",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Health",
-      "subsection": "Physical Health",
-      "subsubsection": null,
       "title": "Standard BMI Calculator",
       "url": "https://www.nhlbi.nih.gov/calculate-your-bmi",
       "description": ", or - BMI Calculator",
@@ -97881,6 +98019,24 @@
         {
           "text": "SailRabbit",
           "url": "https://www.sailrabbit.com/bmr/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Health",
+      "subsection": "Physical Health",
+      "subsubsection": null,
+      "title": "BMI Chart",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png",
+      "description": "BMI Range Graph",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "BMI Chart",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png"
         }
       ]
     },
@@ -98749,24 +98905,6 @@
       "section": "Health",
       "subsection": "Nutritional Health",
       "subsubsection": null,
-      "title": "Caffeine Calculator",
-      "url": "https://www.caffeineinformer.com/death-by-caffeine",
-      "description": "Caffeine Intake Calculator",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Caffeine Calculator",
-          "url": "https://www.caffeineinformer.com/death-by-caffeine"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Health",
-      "subsection": "Nutritional Health",
-      "subsubsection": null,
       "title": "OpenFoodFacts",
       "url": "https://world.openfoodfacts.org/",
       "description": "Food Database & Health Information /",
@@ -98967,6 +99105,24 @@
         {
           "text": "Edamam",
           "url": "https://www.edamam.com/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Health",
+      "subsection": "Nutritional Health",
+      "subsubsection": null,
+      "title": "Caffeine Calculator",
+      "url": "https://www.caffeineinformer.com/death-by-caffeine",
+      "description": "Caffeine Intake Calculator",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Caffeine Calculator",
+          "url": "https://www.caffeineinformer.com/death-by-caffeine"
         }
       ]
     },
@@ -99560,7 +99716,7 @@
       "title": "EasyPeasy",
       "url": "https://easypeasymethod.org/",
       "description": ", / or - Painlessly Quit Pornography",
-      "starred": true,
+      "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
@@ -100847,7 +101003,7 @@
       "subsubsection": null,
       "title": "CoFolios",
       "url": "https://cofolios.com/",
-      "description": "Portfolio Samples",
+      "description": "or - Portfolio Samples",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -100855,6 +101011,10 @@
         {
           "text": "CoFolios",
           "url": "https://cofolios.com/"
+        },
+        {
+          "text": "⁠perfolios",
+          "url": "https://directoryyy.com/"
         }
       ]
     },
@@ -102309,22 +102469,18 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Personal Finance / Budgeting",
       "subsubsection": null,
       "title": "r/PersonalFinance Wiki",
-      "url": "https://www.reddit.com/r/personalfinance/wiki/index",
-      "description": "or - Financial Advice / Resources",
+      "url": "https://www.reddit.com/r/personalfinance/wiki/index/",
+      "description": "or - Personal Finance Advice / Resources",
       "starred": false,
       "third_party_index": true,
       "section_link": false,
       "all_links": [
         {
           "text": "r/PersonalFinance Wiki",
-          "url": "https://www.reddit.com/r/personalfinance/wiki/index"
-        },
-        {
-          "text": "Countries",
-          "url": "https://www.reddit.com/r/personalfinance/wiki/country_index/"
+          "url": "https://www.reddit.com/r/personalfinance/wiki/index/"
         },
         {
           "text": "UK Personal Finance",
@@ -102335,11 +102491,221 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "Paisa",
+      "url": "https://paisa.fyi/",
+      "description": ", , , , , or - Finance / Expense Managers",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Paisa",
+          "url": "https://paisa.fyi/"
+        },
+        {
+          "text": "HomeBank",
+          "url": "https://www.gethomebank.org/"
+        },
+        {
+          "text": "Bagels",
+          "url": "https://github.com/EnhancedJax/Bagels"
+        },
+        {
+          "text": "GnuCash",
+          "url": "https://gnucash.org/"
+        },
+        {
+          "text": "Firefly III",
+          "url": "https://firefly-iii.org/"
+        },
+        {
+          "text": "Money Manager EX",
+          "url": "https://moneymanagerex.org/"
+        },
+        {
+          "text": "Actual",
+          "url": "https://actualbudget.org/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "money-manager",
+      "url": "https://github.com/moneymanagerex/android-money-manager-ex",
+      "description": ", , or - Mobile Expense Managers",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "money-manager",
+          "url": "https://github.com/moneymanagerex/android-money-manager-ex"
+        },
+        {
+          "text": "Buckwheat",
+          "url": "https://buckwheat.app/"
+        },
+        {
+          "text": "My Expenses",
+          "url": "https://www.myexpenses.mobi/"
+        },
+        {
+          "text": "Cashew",
+          "url": "https://play.google.com/store/apps/details?id=com.budget.tracker_app"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "GreenStash",
+      "url": "https://github.com/Pool-Of-Tears/GreenStash",
+      "description": "Savings Goal Tracker",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "GreenStash",
+          "url": "https://github.com/Pool-Of-Tears/GreenStash"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "Denaro",
+      "url": "https://github.com/NickvisionApps/Denaro",
+      "description": "Linux Finance Manager",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Denaro",
+          "url": "https://github.com/NickvisionApps/Denaro"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "Ledger",
+      "url": "https://ledger-cli.org/",
+      "description": "or - Plain-Text Accounting Tools",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Ledger",
+          "url": "https://ledger-cli.org/"
+        },
+        {
+          "text": "hledger",
+          "url": "https://hledger.org/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "FreeTaxUSA",
+      "url": "https://www.freetaxusa.com/",
+      "description": ", or - Free US Tax Filing",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "FreeTaxUSA",
+          "url": "https://www.freetaxusa.com/"
+        },
+        {
+          "text": "IRS Free File",
+          "url": "https://apps.irs.gov/app/freeFile/"
+        },
+        {
+          "text": "US Taxes",
+          "url": "https://ustaxes.org/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "r/povertyfinance Wiki",
+      "url": "https://www.reddit.com/r/povertyfinance/wiki/index/",
+      "description": "Financial Advice / Resources",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "r/povertyfinance Wiki",
+          "url": "https://www.reddit.com/r/povertyfinance/wiki/index/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "r/BeerMoney",
+      "url": "https://www.reddit.com/r/beermoney/",
+      "description": "Online Earning Opportunities / Community",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "r/BeerMoney",
+          "url": "https://www.reddit.com/r/beermoney/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Personal Finance / Budgeting",
+      "subsubsection": null,
+      "title": "YieldFinder",
+      "url": "https://yieldfinder.app/",
+      "description": "Savings Account / Treasury Yield Comparisons",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "YieldFinder",
+          "url": "https://yieldfinder.app/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "TradingView",
       "url": "https://www.tradingview.com/",
-      "description": ", , or - Market Charting & Analysis Platforms",
+      "description": ", , or - Market Charting / Analysis",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -102365,11 +102731,11 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "StockTicker",
       "url": "https://github.com/premnirmal/StockTicker",
-      "description": "or - Mobile Market Charting & Analysis Platforms",
+      "description": "or - Mobile Market Tracking",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -102387,231 +102753,73 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "Ghostfolio",
-      "url": "https://ghostfol.io/en/start",
-      "description": ", / , , , , , or / - Finance / Expense Managers",
+      "url": "https://ghostfol.io/",
+      "description": "Investment Portfolio Tracker",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
           "text": "Ghostfolio",
-          "url": "https://ghostfol.io/en/start"
-        },
-        {
-          "text": "Import",
-          "url": "https://github.com/dickwolff/Export-To-Ghostfolio"
-        },
-        {
-          "text": "Paisa",
-          "url": "https://paisa.fyi/"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/ananthakumaran/paisa"
-        },
-        {
-          "text": "HomeBank",
-          "url": "https://www.gethomebank.org/en/index.php"
-        },
-        {
-          "text": "Bagels",
-          "url": "https://github.com/EnhancedJax/Bagels"
-        },
-        {
-          "text": "GnuCash",
-          "url": "https://gnucash.org/"
-        },
-        {
-          "text": "Firefly III",
-          "url": "https://firefly-iii.org/"
-        },
-        {
-          "text": "Money Manager EX",
-          "url": "https://moneymanagerex.org/"
-        },
-        {
-          "text": "Actual",
-          "url": "https://actualbudget.org/"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/actualbudget/actual"
+          "url": "https://ghostfol.io/"
         }
       ]
     },
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
-      "title": "⁠Infolib",
-      "url": "https://infolib.org/",
-      "description": "Customizable Dashboard w/ Financial News, Crypto Tracking, & Trading Tools",
+      "title": "OpenBB",
+      "url": "https://openbb.co/",
+      "description": ", or - Investment Research Platforms",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "⁠Infolib",
-          "url": "https://infolib.org/"
+          "text": "OpenBB",
+          "url": "https://openbb.co/"
+        },
+        {
+          "text": "GamestonkTerminal",
+          "url": "https://github.com/GamestonkTerminal/GamestonkTerminal"
+        },
+        {
+          "text": "Koyfin",
+          "url": "https://www.koyfin.com/"
         }
       ]
     },
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
-      "title": "Weekly Market Recap",
-      "url": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf",
-      "description": "Weekly Stock Market Recaps",
+      "title": "Portfolio Performance",
+      "url": "https://www.portfolio-performance.info/",
+      "description": "Portfolio Management / Performance Tracking",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "Weekly Market Recap",
-          "url": "https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf"
+          "text": "Portfolio Performance",
+          "url": "https://www.portfolio-performance.info/"
         }
       ]
     },
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "⁠Free File",
-      "url": "https://apps.irs.gov/app/freeFile/",
-      "description": ", (state is paid) or - File Taxes for Free / /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠Free File",
-          "url": "https://apps.irs.gov/app/freeFile/"
-        },
-        {
-          "text": "FreeTaxUSA",
-          "url": "https://www.freetaxusa.com/"
-        },
-        {
-          "text": "US Taxes",
-          "url": "https://ustaxes.org/"
-        },
-        {
-          "text": "Get Pin",
-          "url": "https://youtu.be/iPw8I-cZ1eY"
-        },
-        {
-          "text": "Form Calc",
-          "url": "https://opentaxsolver.sourceforge.net/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "money-manager",
-      "url": "https://github.com/moneymanagerex/android-money-manager-ex",
-      "description": ", , or / - Mobile Finance / Expense Managers",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "money-manager",
-          "url": "https://github.com/moneymanagerex/android-money-manager-ex"
-        },
-        {
-          "text": "Buckwheat",
-          "url": "https://buckwheat.app/"
-        },
-        {
-          "text": "My Expenses",
-          "url": "https://www.myexpenses.mobi/"
-        },
-        {
-          "text": "Cashew",
-          "url": "https://play.google.com/store/apps/details?id=com.budget.tracker_app"
-        },
-        {
-          "text": "iOS",
-          "url": "https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "GreenStash",
-      "url": "https://github.com/Pool-Of-Tears/GreenStash",
-      "description": "Savings Tracking App",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "GreenStash",
-          "url": "https://github.com/Pool-Of-Tears/GreenStash"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Denaro",
-      "url": "https://github.com/NickvisionApps/Denaro",
-      "description": "Linux Finance Managers",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Denaro",
-          "url": "https://github.com/NickvisionApps/Denaro"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Ledger",
-      "url": "https://ledger-cli.org/",
-      "description": "or - Accounting Systems",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Ledger",
-          "url": "https://ledger-cli.org/"
-        },
-        {
-          "text": "hledger",
-          "url": "https://hledger.org/index.html"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "PortfolioVisualizer",
       "url": "https://www.portfoliovisualizer.com/",
-      "description": "Visualize Portfolio",
+      "description": "Portfolio Analysis / Backtesting",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -102625,247 +102833,29 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
-      "title": "r/povertyfinance wiki",
-      "url": "https://www.reddit.com/r/povertyfinance/wiki/index/",
-      "description": "Financial Tips / Resources",
+      "title": "Bogleheads",
+      "url": "https://www.bogleheads.org/",
+      "description": "Long-Term Investing Resources",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "r/povertyfinance wiki",
-          "url": "https://www.reddit.com/r/povertyfinance/wiki/index/"
+          "text": "Bogleheads",
+          "url": "https://www.bogleheads.org/"
         }
       ]
     },
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Simul8or",
-      "url": "https://simul8or.com/",
-      "description": "100K Trading Simulator",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Simul8or",
-          "url": "https://simul8or.com/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "r/BeerMoney",
-      "url": "https://www.reddit.com/r/beermoney/",
-      "description": "Online Money Making Community /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "r/BeerMoney",
-          "url": "https://www.reddit.com/r/beermoney/"
-        },
-        {
-          "text": "Wiki",
-          "url": "https://www.rxddit.com/r/beermoney/wiki/index"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Compound Interest Calculator",
-      "url": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
-      "description": "Determine Compound Interest Money Growth",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Compound Interest Calculator",
-          "url": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "⁠Bogleheads",
-      "url": "https://www.bogleheads.org/wiki/Main_Page",
-      "description": "Investing Advice Inspired by John Bogle",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠Bogleheads",
-          "url": "https://www.bogleheads.org/wiki/Main_Page"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "GamestonkTerminal",
-      "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
-      "description": ", or - Investment Research Tools",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "GamestonkTerminal",
-          "url": "https://github.com/OpenBB-finance/OpenBBTerminal"
-        },
-        {
-          "text": "OpenBB Terminal",
-          "url": "https://openbb.co/"
-        },
-        {
-          "text": "KoyFin",
-          "url": "https://www.koyfin.com/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Portfolio Performance",
-      "url": "https://www.portfolio-performance.info/en/",
-      "description": "Portfolio Investment Tracker /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Portfolio Performance",
-          "url": "https://www.portfolio-performance.info/en/"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/portfolio-performance/portfolio"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Financials Extension",
-      "url": "https://github.com/cmallwitz/Financials-Extension",
-      "description": "Stock Market Data for LibreOffice Calc",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Financials Extension",
-          "url": "https://github.com/cmallwitz/Financials-Extension"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "YieldFinder",
-      "url": "https://yieldfinder.app/",
-      "description": "Rates for Savings Accounts, Market Funds, and Treasuries",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "YieldFinder",
-          "url": "https://yieldfinder.app/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "Quiver Quantitative",
-      "url": "https://www.quiverquant.com/",
-      "description": "Stock Trading Research",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Quiver Quantitative",
-          "url": "https://www.quiverquant.com/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "TradingView Webhook Bot",
-      "url": "https://github.com/fabston/TradingView-Webhook-Bot",
-      "description": "Send TradingView Alerts to Various Apps",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "TradingView Webhook Bot",
-          "url": "https://github.com/fabston/TradingView-Webhook-Bot"
-        },
-        {
-          "text": "Index",
-          "url": "https://github.com/pAulseperformance/awesome-pinescript"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
-      "subsubsection": null,
-      "title": "tickrs",
-      "url": "https://github.com/tarkah/tickrs",
-      "description": "Ticker Data in Terminal",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "tickrs",
-          "url": "https://github.com/tarkah/tickrs"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "ETFDB",
       "url": "https://etfdb.com/",
-      "description": "ETF Databases",
+      "description": "ETF Database / Comparisons",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -102879,29 +102869,137 @@
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
-      "title": "DeFi Derivative Landscape",
-      "url": "https://github.com/0xperp/defi-derivatives",
-      "description": "DeFi Derivative Guide",
+      "title": "Quiver Quantitative",
+      "url": "https://www.quiverquant.com/",
+      "description": "Alternative Investment Data / Research",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "DeFi Derivative Landscape",
-          "url": "https://github.com/0xperp/defi-derivatives"
+          "text": "Quiver Quantitative",
+          "url": "https://www.quiverquant.com/"
         }
       ]
     },
     {
       "page": "Misc",
       "section": "Career",
-      "subsection": "Finance / Savings",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "Infolib",
+      "url": "https://infolib.org/",
+      "description": "Financial News / Market Dashboard",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Infolib",
+          "url": "https://infolib.org/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "Weekly Market Recap",
+      "url": "https://am.jpmorgan.com/",
+      "description": "Stock Market Recaps",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Weekly Market Recap",
+          "url": "https://am.jpmorgan.com/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "Simul8or",
+      "url": "https://simul8or.com/",
+      "description": "Trading Simulator",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Simul8or",
+          "url": "https://simul8or.com/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "Compound Interest Calculator",
+      "url": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+      "description": "Investment Growth Calculator",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Compound Interest Calculator",
+          "url": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "Financials Extension",
+      "url": "https://github.com/cmallwitz/Financials-Extension",
+      "description": "Stock Market Data for LibreOffice",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Financials Extension",
+          "url": "https://github.com/cmallwitz/Financials-Extension"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
+      "subsubsection": null,
+      "title": "TradingView Webhook Bot",
+      "url": "https://github.com/fabston/TradingView-Webhook-Bot",
+      "description": "TradingView Alert Automation",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "TradingView Webhook Bot",
+          "url": "https://github.com/fabston/TradingView-Webhook-Bot"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Career",
+      "subsection": "Investing / Market Research",
       "subsubsection": null,
       "title": "Kitco",
       "url": "https://www.kitco.com/",
-      "description": "Gold Rate Calculators",
+      "description": "Precious Metals Prices / Calculators",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -103365,21 +103463,13 @@
       "section": "Shopping",
       "subsection": null,
       "subsubsection": null,
-      "title": "Fragrantica",
-      "url": "https://www.fragrantica.com/",
-      "description": ", or - Perfume / Fragrance Databases",
+      "title": "Parfumo",
+      "url": "https://www.parfumo.com/",
+      "description": "Fragrance Database / Reviews / Discovery / Collection Tracker",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
-        {
-          "text": "Fragrantica",
-          "url": "https://www.fragrantica.com/"
-        },
-        {
-          "text": "Basenotes",
-          "url": "https://basenotes.com/"
-        },
         {
           "text": "Parfumo",
           "url": "https://www.parfumo.com/"
@@ -103689,24 +103779,6 @@
       "section": "Shopping",
       "subsection": null,
       "subsubsection": null,
-      "title": "PicClick",
-      "url": "https://picclick.com/",
-      "description": "eBay Quick Search",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "PicClick",
-          "url": "https://picclick.com/"
-        }
-      ]
-    },
-    {
-      "page": "Misc",
-      "section": "Shopping",
-      "subsection": null,
-      "subsubsection": null,
       "title": "⁠a view from my seat",
       "url": "https://aviewfrommyseat.com/",
       "description": "See Event Views Before Buying Tickets",
@@ -103887,6 +103959,24 @@
         {
           "text": "Discord",
           "url": "https://discord.com/invite/fashionreps"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Shopping",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "⁠Doppel",
+      "url": "https://doppel.fit/",
+      "description": "Replica Clothing Quality Control Platform",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Doppel",
+          "url": "https://doppel.fit/"
         }
       ]
     },
@@ -104247,6 +104337,28 @@
         {
           "text": "⁠CarSized",
           "url": "https://www.carsized.com/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Shopping",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "Fragrantica",
+      "url": "https://www.fragrantica.com/",
+      "description": "or - Fragrance Databases / Reviews / Communities",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Fragrantica",
+          "url": "https://www.fragrantica.com/"
+        },
+        {
+          "text": "Basenotes",
+          "url": "https://basenotes.com/"
         }
       ]
     },
@@ -111373,6 +111485,24 @@
       "section": "Fun Sites",
       "subsection": "Interactive",
       "subsubsection": null,
+      "title": "⁠weball",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "description": "Web Page Katamari Damacy",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠weball",
+          "url": "https://www.funwithcomputervision.com/weball/"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Fun Sites",
+      "subsection": "Interactive",
+      "subsubsection": null,
       "title": "The ⁠Museum of All Things",
       "url": "https://may.as/moat/",
       "description": "or - 3D Virtual Wikipedia Museums",
@@ -114059,6 +114189,28 @@
       "section": "Fun Sites",
       "subsection": "Media / Lore",
       "subsubsection": null,
+      "title": "⁠Celery Man",
+      "url": "https://celeryman.fun/",
+      "description": "Tim & Eric Celery Man Desktop / Dance Sim /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Celery Man",
+          "url": "https://celeryman.fun/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/turtlesoupy/celeryman-os"
+        }
+      ]
+    },
+    {
+      "page": "Misc",
+      "section": "Fun Sites",
+      "subsection": "Media / Lore",
+      "subsubsection": null,
       "title": "⁠The Courage Computer",
       "url": "https://the-courage-computer.vercel.app/",
       "description": "Courage Style Computer",
@@ -116575,7 +116727,7 @@
       "subsubsection": null,
       "title": "PDALife",
       "url": "https://pdalife.com/",
-      "description": ", / /",
+      "description": ", / / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -116595,6 +116747,10 @@
         {
           "text": "Telegram",
           "url": "https://t.me/pdalife_official"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/erVkAkzGHZ"
         }
       ]
     },
@@ -117541,6 +117697,24 @@
         {
           "text": "⁠Komi Store",
           "url": "https://github.com/kurikomi-labs/komi-store"
+        }
+      ]
+    },
+    {
+      "page": "Mobile",
+      "section": "Android APKs",
+      "subsection": "FOSS APKs",
+      "subsubsection": null,
+      "title": "⁠ShizuStore",
+      "url": "https://github.com/timschneeb/ShizuStore",
+      "description": "Shizuku App Store",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠ShizuStore",
+          "url": "https://github.com/timschneeb/ShizuStore"
         }
       ]
     },
@@ -131114,14 +131288,22 @@
       "subsection": "YouTube Music",
       "subsubsection": null,
       "title": "BitChord",
-      "url": "https://github.com/kushagrasinghx/BitChord",
-      "description": "YouTube Music Player",
+      "url": "https://bitchord.kushagrasingh.in",
+      "description": "YouTube Music Player / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
           "text": "BitChord",
+          "url": "https://bitchord.kushagrasingh.in"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/pSafNTyKZx"
+        },
+        {
+          "text": "GitHub",
           "url": "https://github.com/kushagrasinghx/BitChord"
         }
       ]
@@ -132363,24 +132545,6 @@
       "section": "Android Streaming",
       "subsection": null,
       "subsubsection": null,
-      "title": "Flixoid",
-      "url": "https://rentry.co/FMHYB64#flixoid",
-      "description": "Movies / TV",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Flixoid",
-          "url": "https://rentry.co/FMHYB64#flixoid"
-        }
-      ]
-    },
-    {
-      "page": "Mobile",
-      "section": "Android Streaming",
-      "subsection": null,
-      "subsubsection": null,
       "title": "BeeTV",
       "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks",
       "description": "(search) - Movies / TV",
@@ -132409,24 +132573,6 @@
         {
           "text": "LokLok",
           "url": "https://loklok.com/download"
-        }
-      ]
-    },
-    {
-      "page": "Mobile",
-      "section": "Android Streaming",
-      "subsection": null,
-      "subsubsection": null,
-      "title": "DigilogTV",
-      "url": "https://github.com/aldrinzigmundv/digilogtv",
-      "description": "News TV Channels",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "DigilogTV",
-          "url": "https://github.com/aldrinzigmundv/digilogtv"
         }
       ]
     },
@@ -137279,6 +137425,10 @@
         {
           "text": "Telegram",
           "url": "https://t.me/pdalife_official"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/erVkAkzGHZ"
         }
       ]
     },
@@ -137337,24 +137487,6 @@
         {
           "text": "AppDB",
           "url": "https://appdb.to"
-        }
-      ]
-    },
-    {
-      "page": "Mobile",
-      "section": "iOS iPAs",
-      "subsection": null,
-      "subsubsection": null,
-      "title": "APP_HORDE",
-      "url": "https://crtghoul.github.io/app-horde/",
-      "description": "Tweaked Apps",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "APP_HORDE",
-          "url": "https://crtghoul.github.io/app-horde/"
         }
       ]
     },
@@ -142007,72 +142139,6 @@
       "section": "Specialty Streaming",
       "subsection": "Concerts / Live Shows",
       "subsubsection": null,
-      "title": "MixesDB",
-      "url": "https://www.mixesdb.com/",
-      "description": "DJ Mixes / Livesets /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "MixesDB",
-          "url": "https://www.mixesdb.com/"
-        },
-        {
-          "text": "Essentials List",
-          "url": "https://rentry.co/dancemixbible/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "BBC Radio 1 Essential Mix",
-      "url": "https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix",
-      "description": "BBC Radio 1 Essential Mix Archive + Guide /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "BBC Radio 1 Essential Mix",
-          "url": "https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix"
-        },
-        {
-          "text": "Downloader",
-          "url": "https://rentry.co/bbcemdl"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "MiroPPB",
-      "url": "https://miroppb.com/",
-      "description": "A State of Trance Archive / DJ Mixes /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "MiroPPB",
-          "url": "https://miroppb.com/"
-        },
-        {
-          "text": "Downloader",
-          "url": "https://rentry.co/asotdl"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
       "title": "setlist.fm",
       "url": "https://www.setlist.fm/",
       "description": "Setlist Database",
@@ -142301,114 +142367,6 @@
       "section": "Specialty Streaming",
       "subsection": "Concerts / Live Shows",
       "subsubsection": null,
-      "title": "TopDJMixes",
-      "url": "https://topdjmixes.com/",
-      "description": "DJ Mixes / Livesets",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "TopDJMixes",
-          "url": "https://topdjmixes.com/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "GOA PsyTrance Livesets",
-      "url": "https://rentry.co/FMHYB64#goa-psytrance-livesets",
-      "description": "DJ Mixes / Livesets",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "GOA PsyTrance Livesets",
-          "url": "https://rentry.co/FMHYB64#goa-psytrance-livesets"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "⁠HD Mixtapes",
-      "url": "https://hdmixtapes.org/",
-      "description": "DJ Mixes / Livesets",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠HD Mixtapes",
-          "url": "https://hdmixtapes.org/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "⁠BassBlog",
-      "url": "https://bassblog.pro/",
-      "description": "DJ Mixes / Livesets",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠BassBlog",
-          "url": "https://bassblog.pro/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "⁠TestPressing",
-      "url": "https://www.testpressing.org/",
-      "description": "DJ Mixes / Livesets",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠TestPressing",
-          "url": "https://www.testpressing.org/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
-      "title": "Rave Recording",
-      "url": "https://rentry.co/FMHYB64#rave-library",
-      "description": "Rave Recordings / Archive",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Rave Recording",
-          "url": "https://rentry.co/FMHYB64#rave-library"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Specialty Streaming",
-      "subsection": "Concerts / Live Shows",
-      "subsubsection": null,
       "title": "Volume",
       "url": "https://volume.com/",
       "description": "Live Cam Concerts",
@@ -142611,6 +142569,180 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/KZWFsNN"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "MixesDB",
+      "url": "https://www.mixesdb.com/",
+      "description": "DJ Mixes / Livesets /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "MixesDB",
+          "url": "https://www.mixesdb.com/"
+        },
+        {
+          "text": "Essentials List",
+          "url": "https://rentry.co/dancemixbible/"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "BBC Radio 1 Essential Mix",
+      "url": "https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix",
+      "description": "BBC Radio 1 Essential Mix Archive + Guide /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "BBC Radio 1 Essential Mix",
+          "url": "https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix"
+        },
+        {
+          "text": "Downloader",
+          "url": "https://rentry.co/bbcemdl"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "MiroPPB",
+      "url": "https://miroppb.com/",
+      "description": "A State of Trance Archive / DJ Mixes /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "MiroPPB",
+          "url": "https://miroppb.com/"
+        },
+        {
+          "text": "Downloader",
+          "url": "https://rentry.co/asotdl"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "TopDJMixes",
+      "url": "https://topdjmixes.com/",
+      "description": "DJ Mixes / Livesets",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "TopDJMixes",
+          "url": "https://topdjmixes.com/"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "⁠HD Mixtapes",
+      "url": "https://hdmixtapes.org/",
+      "description": "DJ Mixes / Livesets",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠HD Mixtapes",
+          "url": "https://hdmixtapes.org/"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "⁠BassBlog",
+      "url": "https://bassblog.pro/",
+      "description": "DJ Mixes / Livesets",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠BassBlog",
+          "url": "https://bassblog.pro/"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "⁠TestPressing",
+      "url": "https://www.testpressing.org/",
+      "description": "DJ Mixes / Livesets",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠TestPressing",
+          "url": "https://www.testpressing.org/"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "GOA PsyTrance Livesets",
+      "url": "https://rentry.co/FMHYB64#goa-psytrance-livesets",
+      "description": "DJ Mixes / Livesets",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "GOA PsyTrance Livesets",
+          "url": "https://rentry.co/FMHYB64#goa-psytrance-livesets"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Specialty Streaming",
+      "subsection": "DJ Mixes / Livesets",
+      "subsubsection": null,
+      "title": "Rave Recording",
+      "url": "https://rentry.co/FMHYB64#rave-library",
+      "description": "Rave Recordings / Archive",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Rave Recording",
+          "url": "https://rentry.co/FMHYB64#rave-library"
         }
       ]
     },
@@ -143147,7 +143279,7 @@
       "subsubsection": null,
       "title": "Drone Zone",
       "url": "https://somafm.com/player/#/now-playing/dronezone",
-      "description": ", or - Ambient Playlists",
+      "description": ", or , - Ambient Music Stations / Playlists",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -143163,6 +143295,10 @@
         {
           "text": "Music For Programming",
           "url": "https://musicforprogramming.net/latest/"
+        },
+        {
+          "text": "⁠Hearts of Space",
+          "url": "https://www.hos.com/"
         }
       ]
     },
@@ -157707,24 +157843,6 @@
       "section": "Audio Editing",
       "subsection": "SFX / Samples",
       "subsubsection": null,
-      "title": "⁠FourOnDaFloor",
-      "url": "https://fourondafloor.com/",
-      "description": "Sound Effects",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠FourOnDaFloor",
-          "url": "https://fourondafloor.com/"
-        }
-      ]
-    },
-    {
-      "page": "Music",
-      "section": "Audio Editing",
-      "subsection": "SFX / Samples",
-      "subsubsection": null,
       "title": "Citizen DJ",
       "url": "https://citizen-dj.labs.loc.gov/",
       "description": "Sound Effects",
@@ -158227,6 +158345,24 @@
         {
           "text": "Adblock",
           "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking"
+        }
+      ]
+    },
+    {
+      "page": "Non-Eng",
+      "section": "Arabic / العربية",
+      "subsection": "Downloading / تحميل",
+      "subsubsection": null,
+      "title": "⁠Sama3y - سماعي",
+      "url": "https://www.sama3y.net/",
+      "description": "Music / Classical / Forum / Sign-Up Required",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Sama3y - سماعي",
+          "url": "https://www.sama3y.net/"
         }
       ]
     },
@@ -167375,7 +167511,7 @@
       "subsubsection": null,
       "title": "MoviesMod",
       "url": "https://mmodlist.org/?type=hollywood",
-      "description": "Movies / TV / Sub / Dub / 1080p /",
+      "description": "Movies / TV / Sub / Dub / 1080p",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -167383,10 +167519,6 @@
         {
           "text": "MoviesMod",
           "url": "https://mmodlist.org/?type=hollywood"
-        },
-        {
-          "text": "Bypass",
-          "url": "https://greasyfork.org/en/scripts/474747"
         }
       ]
     },
@@ -177383,6 +177515,24 @@
       "section": "Russian / Русский",
       "subsection": "Reading / Чтение",
       "subsubsection": null,
+      "title": "⁠HexNovels",
+      "url": "https://hexnovels.me/",
+      "description": "Light Novels / Web Novels",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠HexNovels",
+          "url": "https://hexnovels.me/"
+        }
+      ]
+    },
+    {
+      "page": "Non-Eng",
+      "section": "Russian / Русский",
+      "subsection": "Reading / Чтение",
+      "subsubsection": null,
       "title": "Gameland",
       "url": "https://gameland.ru/archive/",
       "description": "Country of Games Magazine Archive",
@@ -183038,7 +183188,7 @@
       "title": "Thoát Porn Luận",
       "url": "https://thu-tram.github.io/tpl/",
       "description": "Porn Quitting Guide / EasyPeasy Translation",
-      "starred": true,
+      "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
@@ -189403,24 +189553,6 @@
       "section": "Audiobooks",
       "subsection": "Downloading",
       "subsubsection": null,
-      "title": "AudioBooksBee",
-      "url": "https://audiobooksbee.com/",
-      "description": null,
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "AudioBooksBee",
-          "url": "https://audiobooksbee.com/"
-        }
-      ]
-    },
-    {
-      "page": "Reading",
-      "section": "Audiobooks",
-      "subsection": "Downloading",
-      "subsubsection": null,
       "title": "LearnOutLoud",
       "url": "https://www.learnoutloud.com/Free-Audiobooks",
       "description": null,
@@ -189631,6 +189763,28 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/bbkVHRHnRk"
+        }
+      ]
+    },
+    {
+      "page": "Reading",
+      "section": "Audiobooks",
+      "subsection": "Downloading",
+      "subsubsection": null,
+      "title": "AudioBooksBee",
+      "url": "https://audiobooksbee.com/",
+      "description": "Requires",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "AudioBooksBee",
+          "url": "https://audiobooksbee.com/"
+        },
+        {
+          "text": "Debrid",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches"
         }
       ]
     },
@@ -194784,7 +194938,7 @@
       "subsection": "Academic Papers",
       "subsubsection": null,
       "title": "Study / Research Tools",
-      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools",
       "description": null,
       "starred": false,
       "third_party_index": false,
@@ -194792,7 +194946,7 @@
       "all_links": [
         {
           "text": "Study / Research Tools",
-          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research"
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools"
         }
       ]
     },
@@ -205123,7 +205277,7 @@
       "subsubsection": null,
       "title": "TemporaryNumber",
       "url": "https://temporarynumber.com/",
-      "description": ", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
+      "description": ", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -205319,6 +205473,10 @@
         {
           "text": "⁠GetSMS",
           "url": "https://getsms.online/temporary-phone-numbers/"
+        },
+        {
+          "text": "⁠DogeSMS",
+          "url": "https://www.dogesms.com/free-sms"
         }
       ]
     },
@@ -205515,7 +205673,7 @@
       "subsubsection": null,
       "title": "Google Icons",
       "url": "https://fonts.google.com/icons",
-      "description": ", , , , , , , , , , , , , / , , , , , , , , , , , , , , , , ,",
+      "description": ", , , , , , , , , , , , , / , , , , , , , , , , , , , , , , , , /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -205647,6 +205805,14 @@
         {
           "text": "Reicon",
           "url": "https://reicon.dev/"
+        },
+        {
+          "text": "⁠Line Awesome",
+          "url": "https://icons8.com/line-awesome"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/icons8/line-awesome"
         }
       ]
     },
@@ -206309,28 +206475,6 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
-      "title": "Stellar",
-      "url": "https://stellar.gdn/",
-      "description": "Movies / TV / Anime / Auto-Next / 4K /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Stellar",
-          "url": "https://stellar.gdn/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.gg/wncJByPPDU"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
       "title": "Vivarium",
       "url": "https://vivarium.su/",
       "description": "Movies / TV / Anime / Auto-Next /",
@@ -206371,6 +206515,24 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/the-raven"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
+      "title": "CineLite",
+      "url": "https://cinelite.xyz/",
+      "description": "Movies / TV / Anime / Auto-Next / 4K",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "CineLite",
+          "url": "https://cinelite.xyz/"
         }
       ]
     },
@@ -206739,6 +206901,28 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
+      "title": "Stellar",
+      "url": "https://stellar.gdn/",
+      "description": "Movies / TV / Anime / Auto-Next / 4K /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Stellar",
+          "url": "https://stellar.gdn/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/wncJByPPDU"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
       "title": "Cinema (BZ)",
       "url": "https://cinema.army/",
       "description": "Movies / TV / Anime / Auto-Next /",
@@ -206805,24 +206989,6 @@
         {
           "text": "Cinex",
           "url": "https://cinex.lol/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "CineLite",
-      "url": "https://cinelite.xyz/",
-      "description": "Movies / TV / Anime / Auto-Next / 4K",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "CineLite",
-          "url": "https://cinelite.xyz/"
         }
       ]
     },
@@ -207051,36 +207217,6 @@
         {
           "text": "Lightflix",
           "url": "https://lightflix.app/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "Boomflix",
-      "url": "https://boomflix.pages.dev/",
-      "description": ", - Movies / TV / Anime / Auto-Next / /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Boomflix",
-          "url": "https://boomflix.pages.dev/"
-        },
-        {
-          "text": "2",
-          "url": "https://boomflix.qzz.io"
-        },
-        {
-          "text": "Telegram",
-          "url": "https://t.me/boomflixweb"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/whEBxM3WT2"
         }
       ]
     },
@@ -207518,7 +207654,7 @@
       "subsection": "Stream Aggregators",
       "subsubsection": null,
       "title": "GreyBox",
-      "url": "https://greywatchbox.pages.dev/",
+      "url": "https://greyboxtv.vercel.app/",
       "description": "Movies / TV / Anime /",
       "starred": false,
       "third_party_index": false,
@@ -207526,7 +207662,7 @@
       "all_links": [
         {
           "text": "GreyBox",
-          "url": "https://greywatchbox.pages.dev/"
+          "url": "https://greyboxtv.vercel.app/"
         },
         {
           "text": "Discord",
@@ -207597,24 +207733,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/vPCHZ6PgRX"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "All About Movies",
-      "url": "https://allaboutmovies.xyz/",
-      "description": "Movies / TV / Anime",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "All About Movies",
-          "url": "https://allaboutmovies.xyz/"
         }
       ]
     },
@@ -209017,6 +209135,28 @@
       "section": "Streaming Sites",
       "subsection": "Multi-Server",
       "subsubsection": null,
+      "title": "KaitoVault",
+      "url": "https://kaitotv.com/",
+      "description": "Movies / TV / Anime /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "KaitoVault",
+          "url": "https://kaitotv.com/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/vm2XbdcZtm"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Multi-Server",
+      "subsubsection": null,
       "title": "Flyflix",
       "url": "https://flyflix.net/",
       "description": "Movies / TV / Anime /",
@@ -209331,24 +209471,6 @@
         {
           "text": "Invite",
           "url": "https://discord.gg/pXnv7ha5XP"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Multi-Server",
-      "subsubsection": null,
-      "title": "KaitoVault",
-      "url": "https://www.kaitovault.com/",
-      "description": "Movies / TV / Anime",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "KaitoVault",
-          "url": "https://www.kaitovault.com/"
         }
       ]
     },
@@ -210521,7 +210643,7 @@
       "subsubsection": null,
       "title": "BBC iPlayer",
       "url": "https://www.bbc.co.uk/iplayer",
-      "description": "Movies / TV / Requires UK VPN (windscribe) /",
+      "description": "Movies / TV / UK IP Required (windscribe) / VPN Recommended even in UK /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -212181,28 +212303,6 @@
       "section": "Specialty Streaming",
       "subsection": "Anime Streaming",
       "subsubsection": null,
-      "title": "⁠Kazora",
-      "url": "https://kazora.cc/",
-      "description": "Sub / Dub / Auto-Next /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "⁠Kazora",
-          "url": "https://kazora.cc/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.gg/V5AWy78VTv"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Specialty Streaming",
-      "subsection": "Anime Streaming",
-      "subsubsection": null,
       "title": "⁠Lunar",
       "url": "https://lunarx.to/",
       "description": "Sub / Dub /",
@@ -212247,6 +212347,28 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/P3yqksmGun"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Specialty Streaming",
+      "subsection": "Anime Streaming",
+      "subsubsection": null,
+      "title": "⁠Kazora",
+      "url": "https://kazora.cc/",
+      "description": "Sub / Dub / Auto-Next /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Kazora",
+          "url": "https://kazora.cc/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/V5AWy78VTv"
         }
       ]
     },
@@ -212555,16 +212677,20 @@
       "section": "Specialty Streaming",
       "subsection": "Anime Streaming",
       "subsubsection": null,
-      "title": "⁠JJBA",
+      "title": "JJBA.lol",
       "url": "https://jjba.lol/",
-      "description": "Sub / Dub",
+      "description": "Sub / Dub / Auto-Next /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "⁠JJBA",
+          "text": "JJBA.lol",
           "url": "https://jjba.lol/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/vJW2vwzTGD"
         }
       ]
     },
@@ -212641,6 +212767,24 @@
         {
           "text": "Anify",
           "url": "https://anify.to/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Specialty Streaming",
+      "subsection": "Anime Streaming",
+      "subsubsection": null,
+      "title": "⁠anv",
+      "url": "https://anv.to/",
+      "description": "Sub / Dub",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠anv",
+          "url": "https://anv.to/"
         }
       ]
     },
@@ -214027,6 +214171,24 @@
         {
           "text": "Dramahood",
           "url": "https://dramahood.mom/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Specialty Streaming",
+      "subsection": "Drama Streaming",
+      "subsubsection": null,
+      "title": "⁠KissNeo",
+      "url": "https://kissneo.co/",
+      "description": "TV / Movies",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠KissNeo",
+          "url": "https://kissneo.co/"
         }
       ]
     },
@@ -219517,6 +219679,24 @@
         {
           "text": "aDrama",
           "url": "https://adrama.app/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Smart TV",
+      "subsection": "Android TV / Firestick",
+      "subsubsection": null,
+      "title": "DigilogTV",
+      "url": "https://github.com/aldrinzigmundv/digilogtv",
+      "description": "News Streaming App",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "DigilogTV",
+          "url": "https://github.com/aldrinzigmundv/digilogtv"
         }
       ]
     },
@@ -227003,7 +227183,7 @@
       "subsubsection": null,
       "title": "Quick Translator",
       "url": "https://github.com/L-at-nnes/rutracker-traduction",
-      "description": null,
+      "description": ",",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -227023,6 +227203,10 @@
         {
           "text": "Bypass Extension",
           "url": "https://rutracker.org/forum/viewtopic.php?t=5567607"
+        },
+        {
+          "text": "2",
+          "url": "https://addons.mozilla.org/firefox/addon/rutracker-add-on/"
         }
       ]
     },
