@@ -1911,8 +1911,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 72.7,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 77.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -1920,13 +1920,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 396,
+  "page_kb": 382,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -1934,7 +1934,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://30secondsofinterviews.org/",
   "verdict": "Light advertising"
  },
@@ -7345,13 +7345,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5376,
+  "page_kb": 5466,
   "pages": [
    "Misc"
   ],
@@ -17353,13 +17353,13 @@
   "ad_requests": 0,
   "ad_slots": 5,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [],
   "ok": true,
-  "page_kb": 55,
+  "page_kb": 111,
   "pages": [
    "Misc"
   ],
@@ -18382,35 +18382,37 @@
   "verdict": "Effectively ad-free"
  },
  "apps.irs.gov": {
-  "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_domains": 3,
+  "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 25.8,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 14.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "C",
   "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1207,
+  "page_kb": 4461,
   "pages": [
    "Misc"
   ],
   "popups": 0,
-  "refs": 2,
-  "score": 80.6,
+  "refs": 1,
+  "score": 67.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "IRS Free File | Internal Revenue Service",
+  "title": "E-file: Do your taxes for free | Internal Revenue Service",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://apps.irs.gov/app/freeFile/",
-  "verdict": "Light advertising"
+  "verdict": "Moderate advertising"
  },
  "apps.kde.org": {
   "ad_domains": 0,
@@ -21010,10 +21012,10 @@
  },
  "asana.com": {
   "ad_domains": 7,
-  "ad_requests": 11,
+  "ad_requests": 17,
   "ad_slots": 0,
-  "ad_weight_pct": 6.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -21027,13 +21029,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5728,
+  "page_kb": 4928,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 56.5,
+  "score": 46.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -21041,7 +21043,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 7,
   "url": "https://asana.com/",
   "verdict": "Heavy advertising"
  },
@@ -23369,8 +23371,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 31.8,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 32.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -23378,13 +23380,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 915,
+  "page_kb": 905,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 77.0,
+  "score": 77.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -23392,7 +23394,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 4,
+  "trackers": 3,
   "url": "https://authenticjobs.com/",
   "verdict": "Light advertising"
  },
@@ -23887,38 +23889,33 @@
   "verdict": "Moderate advertising"
  },
  "aviewfrommyseat.com": {
-  "ad_domains": 4,
-  "ad_requests": 6,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 69.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googleadservices.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 662,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 60.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "A view from my seat",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 7,
+  "trackers": 0,
   "url": "https://aviewfrommyseat.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "avrae.io": {
   "ad_domains": 3,
@@ -24442,7 +24439,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -24452,7 +24449,7 @@
    "dpm.demdex.net"
   ],
   "ok": true,
-  "page_kb": 23534,
+  "page_kb": 24182,
   "pages": [
    "Misc"
   ],
@@ -25805,8 +25802,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 13.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 14.3,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -25814,13 +25811,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2071,
+  "page_kb": 2057,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.0,
+  "score": 86.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -25828,7 +25825,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://bangyourbuck.com/",
   "verdict": "Very clean"
  },
@@ -29532,13 +29529,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 8,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -29546,9 +29543,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Bitcoin Forum - Index",
+  "title": "Bitcoin Forum - maintenance (503)",
   "topics": [
    "Everything Else"
   ],
@@ -32548,13 +32545,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2450,
+  "page_kb": 3397,
   "pages": [
    "Misc"
   ],
@@ -32564,7 +32561,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "NewMaxx\u2019s SSD Page \u2013 Source for all things SSD",
+  "title": "NewMaxx's SSD Page \u2013 Source for all things SSD",
   "topics": [
    "Everything Else"
   ],
@@ -34327,13 +34324,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 12015,
+  "page_kb": 11966,
   "pages": [
    "Misc"
   ],
@@ -34861,7 +34858,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34952,7 +34949,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -34960,7 +34957,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 79521,
+  "page_kb": 106681,
   "pages": [
    "Misc"
   ],
@@ -36037,8 +36034,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 18.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 15.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -36048,13 +36045,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1196,
+  "page_kb": 1437,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.9,
+  "score": 77.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -36067,34 +36064,31 @@
   "verdict": "Light advertising"
  },
  "camerasize.com": {
-  "ad_domains": 10,
-  "ad_requests": 198,
-  "ad_slots": 4,
-  "ad_weight_pct": 50.5,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 7,
+  "ad_requests": 69,
+  "ad_slots": 3,
+  "ad_weight_pct": 48.7,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cdn.flashtalking.com",
+   "adx-winners-us-west-2-rtb.adroll.com",
    "cm.g.doubleclick.net",
-   "d9.flashtalking.com",
+   "d.adroll.com",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "secure.flashtalking.com",
-   "servedby.flashtalking.com",
+   "s.adroll.com",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 3180,
+  "page_kb": 2231,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 5.0,
+  "score": 14.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -36901,27 +36895,26 @@
   "verdict": "Light advertising"
  },
  "careervault.io": {
-  "ad_domains": 3,
-  "ad_requests": 7,
+  "ad_domains": 2,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 63.4,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 51.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
+   "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 634,
+  "page_kb": 483,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 65.0,
+  "score": 70.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -36929,7 +36922,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://careervault.io/",
   "verdict": "Moderate advertising"
  },
@@ -38254,7 +38247,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -39089,7 +39082,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -39147,23 +39140,23 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 66,
+  "page_kb": 61,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
-  "refs": 4,
+  "refs": 2,
   "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "ChatWave \u2014 Session",
+  "title": "ChatWave",
   "topics": [
    "AI Tools"
   ],
@@ -45546,8 +45539,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.7,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 0.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -45555,13 +45548,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 22444,
+  "page_kb": 18311,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.7,
+  "score": 94.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -52856,8 +52849,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 26.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 26.8,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -52867,13 +52860,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1219,
+  "page_kb": 1258,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 67.5,
+  "score": 67.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -55939,13 +55932,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 130,
+  "page_kb": 101,
   "pages": [
    "Misc"
   ],
@@ -56779,8 +56772,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 74.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 74.8,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -56788,7 +56781,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 219,
+  "page_kb": 224,
   "pages": [
    "Misc"
   ],
@@ -56798,7 +56791,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Desenmascara.me \u2014 Detecta fraude y scams en cualquier web",
+  "title": "Desenmascara.me \u2014 Detect fraud and scams on any website",
   "topics": [
    "Everything Else"
   ],
@@ -59611,7 +59604,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -63519,7 +63512,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -65169,13 +65162,13 @@
  },
  "dribbble.com": {
   "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_requests": 15,
   "ad_slots": 0,
-  "ad_weight_pct": 7.8,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 24.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "D",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -65183,13 +65176,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4134,
+  "page_kb": 6840,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.1,
+  "score": 52.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -65197,9 +65190,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://dribbble.com/",
-  "verdict": "Light advertising"
+  "verdict": "Heavy advertising"
  },
  "driveandlisten.app": {
   "ad_domains": 8,
@@ -66235,8 +66228,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 18.7,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 19.7,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -66245,17 +66238,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 869,
+  "page_kb": 850,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.2,
+  "score": 78.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\ud83e\udde8 Dynamite Jobs: The Best Remote Jobs in September 2026",
+  "title": "\ud83e\udde8 Dynamite Jobs: The Best Remote Jobs in October 2026",
   "topics": [
    "Everything Else"
   ],
@@ -74850,13 +74843,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 0,
+  "page_kb": 380,
   "pages": [
    "Misc"
   ],
@@ -74866,7 +74859,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Factsplat | Organize Digital Resources | Boost Productivity",
+  "title": "Factsplat: one simple digital space, AI does the organizing",
   "topics": [
    "Everything Else"
   ],
@@ -82693,23 +82686,26 @@
   "verdict": "Effectively ad-free"
  },
  "forum.knockology.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 6.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 2267,
+  "page_kb": 2608,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 86.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -82717,9 +82713,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://forum.knockology.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "forum.language-learners.org": {
   "ad_domains": 0,
@@ -84862,8 +84858,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 12.1,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 12.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -84872,13 +84868,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1501,
+  "page_kb": 1505,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.0,
+  "score": 83.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -88767,8 +88763,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 30.6,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 68.3,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -88776,7 +88772,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 559,
+  "page_kb": 258,
   "pages": [
    "Misc"
   ],
@@ -88786,7 +88782,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Product Artistry Games",
+  "title": "Dark Patterns Detective \u00b7 Product Artistry Games",
   "topics": [
    "Everything Else"
   ],
@@ -90241,18 +90237,18 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 348,
+  "page_kb": 319,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
-  "refs": 1,
+  "refs": 2,
   "score": 100.0,
   "starred": 0,
   "status": "online",
@@ -100123,13 +100119,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1368,
+  "page_kb": 1359,
   "pages": [
    "Adblock"
   ],
@@ -101711,45 +101707,37 @@
   "verdict": "Light advertising"
  },
  "himalayas.app": {
-  "ad_domains": 11,
-  "ad_requests": 46,
-  "ad_slots": 1,
-  "ad_weight_pct": 88.6,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 3,
+  "ad_requests": 8,
+  "ad_slots": 0,
+  "ad_weight_pct": 91.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "C",
   "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "sync.teads.tv",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "us-u.openx.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 797,
+  "page_kb": 464,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 19.0,
+  "score": 63.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Remote Job Board and Free AI Job Search Tools | Himalayas",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://himalayas.app/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Moderate advertising"
  },
  "hinative.com": {
   "ad_domains": 0,
@@ -108683,13 +108671,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 4,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -108697,9 +108685,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Discover the IndieWeb, one blog post at a time.",
+  "title": "IndieBlogs",
   "topics": [
    "Everything Else"
   ],
@@ -108948,7 +108936,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -108957,7 +108945,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 5018,
+  "page_kb": 5009,
   "pages": [
    "Misc"
   ],
@@ -109759,8 +109747,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 83.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 83.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -109768,7 +109756,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 380,
+  "page_kb": 390,
   "pages": [
    "Misc"
   ],
@@ -110830,13 +110818,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2134,
+  "page_kb": 261,
   "pages": [
    "Misc"
   ],
@@ -114044,29 +114032,27 @@
   "verdict": "Ad-saturated / hostile"
  },
  "jobspresso.co": {
-  "ad_domains": 5,
-  "ad_requests": 31,
+  "ad_domains": 3,
+  "ad_requests": 9,
   "ad_slots": 1,
-  "ad_weight_pct": 25.5,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 20.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "C",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2378,
+  "page_kb": 2189,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 36.2,
+  "score": 61.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -114076,7 +114062,7 @@
   ],
   "trackers": 2,
   "url": "https://jobspresso.co/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "jockantv.eu": {
   "ad_domains": 0,
@@ -116781,13 +116767,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 304,
+  "page_kb": 305,
   "pages": [
    "Misc"
   ],
@@ -120115,8 +120101,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 26.7,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 29.8,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -120124,13 +120110,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 640,
+  "page_kb": 592,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 81.7,
+  "score": 80.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -123191,13 +123177,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1680,
+  "page_kb": 1642,
   "pages": [
    "Misc"
   ],
@@ -124886,7 +124872,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127920,13 +127906,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1274,
+  "page_kb": 780,
   "pages": [
    "Misc"
   ],
@@ -128041,10 +128027,10 @@
  },
  "lines.chromeexperiments.com": {
   "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -128053,13 +128039,13 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1098,
+  "page_kb": 1041,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.0,
+  "score": 88.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -131633,13 +131619,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1000,
+  "page_kb": 1018,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -145227,7 +145213,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -155931,13 +155917,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 427,
+  "page_kb": 396,
   "pages": [
    "Misc"
   ],
@@ -156354,31 +156340,28 @@
   "verdict": "Effectively ad-free"
  },
  "nobids.net": {
-  "ad_domains": 7,
-  "ad_requests": 30,
+  "ad_domains": 4,
+  "ad_requests": 13,
   "ad_slots": 1,
-  "ad_weight_pct": 55.1,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 49.3,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 999,
+  "page_kb": 900,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 27.5,
+  "score": 47.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -156386,9 +156369,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://nobids.net/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "nobodyhere.com": {
   "ad_domains": 0,
@@ -156540,13 +156523,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 69,
+  "page_kb": 55,
   "pages": [
    "Misc"
   ],
@@ -168482,46 +168465,46 @@
   "verdict": "Effectively ad-free"
  },
  "overemployed.com": {
-  "ad_domains": 48,
-  "ad_requests": 236,
-  "ad_slots": 6,
-  "ad_weight_pct": 56.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 12,
+  "ad_requests": 20,
+  "ad_slots": 0,
+  "ad_weight_pct": 46.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "a.teads.tv",
-   "ad.doubleclick.net",
-   "ads.yieldmo.com",
-   "ap.lijit.com",
    "api.id5-sync.com",
-   "at.teads.tv",
-   "btlr.sharethrough.com",
    "cdn.id5-sync.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net",
-   "cs.media.net",
-   "direct.adsrvr.org"
+   "gum.criteo.com",
+   "id.crwdcntrl.net",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "pixel.rubiconproject.com",
+   "sb.scorecardresearch.com",
+   "securepubads.g.doubleclick.net",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2383,
+  "page_kb": 1260,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 29.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 4,
+  "sticky_ads": 0,
   "title": "Overemployed \u00ae - Work Two Remote Jobs, Reach Financial Freedom",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://overemployed.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "overlook.cx": {
   "ad_domains": 0,
@@ -173045,13 +173028,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 416,
+  "page_kb": 381,
   "pages": [
    "Misc"
   ],
@@ -175144,23 +175127,23 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 116,
+  "page_kb": 79,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
-  "refs": 3,
+  "refs": 2,
   "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "PixelDrain Limit Bypass",
+  "title": "PixelDrain Bypass - High Speed Link Generator | Speed Limit bypass",
   "topics": [
    "Downloads"
   ],
@@ -181736,7 +181719,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -182466,7 +182449,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -192709,25 +192692,23 @@
   "verdict": "Effectively ad-free"
  },
  "remoteintech.company": {
-  "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 1,
-  "ad_weight_pct": 0.5,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
-  "networks": [
-   "ad.doubleclick.net"
-  ],
+  "grade": "A",
+  "networks": [],
   "ok": true,
-  "page_kb": 90,
+  "page_kb": 106,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.8,
+  "score": 90.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -192737,7 +192718,7 @@
   ],
   "trackers": 0,
   "url": "https://remoteintech.company/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "remotejavajobs.com": {
   "ad_domains": 0,
@@ -192773,13 +192754,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://remotejobs.com/\", waiting until \"domcontentloa",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 387,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -192787,9 +192768,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Remote jobs: design, engineering, finance, marketing, management | Rem",
+  "title": "Remote Jobs",
   "topics": [
    "Everything Else"
   ],
@@ -192802,13 +192783,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1623,
+  "page_kb": 1395,
   "pages": [
    "Misc"
   ],
@@ -192827,36 +192808,32 @@
   "verdict": "Effectively ad-free"
  },
  "remoteyeah.com": {
-  "ad_domains": 12,
-  "ad_requests": 164,
-  "ad_slots": 8,
-  "ad_weight_pct": 59.4,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 8,
+  "ad_requests": 63,
+  "ad_slots": 9,
+  "ad_weight_pct": 75.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "c1.adform.net",
    "cm.g.doubleclick.net",
    "dis.criteo.com",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "securepubads.g.doubleclick.net",
    "sync-tm.everesttech.net",
+   "sync.teads.tv",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3039,
+  "page_kb": 1459,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 0.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -192869,23 +192846,28 @@
   "verdict": "Ad-saturated / hostile"
  },
  "remotive.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 4,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 25.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 450,
+  "page_kb": 788,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 67.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -192893,9 +192875,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://remotive.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Moderate advertising"
  },
  "rendercv.com": {
   "ad_domains": 0,
@@ -193556,8 +193538,8 @@
   "ad_domains": 1,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 53.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 53.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -193565,7 +193547,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1127,
+  "page_kb": 1155,
   "pages": [
    "Misc"
   ],
@@ -196425,8 +196407,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -196434,13 +196416,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1274,
+  "page_kb": 1279,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.9,
+  "score": 88.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -202171,8 +202153,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 1.4,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -202182,13 +202164,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 24720,
+  "page_kb": 22513,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.3,
+  "score": 78.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -207769,13 +207751,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 825,
+  "page_kb": 960,
   "pages": [
    "Misc"
   ],
@@ -216846,13 +216828,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 411,
+  "page_kb": 173,
   "pages": [
    "Misc"
   ],
@@ -216862,7 +216844,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Startups.RIP - Dead YC Startups, Alive Ideas",
+  "title": "Startups.RIP - Find your next startup idea",
   "topics": [
    "Everything Else"
   ],
@@ -224523,7 +224505,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -237590,13 +237572,13 @@
  },
  "trello.com": {
   "ad_domains": 7,
-  "ad_requests": 20,
+  "ad_requests": 15,
   "ad_slots": 0,
-  "ad_weight_pct": 9.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 12.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "D",
   "networks": [
    "5406241.fls.doubleclick.net",
    "ad.doubleclick.net",
@@ -237607,13 +237589,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8103,
+  "page_kb": 6812,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 43.0,
+  "score": 49.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -237623,7 +237605,7 @@
   ],
   "trackers": 2,
   "url": "https://trello.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Heavy advertising"
  },
  "trespassershq.com": {
   "ad_domains": 1,
@@ -240846,13 +240828,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6751,
+  "page_kb": 6685,
   "pages": [
    "Misc"
   ],
@@ -241488,17 +241470,18 @@
   "verdict": "Effectively ad-free"
  },
  "typohound.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 3,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [
    "bcp.crwdcntrl.net",
-   "match.adsrvr.org"
+   "match.adsrvr.org",
+   "s.amazon-adsystem.com"
   ],
   "ok": true,
   "page_kb": 60,
@@ -241507,7 +241490,7 @@
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.8,
+  "score": 85.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -242224,30 +242207,28 @@
   "verdict": "Effectively ad-free"
  },
  "ukfountainpens.com": {
-  "ad_domains": 23,
-  "ad_requests": 250,
+  "ad_domains": 10,
+  "ad_requests": 104,
   "ad_slots": 9,
-  "ad_weight_pct": 95.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 78.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ad.doubleclick.net",
    "adx-winners-us-west-2-rtb.adroll.com",
-   "bid.g.doubleclick.net",
-   "cdn.flashtalking.com",
+   "c1.adform.net",
    "cm.g.doubleclick.net",
    "d.adroll.com",
-   "d.agkn.com",
-   "d9.flashtalking.com",
-   "fw.adsafeprotected.com",
-   "gcdn.2mdn.net",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com"
+   "pagead2.googlesyndication.com",
+   "s.adroll.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 28923,
+  "page_kb": 1657,
   "pages": [
    "Misc"
   ],
@@ -246508,25 +246489,25 @@
  },
  "vexillologists.com": {
   "ad_domains": 2,
-  "ad_requests": 9,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 24.1,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 21.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1025,
+  "page_kb": 1139,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 68.5,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -246536,7 +246517,7 @@
   ],
   "trackers": 0,
   "url": "https://vexillologists.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "vexilo.org": {
   "ad_domains": 0,
@@ -249989,7 +249970,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -253905,13 +253886,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 534,
+  "page_kb": 544,
   "pages": [
    "Misc"
   ],
@@ -255294,8 +255275,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 45.5,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 43.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -255304,7 +255285,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 400,
+  "page_kb": 423,
   "pages": [
    "Misc"
   ],
@@ -255389,8 +255370,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 13.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 6.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -255398,13 +255379,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1228,
+  "page_kb": 2675,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.4,
+  "score": 91.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -255481,11 +255462,11 @@
   "verdict": "Light advertising"
  },
  "weworkremotely.com": {
-  "ad_domains": 19,
-  "ad_requests": 52,
+  "ad_domains": 20,
+  "ad_requests": 61,
   "ad_slots": 2,
-  "ad_weight_pct": 31.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 41.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -255498,19 +255479,19 @@
    "googleads.g.doubleclick.net",
    "ib.adnxs.com",
    "image2.pubmatic.com",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "pixel.rubiconproject.com",
-   "rtb-csync.smartadserver.com",
-   "s.adroll.com"
+   "rtb-csync.smartadserver.com"
   ],
   "ok": true,
-  "page_kb": 2489,
+  "page_kb": 2752,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 11.5,
+  "score": 12.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -255518,7 +255499,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 17,
+  "trackers": 15,
   "url": "https://weworkremotely.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -256222,8 +256203,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 17.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -256231,13 +256212,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1007,
+  "page_kb": 1012,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.5,
+  "score": 86.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -260904,13 +260885,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 599,
+  "page_kb": 715,
   "pages": [
    "Misc"
   ],
@@ -263614,7 +263595,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -264983,10 +264964,10 @@
  },
  "www.airtable.com": {
   "ad_domains": 4,
-  "ad_requests": 11,
+  "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 21.4,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 23.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -264997,13 +264978,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3367,
+  "page_kb": 3133,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.3,
+  "score": 56.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -265011,7 +264992,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 17,
+  "trackers": 9,
   "url": "https://www.airtable.com/",
   "verdict": "Heavy advertising"
  },
@@ -269999,29 +269980,36 @@
   "verdict": "Light advertising"
  },
  "www.atlassian.com": {
-  "ad_domains": 5,
-  "ad_requests": 9,
+  "ad_domains": 12,
+  "ad_requests": 28,
   "ad_slots": 0,
-  "ad_weight_pct": 1.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "E",
   "networks": [
+   "5406241.fls.doubleclick.net",
    "ad.doubleclick.net",
+   "adservice.google.com",
    "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
+   "insight.adsrvr.org",
    "js.adsrvr.org",
+   "match.adsrvr.org",
+   "secure.adnxs.com",
+   "stats.g.doubleclick.net",
    "www.googleadservices.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 18744,
+  "page_kb": 23747,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 67.5,
+  "score": 39.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -270029,9 +270017,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 8,
   "url": "https://www.atlassian.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.atmadharma.com": {
   "ad_domains": 0,
@@ -270862,8 +270850,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 8.1,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 8.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -270871,13 +270859,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1930,
+  "page_kb": 1904,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 90.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -270969,13 +270957,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3297,
+  "page_kb": 3277,
   "pages": [
    "Misc"
   ],
@@ -272036,7 +272024,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -272045,7 +272033,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1479,
+  "page_kb": 1451,
   "pages": [
    "Misc"
   ],
@@ -272996,35 +272984,33 @@
   "verdict": "Light advertising"
  },
  "www.bitcoinwhoswho.com": {
-  "ad_domains": 11,
+  "ad_domains": 9,
   "ad_requests": 37,
   "ad_slots": 1,
-  "ad_weight_pct": 52.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 49.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "ad.doubleclick.net",
-   "adx-winners-us-west-2-rtb.adroll.com",
    "cm.g.doubleclick.net",
-   "d.adroll.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s.adroll.com",
    "s0.2mdn.net",
    "stats.g.doubleclick.net",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2289,
+  "page_kb": 2168,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 22.5,
+  "score": 23.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -273032,7 +273018,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 5,
+  "trackers": 4,
   "url": "https://www.bitcoinwhoswho.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -273260,13 +273246,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 620,
+  "page_kb": 432,
   "pages": [
    "Misc"
   ],
@@ -275843,10 +275829,10 @@
  },
  "www.carryology.com": {
   "ad_domains": 8,
-  "ad_requests": 21,
+  "ad_requests": 22,
   "ad_slots": 0,
-  "ad_weight_pct": 12.5,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -275861,13 +275847,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4238,
+  "page_kb": 4320,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 37.8,
+  "score": 37.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -280435,8 +280421,8 @@
   "ad_domains": 5,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 4.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 4.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -280448,13 +280434,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1372,
+  "page_kb": 1417,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 73.3,
+  "score": 73.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -281408,8 +281394,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 32.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 32.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -281417,7 +281403,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 530,
+  "page_kb": 535,
   "pages": [
    "Misc"
   ],
@@ -282519,8 +282505,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 4.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 5.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -282529,7 +282515,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3169,
+  "page_kb": 3178,
   "pages": [
    "Misc"
   ],
@@ -282584,7 +282570,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.7,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -282592,7 +282578,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 22128,
+  "page_kb": 22127,
   "pages": [
    "Misc"
   ],
@@ -290399,13 +290385,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 880,
+  "page_kb": 1006,
   "pages": [
    "Misc"
   ],
@@ -294943,13 +294929,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.fossjobs.net/\", waiting until \"domcontentl",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 40,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -294957,9 +294943,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Free & Open Source Jobs - fossjobs.net",
+  "title": "FOSS Jobs",
   "topics": [
    "Everything Else"
   ],
@@ -297760,8 +297746,8 @@
   "ad_domains": 2,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 17.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -297770,13 +297756,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1944,
+  "page_kb": 1958,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 77.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -297915,13 +297901,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2121,
+  "page_kb": 2277,
   "pages": [
    "Misc"
   ],
@@ -302258,10 +302244,10 @@
  },
  "www.hirebasis.com": {
   "ad_domains": 4,
-  "ad_requests": 7,
+  "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 7.6,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 9.8,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -302272,13 +302258,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6724,
+  "page_kb": 7110,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 71.2,
+  "score": 68.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -302461,7 +302447,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -305498,8 +305484,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 23.6,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 24.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -305507,13 +305493,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 726,
+  "page_kb": 731,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.2,
+  "score": 83.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -306917,13 +306903,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 250,
+  "page_kb": 249,
   "pages": [
    "Misc"
   ],
@@ -309012,30 +308998,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.kitco.com": {
-  "ad_domains": 70,
-  "ad_requests": 349,
-  "ad_slots": 8,
-  "ad_weight_pct": 34.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 72,
+  "ad_requests": 347,
+  "ad_slots": 9,
+  "ad_weight_pct": 31.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "8a1c33ea73d904428630133ac5e44510.safeframe.googlesyndication.com",
+   "4ff4c4a11587b3a7e7ce6f7a906c0dcf.safeframe.googlesyndication.com",
+   "a2048.casalemedia.com",
    "ad.doubleclick.net",
+   "ads.scorecardresearch.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "b1sync.outbrain.com",
    "bb.lijit.com",
-   "bidline-us-east.bidswitch.net",
    "c.amazon-adsystem.com",
+   "cdn.flashtalking.com",
    "ce.lijit.com",
-   "cm-x.mgid.com",
-   "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com"
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 6995,
+  "page_kb": 9283,
   "pages": [
    "Misc"
   ],
@@ -309049,7 +309035,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 13,
+  "trackers": 14,
   "url": "https://www.kitco.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -310789,8 +310775,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 67.3,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 68.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -310800,13 +310786,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 520,
+  "page_kb": 532,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.0,
+  "score": 67.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -310814,7 +310800,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 4,
+  "trackers": 5,
   "url": "https://www.levels.fyi/",
   "verdict": "Moderate advertising"
  },
@@ -313265,13 +313251,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 337,
+  "page_kb": 333,
   "pages": [
    "Misc"
   ],
@@ -317955,13 +317941,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 596,
+  "page_kb": 147,
   "pages": [
    "Misc"
   ],
@@ -319726,8 +319712,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 14.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -319738,13 +319724,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3739,
+  "page_kb": 9214,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 64.4,
+  "score": 68.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -323141,24 +323127,24 @@
  },
  "www.nocommutejob.com": {
   "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 26.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 485,
+  "page_kb": 665,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 95.0,
+  "score": 79.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -323166,9 +323152,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://www.nocommutejob.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.noel-friedrich.de": {
   "ad_domains": 0,
@@ -326976,8 +326962,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 8.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -326985,13 +326971,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1815,
+  "page_kb": 2046,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.5,
+  "score": 90.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -327260,36 +327246,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.packhacker.com": {
-  "ad_domains": 29,
-  "ad_requests": 84,
-  "ad_slots": 4,
-  "ad_weight_pct": 51.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 22,
+  "ad_requests": 61,
+  "ad_slots": 1,
+  "ad_weight_pct": 39.8,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "350daf77fa2116c96ca61172e1fe0e5c.safeframe.googlesyndication.com",
+   "522e8e689dc745f3ef64cb5deffbf0b4.safeframe.googlesyndication.com",
    "api.id5-sync.com",
-   "c1.adform.net",
    "cdn.id5-sync.com",
-   "ce.lijit.com",
    "cm.g.doubleclick.net",
    "eb2.3lift.com",
-   "ib.adnxs.com",
    "id5-sync.com",
-   "image4.pubmatic.com",
-   "image8.pubmatic.com",
-   "lb.eu-1-id5-sync.com"
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "partners.tremorhub.com",
+   "pixel.quantserve.com"
   ],
   "ok": true,
-  "page_kb": 3206,
+  "page_kb": 2489,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 2.0,
+  "score": 17.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -328241,8 +328227,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 8.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 10.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -328250,13 +328236,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3243,
+  "page_kb": 2810,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.5,
+  "score": 87.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -328264,7 +328250,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 4,
+  "trackers": 3,
   "url": "https://www.penaddict.com/",
   "verdict": "Very clean"
  },
@@ -328409,13 +328395,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 254,
+  "page_kb": 258,
   "pages": [
    "Misc"
   ],
@@ -331534,13 +331520,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 701,
+  "page_kb": 1109,
   "pages": [
    "Misc"
   ],
@@ -331555,7 +331541,7 @@
    "Everything Else"
   ],
   "trackers": 0,
-  "url": "https://www.portfolio-performance.info/en/",
+  "url": "https://www.portfolio-performance.info/",
   "verdict": "Effectively ad-free"
  },
  "www.portfoliovisualizer.com": {
@@ -331563,13 +331549,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1006,
+  "page_kb": 1009,
   "pages": [
    "Misc"
   ],
@@ -333704,19 +333690,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1161,
+  "page_kb": 1061,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -333724,9 +333710,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 18,
+  "trackers": 0,
   "url": "https://www.python.org/jobs/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.q-3.eu": {
   "ad_domains": 0,
@@ -334086,26 +334072,27 @@
   "verdict": "Effectively ad-free"
  },
  "www.quiverquant.com": {
-  "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_domains": 3,
+  "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 4.8,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 7.6,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [
+   "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 10029,
+  "page_kb": 6584,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.6,
+  "score": 78.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -336276,8 +336263,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 7.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 8.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -336286,13 +336273,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2657,
+  "page_kb": 2275,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.0,
+  "score": 86.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -336780,26 +336767,30 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.resumgo.com": {
-  "ad_domains": 8,
-  "ad_requests": 139,
-  "ad_slots": 10,
-  "ad_weight_pct": 60.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_domains": 12,
+  "ad_requests": 121,
+  "ad_slots": 6,
+  "ad_weight_pct": 51.0,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
-   "cms.quantserve.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
-   "sync.teads.tv",
+   "r.bidswitch.net",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
   ],
   "ok": true,
-  "page_kb": 3140,
+  "page_kb": 3056,
   "pages": [
    "Misc"
   ],
@@ -336809,11 +336800,11 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 2,
-  "title": "390+ Free Resume Templates for Word & Google Docs",
+  "title": "Free Resume Templates for Word & Google Docs \u2013 ResumGO",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://www.resumgo.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -345087,19 +345078,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 26326,
+  "page_kb": 26351,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 99.0,
+  "score": 99.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -345107,7 +345098,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.speedyapply.com/",
   "verdict": "Effectively ad-free"
  },
@@ -345214,7 +345205,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -347869,8 +347860,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 7.6,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 7.5,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -347879,7 +347870,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4013,
+  "page_kb": 4187,
   "pages": [
    "Misc"
   ],
@@ -351351,10 +351342,10 @@
  },
  "www.thisiswhyimbroke.com": {
   "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 19.4,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -351363,13 +351354,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1883,
+  "page_kb": 2616,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.8,
+  "score": 84.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -357932,7 +357923,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -359911,7 +359902,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -360937,18 +360928,18 @@
   "verdict": "Light advertising"
  },
  "www.workingnomads.com": {
-  "ad_domains": 74,
-  "ad_requests": 243,
+  "ad_domains": 79,
+  "ad_requests": 753,
   "ad_slots": 1,
-  "ad_weight_pct": 50.9,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 54.2,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "6cb597d449136e58bba9d4c63f7fe7a0.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
-   "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
@@ -360960,7 +360951,7 @@
    "cm.adform.net"
   ],
   "ok": true,
-  "page_kb": 1829,
+  "page_kb": 1890,
   "pages": [
    "Misc"
   ],
@@ -365781,9 +365772,9 @@
  "yieldfinder.app": {
   "ad_domains": 4,
   "ad_requests": 10,
-  "ad_slots": 0,
-  "ad_weight_pct": 85.2,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_slots": 1,
+  "ad_weight_pct": 85.9,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -365794,13 +365785,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 508,
+  "page_kb": 526,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 57.5,
+  "score": 52.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -369465,8 +369456,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 23.8,
-  "checked_utc": "2026-09-21T14:36:48+00:00",
+  "ad_weight_pct": 24.4,
+  "checked_utc": "2026-10-21T18:17:38+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -369475,13 +369466,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1331,
+  "page_kb": 1318,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.6,
+  "score": 76.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -369489,7 +369480,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://zulip.com/",
   "verdict": "Light advertising"
  },
