@@ -917,22 +917,22 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.4,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 13.6,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5266,
+  "page_kb": 2154,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.8,
+  "score": 83.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -940,9 +940,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 9,
+  "trackers": 8,
   "url": "https://1940s.nyc/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "1ani.me": {
   "ad_domains": 0,
@@ -9718,7 +9718,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -16795,13 +16795,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9840,
+  "page_kb": 9295,
   "pages": [
    "Misc"
   ],
@@ -17156,35 +17156,33 @@
   "verdict": "Effectively ad-free"
  },
  "app.electricitymaps.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1342,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Map | Electricity Maps",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://app.electricitymaps.com/map",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "app.f-online.at": {
   "ad_domains": 3,
@@ -18744,8 +18742,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 6.5,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -18754,13 +18752,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2866,
+  "page_kb": 2706,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.8,
+  "score": 87.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -18768,32 +18766,41 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://aptransit.co/",
   "verdict": "Very clean"
  },
  "aqicn.org": {
-  "ad_domains": 3,
-  "ad_requests": 17,
-  "ad_slots": 3,
-  "ad_weight_pct": 38.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 14,
+  "ad_requests": 44,
+  "ad_slots": 4,
+  "ad_weight_pct": 52.3,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "api-taboola.com",
+   "b1sync.outbrain.com",
+   "c1.adform.net",
+   "cdn.taboola.com",
+   "cds.taboola.com",
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
+   "gum.criteo.com",
+   "images.taboola.com",
+   "la-trc-events.taboola.com",
    "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1576,
+  "page_kb": 2018,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 32.5,
+  "score": 7.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -18803,7 +18810,7 @@
   ],
   "trackers": 6,
   "url": "https://aqicn.org/map/world",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "aqstream.com": {
   "ad_domains": 1,
@@ -22095,8 +22102,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -22104,7 +22111,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2388,
+  "page_kb": 2393,
   "pages": [
    "Misc"
   ],
@@ -43908,8 +43915,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 34.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 33.9,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -43917,7 +43924,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 486,
+  "page_kb": 516,
   "pages": [
    "Misc"
   ],
@@ -49148,8 +49155,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.3,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 10.6,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -49157,13 +49164,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1673,
+  "page_kb": 1678,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.8,
+  "score": 89.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -50131,36 +50138,33 @@
   "verdict": "Effectively ad-free"
  },
  "cronobook.com": {
-  "ad_domains": 12,
-  "ad_requests": 31,
+  "ad_domains": 9,
+  "ad_requests": 38,
   "ad_slots": 1,
-  "ad_weight_pct": 24.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 30.5,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ag.innovid.com",
    "bcp.crwdcntrl.net",
    "cm.g.doubleclick.net",
-   "d.agkn.com",
    "googleads.g.doubleclick.net",
    "match.adsrvr.org",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "sync.teads.tv",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2468,
+  "page_kb": 2560,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 27.0,
+  "score": 23.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -50168,7 +50172,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://cronobook.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -52152,40 +52156,37 @@
   "verdict": "Light advertising"
  },
  "cyclonicwx.com": {
-  "ad_domains": 6,
-  "ad_requests": 32,
-  "ad_slots": 2,
-  "ad_weight_pct": 45.1,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 3,
+  "ad_requests": 13,
+  "ad_slots": 1,
+  "ad_weight_pct": 40.4,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "sync-tm.everesttech.net",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2032,
+  "page_kb": 1827,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 20.5,
+  "score": 51.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "CyclonicWx",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://cyclonicwx.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "cyfam.github.io": {
   "ad_domains": 0,
@@ -58987,8 +58988,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 8.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 9.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -58996,13 +58997,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1805,
+  "page_kb": 1810,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.6,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -65599,7 +65600,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66743,8 +66744,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 7.2,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -66752,13 +66753,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2260,
+  "page_kb": 2266,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 91.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -66766,7 +66767,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://earthquake.usgs.gov/earthquakes/map/",
   "verdict": "Very clean"
  },
@@ -70083,13 +70084,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 700,
+  "page_kb": 705,
   "pages": [
    "Misc"
   ],
@@ -72660,7 +72661,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -78053,8 +78054,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 5.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -78062,13 +78063,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2452,
+  "page_kb": 3056,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.5,
+  "score": 92.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -78487,8 +78488,8 @@
   "ad_domains": 1,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 16.7,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -78496,13 +78497,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4518,
+  "page_kb": 4477,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.2,
+  "score": 79.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -92976,27 +92977,23 @@
   "verdict": "Very clean"
  },
  "globalfishingwatch.org": {
-  "ad_domains": 3,
-  "ad_requests": 8,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 29.2,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
-  "networks": [
-   "ad.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 2487,
+  "page_kb": 1628,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 61.9,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -93004,9 +93001,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 5,
+  "trackers": 0,
   "url": "https://globalfishingwatch.org/map",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "globalnaturewatch.org": {
   "ad_domains": 2,
@@ -108020,13 +108017,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1332,
+  "page_kb": 1342,
   "pages": [
    "Misc"
   ],
@@ -117303,25 +117300,23 @@
   "verdict": "Effectively ad-free"
  },
  "kepler.gl": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 0.2,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 50845,
+  "page_kb": 49758,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.9,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -117329,9 +117324,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://kepler.gl/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "kernel.org": {
   "ad_domains": 0,
@@ -123000,13 +122995,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 510,
+  "page_kb": 262,
   "pages": [
    "Misc"
   ],
@@ -123016,7 +123011,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "LanguageMap \u2014 Interactive Map of World Languages",
+  "title": "LanguageMap: Interactive Map of World Languages",
   "topics": [
    "Everything Else"
   ],
@@ -127434,29 +127429,29 @@
  },
  "lightpollutionmap.info": {
   "ad_domains": 88,
-  "ad_requests": 559,
+  "ad_requests": 368,
   "ad_slots": 2,
-  "ad_weight_pct": 31.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 34.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3979d631c468f289b249af67e5df7f54.safeframe.googlesyndication.com",
-   "aa.agkn.com",
+   "0738e3ba162d8e00d89b71169e72c9aa.safeframe.googlesyndication.com",
+   "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
+   "adx.g.doubleclick.net",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
-   "bidline-us-east.bidswitch.net",
    "c.amazon-adsystem.com",
    "c1.adform.net"
   ],
   "ok": true,
-  "page_kb": 3238,
+  "page_kb": 3898,
   "pages": [
    "Educational"
   ],
@@ -133120,7 +133115,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -133128,7 +133123,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8160,
+  "page_kb": 8165,
   "pages": [
    "Misc"
   ],
@@ -134734,25 +134729,23 @@
   "verdict": "Effectively ad-free"
  },
  "macrostrat.org": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 2.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 5698,
+  "page_kb": 977,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.6,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -134760,9 +134753,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://macrostrat.org/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "macvim.org": {
   "ad_domains": 0,
@@ -137649,13 +137642,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2654,
+  "page_kb": 2817,
   "pages": [
    "Misc"
   ],
@@ -137854,13 +137847,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 154,
+  "page_kb": 532,
   "pages": [
    "Misc"
   ],
@@ -138092,13 +138085,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://maps.drsys.eu/\nCall log:\n  - navigating to \"https://maps.drsys.eu/\",",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -138106,9 +138099,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "Huge Earth Maps",
   "topics": [
    "Everything Else"
   ],
@@ -138181,19 +138174,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1126,
+  "page_kb": 1189,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 98.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -138201,7 +138194,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 4,
+  "trackers": 0,
   "url": "https://maps.vasile.ch/transit-sbb/",
   "verdict": "Effectively ad-free"
  },
@@ -138210,13 +138203,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4127,
+  "page_kb": 4078,
   "pages": [
    "Misc"
   ],
@@ -138852,13 +138845,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2184,
+  "page_kb": 2163,
   "pages": [
    "Misc"
   ],
@@ -143577,8 +143570,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 15.3,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 13.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -143587,13 +143580,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1241,
+  "page_kb": 1404,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.3,
+  "score": 83.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -152597,8 +152590,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 11.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 12.2,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -152606,13 +152599,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2421,
+  "page_kb": 2407,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.0,
+  "score": 87.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -152620,7 +152613,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://native-land.ca/",
   "verdict": "Very clean"
  },
@@ -155349,8 +155342,8 @@
   "ad_domains": 2,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 71.7,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 72.4,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -155359,7 +155352,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1723,
+  "page_kb": 1767,
   "pages": [
    "Misc"
   ],
@@ -164778,13 +164771,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1414,
+  "page_kb": 1624,
   "pages": [
    "Misc"
   ],
@@ -165044,8 +165037,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 36.6,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 37.1,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -165054,7 +165047,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1350,
+  "page_kb": 1361,
   "pages": [
    "Misc"
   ],
@@ -165546,13 +165539,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1895,
+  "page_kb": 3426,
   "pages": [
    "Misc"
   ],
@@ -166937,13 +166930,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 248,
+  "page_kb": 247,
   "pages": [
    "Misc"
   ],
@@ -166966,7 +166959,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -183555,7 +183548,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -188726,13 +188719,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1681,
+  "page_kb": 1662,
   "pages": [
    "Misc"
   ],
@@ -195368,13 +195361,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1934,
+  "page_kb": 1768,
   "pages": [
    "Misc"
   ],
@@ -213846,36 +213839,35 @@
   "verdict": "Effectively ad-free"
  },
  "specmap.sequence-omega.net": {
-  "ad_domains": 2,
-  "ad_requests": 5,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 41.4,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 6.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "A",
   "networks": [
-   "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1514,
+  "page_kb": 2610,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 69.0,
+  "score": 91.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Spectrum Ownership Map for Cellular Companies in the US - Spectrum Omega",
+  "title": "Forward Path - Mobile Network Spectrum Maps",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 5,
+  "trackers": 1,
   "url": "https://specmap.sequence-omega.net/",
-  "verdict": "Moderate advertising"
+  "verdict": "Very clean"
  },
  "spectro.enpts.com": {
   "ad_domains": 0,
@@ -216541,13 +216533,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3336,
+  "page_kb": 500,
   "pages": [
    "Misc"
   ],
@@ -216557,7 +216549,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Starlink Coverage Tracker",
+  "title": "starlink.sx \u2014 the mission continues",
   "topics": [
    "Everything Else"
   ],
@@ -221776,7 +221768,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -224549,7 +224541,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -228108,8 +228100,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 2.2,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 2.3,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -228117,13 +228109,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 12894,
+  "page_kb": 12880,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.9,
+  "score": 92.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -228131,7 +228123,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://thebanmappingproject.com/",
   "verdict": "Very clean"
  },
@@ -228293,35 +228285,33 @@
   "verdict": "Very clean"
  },
  "thecastlemap.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 7.1,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 2404,
+  "page_kb": 2093,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Castle Map \u2014 Explore 8,764 Castles, Fortresses, Palaces & Ruins",
+  "title": "Castle Map: Explore 9,035 Castles, Fortresses, Palaces & Ruins",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://thecastlemap.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "thechessdirectory.com": {
   "ad_domains": 1,
@@ -236654,8 +236644,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 1.9,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -236663,7 +236653,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8682,
+  "page_kb": 9305,
   "pages": [
    "Misc"
   ],
@@ -260424,13 +260414,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2930,
+  "page_kb": 2934,
   "pages": [
    "Misc"
   ],
@@ -263728,8 +263718,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 18.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 18.5,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -263737,13 +263727,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1607,
+  "page_kb": 1593,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.0,
+  "score": 84.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -263751,7 +263741,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.abandonedrails.com/",
   "verdict": "Light advertising"
  },
@@ -273186,26 +273176,27 @@
   "verdict": "Effectively ad-free"
  },
  "www.blitzortung.org": {
-  "ad_domains": 2,
-  "ad_requests": 12,
-  "ad_slots": 1,
-  "ad_weight_pct": 29.6,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 3,
+  "ad_requests": 23,
+  "ad_slots": 2,
+  "ad_weight_pct": 36.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1201,
+  "page_kb": 1396,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 56.2,
+  "score": 36.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -273215,7 +273206,7 @@
   ],
   "trackers": 0,
   "url": "https://www.blitzortung.org/en/live_lightning_maps.php",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.blockaway.net": {
   "ad_domains": 4,
@@ -276336,31 +276327,35 @@
   "verdict": "Effectively ad-free"
  },
  "www.cellmapper.net": {
-  "ad_domains": 7,
-  "ad_requests": 54,
+  "ad_domains": 11,
+  "ad_requests": 38,
   "ad_slots": 1,
-  "ad_weight_pct": 37.6,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 98.3,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
-   "b1sync.outbrain.com",
+   "ad.adsrvr.org",
    "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "enduser.adsrvr.org",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
+   "s.update.adsrvr.org",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "x.bidswitch.net"
+   "v.adsrvr.org",
+   "vam-bid.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 1969,
+  "page_kb": 71921,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 28.0,
+  "score": 24.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -276370,7 +276365,7 @@
   ],
   "trackers": 2,
   "url": "https://www.cellmapper.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.celsoazevedo.com": {
   "ad_domains": 2,
@@ -278113,38 +278108,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.chronotrains.com": {
-  "ad_domains": 4,
-  "ad_requests": 10,
-  "ad_slots": 1,
-  "ad_weight_pct": 39.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.9,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "A",
   "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1139,
+  "page_kb": 2754,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 52.0,
+  "score": 86.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Chronotrains \u2014 See How Far You Can Go by Train in Europe",
+  "title": "Train Routes in Europe \u2013 Map & Travel Times | Chronotrains",
   "topics": [
    "Everything Else"
   ],
   "trackers": 2,
   "url": "https://www.chronotrains.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very clean"
  },
  "www.chunkr.ai": {
   "ad_domains": 0,
@@ -281329,8 +281322,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 10.1,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -281338,7 +281331,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1597,
+  "page_kb": 1611,
   "pages": [
    "Misc"
   ],
@@ -282609,13 +282602,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 947,
+  "page_kb": 1320,
   "pages": [
    "Misc"
   ],
@@ -293951,19 +293944,16 @@
   "verdict": "Moderate advertising"
  },
  "www.floodmap.net": {
-  "ad_domains": 9,
-  "ad_requests": 70,
-  "ad_slots": 5,
-  "ad_weight_pct": 38.5,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 6,
+  "ad_requests": 44,
+  "ad_slots": 4,
+  "ad_weight_pct": 37.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "dis.criteo.com",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
@@ -293971,13 +293961,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2694,
+  "page_kb": 2580,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 3.5,
+  "score": 15.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -294883,31 +294873,35 @@
   "verdict": "Light advertising"
  },
  "www.fossilfuelmap.com": {
-  "ad_domains": 7,
-  "ad_requests": 61,
+  "ad_domains": 11,
+  "ad_requests": 85,
   "ad_slots": 2,
-  "ad_weight_pct": 23.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 29.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.adsrvr.org",
    "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "enduser.adsrvr.org",
    "googleads.g.doubleclick.net",
    "onetag-sys.com",
+   "or8-bid.adsrvr.org",
    "pagead2.googlesyndication.com",
+   "s.update.adsrvr.org",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4017,
+  "page_kb": 4419,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.5,
+  "score": 14.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -299581,10 +299575,10 @@
  },
  "www.gplates.org": {
   "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 3.6,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 3.8,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -299594,13 +299588,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4708,
+  "page_kb": 4696,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 81.2,
+  "score": 84.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -315044,8 +315038,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -315053,7 +315047,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8018,
+  "page_kb": 7893,
   "pages": [
    "Misc"
   ],
@@ -317387,13 +317381,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4102,
+  "page_kb": 3868,
   "pages": [
    "Misc"
   ],
@@ -322066,46 +322060,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.netweather.tv": {
-  "ad_domains": 58,
-  "ad_requests": 193,
-  "ad_slots": 2,
-  "ad_weight_pct": 41.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "695ae0a119a965ca4386094f35a389d0.safeframe.googlesyndication.com",
-   "acdn.adnxs.com",
-   "ads.pubmatic.com",
-   "ap.lijit.com",
-   "api.id5-sync.com",
-   "b1sync.outbrain.com",
-   "c1.adform.net",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com"
-  ],
-  "ok": true,
-  "page_kb": 1786,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 19.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Global Jet Stream Map - Netweather",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://www.netweather.tv/charts-and-data/global-jetstream",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.networksurvey.app": {
   "ad_domains": 0,
@@ -328169,13 +328150,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3080,
+  "page_kb": 9771,
   "pages": [
    "Misc"
   ],
@@ -332545,13 +332526,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9135,
+  "page_kb": 15494,
   "pages": [
    "Misc"
   ],
@@ -332603,7 +332584,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -334784,31 +334765,40 @@
   "verdict": "Light advertising"
  },
  "www.railjournal.in": {
-  "ad_domains": 3,
-  "ad_requests": 13,
-  "ad_slots": 0,
-  "ad_weight_pct": 36.3,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_domains": 13,
+  "ad_requests": 44,
+  "ad_slots": 1,
+  "ad_weight_pct": 34.4,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
+   "ad.adsrvr.org",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "enduser.adsrvr.org",
    "googleads.g.doubleclick.net",
+   "or8-bid.adsrvr.org",
    "pagead2.googlesyndication.com",
+   "s.update.adsrvr.org",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1907,
+  "page_kb": 3103,
   "pages": [
    "Misc",
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 55.5,
+  "score": 19.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Where Is My Train? Live Running Status & Rail News | RailJournal",
   "topics": [
    "Everything Else",
@@ -334816,7 +334806,7 @@
   ],
   "trackers": 2,
   "url": "https://www.railjournal.in/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.raincord.dev": {
   "ad_domains": 0,
@@ -343806,36 +343796,36 @@
   "verdict": "Moderate advertising"
  },
  "www.snow-forecast.com": {
-  "ad_domains": 31,
-  "ad_requests": 56,
+  "ad_domains": 27,
+  "ad_requests": 50,
   "ad_slots": 2,
-  "ad_weight_pct": 27.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 30.3,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "09ac0b69a33755f2691061b22c78cfe6.safeframe.googlesyndication.com",
    "a.teads.tv",
    "aax.amazon-adsystem.com",
    "ad.doubleclick.net",
+   "ads.pubmatic.com",
    "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net",
    "cm.g.doubleclick.net",
    "dt.adsafeprotected.com",
-   "eu-u.openx.net",
-   "f551956740e4c1eb63fb86dfff8c45f3.safeframe.googlesyndication.com",
-   "fastlane.rubiconproject.com"
+   "eus.rubiconproject.com",
+   "fastlane.rubiconproject.com",
+   "g2.gumgum.com"
   ],
   "ok": true,
-  "page_kb": 2282,
+  "page_kb": 2384,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 19.6,
+  "score": 17.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -343843,7 +343833,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 5,
   "url": "https://www.snow-forecast.com/maps",
   "verdict": "Ad-saturated / hostile"
  },
@@ -347243,8 +347233,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 8.8,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 9.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -347253,13 +347243,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1944,
+  "page_kb": 1963,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.6,
+  "score": 85.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -353640,30 +353630,30 @@
   "verdict": "Very clean"
  },
  "www.tropicaltidbits.com": {
-  "ad_domains": 13,
-  "ad_requests": 24,
+  "ad_domains": 50,
+  "ad_requests": 159,
   "ad_slots": 1,
-  "ad_weight_pct": 39.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 47.6,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "1c4db6472f917fa7c6a714889d8828c4.safeframe.googlesyndication.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
+   "api-taboola.com",
    "api.id5-sync.com",
+   "b1sync.outbrain.com",
+   "c1.adform.net",
+   "c21446498a1386908e6a4832a0ec100a.safeframe.googlesyndication.com",
    "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "fastlane.rubiconproject.com",
-   "htlb.casalemedia.com",
-   "id5-sync.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "onetag-sys.com",
-   "pagead2.googlesyndication.com",
-   "securepubads.g.doubleclick.net"
+   "cdn.taboola.com",
+   "cds.taboola.com",
+   "ce.lijit.com",
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1701,
+  "page_kb": 2082,
   "pages": [
    "Misc"
   ],
@@ -355952,25 +355942,25 @@
  },
  "www.urbanrail.net": {
   "ad_domains": 2,
-  "ad_requests": 18,
-  "ad_slots": 3,
-  "ad_weight_pct": 14.1,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_requests": 14,
+  "ad_slots": 1,
+  "ad_weight_pct": 10.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2992,
+  "page_kb": 2827,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 45.0,
+  "score": 63.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -355980,7 +355970,7 @@
   ],
   "trackers": 0,
   "url": "https://www.urbanrail.net/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "www.urdupod101.com": {
   "ad_domains": 13,
@@ -356226,8 +356216,8 @@
   "ad_domains": 1,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 30.3,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 28.0,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -356235,13 +356225,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2035,
+  "page_kb": 2296,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.0,
+  "score": 75.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -356436,8 +356426,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 14.9,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 15.3,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -356445,13 +356435,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1147,
+  "page_kb": 1153,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.5,
+  "score": 87.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -357639,43 +357629,33 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.volcanodiscovery.com": {
-  "ad_domains": 9,
-  "ad_requests": 34,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
-  "networks": [
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "dis.eu.criteo.com",
-   "fid.agkn.com",
-   "id5-sync.com",
-   "image6.pubmatic.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "us-u.openx.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 1664,
+  "page_kb": 7,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 45.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Which Volcanoes are Erupting? - List and map of Currently Erupting Active Volcanoes.",
+  "title": "VolcanoDiscovery",
   "topics": [
    "Everything Else"
   ],
   "trackers": 0,
   "url": "https://www.volcanodiscovery.com/erupting_volcanoes.html",
-  "verdict": "Heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.voodoopad.com": {
   "ad_domains": 1,
@@ -357784,13 +357764,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2512,
+  "page_kb": 2696,
   "pages": [
    "Misc"
   ],
@@ -363610,8 +363590,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 14.1,
-  "checked_utc": "2026-09-21T07:14:22+00:00",
+  "ad_weight_pct": 14.6,
+  "checked_utc": "2026-10-21T13:14:49+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -363620,13 +363600,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2145,
+  "page_kb": 2156,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.5,
+  "score": 78.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -363634,7 +363614,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 4,
   "url": "https://www2.cifor.org/global-wetlands/",
   "verdict": "Light advertising"
  },
