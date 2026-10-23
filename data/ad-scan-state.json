@@ -1642,7 +1642,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1729,7 +1729,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -1745,7 +1745,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "24hBook - Free Books Online",
+  "title": "24hBook - Download ebooks with AI",
   "topics": [
    "Non-English"
   ],
@@ -2794,27 +2794,31 @@
   "verdict": "Light advertising"
  },
  "5165.org": {
-  "ad_domains": 3,
-  "ad_requests": 14,
+  "ad_domains": 7,
+  "ad_requests": 39,
   "ad_slots": 1,
-  "ad_weight_pct": 50.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 63.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 898,
+  "page_kb": 1306,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 49.5,
+  "score": 28.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -2822,9 +2826,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://5165.org/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "5e.tools": {
   "ad_domains": 83,
@@ -4364,13 +4368,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11144,
+  "page_kb": 9685,
   "pages": [
    "Non-Eng"
   ],
@@ -12495,8 +12499,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 4,
-  "ad_weight_pct": 30.9,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 31.3,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -12505,7 +12509,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 930,
+  "page_kb": 936,
   "pages": [
    "Non-Eng"
   ],
@@ -19915,13 +19919,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2403,
+  "page_kb": 2707,
   "pages": [
    "Non-Eng"
   ],
@@ -26032,26 +26036,27 @@
   "verdict": "Heavy advertising"
  },
  "baozimh.one": {
-  "ad_domains": 2,
-  "ad_requests": 9,
+  "ad_domains": 3,
+  "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 66.5,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 53.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 370,
+  "page_kb": 800,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 65.5,
+  "score": 59.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -26059,7 +26064,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://baozimh.one/",
   "verdict": "Moderate advertising"
  },
@@ -26067,8 +26072,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 14.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 14.5,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -26076,13 +26081,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2067,
+  "page_kb": 2069,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.9,
+  "score": 85.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -31554,8 +31559,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 4,
-  "ad_weight_pct": 86.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 87.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -31564,7 +31569,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 355,
+  "page_kb": 361,
   "pages": [
    "Non-Eng"
   ],
@@ -32212,13 +32217,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 547,
+  "page_kb": 534,
   "pages": [
    "Non-Eng"
   ],
@@ -32228,7 +32233,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "powerfullz \u7684\u4e66\u5e93 | Books (59)",
+  "title": "powerfullz \u7684\u4e66\u5e93 | Books (64)",
   "topics": [
    "Non-English"
   ],
@@ -42001,8 +42006,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.3,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 10.9,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -42010,13 +42015,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1658,
+  "page_kb": 1627,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.8,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -46232,18 +46237,16 @@
   "verdict": "Moderate advertising"
  },
  "comic.acgn.cc": {
-  "ad_domains": 9,
-  "ad_requests": 51,
+  "ad_domains": 7,
+  "ad_requests": 32,
   "ad_slots": 1,
-  "ad_weight_pct": 39.7,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 7.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "081a393e7485337439515ebfc57991ac.safeframe.googlesyndication.com",
-   "5b07f69fb44669d5c2770f8a4accce49.safeframe.googlesyndication.com",
-   "961989ff02453d4cc2928b0436767e97.safeframe.googlesyndication.com",
+   "0b880575ab35b256d8570e891d12015d.safeframe.googlesyndication.com",
    "bidder.criteo.com",
    "cm.g.doubleclick.net",
    "gum.criteo.com",
@@ -46252,13 +46255,13 @@
    "static.criteo.net"
   ],
   "ok": true,
-  "page_kb": 2251,
+  "page_kb": 4039,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 22.0,
+  "score": 36.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -46266,9 +46269,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 6,
+  "trackers": 8,
   "url": "https://comic.acgn.cc/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "comic.studio": {
   "ad_domains": 23,
@@ -51203,13 +51206,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 184,
+  "page_kb": 7,
   "pages": [
    "Non-Eng"
   ],
@@ -64951,13 +64954,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 246,
+  "page_kb": 247,
   "pages": [
    "Non-Eng"
   ],
@@ -65815,35 +65818,33 @@
   "verdict": "Light advertising"
  },
  "duanjuhk.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 6.1,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2804,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://duanjuhk.com/\", waiting until \"domcontentloade",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "\u77ed\u5267\u597d\u770b\u5f71\u9662-\u5728\u7ebf\u77ed\u5267-\u6296\u97f3\u77ed\u5267-\u5168\u96c6\u77ed\u5267-\u514d\u8d39\u77ed\u5267",
+  "title": "duanjuhk",
   "topics": [
    "Non-English"
   ],
-  "trackers": 6,
+  "trackers": 0,
   "url": "https://duanjuhk.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "dubolt.com": {
   "ad_domains": 1,
@@ -65999,13 +66000,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2563,
+  "page_kb": 3044,
   "pages": [
    "Non-Eng"
   ],
@@ -69133,27 +69134,31 @@
   "verdict": "Effectively ad-free"
  },
  "eknihovna.maxzone.eu": {
-  "ad_domains": 3,
-  "ad_requests": 35,
+  "ad_domains": 7,
+  "ad_requests": 47,
   "ad_slots": 4,
-  "ad_weight_pct": 28.5,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 35.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2385,
+  "page_kb": 2525,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 25.2,
+  "score": 12.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -69608,13 +69613,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 387,
+  "page_kb": 353,
   "pages": [
    "Non-Eng"
   ],
@@ -76027,7 +76032,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -76893,7 +76898,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 99.9,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -76901,7 +76906,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 171,
+  "page_kb": 176,
   "pages": [
    "Non-Eng"
   ],
@@ -77363,11 +77368,11 @@
   "verdict": "Very clean"
  },
  "filmbot.tv": {
-  "ad_domains": 28,
-  "ad_requests": 81,
+  "ad_domains": 23,
+  "ad_requests": 73,
   "ad_slots": 0,
-  "ad_weight_pct": 3.6,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -77375,24 +77380,24 @@
    "aax-eu.amazon-adsystem.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "ap.lijit.com",
    "c.adskeeper.com",
-   "ce.lijit.com",
    "cm.adskeeper.com",
    "cm.g.doubleclick.net",
    "cm.mgid.com",
-   "eb2.3lift.com",
    "eus.rubiconproject.com",
-   "ib.adnxs.com"
+   "ib.adnxs.com",
+   "image2.pubmatic.com",
+   "image4.pubmatic.com",
+   "image8.pubmatic.com"
   ],
   "ok": true,
-  "page_kb": 20995,
+  "page_kb": 19579,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 42.7,
+  "score": 43.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -100789,36 +100794,42 @@
   "verdict": "Effectively ad-free"
  },
  "helpotnopat.fi": {
-  "ad_domains": 2,
-  "ad_requests": 22,
-  "ad_slots": 4,
-  "ad_weight_pct": 71.9,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_domains": 8,
+  "ad_requests": 74,
+  "ad_slots": 8,
+  "ad_weight_pct": 74.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com",
+   "trc.taboola.com"
   ],
   "ok": true,
-  "page_kb": 518,
+  "page_kb": 990,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 29.0,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Helpot Nopat || Helppojen opintopisteiden kurssit",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "https://helpotnopat.fi/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "hemmelig.app": {
   "ad_domains": 0,
@@ -101062,8 +101073,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 95.1,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 95.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -101071,7 +101082,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 180,
+  "page_kb": 185,
   "pages": [
    "Non-Eng"
   ],
@@ -102246,7 +102257,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -103988,26 +103999,36 @@
   "verdict": "Very heavy advertising"
  },
  "hoy.tv": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 16,
+  "ad_requests": 30,
   "ad_slots": 0,
-  "ad_weight_pct": 2.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "E",
   "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "633707166056ea5eb4aa08779ba51922.safeframe.googlesyndication.com",
+   "bcp.crwdcntrl.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "google-bidout-d.openx.net",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "rtb.openx.net",
+   "securepubads.g.doubleclick.net",
+   "static.criteo.net"
   ],
   "ok": true,
-  "page_kb": 7589,
+  "page_kb": 8717,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.5,
+  "score": 40.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -104017,7 +104038,7 @@
   ],
   "trackers": 3,
   "url": "https://hoy.tv/",
-  "verdict": "Very clean"
+  "verdict": "Very heavy advertising"
  },
  "hplus.com.vn": {
   "ad_domains": 3,
@@ -111012,8 +111033,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 94.7,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 94.9,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -111022,7 +111043,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 181,
+  "page_kb": 186,
   "pages": [
    "Non-Eng"
   ],
@@ -112298,8 +112319,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 8.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 9.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -112308,13 +112329,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1908,
+  "page_kb": 1913,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.1,
+  "score": 86.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -116460,10 +116481,10 @@
  },
  "kangxizidian.com": {
   "ad_domains": 3,
-  "ad_requests": 23,
-  "ad_slots": 2,
-  "ad_weight_pct": 31.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_requests": 17,
+  "ad_slots": 3,
+  "ad_weight_pct": 35.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -116473,13 +116494,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1674,
+  "page_kb": 1724,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 35.5,
+  "score": 35.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -118328,13 +118349,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 8621,
+  "page_kb": 7249,
   "pages": [
    "Non-Eng"
   ],
@@ -120930,8 +120951,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 1.7,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -120940,13 +120961,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9417,
+  "page_kb": 9402,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.2,
+  "score": 89.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -120994,13 +121015,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 489,
+  "page_kb": 477,
   "pages": [
    "Non-Eng"
   ],
@@ -136654,13 +136675,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2311,
+  "page_kb": 2233,
   "pages": [
    "Non-Eng"
   ],
@@ -139884,13 +139905,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2568,
+  "page_kb": 2070,
   "pages": [
    "Non-Eng"
   ],
@@ -148759,8 +148780,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -148768,13 +148789,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2384,
+  "page_kb": 4142,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.4,
+  "score": 92.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -150240,13 +150261,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4261,
+  "page_kb": 4887,
   "pages": [
    "Non-Eng"
   ],
@@ -155648,8 +155669,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 3.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -155658,13 +155679,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5345,
+  "page_kb": 5326,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.4,
+  "score": 88.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -156832,13 +156853,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1254,
+  "page_kb": 1418,
   "pages": [
    "Non-Eng"
   ],
@@ -159348,8 +159369,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 71.4,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 75.5,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -159357,13 +159378,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 403,
+  "page_kb": 389,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -159371,7 +159392,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://nuit-blanche.ch/",
   "verdict": "Light advertising"
  },
@@ -159652,13 +159673,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://nunubook.com/\nCall log:\n  - navigating to \"https://nunubook.com/\", waiting",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 2532,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
@@ -159666,9 +159687,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "\u52aa\u52aa\u4e66\u574a - \u514d\u8d39\u5168\u672c\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\u7f51",
+  "title": "nunubook.com",
   "topics": [
    "Non-English"
   ],
@@ -159677,35 +159698,33 @@
   "verdict": "Effectively ad-free"
  },
  "nunuju.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 8.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2140,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://nunuju.com/\", waiting until \"domcontentloaded\"",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "\u52aa\u52aa\u5267 - \u6700\u65b0\u7535\u5f71\u5728\u7ebf\u514d\u8d39\u89c2\u770b - \u624b\u673a\u5f71\u9662",
+  "title": "nunuju",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://nunuju.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "nura.eco": {
   "ad_domains": 0,
@@ -164005,13 +164024,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 152,
+  "page_kb": 35,
   "pages": [
    "Non-Eng"
   ],
@@ -171668,28 +171687,31 @@
   "verdict": "Light advertising"
  },
  "pdfknihy.maxzone.eu": {
-  "ad_domains": 4,
-  "ad_requests": 27,
-  "ad_slots": 4,
-  "ad_weight_pct": 31.7,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_domains": 7,
+  "ad_requests": 39,
+  "ad_slots": 1,
+  "ad_weight_pct": 32.5,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
   ],
   "ok": true,
-  "page_kb": 2144,
+  "page_kb": 2396,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.5,
+  "score": 27.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -172617,8 +172639,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.9,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 3.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -172626,7 +172648,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5521,
+  "page_kb": 5514,
   "pages": [
    "Non-Eng"
   ],
@@ -174753,13 +174775,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 218,
+  "page_kb": 228,
   "pages": [
    "Non-Eng"
   ],
@@ -174781,8 +174803,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 2.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -174790,13 +174812,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13171,
+  "page_kb": 13821,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.4,
+  "score": 91.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -179215,8 +179237,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -179224,13 +179246,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4278,
+  "page_kb": 4288,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.6,
+  "score": 92.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -181387,7 +181409,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -181395,7 +181417,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 171,
+  "page_kb": 176,
   "pages": [
    "Non-Eng"
   ],
@@ -182077,8 +182099,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 11.1,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 11.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -182086,13 +182108,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2750,
+  "page_kb": 2786,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.0,
+  "score": 86.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -182100,7 +182122,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 3,
+  "trackers": 4,
   "url": "https://prehraj.to/",
   "verdict": "Very clean"
  },
@@ -182827,7 +182849,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -193075,13 +193097,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1062,
+  "page_kb": 3409,
   "pages": [
    "Non-Eng"
   ],
@@ -200678,7 +200700,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -215295,7 +215317,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -222924,7 +222946,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -222982,13 +223004,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 416,
+  "page_kb": 417,
   "pages": [
    "Non-Eng"
   ],
@@ -238625,19 +238647,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 963,
+  "page_kb": 1238,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 99.5,
+  "score": 97.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -238645,7 +238667,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 5,
   "url": "https://trtag.com/",
   "verdict": "Effectively ad-free"
  },
@@ -239134,38 +239156,33 @@
   "verdict": "Effectively ad-free"
  },
  "tseret.com": {
-  "ad_domains": 4,
-  "ad_requests": 6,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 6.5,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
-  "networks": [
-   "securepubads.g.doubleclick.net",
-   "widget-pixels.outbrain.com",
-   "widgets.outbrain.com",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 7239,
+  "page_kb": 6512,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.8,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Tseret - Soluces, Guides et Actualit\u00e9s Jeux video",
+  "title": "Accueil \u2013 Tseret",
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://tseret.com/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "tsquareplaza.blogspot.com": {
   "ad_domains": 2,
@@ -239880,8 +239897,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 7.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -239889,13 +239906,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2534,
+  "page_kb": 2455,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.6,
+  "score": 87.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -239903,7 +239920,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 7,
+  "trackers": 8,
   "url": "https://tuoverse.com/",
   "verdict": "Very clean"
  },
@@ -251832,8 +251849,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 10.4,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 12.3,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -251841,13 +251858,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4577,
+  "page_kb": 3960,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.8,
+  "score": 83.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -251893,13 +251910,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2180,
+  "page_kb": 1877,
   "pages": [
    "Non-Eng"
   ],
@@ -254584,13 +254601,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1295,
+  "page_kb": 1542,
   "pages": [
    "Non-Eng"
   ],
@@ -255266,8 +255283,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 36.3,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 37.9,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -255276,13 +255293,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 834,
+  "page_kb": 822,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 73.5,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -255290,7 +255307,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://webshare.cz/",
   "verdict": "Light advertising"
  },
@@ -263376,8 +263393,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 90.4,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 90.5,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -263386,7 +263403,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 272,
+  "page_kb": 275,
   "pages": [
    "Non-Eng"
   ],
@@ -263556,13 +263573,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3454,
+  "page_kb": 3305,
   "pages": [
    "Non-Eng"
   ],
@@ -263965,13 +263982,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 347,
+  "page_kb": 358,
   "pages": [
    "Non-Eng"
   ],
@@ -263986,7 +264003,7 @@
    "Non-English"
   ],
   "trackers": 0,
-  "url": "http://www.5nd.com/",
+  "url": "https://www.5nd.com/",
   "verdict": "Effectively ad-free"
  },
  "www.69shuba.com": {
@@ -264738,21 +264755,21 @@
  "www.acfun.cn": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 2,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2675,
+  "page_kb": 14829,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.0,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -264762,7 +264779,7 @@
   ],
   "trackers": 0,
   "url": "https://www.acfun.cn/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.acgnx.se": {
   "ad_domains": 0,
@@ -271880,13 +271897,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 2997,
+  "ok": false,
+  "page_kb": 3250,
   "pages": [
    "Non-Eng"
   ],
@@ -271894,7 +271911,7 @@
   "refs": 2,
   "score": 99.5,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
   "title": "\ud83c\udf08\ufe0f\u5305\u5b50\u6f2b\u756b",
   "topics": [
@@ -273657,13 +273674,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 867,
+  "page_kb": 1294,
   "pages": [
    "Non-Eng"
   ],
@@ -276682,8 +276699,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 4.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -276691,13 +276708,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3540,
+  "page_kb": 4363,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.6,
+  "score": 88.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -277214,7 +277231,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 13.3,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -277223,7 +277240,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4873,
+  "page_kb": 5011,
   "pages": [
    "Non-Eng"
   ],
@@ -282668,33 +282685,46 @@
   "verdict": "Effectively ad-free"
  },
  "www.csfd.cz": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_domains": 17,
+  "ad_requests": 32,
+  "ad_slots": 2,
+  "ad_weight_pct": 18.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "F",
+  "networks": [
+   "a.teads.tv",
+   "ads.pubmatic.com",
+   "adx.adform.net",
+   "bidder.criteo.com",
+   "cdn.id5-sync.com",
+   "fastlane.rubiconproject.com",
+   "grid-bidder.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "htlb.casalemedia.com",
+   "onetag-sys.com",
+   "prg.smartadserver.com",
+   "r2b2-emea.adnxs.com"
+  ],
   "ok": true,
-  "page_kb": 33,
+  "page_kb": 3141,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 24.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Making sure you're not a bot!",
+  "title": "\u010cSFD.cz",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://www.csfd.cz/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.csh.bz": {
   "ad_domains": 0,
@@ -283581,30 +283611,30 @@
   "verdict": "Light advertising"
  },
  "www.databazeknih.cz": {
-  "ad_domains": 48,
-  "ad_requests": 178,
+  "ad_domains": 55,
+  "ad_requests": 213,
   "ad_slots": 6,
-  "ad_weight_pct": 32.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 33.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "aax-eu.amazon-adsystem.com",
    "aax.amazon-adsystem.com",
+   "ads.pubmatic.com",
    "adx.adform.net",
+   "ap.lijit.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
    "bidder.criteo.com",
    "c1.adform.net",
    "ce.lijit.com",
    "cm.adform.net",
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "csync-global.smartadserver.com"
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 3015,
+  "page_kb": 2976,
   "pages": [
    "Non-Eng"
   ],
@@ -285720,7 +285750,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -285729,7 +285759,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13128,
+  "page_kb": 13322,
   "pages": [
    "Non-Eng"
   ],
@@ -286260,13 +286290,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3218,
+  "page_kb": 11459,
   "pages": [
    "Non-Eng"
   ],
@@ -292692,13 +292722,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2935,
+  "page_kb": 2933,
   "pages": [
    "Non-Eng"
   ],
@@ -293437,13 +293467,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 759,
+  "page_kb": 721,
   "pages": [
    "Non-Eng"
   ],
@@ -300111,7 +300141,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -301017,13 +301047,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 396,
+  "page_kb": 423,
   "pages": [
    "Non-Eng"
   ],
@@ -307141,13 +307171,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3799,
+  "page_kb": 3722,
   "pages": [
    "Non-Eng"
   ],
@@ -308639,27 +308669,31 @@
   "verdict": "Very heavy advertising"
  },
  "www.kanunu8.com": {
-  "ad_domains": 3,
-  "ad_requests": 15,
-  "ad_slots": 2,
-  "ad_weight_pct": 61.1,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_domains": 7,
+  "ad_requests": 45,
+  "ad_slots": 0,
+  "ad_weight_pct": 68.7,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
+   "b1sync.outbrain.com",
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 873,
+  "page_kb": 1040,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 43.0,
+  "score": 33.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -313655,7 +313689,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -314803,13 +314837,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2487,
+  "page_kb": 2490,
   "pages": [
    "Non-Eng"
   ],
@@ -314920,8 +314954,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 9.7,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -314929,13 +314963,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1793,
+  "page_kb": 1722,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.5,
+  "score": 90.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -315340,8 +315374,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.6,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -315349,13 +315383,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1553,
+  "page_kb": 1558,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.7,
+  "score": 89.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -315372,13 +315406,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1269,
+  "page_kb": 1186,
   "pages": [
    "Non-Eng"
   ],
@@ -315393,7 +315427,7 @@
    "Non-English"
   ],
   "trackers": 0,
-  "url": "http://www.manhuapi.cc/",
+  "url": "https://www.manhuapi.cc/",
   "verdict": "Effectively ad-free"
  },
  "www.manhuazhan.com": {
@@ -318290,13 +318324,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 51518,
+  "page_kb": 49764,
   "pages": [
    "Non-Eng"
   ],
@@ -318443,13 +318477,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 13387,
+  "page_kb": 12474,
   "pages": [
    "Non-Eng"
   ],
@@ -329773,7 +329807,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -334513,8 +334547,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 47.1,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 49.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -334522,13 +334556,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 612,
+  "page_kb": 598,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -334536,7 +334570,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.qinkan.net/",
   "verdict": "Light advertising"
  },
@@ -334545,13 +334579,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 215,
+  "ok": false,
+  "page_kb": 10,
   "pages": [
    "Non-Eng"
   ],
@@ -334559,9 +334593,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "\u79cb\u98ce\u4e66\u5c4b - \u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
@@ -342463,13 +342497,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 143,
+  "page_kb": 108,
   "pages": [
    "Non-Eng"
   ],
@@ -343810,8 +343844,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 37.8,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 38.5,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -343819,7 +343853,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 429,
+  "page_kb": 434,
   "pages": [
    "Non-Eng"
   ],
@@ -345259,13 +345293,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1398,
+  "page_kb": 1397,
   "pages": [
    "Non-Eng"
   ],
@@ -354543,15 +354577,15 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A",
   "networks": [
    "stats.g.doubleclick.net"
   ],
-  "ok": true,
-  "page_kb": 746,
+  "ok": false,
+  "page_kb": 770,
   "pages": [
    "Non-Eng"
   ],
@@ -354559,7 +354593,7 @@
   "refs": 2,
   "score": 94.5,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
   "title": "\u26a1 \u5929\u5929\u770b\u5c0f\u8aaa",
   "topics": [
@@ -355213,7 +355247,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -356796,10 +356830,10 @@
  },
  "www.uschovna.cz": {
   "ad_domains": 7,
-  "ad_requests": 19,
+  "ad_requests": 17,
   "ad_slots": 0,
-  "ad_weight_pct": 76.2,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 76.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -356813,13 +356847,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1256,
+  "page_kb": 1264,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 34.0,
+  "score": 37.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -357643,13 +357677,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2968,
+  "page_kb": 3035,
   "pages": [
    "Non-Eng"
   ],
@@ -360066,33 +360100,40 @@
   "verdict": "Light advertising"
  },
  "www.wenyuange.org": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 6,
+  "ad_requests": 14,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 10.2,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "D",
+  "networks": [
+   "cdn.id5-sync.com",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 50,
+  "page_kb": 1730,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 99.5,
+  "score": 55.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "talebook",
+  "title": "HeadlineLogic News Portal",
   "topics": [
    "Non-English"
   ],
   "trackers": 1,
   "url": "https://www.wenyuange.org/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Heavy advertising"
  },
  "www.wfhg.cc": {
   "ad_domains": 0,
@@ -362880,13 +362921,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4429,
+  "page_kb": 4678,
   "pages": [
    "Non-Eng"
   ],
@@ -365352,8 +365393,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.9,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "ad_weight_pct": 7.4,
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -365361,13 +365402,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2364,
+  "page_kb": 2296,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.5,
+  "score": 91.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -365785,7 +365826,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-22T22:28:30+00:00",
+  "checked_utc": "2026-10-23T06:30:02+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
