@@ -1486,25 +1486,23 @@
   "verdict": "Effectively ad-free"
  },
  "1xanimes.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 4.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 4242,
+  "page_kb": 59,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -1512,9 +1510,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://1xanimes.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "2012books.lardbucket.org": {
   "ad_domains": 0,
@@ -4058,7 +4056,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11180,7 +11178,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -11188,7 +11186,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 27082,
+  "page_kb": 27799,
   "pages": [
    "Non-Eng"
   ],
@@ -13085,7 +13083,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -15068,6 +15066,35 @@
   "url": "https://anixo.online/",
   "verdict": "Effectively ad-free"
  },
+ "anixohindi.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4123,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Free Hindi Dubbed Anime Online in 1080p Full HD | AniXoHindi",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://anixohindi.cc/",
+  "verdict": "Effectively ad-free"
+ },
  "anixtv.in": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -15460,8 +15487,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 11.7,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 11.8,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -15470,13 +15497,13 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2110,
+  "page_kb": 2113,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.2,
+  "score": 79.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -21299,6 +21326,38 @@
   "trackers": 0,
   "url": "https://asdesai.com/p/fetch/",
   "verdict": "Effectively ad-free"
+ },
+ "ashmolean.org": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.3,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 7001,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 75.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SEARCH THE COLLECTION | Ashmolean Museum",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 7,
+  "url": "https://ashmolean.org/collections-online",
+  "verdict": "Light advertising"
  },
  "asiaflix.in": {
   "ad_domains": 1,
@@ -34269,13 +34328,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 607,
+  "page_kb": 333,
   "pages": [
    "Non-Eng"
   ],
@@ -44737,8 +44796,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 28.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 30.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -44746,13 +44805,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 601,
+  "page_kb": 589,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.7,
+  "score": 80.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -45294,6 +45353,38 @@
   "trackers": 0,
   "url": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
   "verdict": "Ad-saturated / hostile"
+ },
+ "codeforces.com": {
+  "ad_domains": 2,
+  "ad_requests": 3,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.9,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2122,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 82.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Codeforces",
+  "topics": [
+   "Courses"
+  ],
+  "trackers": 1,
+  "url": "https://codeforces.com/",
+  "verdict": "Light advertising"
  },
  "codehaus.wohlsoft.ru": {
   "ad_domains": 0,
@@ -46537,6 +46628,37 @@
   "trackers": 0,
   "url": "https://comicreader.netlify.app/",
   "verdict": "Effectively ad-free"
+ },
+ "comics.codes": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8885,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ComicsCodes - ComicsCodes is an awesome place to download Comics and Manga totally for FRE",
+  "topics": [
+   "Comics & Manga"
+  ],
+  "trackers": 3,
+  "url": "https://comics.codes/",
+  "verdict": "Very clean"
  },
  "comics888.com": {
   "ad_domains": 0,
@@ -50139,13 +50261,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 43399,
+  "page_kb": 43365,
   "pages": [
    "Non-Eng"
   ],
@@ -57092,7 +57214,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -58750,6 +58872,37 @@
   "trackers": 0,
   "url": "https://digimoviez.com/",
   "verdict": "Effectively ad-free"
+ },
+ "digital-collections.princeton.edu": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 8.7,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1369,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 91.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Digital Collections",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://digital-collections.princeton.edu/",
+  "verdict": "Very clean"
  },
  "digital-defense.io": {
   "ad_domains": 0,
@@ -60447,8 +60600,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 52.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 53.4,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -60457,7 +60610,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 348,
+  "page_kb": 356,
   "pages": [
    "Non-Eng"
   ],
@@ -60508,22 +60661,22 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 49.5,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 582,
+  "page_kb": 7276,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 91.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -60531,9 +60684,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://dl-zip.com/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "dl.acm.org": {
   "ad_domains": 0,
@@ -60742,8 +60895,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 22.8,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 23.6,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -60751,13 +60904,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1254,
+  "page_kb": 1240,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 81.6,
+  "score": 81.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -60765,7 +60918,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://dli.sanskritdictionary.com",
   "verdict": "Light advertising"
  },
@@ -60861,7 +61014,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67519,13 +67672,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1515,
+  "page_kb": 1259,
   "pages": [
    "Non-Eng"
   ],
@@ -68609,7 +68762,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 9.1,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -68621,7 +68774,7 @@
    "www.awin1.com"
   ],
   "ok": true,
-  "page_kb": 475,
+  "page_kb": 477,
   "pages": [
    "Non-Eng"
   ],
@@ -76465,10 +76618,10 @@
  },
  "federica.eu": {
   "ad_domains": 5,
-  "ad_requests": 10,
+  "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 1.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -76480,13 +76633,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 45036,
+  "page_kb": 43553,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 66.8,
+  "score": 65.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -80691,8 +80844,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.1,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 4.9,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -80700,7 +80853,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3101,
+  "page_kb": 3351,
   "pages": [
    "Non-Eng"
   ],
@@ -87473,8 +87626,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 47.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 47.7,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -87483,7 +87636,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 519,
+  "page_kb": 521,
   "pages": [
    "Non-Eng"
   ],
@@ -87498,7 +87651,7 @@
    "Non-English"
   ],
   "trackers": 0,
-  "url": "http://fuseji.net/",
+  "url": "https://fuseji.net/",
   "verdict": "Moderate advertising"
  },
  "fusele.netlify.app": {
@@ -88120,6 +88273,39 @@
   ],
   "trackers": 0,
   "url": "https://galaxyofgames.neocities.org/",
+  "verdict": "Moderate advertising"
+ },
+ "galeragames.com": {
+  "ad_domains": 3,
+  "ad_requests": 9,
+  "ad_slots": 0,
+  "ad_weight_pct": 36.6,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1149,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 61.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "GaleraGames: Free Online Party Games to Play With Friends",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 3,
+  "url": "https://galeragames.com/",
   "verdict": "Moderate advertising"
  },
  "gallerix.org": {
@@ -95048,6 +95234,35 @@
   "url": "https://gostargazing.co.uk/",
   "verdict": "Light advertising"
  },
+ "gotaku.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6139,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gotaku \u2014 Watch anime online",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://gotaku.to/",
+  "verdict": "Effectively ad-free"
+ },
  "gourav.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -97383,10 +97598,10 @@
  },
  "guruhitech.com": {
   "ad_domains": 16,
-  "ad_requests": 33,
+  "ad_requests": 31,
   "ad_slots": 4,
   "ad_weight_pct": 22.7,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -97405,7 +97620,7 @@
    "s.skimresources.com"
   ],
   "ok": true,
-  "page_kb": 4570,
+  "page_kb": 4638,
   "pages": [
    "Non-Eng"
   ],
@@ -102045,8 +102260,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 16.8,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -102057,13 +102272,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3788,
+  "page_kb": 9179,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 64.1,
+  "score": 69.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -111159,6 +111374,35 @@
   "url": "https://iranwarmap.com/",
   "verdict": "Light advertising"
  },
+ "irbis.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2125,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zen: System-wide ad-blocker for Windows, macOS, and Linux | Irbis",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://irbis.sh/zen/",
+  "verdict": "Effectively ad-free"
+ },
  "ireaderorg.netlify.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -111309,7 +111553,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112904,13 +113148,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2266,
+  "page_kb": 2447,
   "pages": [
    "Non-Eng"
   ],
@@ -113826,13 +114070,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 328,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
@@ -115187,33 +115431,36 @@
   "verdict": "Effectively ad-free"
  },
  "jref.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_domains": 2,
+  "ad_requests": 14,
+  "ad_slots": 2,
+  "ad_weight_pct": 51.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
   "ok": true,
-  "page_kb": 28,
+  "page_kb": 787,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 47.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Validating browser\u2026",
+  "title": "Discuss All Things Japanese. | Japan Reference",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://jref.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Heavy advertising"
  },
  "js.org": {
   "ad_domains": 1,
@@ -116877,20 +117124,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1536,
+  "page_kb": 2107,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "online",
   "sticky_ads": 0,
   "title": "Kartoons - Watch Cartoons & Anime Free in Hindi",
@@ -122374,8 +122621,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 19.5,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 19.8,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -122383,13 +122630,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2302,
+  "page_kb": 2327,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.8,
+  "score": 80.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -122397,7 +122644,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 6,
+  "trackers": 5,
   "url": "https://kusonime.com/",
   "verdict": "Light advertising"
  },
@@ -123212,13 +123459,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9541,
+  "page_kb": 9128,
   "pages": [
    "Non-Eng"
   ],
@@ -126278,13 +126525,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1813,
+  "page_kb": 1939,
   "pages": [
    "Non-Eng"
   ],
@@ -136288,6 +136535,37 @@
   "url": "https://makemeacocktail.com/mybar/",
   "verdict": "Effectively ad-free"
  },
+ "malprob.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.4,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1881,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Nucleon Malprob",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 1,
+  "url": "https://malprob.io/",
+  "verdict": "Very clean"
+ },
  "malscraper.azurewebsites.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -136585,6 +136863,35 @@
   "trackers": 5,
   "url": "https://mandala-app.com/",
   "verdict": "Very clean"
+ },
+ "manga-oni.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://manga-oni.com/",
+  "verdict": "Effectively ad-free"
  },
  "manga-zip.is": {
   "ad_domains": 3,
@@ -140995,26 +141302,23 @@
   "verdict": "Light advertising"
  },
  "mediasetinfinity.mediaset.it": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "cdn-gl.imrworldwide.com",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 3605,
+  "page_kb": 3383,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -141024,7 +141328,7 @@
   ],
   "trackers": 0,
   "url": "https://mediasetinfinity.mediaset.it/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "mediathekview.de": {
   "ad_domains": 0,
@@ -141686,21 +141990,21 @@
  "megalodon.jp": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 138,
+  "page_kb": 135,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -141903,36 +142207,33 @@
   "verdict": "Very clean"
  },
  "meionovels.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
-  "ad_slots": 1,
-  "ad_weight_pct": 27.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 600,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 71.8,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Meionovel | Baca Novel Bahasa Indonesia - Baca Light Novel LN dan Web Novel WN,Korea,China",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://meionovels.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "melondy.com": {
   "ad_domains": 0,
@@ -151776,13 +152077,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1383,
+  "page_kb": 2751,
   "pages": [
    "Non-Eng"
   ],
@@ -153326,19 +153627,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3329,
+  "page_kb": 3510,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 96.5,
+  "score": 97.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -153346,7 +153647,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 7,
+  "trackers": 6,
   "url": "https://ndl.iitkgp.ac.in/",
   "verdict": "Effectively ad-free"
  },
@@ -154747,8 +155048,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 12.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 5.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -154756,13 +155057,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2264,
+  "page_kb": 5695,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.7,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -154770,7 +155071,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://new2.moviesdrive.christmas/",
   "verdict": "Very clean"
  },
@@ -166557,6 +166858,37 @@
   "url": "https://opentaxsolver.sourceforge.net/",
   "verdict": "Effectively ad-free"
  },
+ "opentip.kaspersky.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 93.4,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 179,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 79.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Online Virus Scanner \u2014 Kaspersky Threat Intelligence Portal",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 2,
+  "url": "https://opentip.kaspersky.com/",
+  "verdict": "Light advertising"
+ },
  "opentopomap.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -168923,13 +169255,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3589,
+  "page_kb": 4206,
   "pages": [
    "Non-Eng"
   ],
@@ -172342,8 +172674,8 @@
   "ad_domains": 4,
   "ad_requests": 23,
   "ad_slots": 2,
-  "ad_weight_pct": 58.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 59.7,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -172354,13 +172686,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1699,
+  "page_kb": 1701,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 29.5,
+  "score": 30.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -172368,7 +172700,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 7,
+  "trackers": 5,
   "url": "https://perfectdark.benri-tool.net/",
   "verdict": "Very heavy advertising"
  },
@@ -179769,10 +180101,10 @@
  },
  "poipiku.com": {
   "ad_domains": 5,
-  "ad_requests": 17,
+  "ad_requests": 19,
   "ad_slots": 0,
-  "ad_weight_pct": 15.7,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 15.9,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -179784,13 +180116,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6053,
+  "page_kb": 6042,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 50.1,
+  "score": 47.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -179798,7 +180130,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://poipiku.com/",
   "verdict": "Heavy advertising"
  },
@@ -189431,26 +189763,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T16:31:29+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 115,
+  "page_kb": 585,
   "pages": [
+   "Linux",
    "Reading"
   ],
   "popups": 0,
   "refs": 4,
   "score": 100.0,
-  "starred": 2,
+  "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Rave Book Search: Free eBook & Audiobook Finder",
+  "title": "RaveBSD: your own book search",
   "topics": [
-   "Audiobooks",
-   "Ebooks"
+   "Ebooks",
+   "Linux & Mac"
   ],
   "trackers": 0,
   "url": "https://ravebooksearch.com/",
@@ -189576,26 +189909,23 @@
   "verdict": "Moderate advertising"
  },
  "raw-cans.net": {
-  "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 0.3,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "pxdrop.lijit.com",
-   "tags.crwdcntrl.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 5294,
+  "page_kb": 5029,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -189605,20 +189935,20 @@
   ],
   "trackers": 0,
   "url": "https://raw-cans.net/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "raw-zip.com": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2393,
+  "page_kb": 2897,
   "pages": [
    "Non-Eng"
   ],
@@ -189641,13 +189971,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 8857,
+  "page_kb": 13876,
   "pages": [
    "Non-Eng"
   ],
@@ -189669,22 +189999,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 7.9,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 13.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2160,
+  "page_kb": 1357,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.0,
+  "score": 83.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -189694,7 +190024,7 @@
   ],
   "trackers": 1,
   "url": "https://raw1001.net/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "rawfree.buzz": {
   "ad_domains": 0,
@@ -189757,48 +190087,46 @@
   "verdict": "Very clean"
  },
  "rawfree.to": {
-  "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 5.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 5080,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.2,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Manga Raw - \u6f2b\u753b\u3001\u7121\u6599\u3067\u8aad\u3081, \u7121\u6599\u6f2b\u753b(\u30de\u30f3\u30ac)\u8aad\u3080, \u6f2b\u753b\u30b9\u30ad\u30e3\u30f3\u738b",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://rawfree.to/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "rawkuma.com": {
   "ad_domains": 0,
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 310,
+  "page_kb": 76,
   "pages": [
    "Non-Eng"
   ],
@@ -189808,7 +190136,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Rawkuma | Discover Raw Manga & Japanese Manga",
+  "title": "Rawkuma - Read Raw Manga Online Free | High Quality Japanese Manga",
   "topics": [
    "Non-English"
   ],
@@ -200622,8 +200950,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 59.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 60.3,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -200631,7 +200959,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 266,
+  "page_kb": 271,
   "pages": [
    "Non-Eng"
   ],
@@ -203768,13 +204096,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 447,
+  "page_kb": 459,
   "pages": [
    "Non-Eng"
   ],
@@ -206640,7 +206968,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -208329,7 +208657,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -212738,7 +213066,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -212767,7 +213095,7 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -213760,13 +214088,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 35044,
+  "page_kb": 145,
   "pages": [
    "Non-Eng",
    "Streaming"
@@ -213777,7 +214105,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "OM Space",
+  "title": "Ready 2 Share \u00b7 OM Space",
   "topics": [
    "Non-English",
    "Video Downloads"
@@ -223276,8 +223604,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.9,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 4.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -223285,13 +223613,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4412,
+  "page_kb": 4446,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.0,
+  "score": 92.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -223299,7 +223627,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://swayam.gov.in/",
   "verdict": "Very clean"
  },
@@ -224964,25 +225292,25 @@
  },
  "tamilbulb.cc": {
   "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 13.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 491,
+  "page_kb": 1792,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 82.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -224990,9 +225318,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://tamilbulb.cc/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "tamilgun.group": {
   "ad_domains": 1,
@@ -227330,6 +227658,35 @@
   ],
   "trackers": 0,
   "url": "https://tennojim.xyz/article/media_stack_diy",
+  "verdict": "Effectively ad-free"
+ },
+ "tensear.ch": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "tensearch",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 0,
+  "url": "https://tensear.ch/",
   "verdict": "Effectively ad-free"
  },
  "tensortrust.ai": {
@@ -233977,8 +234334,8 @@
   "ad_domains": 3,
   "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 69.8,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 72.3,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -233988,13 +234345,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 766,
+  "page_kb": 753,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 63.0,
+  "score": 63.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -234002,7 +234359,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://tntvillage-db.programmiedovetrovarli.it/",
   "verdict": "Moderate advertising"
  },
@@ -238510,6 +238867,35 @@
   "url": "https://trmanga.com/",
   "verdict": "Moderate advertising"
  },
+ "trollpasta.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 2,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://trollpasta.com/wiki/Trollpasta_Wiki",
+  "verdict": "Effectively ad-free"
+ },
  "tropabrscans.blogspot.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -241577,8 +241963,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 23.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 23.9,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -241589,13 +241975,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2113,
+  "page_kb": 2160,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 66.7,
+  "score": 66.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -248466,6 +248852,37 @@
   "url": "https://vinegarhq.org/",
   "verdict": "Effectively ad-free"
  },
+ "vintorez.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 7.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2505,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 91.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Vintorez \u2014 An Interactive Archive of Russian Equipment",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
+  "url": "https://vintorez.com/",
+  "verdict": "Very clean"
+ },
  "vipleague.me": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -250317,8 +250734,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 2.3,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -250327,7 +250744,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7526,
+  "page_kb": 7530,
   "pages": [
    "Non-Eng"
   ],
@@ -263158,8 +263575,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 27.9,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 29.5,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -263167,13 +263584,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 614,
+  "page_kb": 598,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.5,
+  "score": 80.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -263181,7 +263598,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.1tamilcrow.net/",
   "verdict": "Light advertising"
  },
@@ -264277,13 +264694,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1864,
+  "page_kb": 3353,
   "pages": [
    "Non-Eng"
   ],
@@ -265698,8 +266115,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 36.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 37.6,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -265707,13 +266124,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 799,
+  "page_kb": 783,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -265721,7 +266138,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.akiba-online.com/",
   "verdict": "Light advertising"
  },
@@ -267534,25 +267951,23 @@
   "verdict": "Light advertising"
  },
  "www.animebatch.id": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 1.2,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 12742,
+  "page_kb": 88,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.4,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -267560,9 +267975,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 5,
+  "trackers": 0,
   "url": "https://www.animebatch.id/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.animebox.es": {
   "ad_domains": 0,
@@ -267710,8 +268125,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 10.3,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 9.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -267719,13 +268134,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2872,
+  "page_kb": 3322,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 88.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -268205,8 +268620,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -268214,7 +268629,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 39889,
+  "page_kb": 29319,
   "pages": [
    "Non-Eng"
   ],
@@ -269460,13 +269875,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1339,
+  "page_kb": 1404,
   "pages": [
    "Non-Eng"
   ],
@@ -276687,7 +277102,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -276695,7 +277110,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4306,
+  "page_kb": 4438,
   "pages": [
    "Non-Eng"
   ],
@@ -282252,6 +282667,35 @@
   "url": "https://www.crazygames.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.crazyphase.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 366,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CZP-1",
+  "topics": [
+   "Audio Tools"
+  ],
+  "trackers": 0,
+  "url": "https://www.crazyphase.com/czp-1/",
+  "verdict": "Effectively ad-free"
+ },
  "www.creativefabrica.com": {
   "ad_domains": 4,
   "ad_requests": 6,
@@ -284538,8 +284982,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 30.1,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 33.7,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -284547,13 +284991,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 958,
+  "page_kb": 874,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -284561,7 +285005,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.desi-serials.to/",
   "verdict": "Light advertising"
  },
@@ -284569,8 +285013,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.5,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -284578,7 +285022,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6821,
+  "page_kb": 7484,
   "pages": [
    "Non-Eng"
   ],
@@ -284690,22 +285134,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 14.9,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 43.6,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1153,
+  "page_kb": 405,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.5,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -284713,9 +285157,9 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 5,
+  "trackers": 4,
   "url": "https://www.desitv.to/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "www.desmos.com": {
   "ad_domains": 0,
@@ -285792,6 +286236,35 @@
   "trackers": 1,
   "url": "https://www.dm5.com/",
   "verdict": "Very clean"
+ },
+ "www.dmdev.it": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1887,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Web Screenshots 2001\u20132026",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://www.dmdev.it/webscreens/",
+  "verdict": "Effectively ad-free"
  },
  "www.dnd-compendium.com": {
   "ad_domains": 1,
@@ -293566,6 +294039,40 @@
   "url": "https://www.firefox.com/browsers/mobile/android/",
   "verdict": "Light advertising"
  },
+ "www.firemap.live": {
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.2,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2544,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 73.4,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FireMap: Track Wildfires in Real-Time with Data from NASA & Local Authorities",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 2,
+  "url": "https://www.firemap.live/",
+  "verdict": "Light advertising"
+ },
  "www.firstmenonthemoon.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -299806,8 +300313,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 11.9,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 12.6,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -299815,13 +300322,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1445,
+  "page_kb": 1396,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.0,
+  "score": 88.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -304852,13 +305359,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 159,
+  "page_kb": 953,
   "pages": [
    "Non-Eng"
   ],
@@ -307271,6 +307778,35 @@
   "url": "https://www.izicomics.com/",
   "verdict": "Moderate advertising"
  },
+ "www.jabref.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 327,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "JabRef - Free Reference Manager - Stay on top of your Literature",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://www.jabref.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.jacksonpollock.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -308558,8 +309094,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 31.4,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 32.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -308567,7 +309103,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 502,
+  "page_kb": 507,
   "pages": [
    "Non-Eng"
   ],
@@ -308994,6 +309530,35 @@
   "trackers": 6,
   "url": "https://www.kenhub.com/",
   "verdict": "Moderate advertising"
+ },
+ "www.kenku.fm": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 821,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kenku FM",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://www.kenku.fm/",
+  "verdict": "Effectively ad-free"
  },
  "www.kenmei.co": {
   "ad_domains": 0,
@@ -314912,13 +315477,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1811,
+  "page_kb": 1879,
   "pages": [
    "Non-Eng"
   ],
@@ -314940,8 +315505,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.3,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 5.1,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -314949,13 +315514,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5602,
+  "page_kb": 5891,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 90.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -314963,7 +315528,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 7,
+  "trackers": 3,
   "url": "https://www.mangabox.me/",
   "verdict": "Very clean"
  },
@@ -315250,8 +315815,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 1.1,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 0.7,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -315259,13 +315824,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13710,
+  "page_kb": 23248,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.5,
+  "score": 89.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -315278,44 +315843,44 @@
   "verdict": "Very clean"
  },
  "www.mangaz.com": {
-  "ad_domains": 23,
-  "ad_requests": 88,
-  "ad_slots": 4,
-  "ad_weight_pct": 31.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_domains": 41,
+  "ad_requests": 146,
+  "ad_slots": 3,
+  "ad_weight_pct": 32.5,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "ads.pubmatic.com",
+   "b1sync.outbrain.com",
    "bidder.criteo.com",
+   "c1.adform.net",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "eus.rubiconproject.com",
-   "gum.criteo.com",
-   "image6.pubmatic.com",
-   "image8.pubmatic.com",
-   "match.adsrvr.org",
-   "pagead2.googlesyndication.com",
-   "pixel-apac.rubiconproject.com",
-   "pixel.rubiconproject.com"
+   "cms.quantserve.com",
+   "dis.criteo.com",
+   "dpm.demdex.net",
+   "dsp.adkernel.com"
   ],
   "ok": true,
-  "page_kb": 2814,
+  "page_kb": 2125,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.5,
+  "score": 14.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\u5168\u5dfb\u7121\u6599\u3067\u6f2b\u753b\u8aad\u307f\u653e\u984c\uff01 - \u30de\u30f3\u30ac\u56f3\u66f8\u9928Z",
+  "title": "\u61d0\u304b\u3057\u306e\u540d\u4f5c\u6f2b\u753b\u304b\u3089\u8a71\u984c\u4f5c\u307e\u3067\uff01\u7121\u6599\u4f5c\u54c1\u3082\u8c4a\u5bcc\u306b\u914d\u4fe1\u4e2d\uff01 - \u30de\u30f3\u30ac\u56f3\u66f8\u9928Z",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://www.mangaz.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -319637,8 +320202,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 1,
-  "ad_weight_pct": 8.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 7.8,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -319647,13 +320212,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3259,
+  "page_kb": 3683,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.2,
+  "score": 80.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -319661,7 +320226,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.movi.pk/",
   "verdict": "Light advertising"
  },
@@ -320824,7 +321389,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -326161,13 +326726,13 @@
  },
  "www.onlinefmradio.in": {
   "ad_domains": 4,
-  "ad_requests": 13,
-  "ad_slots": 1,
-  "ad_weight_pct": 70.3,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_requests": 21,
+  "ad_slots": 2,
+  "ad_weight_pct": 63.8,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
    "jsc.adskeeper.com",
@@ -326175,13 +326740,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1048,
+  "page_kb": 982,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 48.0,
+  "score": 32.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -326191,7 +326756,7 @@
   ],
   "trackers": 1,
   "url": "https://www.onlinefmradio.in/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.onlinetutorials.org": {
   "ad_domains": 11,
@@ -335699,35 +336264,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.raiscuola.rai.it": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 5.1,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2235,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Il portale di RAI dedicato alla scuola",
+  "title": "Access Denied",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "https://www.raiscuola.rai.it/italianoperstranieri",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.rakuten.tv": {
   "ad_domains": 0,
@@ -339956,13 +340519,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 409,
+  "page_kb": 429,
   "pages": [
    "Non-Eng"
   ],
@@ -344043,21 +344606,21 @@
  "www.slumberland.it": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 970,
+  "page_kb": 1321,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -362819,39 +363382,43 @@
   "verdict": "Light advertising"
  },
  "www.xdccmule.org": {
-  "ad_domains": 5,
-  "ad_requests": 43,
+  "ad_domains": 9,
+  "ad_requests": 67,
   "ad_slots": 2,
-  "ad_weight_pct": 59.6,
-  "checked_utc": "2026-09-23T06:43:24+00:00",
+  "ad_weight_pct": 73.3,
+  "checked_utc": "2026-10-23T12:53:27+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
+   "match.adsrvr.org",
    "pagead2.googlesyndication.com",
-   "sync-tm.everesttech.net",
-   "tpc.googlesyndication.com"
+   "tpc.googlesyndication.com",
+   "trc.taboola.com"
   ],
   "ok": true,
-  "page_kb": 1053,
+  "page_kb": 1031,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 30.0,
+  "score": 15.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "XDCC Mule 2.0",
   "topics": [
    "Non-English"
   ],
   "trackers": 0,
   "url": "https://www.xdccmule.org/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.xdlab.ru": {
   "ad_domains": 1,
