@@ -4527,7 +4527,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -7650,8 +7650,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 14.5,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -7661,13 +7661,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3888,
+  "page_kb": 2469,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 75.5,
+  "score": 74.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -7675,7 +7675,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 10,
+  "trackers": 6,
   "url": "https://akaunting.com/",
   "verdict": "Light advertising"
  },
@@ -8510,6 +8510,35 @@
   ],
   "trackers": 0,
   "url": "https://allaboutberlin.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "allaboutmovies.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1843,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Free Movies Online \u2014 All About Movies",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://allaboutmovies.pages.dev/",
   "verdict": "Effectively ad-free"
  },
  "allaboutmovies.xyz": {
@@ -34823,13 +34852,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 66,
+  "page_kb": 77,
   "pages": [
    "Educational"
   ],
@@ -38758,38 +38787,33 @@
   "verdict": "Very clean"
  },
  "characterdesignreferences.com": {
-  "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "dmp.adform.net",
-   "dpm.demdex.net",
-   "sb.scorecardresearch.com",
-   "sync.crwdcntrl.net"
-  ],
-  "ok": true,
-  "page_kb": 23098,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://characterdesignreferences.com/visual-library\",",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 2332,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Visual Library",
+  "title": "Character Design References",
   "topics": [
    "Learning"
   ],
   "trackers": 0,
   "url": "https://characterdesignreferences.com/visual-library",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "charm.land": {
   "ad_domains": 0,
@@ -39494,6 +39518,37 @@
   "trackers": 0,
   "url": "https://chatwave.crunchflix.site/",
   "verdict": "Effectively ad-free"
+ },
+ "chdstation.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.9,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1783,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 88.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "CHD files for PS2, PSP and PS1 | CHD Station",
+  "topics": [
+   "Emulation & ROMs"
+  ],
+  "trackers": 5,
+  "url": "https://chdstation.com/",
+  "verdict": "Very clean"
  },
  "cheapfoodmap.com": {
   "ad_domains": 0,
@@ -58007,13 +58062,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 494,
+  "page_kb": 522,
   "pages": [
    "Misc"
   ],
@@ -60703,7 +60758,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67589,19 +67644,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 8494,
+  "page_kb": 8961,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 98.0,
+  "score": 99.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -67609,7 +67664,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 4,
+  "trackers": 2,
   "url": "https://easyinvoicepdf.com",
   "verdict": "Effectively ad-free"
  },
@@ -70258,8 +70313,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 11.4,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 11.7,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -70267,13 +70322,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1392,
+  "page_kb": 1390,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.8,
+  "score": 87.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -73343,29 +73398,32 @@
   "verdict": "Effectively ad-free"
  },
  "eurojobs.com": {
-  "ad_domains": 2,
-  "ad_requests": 20,
-  "ad_slots": 8,
-  "ad_weight_pct": 56.3,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_domains": 5,
+  "ad_requests": 71,
+  "ad_slots": 11,
+  "ad_weight_pct": 56.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 839,
+  "page_kb": 1647,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 19.0,
+  "score": 5.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Eurojobs.com | Jobs across Europe",
   "topics": [
    "Everything Else"
@@ -78664,8 +78722,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 74.3,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 73.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -78675,21 +78733,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 421,
+  "page_kb": 439,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 67.0,
+  "score": 69.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Web3 Jobs: 2,374 New Roles (Sep 2026) | Find Web3",
+  "title": "Web3 Jobs: 1,466 New Roles (Oct 2026) | Find Web3",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 2,
   "url": "https://findweb3.com/",
   "verdict": "Moderate advertising"
  },
@@ -81249,6 +81307,35 @@
   "url": "https://flixtrz.com/",
   "verdict": "Effectively ad-free"
  },
+ "flixvision.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 985,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "FlixVision",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://flixvision.xyz/",
+  "verdict": "Effectively ad-free"
+ },
  "flixvo.fun": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -82085,6 +82172,35 @@
   "trackers": 1,
   "url": "https://fluxtv.co.uk/",
   "verdict": "Very clean"
+ },
+ "flyflix.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 890,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flyflix - Watch Movies, TV Shows, Sports & Play Games",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://flyflix.cc/",
+  "verdict": "Effectively ad-free"
  },
  "flyflix.net": {
   "ad_domains": 0,
@@ -93680,10 +93796,10 @@
  },
  "global.jaxa.jp": {
   "ad_domains": 2,
-  "ad_requests": 7,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 14.3,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 12.3,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -93692,13 +93808,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4618,
+  "page_kb": 4490,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.8,
+  "score": 77.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -93706,7 +93822,7 @@
   "topics": [
    "Learning"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://global.jaxa.jp/",
   "verdict": "Light advertising"
  },
@@ -99576,8 +99692,8 @@
   "ad_domains": 5,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 19.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 19.5,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -99589,13 +99705,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1733,
+  "page_kb": 1741,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 61.5,
+  "score": 61.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -109793,6 +109909,35 @@
   "url": "https://infinibrowser.wiki/",
   "verdict": "Effectively ad-free"
  },
+ "infinidomino.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 199,
+  "pages": [
+   "Misc"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "infiniDomino \u00b7 an endless table of dominoes",
+  "topics": [
+   "Everything Else"
+  ],
+  "trackers": 0,
+  "url": "https://infinidomino.io/",
+  "verdict": "Effectively ad-free"
+ },
  "infiniteconversation.com": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -110968,7 +111113,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -110996,8 +111141,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 48.4,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 49.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -111005,7 +111150,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 328,
+  "page_kb": 332,
   "pages": [
    "Misc"
   ],
@@ -114784,6 +114929,35 @@
   "url": "https://jjba.lol/",
   "verdict": "Heavy advertising"
  },
+ "jjba.site": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 483,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "JJBA site \u2013 Official JJBA.lol links | Watch JoJo's Bizarre Adventure free",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://jjba.site/",
+  "verdict": "Effectively ad-free"
+ },
  "jkanime.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -115027,8 +115201,8 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 3,
-  "ad_weight_pct": 7.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 17.7,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -115037,21 +115211,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6612,
+  "page_kb": 2692,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 68.0,
+  "score": 63.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Top job boards: 859 best niche job boards for by industry | JobBoardSearch",
+  "title": "Top job boards (2026): 878 best niche job boards by industry | JobBoardSearch",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://jobboardsearch.com/",
   "verdict": "Moderate advertising"
  },
@@ -117239,7 +117413,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -121553,6 +121727,35 @@
   ],
   "trackers": 0,
   "url": "https://koddo.ch/",
+  "verdict": "Effectively ad-free"
+ },
+ "koddo.to": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "403 Forbidden",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://koddo.to/",
   "verdict": "Effectively ad-free"
  },
  "kodi.tv": {
@@ -132856,6 +133059,37 @@
   "url": "https://loofi.netlify.app/",
   "verdict": "Effectively ad-free"
  },
+ "lookmovie0.to": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2905,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Watch Latest Movies & Shows Episode Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://lookmovie0.to/",
+  "verdict": "Light advertising"
+ },
  "lookmovie2.la": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -132916,6 +133150,99 @@
   ],
   "trackers": 2,
   "url": "https://lookmovie2.to/",
+  "verdict": "Light advertising"
+ },
+ "lookmovie4.to": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2905,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Watch Latest Movies & Shows Episode Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://lookmovie4.to/",
+  "verdict": "Light advertising"
+ },
+ "lookmovie5.to": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2905,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Watch Latest Movies & Shows Episode Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://lookmovie5.to/",
+  "verdict": "Light advertising"
+ },
+ "lookmovie6.to": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 5.2,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3408,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 76.9,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Watch Latest Movies & Shows Episode Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://lookmovie6.to/",
   "verdict": "Light advertising"
  },
  "lordgnomembe.github.io": {
@@ -140741,6 +141068,35 @@
   "url": "http://mathonline.wikidot.com/",
   "verdict": "Very clean"
  },
+ "mathua.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 611,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mathua",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 0,
+  "url": "https://mathua.com/",
+  "verdict": "Effectively ad-free"
+ },
  "mathurls.com": {
   "ad_domains": 1,
   "ad_requests": 2,
@@ -147283,46 +147639,35 @@
   "verdict": "Effectively ad-free"
  },
  "monday.com": {
-  "ad_domains": 13,
-  "ad_requests": 42,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "A+",
   "networks": [
-   "8175736.fls.doubleclick.net",
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "ib.adnxs.com",
-   "insight.adsrvr.org",
-   "js.adsrvr.org",
-   "match.adsrvr.org",
-   "pixel.rubiconproject.com",
-   "stats.g.doubleclick.net",
-   "us-u.openx.net",
-   "www.googleadservices.com"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9803,
+  "page_kb": 7727,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 41.0,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "The AI Work Platform for People & Agents | monday.com",
+  "title": "The AI Workspace for People & Agents | monday.com",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 8,
+  "trackers": 1,
   "url": "https://monday.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "moneymanagerex.org": {
   "ad_domains": 8,
@@ -148369,6 +148714,35 @@
   ],
   "trackers": 0,
   "url": "https://moss.garden/",
+  "verdict": "Effectively ad-free"
+ },
+ "motomundo.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 256,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "MotoMundo.Net \u2013 Watch. Play. Relive!",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://motomundo.net/",
   "verdict": "Effectively ad-free"
  },
  "moum.top": {
@@ -149731,6 +150105,35 @@
   ],
   "trackers": 2,
   "url": "https://mrgris.com/projects/oilslick/",
+  "verdict": "Effectively ad-free"
+ },
+ "mrkaj.me": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "mrkaj",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://mrkaj.me/",
   "verdict": "Effectively ad-free"
  },
  "mrkni.tv": {
@@ -158161,13 +158564,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 31362,
+  "page_kb": 28377,
   "pages": [
    "Misc"
   ],
@@ -169116,13 +169519,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 47,
+  "page_kb": 46,
   "pages": [
    "Misc"
   ],
@@ -171928,6 +172331,35 @@
   "url": "https://pasateatorrent.org/",
   "verdict": "Effectively ad-free"
  },
+ "paseo.sh": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 54,
+  "pages": [
+   "Artificial-Intelligence"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Paseo \u2013 Run Claude Code, Codex, Copilot, OpenCode from anywhere",
+  "topics": [
+   "AI Tools"
+  ],
+  "trackers": 0,
+  "url": "https://paseo.sh/",
+  "verdict": "Effectively ad-free"
+ },
  "passepartoutvpn.app": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -171958,6 +172390,35 @@
   "trackers": 1,
   "url": "https://passepartoutvpn.app/",
   "verdict": "Light advertising"
+ },
+ "paste.ente.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 66,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Ente Paste",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://paste.ente.com/",
+  "verdict": "Effectively ad-free"
  },
  "paste.fmhy.net": {
   "ad_domains": 0,
@@ -172929,8 +173390,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 12.7,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 8.5,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -172939,13 +173400,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2266,
+  "page_kb": 3440,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 82.2,
+  "score": 84.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -172953,7 +173414,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://peerlist.io/",
   "verdict": "Light advertising"
  },
@@ -178906,6 +179367,39 @@
   "url": "https://playground.tensorflow.org/",
   "verdict": "Effectively ad-free"
  },
+ "playhop.com": {
+  "ad_domains": 3,
+  "ad_requests": 5,
+  "ad_slots": 0,
+  "ad_weight_pct": 4.3,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "cm.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 4601,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 80.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Free Online Games \u2014 No Download Browser Games | Playhop",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 2,
+  "url": "https://playhop.com/",
+  "verdict": "Light advertising"
+ },
  "playingcards.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -182269,13 +182763,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 35848,
+  "page_kb": 14703,
   "pages": [
    "Gaming"
   ],
@@ -194450,13 +194944,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 176575,
+  "page_kb": 160156,
   "pages": [
    "Misc"
   ],
@@ -195099,6 +195593,35 @@
   "trackers": 1,
   "url": "https://resanance.com/",
   "verdict": "Light advertising"
+ },
+ "reseam.app": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 343,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Reseam: a better way to use your apps",
+  "topics": [
+   "Android Apps"
+  ],
+  "trackers": 0,
+  "url": "https://reseam.app/",
+  "verdict": "Effectively ad-free"
  },
  "resources.data.gov": {
   "ad_domains": 1,
@@ -197090,6 +197613,35 @@
   "url": "https://rivestream.win/",
   "verdict": "Very clean"
  },
+ "rivo.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2833,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "RIVO | Discover every movie & show worth watching",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://rivo.st/",
+  "verdict": "Effectively ad-free"
+ },
  "rizon.net": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -197675,6 +198227,35 @@
   "trackers": 2,
   "url": "https://roadmap.sh/",
   "verdict": "Moderate advertising"
+ },
+ "roadrash.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 62,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Road Rash \u2014 Play in Your Browser",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 0,
+  "url": "https://roadrash.pages.dev/",
+  "verdict": "Effectively ad-free"
  },
  "roadtolarissa.com": {
   "ad_domains": 0,
@@ -206036,24 +206617,24 @@
  "sendpulse.com": {
   "ad_domains": 2,
   "ad_requests": 2,
-  "ad_slots": 1,
+  "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1678,
+  "page_kb": 1637,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.0,
+  "score": 87.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -206061,9 +206642,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 8,
   "url": "https://sendpulse.com/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "senseis.xmp.net": {
   "ad_domains": 0,
@@ -224486,7 +225067,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -224497,7 +225078,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4386,
+  "page_kb": 4325,
   "pages": [
    "Misc"
   ],
@@ -229317,23 +229898,23 @@
   "ad_domains": 2,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 5.8,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 44.7,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "C",
   "networks": [
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 8930,
+  "page_kb": 1185,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.6,
+  "score": 69.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -229341,9 +229922,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 10,
+  "trackers": 4,
   "url": "https://textcortex.com/",
-  "verdict": "Light advertising"
+  "verdict": "Moderate advertising"
  },
  "textfiles.com": {
   "ad_domains": 0,
@@ -230453,13 +231034,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 124,
+  "page_kb": 125,
   "pages": [
    "Educational",
    "Misc"
@@ -230759,13 +231340,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1955,
+  "page_kb": 1739,
   "pages": [
    "Misc"
   ],
@@ -238599,7 +239180,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -249645,26 +250226,26 @@
  },
  "vimtricks.wiki": {
   "ad_domains": 3,
-  "ad_requests": 26,
-  "ad_slots": 0,
-  "ad_weight_pct": 84.8,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_requests": 38,
+  "ad_slots": 4,
+  "ad_weight_pct": 78.9,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 848,
+  "page_kb": 857,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 46.0,
+  "score": 26.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -249674,7 +250255,7 @@
   ],
   "trackers": 0,
   "url": "https://vimtricks.wiki/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "vinegarhq.org": {
   "ad_domains": 0,
@@ -257040,6 +257621,35 @@
   "url": "https://weebcentral.com/",
   "verdict": "Very clean"
  },
+ "weebtube.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 457,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WeebTube. Watch anime and read manga",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://weebtube.cc/",
+  "verdict": "Effectively ad-free"
+ },
  "weechat.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -258438,7 +259048,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 3.3,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -258446,7 +259056,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4887,
+  "page_kb": 4895,
   "pages": [
    "Misc"
   ],
@@ -260891,6 +261501,35 @@
   ],
   "trackers": 0,
   "url": "https://wispydocs.pages.dev/torrenting/",
+  "verdict": "Effectively ad-free"
+ },
+ "witanime.site": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://witanime.site/",
   "verdict": "Effectively ad-free"
  },
  "witanime.you": {
@@ -271382,13 +272021,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.arvindguptatoys.com/toys.html\nCall log:\n  - navigating to \"https",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
@@ -271396,9 +272035,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "Toys from Trash",
   "topics": [
    "Learning"
   ],
@@ -272480,7 +273119,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -274856,6 +275495,37 @@
   "trackers": 0,
   "url": "https://www.biodiversitylibrary.org/",
   "verdict": "Effectively ad-free"
+ },
+ "www.biointeractive.org": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10752,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Homepage | HHMI BioInteractive",
+  "topics": [
+   "Science & Maths"
+  ],
+  "trackers": 15,
+  "url": "https://www.biointeractive.org/",
+  "verdict": "Very clean"
  },
  "www.bioline.org.br": {
   "ad_domains": 0,
@@ -279327,8 +279997,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 31.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 28.2,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -279337,13 +280007,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 548,
+  "page_kb": 617,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 73.5,
+  "score": 74.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -284582,26 +285252,23 @@
   "verdict": "Very clean"
  },
  "www.cybercoders.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 2.9,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 6665,
+  "page_kb": 6456,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 88.0,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -284609,9 +285276,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://www.cybercoders.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.cyberseek.org": {
   "ad_domains": 1,
@@ -292683,33 +293350,29 @@
   "verdict": "Effectively ad-free"
  },
  "www.examcompass.com": {
-  "ad_domains": 9,
-  "ad_requests": 65,
+  "ad_domains": 5,
+  "ad_requests": 21,
   "ad_slots": 2,
-  "ad_weight_pct": 42.6,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 34.4,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "match.adsrvr.org",
    "pagead2.googlesyndication.com",
-   "sync.teads.tv",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2390,
+  "page_kb": 1820,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 16.0,
+  "score": 26.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -292717,7 +293380,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 8,
+  "trackers": 7,
   "url": "https://www.examcompass.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -293344,8 +294007,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 28.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 27.2,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -293354,13 +294017,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1119,
+  "page_kb": 1171,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 74.0,
+  "score": 74.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -294330,13 +294993,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.fieggen.com/shoelace/\nCall log:\n  - navigating to \"https://www.f",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
@@ -294344,9 +295007,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "Ian's Shoelace Site",
   "topics": [
    "Learning"
   ],
@@ -305985,13 +306648,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 448,
+  "page_kb": 821,
   "pages": [
    "Educational",
    "Misc"
@@ -309391,8 +310054,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 29.6,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 30.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -309400,13 +310063,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 969,
+  "page_kb": 976,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 77.7,
+  "score": 77.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -318456,38 +319119,37 @@
   "verdict": "Very clean"
  },
  "www.mclelun.com": {
-  "ad_domains": 4,
-  "ad_requests": 43,
-  "ad_slots": 4,
-  "ad_weight_pct": 21.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_domains": 3,
+  "ad_requests": 32,
+  "ad_slots": 2,
+  "ad_weight_pct": 19.2,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 3395,
+  "page_kb": 3346,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.5,
+  "score": 40.4,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Tutorial",
   "topics": [
    "Learning"
   ],
   "trackers": 2,
   "url": "https://www.mclelun.com/p/tutorial.html",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.mcmaster.com": {
   "ad_domains": 0,
@@ -322844,7 +323506,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -327615,7 +328277,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -329079,35 +329741,33 @@
   "verdict": "Light advertising"
  },
  "www.organic-chemistry.org": {
-  "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 78.6,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 627,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Organic Chemistry Portal",
+  "title": "Organic Chemistry",
   "topics": [
    "Science & Maths"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://www.organic-chemistry.org",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.organism.earth": {
   "ad_domains": 0,
@@ -345864,8 +346524,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 8.5,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -345876,13 +346536,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3699,
+  "page_kb": 3681,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 75.8,
+  "score": 75.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -349390,13 +350050,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1838,
+  "page_kb": 1774,
   "pages": [
    "Educational"
   ],
@@ -352973,8 +353633,8 @@
   "ad_domains": 5,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 46.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 77.5,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -352986,13 +353646,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1071,
+  "page_kb": 651,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 56.5,
+  "score": 57.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -353000,7 +353660,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 5,
   "url": "https://www.themuse.com/search/",
   "verdict": "Heavy advertising"
  },
@@ -357620,8 +358280,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.2,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -357629,13 +358289,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5318,
+  "page_kb": 5296,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.9,
+  "score": 92.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -357643,7 +358303,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 6,
+  "trackers": 2,
   "url": "https://www.ui.com/training/",
   "verdict": "Very clean"
  },
@@ -360551,27 +361211,25 @@
   "verdict": "Effectively ad-free"
  },
  "www.warntracker.com": {
-  "ad_domains": 3,
-  "ad_requests": 10,
+  "ad_domains": 1,
+  "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "A",
   "networks": [
-   "ad.doubleclick.net",
-   "googleads.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 25981,
+  "page_kb": 28812,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 71.0,
+  "score": 86.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -360579,9 +361237,9 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 7,
+  "trackers": 4,
   "url": "https://www.warntracker.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Very clean"
  },
  "www.wasm.in": {
   "ad_domains": 0,
@@ -364159,8 +364817,8 @@
   "ad_domains": 3,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 12.5,
-  "checked_utc": "2026-09-26T12:31:41+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -364170,13 +364828,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3874,
+  "page_kb": 3852,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 76.8,
+  "score": 76.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -368157,10 +368815,10 @@
  },
  "yenime.net": {
   "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -368169,13 +368827,13 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 4427,
+  "page_kb": 5244,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -370213,6 +370871,35 @@
   "url": "https://zangetsu.online/",
   "verdict": "Effectively ad-free"
  },
+ "zanix.tr": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T14:43:51+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1279,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Zanix - Free Anime Streaming & Watchlist",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://zanix.tr/",
+  "verdict": "Effectively ad-free"
+ },
  "zap.srev.in": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -370729,13 +371416,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-12T11:45:01+00:00",
+  "checked_utc": "2026-10-26T14:43:51+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 7751,
+  "page_kb": 7064,
   "pages": [
    "Streaming"
   ],
