@@ -1252,8 +1252,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 43.6,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 43.9,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -1262,7 +1262,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 446,
+  "page_kb": 449,
   "pages": [
    "Linux"
   ],
@@ -5204,10 +5204,10 @@
  },
  "actorle.com": {
   "ad_domains": 24,
-  "ad_requests": 35,
+  "ad_requests": 42,
   "ad_slots": 0,
-  "ad_weight_pct": 79.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 60.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -5216,9 +5216,9 @@
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
-   "dpm.demdex.net",
    "gum.criteo.com",
    "id5-sync.com",
    "image2.pubmatic.com",
@@ -5245,39 +5245,42 @@
   "verdict": "Very heavy advertising"
  },
  "actorle.tv": {
-  "ad_domains": 5,
-  "ad_requests": 18,
-  "ad_slots": 1,
-  "ad_weight_pct": 52.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 8,
+  "ad_requests": 63,
+  "ad_slots": 2,
+  "ad_weight_pct": 82.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "b1sync.outbrain.com",
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
+   "sync.teads.tv",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1414,
+  "page_kb": 1074,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 37.0,
+  "score": 15.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
-  "title": "Application error: a client-side exception has occurred",
+  "sticky_ads": 1,
+  "title": "Actorle TV - Daily TV Actor Guessing Game",
   "topics": [
    "Browser Games"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://actorle.tv/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "actualbudget.org": {
   "ad_domains": 0,
@@ -5493,7 +5496,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -6678,13 +6681,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1411,
+  "page_kb": 1404,
   "pages": [
    "Linux"
   ],
@@ -8925,8 +8928,8 @@
   "ad_domains": 3,
   "ad_requests": 8,
   "ad_slots": 1,
-  "ad_weight_pct": 30.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 43.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -8936,7 +8939,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1311,
+  "page_kb": 957,
   "pages": [
    "Gaming"
   ],
@@ -9082,10 +9085,10 @@
  },
  "altbox.dev": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 84.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 84.9,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -9093,13 +9096,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 192,
+  "page_kb": 197,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.5,
+  "score": 80.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -16137,13 +16140,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4881,
+  "page_kb": 2471,
   "pages": [
    "Linux"
   ],
@@ -17993,7 +17996,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -18201,13 +18204,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 830,
+  "page_kb": 762,
   "pages": [
    "Linux"
   ],
@@ -22325,8 +22328,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 70.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 70.6,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -22337,13 +22340,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 909,
+  "page_kb": 921,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 58.5,
+  "score": 59.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -22351,7 +22354,7 @@
   "topics": [
    "Linux & Mac"
   ],
-  "trackers": 8,
+  "trackers": 7,
   "url": "https://atomic.chat/",
   "verdict": "Moderate advertising"
  },
@@ -23443,7 +23446,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -24638,13 +24641,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 726,
+  "page_kb": 759,
   "pages": [
    "Linux"
   ],
@@ -25893,11 +25896,11 @@
   "verdict": "Effectively ad-free"
  },
  "bandle.app": {
-  "ad_domains": 29,
-  "ad_requests": 73,
+  "ad_domains": 31,
+  "ad_requests": 64,
   "ad_slots": 0,
-  "ad_weight_pct": 65.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 67.9,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -25916,13 +25919,13 @@
    "ib.adnxs.com"
   ],
   "ok": true,
-  "page_kb": 1609,
+  "page_kb": 1354,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 25.5,
+  "score": 24.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -25930,7 +25933,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 9,
+  "trackers": 12,
   "url": "https://bandle.app/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -26521,8 +26524,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -26530,13 +26533,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1542,
+  "page_kb": 1547,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 89.8,
+  "score": 89.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -29180,22 +29183,22 @@
   "ad_domains": 1,
   "ad_requests": 13,
   "ad_slots": 0,
-  "ad_weight_pct": 58.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 59.3,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "D",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3470,
+  "page_kb": 3536,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 61.5,
+  "score": 56.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -29203,9 +29206,9 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 2,
+  "trackers": 12,
   "url": "https://bigbadwaffle.itch.io/isleward",
-  "verdict": "Moderate advertising"
+  "verdict": "Heavy advertising"
  },
  "bigfrontend.dev": {
   "ad_domains": 1,
@@ -33227,7 +33230,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -34941,7 +34944,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -35896,7 +35899,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -36773,7 +36776,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43106,8 +43109,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 43.4,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 45.3,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -43115,13 +43118,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 661,
+  "page_kb": 646,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.0,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -43129,7 +43132,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://cirusdane.github.io/incremancer/",
   "verdict": "Light advertising"
  },
@@ -44683,13 +44686,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4544,
+  "page_kb": 484,
   "pages": [
    "Linux"
   ],
@@ -45452,7 +45455,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -47255,13 +47258,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 151,
+  "page_kb": 140,
   "pages": [
    "Linux"
   ],
@@ -49286,7 +49289,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -62121,13 +62124,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 358,
+  "page_kb": 360,
   "pages": [
    "Linux"
   ],
@@ -62470,13 +62473,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 345,
+  "page_kb": 346,
   "pages": [
    "Linux"
   ],
@@ -64485,7 +64488,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -64676,7 +64679,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -66493,7 +66496,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -67616,7 +67619,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80511,36 +80514,28 @@
   "verdict": "Effectively ad-free"
  },
  "flickle.app": {
-  "ad_domains": 16,
-  "ad_requests": 60,
+  "ad_domains": 4,
+  "ad_requests": 12,
   "ad_slots": 1,
-  "ad_weight_pct": 31.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 42.5,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "D",
   "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
-   "dt.adsafeprotected.com",
-   "fw.adsafeprotected.com",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
-   "jsconfig.adsafeprotected.com",
    "pagead2.googlesyndication.com",
-   "pixel.adsafeprotected.com",
-   "s0.2mdn.net",
-   "static.adsafeprotected.com",
-   "stats.g.doubleclick.net"
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2966,
+  "page_kb": 1760,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 23.5,
+  "score": 49.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -80548,9 +80543,9 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://flickle.app/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Heavy advertising"
  },
  "flickmetrix.com": {
   "ad_domains": 1,
@@ -84666,36 +84661,36 @@
   "verdict": "Effectively ad-free"
  },
  "framed.wtf": {
-  "ad_domains": 55,
-  "ad_requests": 122,
-  "ad_slots": 1,
-  "ad_weight_pct": 74.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 65,
+  "ad_requests": 221,
+  "ad_slots": 0,
+  "ad_weight_pct": 67.1,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
+   "3ad417c2ce0ee04a201104dd7b523fe7.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
-   "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ap.lijit.com",
    "b1sync.outbrain.com",
-   "beacon-sjc4.rubiconproject.com",
-   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
    "c1.adform.net",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "cdn.indexww.com",
+   "ce.lijit.com"
   ],
   "ok": true,
-  "page_kb": 932,
+  "page_kb": 1019,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 25.0,
+  "score": 29.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -84703,9 +84698,9 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://framed.wtf/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "framesynthesis.com": {
   "ad_domains": 3,
@@ -88285,7 +88280,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90289,7 +90284,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91533,7 +91528,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -93119,7 +93114,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 91.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -93127,7 +93122,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 143,
+  "page_kb": 147,
   "pages": [
    "Gaming"
   ],
@@ -95417,36 +95412,36 @@
   "verdict": "Effectively ad-free"
  },
  "googlefeud.com": {
-  "ad_domains": 82,
-  "ad_requests": 259,
-  "ad_slots": 3,
-  "ad_weight_pct": 53.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 65,
+  "ad_requests": 180,
+  "ad_slots": 2,
+  "ad_weight_pct": 62.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "a.teads.tv",
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
    "aax.amazon-adsystem.com",
-   "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
-   "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
+   "bc0d3d44ed32ecb423bb6b029fe8c8b9.safeframe.googlesyndication.com",
    "bcp.crwdcntrl.net",
-   "bd0e0136deb08a86a12c04ddcb201a8f.safeframe.googlesyndication.com"
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.adform.net",
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 5231,
+  "page_kb": 2352,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 13.0,
+  "score": 18.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -101142,7 +101137,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105901,7 +105896,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -106630,13 +106625,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 515,
+  "page_kb": 501,
   "pages": [
    "Linux"
   ],
@@ -108207,7 +108202,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -112780,28 +112775,27 @@
   "verdict": "Very clean"
  },
  "iteraplay.com": {
-  "ad_domains": 4,
-  "ad_requests": 15,
+  "ad_domains": 3,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 26.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 56.3,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2293,
+  "page_kb": 763,
   "pages": [
    "Downloading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 51.8,
+  "score": 66.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -112811,7 +112805,7 @@
   ],
   "trackers": 1,
   "url": "https://iteraplay.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "iteslj.org": {
   "ad_domains": 0,
@@ -117729,7 +117723,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127633,7 +127627,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -127720,7 +127714,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -128546,13 +128540,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 697,
+  "page_kb": 1258,
   "pages": [
    "Educational"
   ],
@@ -128839,13 +128833,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6085,
+  "page_kb": 6022,
   "pages": [
    "Linux"
   ],
@@ -132271,8 +132265,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 25.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 20.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -132281,13 +132275,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 661,
+  "page_kb": 870,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 77.6,
+  "score": 80.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -135447,13 +135441,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 310,
+  "page_kb": 139,
   "pages": [
    "Linux"
   ],
@@ -135788,13 +135782,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 271872,
+  "page_kb": 290209,
   "pages": [
    "Linux"
   ],
@@ -135877,7 +135871,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -136783,13 +136777,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2070,
+  "page_kb": 2042,
   "pages": [
    "Linux"
   ],
@@ -141816,35 +141810,33 @@
   "verdict": "Effectively ad-free"
  },
  "mediaburn.org": {
-  "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 5.7,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 4997,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.2,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Home - Media Burn Archive",
+  "title": "Just a moment...",
   "topics": [
    "Learning"
   ],
   "trackers": 0,
   "url": "https://mediaburn.org/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "mediafiretrend.com": {
   "ad_domains": 0,
@@ -144660,8 +144652,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 86.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 87.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -144669,7 +144661,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 198,
+  "page_kb": 202,
   "pages": [
    "Gaming"
   ],
@@ -146535,7 +146527,7 @@
   "ad_requests": 0,
   "ad_slots": 8,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -148640,11 +148632,11 @@
   "verdict": "Very clean"
  },
  "moviedle.xyz": {
-  "ad_domains": 23,
-  "ad_requests": 37,
+  "ad_domains": 25,
+  "ad_requests": 40,
   "ad_slots": 0,
-  "ad_weight_pct": 80.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 61.3,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -148655,15 +148647,15 @@
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
+   "dis.eu.criteo.com",
    "gum.criteo.com",
    "id5-sync.com",
    "image2.pubmatic.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "match.adsrvr.org"
+   "image6.pubmatic.com",
+   "lb.eu-1-id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 841,
+  "page_kb": 784,
   "pages": [
    "Gaming"
   ],
@@ -149219,8 +149211,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 53.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 62.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -149229,13 +149221,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 343,
+  "page_kb": 298,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 75.0,
+  "score": 74.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -149243,7 +149235,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://movietomovie.com/",
   "verdict": "Light advertising"
  },
@@ -151619,36 +151611,36 @@
   "verdict": "Effectively ad-free"
  },
  "musicle.app": {
-  "ad_domains": 68,
-  "ad_requests": 187,
-  "ad_slots": 3,
-  "ad_weight_pct": 9.6,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 30,
+  "ad_requests": 50,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.3,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "acdn.adnxs.com",
    "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "ads.scorecardresearch.com",
+   "ap.lijit.com",
    "api.id5-sync.com",
-   "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "c1.adform.net"
+   "c1.adform.net",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "dmp.adform.net",
+   "googleads.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 12268,
+  "page_kb": 11358,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 23.7,
+  "score": 40.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -151656,9 +151648,9 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://musicle.app/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "musicle.fun": {
   "ad_domains": 3,
@@ -153690,7 +153682,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153984,36 +153976,33 @@
   "verdict": "Very clean"
  },
  "naturalhistory.si.edu": {
-  "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 46.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1053,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 71.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Virtual Tour | Smithsonian National Museum of Natural History",
+  "title": "Just a moment...",
   "topics": [
    "Courses"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://naturalhistory.si.edu/visit/virtual-tour",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "naturethisweek.com": {
   "ad_domains": 0,
@@ -156078,7 +156067,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -156918,8 +156907,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 14.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 15.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -156928,13 +156917,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1143,
+  "page_kb": 1149,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 82.2,
+  "score": 82.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -158779,7 +158768,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164004,7 +163993,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164918,7 +164907,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -165803,7 +165792,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -167053,13 +167042,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 30050,
+  "page_kb": 29687,
   "pages": [
    "Linux"
   ],
@@ -167325,13 +167314,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 798,
+  "page_kb": 800,
   "pages": [
    "Linux"
   ],
@@ -168981,32 +168970,32 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 47.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 16.9,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 668,
+  "page_kb": 1886,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.5,
+  "score": 85.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Own your AI: Powerful Local AI Agents on Your Mac | Osaurus",
+  "title": "Osaurus \u2014 Own your AI",
   "topics": [
    "Linux & Mac"
   ],
   "trackers": 1,
   "url": "https://osaurus.ai/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "oscarliang.com": {
   "ad_domains": 0,
@@ -169254,13 +169243,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 665,
+  "page_kb": 667,
   "pages": [
    "Linux"
   ],
@@ -175255,7 +175244,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -180872,36 +180861,36 @@
   "verdict": "Heavy advertising"
  },
  "pokedle.net": {
-  "ad_domains": 52,
-  "ad_requests": 121,
+  "ad_domains": 55,
+  "ad_requests": 130,
   "ad_slots": 0,
-  "ad_weight_pct": 15.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 13.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "2b71325362b55b0fddbf66ffd0ae89f8.safeframe.googlesyndication.com",
+   "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
+   "b1sync.outbrain.com",
    "c.amazon-adsystem.com",
-   "c21lg-d.media.net",
+   "c1.adform.net",
    "cdn.id5-sync.com",
-   "cm.adform.net",
    "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com",
-   "contextual.media.net"
+   "config.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 4584,
+  "page_kb": 4582,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 35.9,
+  "score": 36.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -183699,8 +183688,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 97.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 85.5,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -183708,7 +183697,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 177,
+  "page_kb": 206,
   "pages": [
    "Gaming"
   ],
@@ -184297,46 +184286,33 @@
   "verdict": "Effectively ad-free"
  },
  "privnote.com": {
-  "ad_domains": 60,
-  "ad_requests": 304,
-  "ad_slots": 1,
-  "ad_weight_pct": 83.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "aax-eu.amazon-adsystem.com",
-   "abd5df0bd97b4e769a7a97500c28969b.safeframe.googlesyndication.com",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
-   "ap.lijit.com",
-   "b1h.outbrain.com",
-   "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
-   "c1.adform.net",
-   "cdn.id5-sync.com",
-   "cm.adform.net"
-  ],
-  "ok": true,
-  "page_kb": 1116,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
   "pages": [
    "Adblock"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 25.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Privnote - Send notes that will self-destruct after being read",
+  "title": "Attention Required! | Cloudflare",
   "topics": [
    "Adblocking"
   ],
   "trackers": 0,
   "url": "https://privnote.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "privsec.dev": {
   "ad_domains": 0,
@@ -185427,8 +185403,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 69.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 69.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -185437,7 +185413,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 231,
+  "page_kb": 235,
   "pages": [
    "Adblock"
   ],
@@ -192890,7 +192866,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -194040,8 +194016,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 52.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 53.4,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -194050,7 +194026,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 301,
+  "page_kb": 305,
   "pages": [
    "Linux"
   ],
@@ -215641,30 +215617,25 @@
   "verdict": "Light advertising"
  },
  "speechma.com": {
-  "ad_domains": 21,
-  "ad_requests": 249,
-  "ad_slots": 13,
-  "ad_weight_pct": 80.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 7,
+  "ad_requests": 141,
+  "ad_slots": 16,
+  "ad_weight_pct": 48.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "ad.doubleclick.net",
-   "ade.googlesyndication.com",
-   "ag.innovid.com",
    "cm.g.doubleclick.net",
-   "dt.adsafeprotected.com",
-   "fw.adsafeprotected.com",
-   "gcdn.2mdn.net",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
-   "jsconfig.adsafeprotected.com",
    "pagead2.googlesyndication.com",
-   "pixel.adsafeprotected.com"
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 13343,
+  "page_kb": 4378,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -215674,11 +215645,11 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "SPEECHMA - Free Online Text to Speech | Unlimited AI Voices | Commercial TTS 2025",
+  "title": "Free AI Voice Generator & Text to Speech: 1,700+ Realistic Voices | Speechma",
   "topics": [
    "AI Tools"
   ],
-  "trackers": 12,
+  "trackers": 14,
   "url": "https://speechma.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -217093,11 +217064,11 @@
   "verdict": "Light advertising"
  },
  "spotle.io": {
-  "ad_domains": 26,
-  "ad_requests": 50,
+  "ad_domains": 25,
+  "ad_requests": 42,
   "ad_slots": 0,
-  "ad_weight_pct": 70.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 45.4,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -217107,16 +217078,16 @@
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
-   "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "cm.mgid.com",
    "config.aps.amazon-adsystem.com",
    "gum.criteo.com",
    "id5-sync.com",
-   "image2.pubmatic.com"
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 965,
+  "page_kb": 1059,
   "pages": [
    "Gaming"
   ],
@@ -217532,36 +217503,36 @@
   "verdict": "Effectively ad-free"
  },
  "squirdle.fireblend.com": {
-  "ad_domains": 44,
-  "ad_requests": 127,
-  "ad_slots": 4,
-  "ad_weight_pct": 40.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 43,
+  "ad_requests": 198,
+  "ad_slots": 3,
+  "ad_weight_pct": 48.5,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "5676cf98a6eef86d2d399b11d6c36a57.safeframe.googlesyndication.com",
    "aax.amazon-adsystem.com",
-   "ab8437ed958b0425df34ad0d768662d0.safeframe.googlesyndication.com",
-   "acdn.adnxs.com",
-   "ad.adsrvr.org",
    "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "api.id5-sync.com",
+   "bb.lijit.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
-   "direct.adsrvr.org"
+   "cms.quantserve.com",
+   "direct.adsrvr.org",
+   "eu-u.openx.net"
   ],
   "ok": true,
-  "page_kb": 5608,
+  "page_kb": 2572,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 10.0,
+  "score": 15.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -218103,7 +218074,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -218490,7 +218461,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -218704,11 +218675,11 @@
   "verdict": "Very clean"
  },
  "statt-land-song.ch": {
-  "ad_domains": 11,
-  "ad_requests": 27,
+  "ad_domains": 10,
+  "ad_requests": 28,
   "ad_slots": 0,
-  "ad_weight_pct": 19.4,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 18.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -218720,19 +218691,18 @@
    "lb.eu-1-id5-sync.com",
    "lbs.eu-1-id5-sync.com",
    "pagead2.googlesyndication.com",
-   "ssum-sec.casalemedia.com",
-   "sync.crwdcntrl.net",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "rtd-tm.everesttech.net",
+   "us-u.openx.net",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2798,
+  "page_kb": 2600,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 34.3,
+  "score": 35.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -219770,13 +219740,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1630,
+  "page_kb": 1592,
   "pages": [
    "Linux"
   ],
@@ -223773,13 +223743,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1704,
+  "page_kb": 1705,
   "pages": [
    "Linux"
   ],
@@ -228712,13 +228682,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9317,
+  "page_kb": 8738,
   "pages": [
    "Linux"
   ],
@@ -232011,13 +231981,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 7825,
+  "page_kb": 7828,
   "pages": [
    "Gaming"
   ],
@@ -235056,7 +235026,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -235064,7 +235034,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 172,
+  "page_kb": 176,
   "pages": [
    "Linux"
   ],
@@ -235156,27 +235126,29 @@
   "verdict": "Light advertising"
  },
  "tmuxcheatsheet.com": {
-  "ad_domains": 3,
-  "ad_requests": 19,
-  "ad_slots": 3,
-  "ad_weight_pct": 74.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 5,
+  "ad_requests": 25,
+  "ad_slots": 1,
+  "ad_weight_pct": 52.1,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
+   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 920,
+  "page_kb": 1642,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 31.5,
+  "score": 33.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -235184,7 +235156,7 @@
   "topics": [
    "Linux & Mac"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://tmuxcheatsheet.com/",
   "verdict": "Very heavy advertising"
  },
@@ -238979,7 +238951,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 1.7,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -238988,7 +238960,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 10110,
+  "page_kb": 10115,
   "pages": [
    "Linux"
   ],
@@ -243900,7 +243872,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -245532,36 +245504,36 @@
   "verdict": "Effectively ad-free"
  },
  "uquiz.com": {
-  "ad_domains": 68,
-  "ad_requests": 212,
+  "ad_domains": 46,
+  "ad_requests": 124,
   "ad_slots": 3,
-  "ad_weight_pct": 26.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 38.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "6ce872d4d15d16cf19289e72f78a525b.safeframe.googlesyndication.com",
    "a.teads.tv",
-   "aa.agkn.com",
    "aax.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
-   "c.amazon-adsystem.com"
+   "bid.g.doubleclick.net",
+   "c.amazon-adsystem.com",
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com"
   ],
   "ok": true,
-  "page_kb": 8112,
+  "page_kb": 2946,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 13.5,
+  "score": 12.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -249718,7 +249690,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -252033,7 +252005,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -256432,13 +256404,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 647,
+  "page_kb": 648,
   "pages": [
    "Linux"
   ],
@@ -257082,7 +257054,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -259098,13 +259070,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 86,
+  "page_kb": 79,
   "pages": [
    "Linux"
   ],
@@ -260120,13 +260092,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1,
+  "page_kb": 0,
   "pages": [
    "Gaming"
   ],
@@ -263306,7 +263278,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -270944,36 +270916,23 @@
   "verdict": "Very clean"
  },
  "www.arealme.com": {
-  "ad_domains": 67,
-  "ad_requests": 268,
-  "ad_slots": 2,
-  "ad_weight_pct": 34.6,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 4,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
-  "networks": [
-   "aa.agkn.com",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
-   "ap.lijit.com",
-   "api.id5-sync.com",
-   "at.teads.tv",
-   "b1sync.outbrain.com",
-   "c1.adform.net",
-   "c21lg-d.media.net",
-   "cdn.id5-sync.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net"
-  ],
+  "grade": "B",
+  "networks": [],
   "ok": true,
-  "page_kb": 1207,
+  "page_kb": 379,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 20.0,
+  "score": 80.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -270983,7 +270942,7 @@
   ],
   "trackers": 0,
   "url": "https://www.arealme.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Light advertising"
  },
  "www.areyouyou.eu": {
   "ad_domains": 0,
@@ -278924,8 +278883,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.7,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 1.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -278933,13 +278892,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9389,
+  "page_kb": 9373,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.2,
+  "score": 94.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -280115,16 +280074,18 @@
   "verdict": "Very clean"
  },
  "www.chronophoto.app": {
-  "ad_domains": 56,
-  "ad_requests": 172,
+  "ad_domains": 61,
+  "ad_requests": 184,
   "ad_slots": 2,
-  "ad_weight_pct": 48.4,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 37.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3840bb855e547d4febd1e8555c6fa211.safeframe.googlesyndication.com",
+   "574418cb1aa1f6e8fd7d7bb381435f0b.safeframe.googlesyndication.com",
+   "a95e55f650bf5d91a3910d9ee4f07a0c.safeframe.googlesyndication.com",
+   "aa.agkn.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
@@ -280132,13 +280093,11 @@
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "c9a8613a45bfec194b031dac4a4e6437.safeframe.googlesyndication.com",
    "cdn.id5-sync.com",
-   "client.aps.amazon-adsystem.com",
-   "cm.g.doubleclick.net"
+   "client.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 3318,
+  "page_kb": 3395,
   "pages": [
    "Gaming"
   ],
@@ -280148,7 +280107,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Chronophoto",
+  "title": "Chronophoto: Guess the Year a Photo Was Taken",
   "topics": [
    "Browser Games"
   ],
@@ -281244,7 +281203,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -281761,7 +281720,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -283151,8 +283110,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 61.8,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 62.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -283160,7 +283119,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 247,
+  "page_kb": 253,
   "pages": [
    "Gaming"
   ],
@@ -295739,36 +295698,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.flickle.co": {
-  "ad_domains": 65,
-  "ad_requests": 233,
-  "ad_slots": 3,
-  "ad_weight_pct": 46.7,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 15,
+  "ad_requests": 23,
+  "ad_slots": 1,
+  "ad_weight_pct": 34.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "a.teads.tv",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
    "api.id5-sync.com",
-   "at.teads.tv",
-   "b1sync.outbrain.com",
-   "btlr.sharethrough.com",
-   "c1.adform.net",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
-   "cms.quantserve.com"
+   "gum.criteo.com",
+   "id.crwdcntrl.net",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org",
+   "pagead2.googlesyndication.com",
+   "pixel.rubiconproject.com",
+   "sb.scorecardresearch.com"
   ],
   "ok": true,
-  "page_kb": 2807,
+  "page_kb": 1524,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 8.5,
+  "score": 19.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -295776,7 +295735,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://www.flickle.co/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -298371,7 +298330,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -298802,26 +298761,26 @@
  },
  "www.funtrivia.com": {
   "ad_domains": 3,
-  "ad_requests": 22,
+  "ad_requests": 18,
   "ad_slots": 4,
-  "ad_weight_pct": 46.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 45.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1371,
+  "page_kb": 1401,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 25.5,
+  "score": 28.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -298831,7 +298790,7 @@
   ],
   "trackers": 1,
   "url": "https://www.funtrivia.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.funwithcomputervision.com": {
   "ad_domains": 0,
@@ -304118,8 +304077,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 31.2,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 31.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -304127,7 +304086,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 552,
+  "page_kb": 556,
   "pages": [
    "Gaming"
   ],
@@ -311230,7 +311189,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -314888,7 +314847,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -342746,7 +342705,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -344791,36 +344750,36 @@
   "verdict": "Moderate advertising"
  },
  "www.simublast.com": {
-  "ad_domains": 72,
-  "ad_requests": 273,
+  "ad_domains": 31,
+  "ad_requests": 75,
   "ad_slots": 3,
-  "ad_weight_pct": 76.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 53.8,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "221f131bac87d86f812aeaccd8b6c581.safeframe.googlesyndication.com",
+   "4f63c7885acb7285546999142aeb72d0.safeframe.googlesyndication.com",
    "aax.amazon-adsystem.com",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "ap.lijit.com",
-   "b1-usw1.outbrain.com",
-   "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "c1.adform.net",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "dsp.adkernel.com",
+   "dsum-sec.casalemedia.com",
+   "google-bidout-d.openx.net",
+   "googleads.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2827,
+  "page_kb": 1361,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 14.0,
+  "score": 14.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -344828,7 +344787,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.simublast.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -345056,8 +345015,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 45.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 46.5,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -345065,7 +345024,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 342,
+  "page_kb": 346,
   "pages": [
    "Gaming"
   ],
@@ -347657,30 +347616,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.sporcle.com": {
-  "ad_domains": 93,
-  "ad_requests": 755,
+  "ad_domains": 85,
+  "ad_requests": 612,
   "ad_slots": 9,
-  "ad_weight_pct": 58.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 48.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "1e25fd90974010ff95df2f2b66a63796.safeframe.googlesyndication.com",
    "a.teads.tv",
    "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "aax.amazon-adsystem.com",
-   "ab12a9faafb440aaddc0c73765b0ba30.safeframe.googlesyndication.com",
-   "ad.adsrvr.org",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
+   "b1-use1.outbrain.com",
    "b1sync.outbrain.com"
   ],
   "ok": true,
-  "page_kb": 2404,
+  "page_kb": 2088,
   "pages": [
    "Gaming"
   ],
@@ -347694,7 +347653,7 @@
   "topics": [
    "Browser Games"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://www.sporcle.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -350148,31 +350107,27 @@
   "verdict": "Effectively ad-free"
  },
  "www.supergrubdisk.org": {
-  "ad_domains": 7,
-  "ad_requests": 78,
-  "ad_slots": 5,
-  "ad_weight_pct": 29.4,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_domains": 3,
+  "ad_requests": 18,
+  "ad_slots": 4,
+  "ad_weight_pct": 16.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "b1sync.outbrain.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "static.doubleclick.net",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com"
+   "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2353,
+  "page_kb": 1799,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 8.3,
+  "score": 34.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -350182,7 +350137,7 @@
   ],
   "trackers": 2,
   "url": "https://www.supergrubdisk.org/super-grub2-disk/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.superpsx.com": {
   "ad_domains": 1,
@@ -360036,8 +359991,8 @@
   "ad_domains": 3,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 35.6,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 35.7,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -360047,13 +360002,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1762,
+  "page_kb": 1793,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 64.5,
+  "score": 65.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -360061,7 +360016,7 @@
   "topics": [
    "Linux & Mac"
   ],
-  "trackers": 5,
+  "trackers": 4,
   "url": "https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion",
   "verdict": "Moderate advertising"
  },
@@ -360173,8 +360128,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 48.6,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 49.2,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -360182,7 +360137,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 351,
+  "page_kb": 355,
   "pages": [
    "Linux"
   ],
@@ -366595,8 +366550,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 51.9,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 52.1,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -366605,7 +366560,7 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 474,
+  "page_kb": 477,
   "pages": [
    "Linux"
   ],
@@ -367388,7 +367343,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -367663,7 +367618,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 2.5,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -367671,13 +367626,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11690,
+  "page_kb": 11675,
   "pages": [
    "Linux"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 91.8,
+  "score": 92.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -367685,7 +367640,7 @@
   "topics": [
    "Linux & Mac"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://xwmx.github.io/nb",
   "verdict": "Very clean"
  },
@@ -368411,7 +368366,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -371177,8 +371132,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 77.1,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "ad_weight_pct": 77.5,
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -371186,7 +371141,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 210,
+  "page_kb": 214,
   "pages": [
    "Linux"
   ],
@@ -371327,7 +371282,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-25T22:52:29+00:00",
+  "checked_utc": "2026-10-26T06:59:00+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
