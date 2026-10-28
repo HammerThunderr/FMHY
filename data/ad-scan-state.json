@@ -3442,7 +3442,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -4646,7 +4646,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -5959,23 +5959,23 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 9.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3796,
+  "page_kb": 1987,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 85.5,
+  "score": 83.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -5985,7 +5985,7 @@
   ],
   "trackers": 6,
   "url": "https://advanced.name/freeproxy",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "adventofcode.com": {
   "ad_domains": 1,
@@ -20690,7 +20690,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 61.8,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -21121,7 +21121,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -22447,7 +22447,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -43124,7 +43124,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -46218,7 +46218,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49458,35 +49458,33 @@
   "verdict": "Effectively ad-free"
  },
  "couchmoney.tv": {
-  "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 15.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1835,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://couchmoney.tv/\", waiting until \"domcontentload",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Storage"
   ],
   "popups": 0,
-  "refs": 1,
-  "score": 85.2,
+  "refs": 2,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "couchmoney",
+  "title": "Recommendations",
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://couchmoney.tv/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "countdown.tv": {
   "ad_domains": 3,
@@ -50254,13 +50252,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 36521,
+  "page_kb": 17389,
   "pages": [
    "Storage"
   ],
@@ -50270,7 +50268,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Freebies Design Resources",
+  "title": "Free Design Resources: Mockups, Fonts, Icons, Templates \u2022 Craftwork",
   "topics": [
    "File Storage"
   ],
@@ -53052,35 +53050,29 @@
   "verdict": "Very clean"
  },
  "dabrushes.com": {
-  "ad_domains": 11,
-  "ad_requests": 78,
+  "ad_domains": 5,
+  "ad_requests": 50,
   "ad_slots": 3,
   "ad_weight_pct": 17.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "b1sync.outbrain.com",
-   "cm.g.doubleclick.net",
-   "dis.criteo.com",
-   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "static.doubleclick.net",
-   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5045,
+  "page_kb": 5094,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 20.7,
+  "score": 30.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -53090,7 +53082,7 @@
   ],
   "trackers": 1,
   "url": "https://dabrushes.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "dad.gallery": {
   "ad_domains": 0,
@@ -57534,13 +57526,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 709,
+  "page_kb": 279,
   "pages": [
    "Storage"
   ],
@@ -57550,7 +57542,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "AI Agent Tools & Prompts for Front-End Devs | Design.dev",
+  "title": "AI Agent Tools & UI Templates for Front-End Devs | Design.dev",
   "topics": [
    "File Storage"
   ],
@@ -57562,8 +57554,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 14.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 14.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -57574,17 +57566,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3608,
+  "page_kb": 3654,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 69.9,
+  "score": 69.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Free Design Resources | Design Bundles",
+  "title": "FREE Design Resources for Graphic Designers & Crafters",
   "topics": [
    "File Storage"
   ],
@@ -57597,13 +57589,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 693,
+  "page_kb": 772,
   "pages": [
    "Storage"
   ],
@@ -65304,7 +65296,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 93.1,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -67090,8 +67082,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 10.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -67099,13 +67091,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1534,
+  "page_kb": 1555,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 89.7,
+  "score": 89.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -69014,7 +69006,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -69539,30 +69531,30 @@
   "verdict": "Very heavy advertising"
  },
  "ejje.weblio.jp": {
-  "ad_domains": 60,
-  "ad_requests": 219,
+  "ad_domains": 57,
+  "ad_requests": 214,
   "ad_slots": 6,
-  "ad_weight_pct": 33.5,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 36.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "aa.agkn.com",
+   "38e873d900f1df9c64d411f3bb43d14a.safeframe.googlesyndication.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
-   "bb.lijit.com",
    "bcp.crwdcntrl.net",
    "c1.adform.net",
+   "cdn.doubleverify.com",
    "cdn.id5-sync.com",
    "ce.lijit.com",
-   "cm.adform.net"
+   "cm.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 4932,
+  "page_kb": 5517,
   "pages": [
    "Storage"
   ],
@@ -69576,7 +69568,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 5,
+  "trackers": 6,
   "url": "https://ejje.weblio.jp/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -70111,7 +70103,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -74317,7 +74309,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -75750,7 +75742,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -81870,8 +81862,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 1.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -81880,13 +81872,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 19365,
+  "page_kb": 16160,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 88.2,
+  "score": 88.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -82021,7 +82013,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -84894,13 +84886,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3537,
+  "page_kb": 3539,
   "pages": [
    "Storage"
   ],
@@ -85444,23 +85436,23 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 14.3,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 10.7,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1260,
+  "page_kb": 1717,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.3,
+  "score": 85.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -85470,7 +85462,7 @@
   ],
   "trackers": 1,
   "url": "https://freebies.bypeople.com/",
-  "verdict": "Light advertising"
+  "verdict": "Very clean"
  },
  "freebies.indiegala.com": {
   "ad_domains": 2,
@@ -85506,25 +85498,25 @@
  },
  "freebiesbug.com": {
   "ad_domains": 2,
-  "ad_requests": 5,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 50.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 50.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "B",
   "networks": [
    "ad.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 321,
+  "page_kb": 324,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 71.0,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -85534,7 +85526,7 @@
   ],
   "trackers": 1,
   "url": "https://freebiesbug.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "freebiesglobal.com": {
   "ad_domains": 6,
@@ -86340,7 +86332,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 31.2,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -86605,38 +86597,40 @@
   "verdict": "Ad-saturated / hostile"
  },
  "freeproxyupdate.com": {
-  "ad_domains": 4,
-  "ad_requests": 29,
-  "ad_slots": 2,
-  "ad_weight_pct": 62.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 6,
+  "ad_requests": 48,
+  "ad_slots": 3,
+  "ad_weight_pct": 88.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
+   "enduser.adsrvr.org",
    "googleads.g.doubleclick.net",
+   "or8-bid.adsrvr.org",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com"
+   "s.update.adsrvr.org",
+   "v.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 803,
+  "page_kb": 4697,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 33.0,
+  "score": 17.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Free proxy list, online proxy servers, free proxies Telegram Whatapps",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://freeproxyupdate.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "freereceivesms.top": {
   "ad_domains": 1,
@@ -86734,8 +86728,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 1.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 2.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -86746,13 +86740,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 32322,
+  "page_kb": 11924,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 79.5,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -88984,7 +88978,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -90394,7 +90388,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -90403,7 +90397,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2051,
+  "page_kb": 2029,
   "pages": [
    "Storage"
   ],
@@ -91203,8 +91197,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 78.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 83.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -91213,21 +91207,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 693,
+  "page_kb": 665,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 67.0,
+  "score": 69.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Free Proxy List \u2014 6,800 Live IPs, Updated Every Minute | Geonode",
+  "title": "Free Proxy List \u2014 10,100 Live IPs, Updated Every Minute | Geonode",
   "topics": [
    "File Storage"
   ],
-  "trackers": 6,
+  "trackers": 2,
   "url": "https://geonode.com/free-proxy-list/",
   "verdict": "Moderate advertising"
  },
@@ -91329,13 +91323,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3215,
+  "page_kb": 3222,
   "pages": [
    "Storage"
   ],
@@ -91345,7 +91339,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Gephi - The Open Graph Viz Platform",
+  "title": "Gephi: Open-Source Network Visualization and Analysis Software",
   "topics": [
    "File Storage"
   ],
@@ -91592,33 +91586,37 @@
   "verdict": "Effectively ad-free"
  },
  "getfreeproxy.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 41,
+  "ad_slots": 2,
+  "ad_weight_pct": 79.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
+  ],
   "ok": true,
-  "page_kb": 22,
+  "page_kb": 897,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 99.5,
+  "score": 30.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
-  "title": "1777 Free Proxies, Checked Every 10 Mins - #1 Free Proxy List | GetFreeProxy",
+  "sticky_ads": 1,
+  "title": "4121 Free Proxies, Checked Every 10 Mins - #1 Free Proxy List | GetFreeProxy",
   "topics": [
    "File Storage"
   ],
   "trackers": 1,
   "url": "https://getfreeproxy.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "getfreesmsnumber.com": {
   "ad_domains": 0,
@@ -96756,19 +96754,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1124,
+  "page_kb": 1105,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 97.5,
+  "score": 99.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -96776,7 +96774,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 5,
+  "trackers": 1,
   "url": "https://graphonline.top/en/",
   "verdict": "Effectively ad-free"
  },
@@ -96816,7 +96814,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -98160,8 +98158,8 @@
   "ad_domains": 3,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 5.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -98171,13 +98169,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2808,
+  "page_kb": 2774,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 79.2,
+  "score": 79.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -102803,8 +102801,8 @@
   "ad_domains": 3,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 37.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 34.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -102814,13 +102812,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 923,
+  "page_kb": 1013,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 67.5,
+  "score": 68.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -102828,7 +102826,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 5,
+  "trackers": 3,
   "url": "https://hide.mn/en/proxy-list/",
   "verdict": "Moderate advertising"
  },
@@ -103968,7 +103966,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -104608,13 +104606,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 799,
+  "page_kb": 798,
   "pages": [
    "Storage"
   ],
@@ -110890,7 +110888,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -114891,8 +114889,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 14.2,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -114900,13 +114898,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1779,
+  "page_kb": 1168,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.0,
+  "score": 87.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -114914,7 +114912,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://jikan.moe/",
   "verdict": "Very clean"
  },
@@ -115041,7 +115039,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -116167,7 +116165,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -116347,7 +116345,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 3.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -116464,8 +116462,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 13.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 13.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -116474,13 +116472,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1334,
+  "page_kb": 1337,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.9,
+  "score": 83.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -117546,33 +117544,28 @@
   "verdict": "Effectively ad-free"
  },
  "kanadojo.com": {
-  "ad_domains": 9,
-  "ad_requests": 51,
+  "ad_domains": 4,
+  "ad_requests": 59,
   "ad_slots": 1,
-  "ad_weight_pct": 26.3,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 25.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "www.googletagservices.com"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4211,
+  "page_kb": 4379,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 20.8,
+  "score": 34.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -117582,7 +117575,7 @@
   ],
   "trackers": 2,
   "url": "https://kanadojo.com/en",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "kanboard.org": {
   "ad_domains": 0,
@@ -117650,8 +117643,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 37.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 37.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -117659,7 +117652,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 435,
+  "page_kb": 439,
   "pages": [
    "Storage"
   ],
@@ -117682,13 +117675,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 157,
+  "page_kb": 158,
   "pages": [
    "Storage"
   ],
@@ -129347,7 +129340,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -137267,7 +137260,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -137663,13 +137656,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 38,
+  "page_kb": 40,
   "pages": [
    "Storage"
   ],
@@ -137692,13 +137685,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1059,
+  "page_kb": 1067,
   "pages": [
    "Storage"
   ],
@@ -140371,7 +140364,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -143826,7 +143819,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -143855,7 +143848,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -145526,7 +145519,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -147187,36 +147180,36 @@
   "verdict": "Very clean"
  },
  "mockupnest.com": {
-  "ad_domains": 33,
-  "ad_requests": 80,
+  "ad_domains": 44,
+  "ad_requests": 142,
   "ad_slots": 1,
-  "ad_weight_pct": 2.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 1.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "20030018c0f3af9d178d6f6af6f3a5f1.safeframe.googlesyndication.com",
+   "99565faf420e1421b1bfee6cf6c90ed4.safeframe.googlesyndication.com",
    "ad.doubleclick.net",
+   "ade.googlesyndication.com",
    "api.id5-sync.com",
+   "bb.lijit.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
+   "c1.adform.net",
    "cdn.id5-sync.com",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com",
-   "direct.adsrvr.org",
-   "dsum-sec.casalemedia.com",
-   "googleads.g.doubleclick.net",
-   "grid-bidder.criteo.com"
+   "config.aps.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 30044,
+  "page_kb": 66881,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 32.6,
+  "score": 33.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -150223,7 +150216,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -151046,7 +151039,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -152980,7 +152973,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153481,7 +153474,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 98.8,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -153636,27 +153629,26 @@
   "verdict": "Ad-saturated / hostile"
  },
  "myphotoshopbrushes.com": {
-  "ad_domains": 3,
-  "ad_requests": 16,
+  "ad_domains": 2,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 33.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 22.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "B",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com"
+   "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1368,
+  "page_kb": 1122,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 52.0,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -153666,7 +153658,7 @@
   ],
   "trackers": 0,
   "url": "https://myphotoshopbrushes.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Light advertising"
  },
  "mypitchfork.fun": {
   "ad_domains": 0,
@@ -163572,7 +163564,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -166427,13 +166419,13 @@
  },
  "openclipart.org": {
   "ad_domains": 5,
-  "ad_requests": 39,
-  "ad_slots": 1,
-  "ad_weight_pct": 19.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_requests": 67,
+  "ad_slots": 3,
+  "ad_weight_pct": 69.4,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
@@ -166442,23 +166434,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4549,
+  "page_kb": 2012,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 39.5,
+  "score": 19.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Openclipart - Clipping Culture",
   "topics": [
    "File Storage"
   ],
   "trackers": 2,
   "url": "https://openclipart.org",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "opencode.ai": {
   "ad_domains": 0,
@@ -167580,10 +167572,10 @@
  },
  "openproxylist.com": {
   "ad_domains": 4,
-  "ad_requests": 32,
-  "ad_slots": 3,
-  "ad_weight_pct": 74.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_requests": 70,
+  "ad_slots": 4,
+  "ad_weight_pct": 73.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -167594,21 +167586,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1213,
+  "page_kb": 1878,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 27.0,
+  "score": 17.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Open Proxy List \u2014 Free VPN & Proxy",
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://openproxylist.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -174432,7 +174424,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -174794,7 +174786,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -175472,7 +175464,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -175871,7 +175863,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 10.3,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -177085,8 +177077,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 40.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 49.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -177097,13 +177089,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1274,
+  "page_kb": 1188,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 58.5,
+  "score": 59.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -177111,7 +177103,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 8,
+  "trackers": 7,
   "url": "https://pitch.com/",
   "verdict": "Moderate advertising"
  },
@@ -177399,10 +177391,10 @@
  },
  "pixelbuddha.net": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 28.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 22.2,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -177410,13 +177402,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1148,
+  "page_kb": 1465,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 79.5,
+  "score": 80.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -177424,7 +177416,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://pixelbuddha.net/",
   "verdict": "Light advertising"
  },
@@ -180907,33 +180899,37 @@
   "verdict": "Ad-saturated / hostile"
  },
  "pnghut.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 19,
+  "ad_slots": 3,
+  "ad_weight_pct": 45.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "E",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 12,
+  "page_kb": 1308,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 32.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "pnghut.com | 523: Origin is unreachable",
+  "title": "PNGHUT.com - Millions of handpicked free to download PNG images",
   "topics": [
    "File Storage"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://pnghut.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "poal.me": {
   "ad_domains": 0,
@@ -182308,13 +182304,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 750,
+  "page_kb": 781,
   "pages": [
    "Storage"
   ],
@@ -182517,7 +182513,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -183444,7 +183440,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -184167,7 +184163,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -184196,7 +184192,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186125,7 +186121,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186150,32 +186146,34 @@
   "verdict": "Effectively ad-free"
  },
  "proxyhub.me": {
-  "ad_domains": 5,
-  "ad_requests": 66,
-  "ad_slots": 4,
-  "ad_weight_pct": 66.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 7,
+  "ad_requests": 128,
+  "ad_slots": 6,
+  "ad_weight_pct": 61.4,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "cm.g.doubleclick.net",
+   "d.agkn.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
    "trc.taboola.com"
   ],
   "ok": true,
-  "page_kb": 1393,
+  "page_kb": 2302,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 20.0,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Free Proxy List - Latest Free Proxies 2026 - ProxyHub",
   "topics": [
    "File Storage"
@@ -186831,7 +186829,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186915,25 +186913,25 @@
  },
  "publicdnsserver.com": {
   "ad_domains": 8,
-  "ad_requests": 130,
-  "ad_slots": 10,
-  "ad_weight_pct": 75.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_requests": 157,
+  "ad_slots": 11,
+  "ad_weight_pct": 79.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
    "c1.adform.net",
    "cm.g.doubleclick.net",
-   "d.agkn.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1699,
+  "page_kb": 2425,
   "pages": [
    "Storage"
   ],
@@ -187988,7 +187986,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -188694,7 +188692,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 69.4,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -202565,36 +202563,37 @@
   "verdict": "Effectively ad-free"
  },
  "sankeymatic.com": {
-  "ad_domains": 2,
-  "ad_requests": 15,
-  "ad_slots": 2,
-  "ad_weight_pct": 28.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 56,
+  "ad_slots": 3,
+  "ad_weight_pct": 44.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1131,
+  "page_kb": 1699,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 47.2,
+  "score": 26.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "SankeyMATIC: Make Beautiful Flow Diagrams",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://sankeymatic.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "sanskritdocuments.org": {
   "ad_domains": 1,
@@ -205227,7 +205226,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -206832,7 +206831,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -212227,13 +212226,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 85,
+  "page_kb": 80,
   "pages": [
    "Storage"
   ],
@@ -218129,7 +218128,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 100.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -218137,7 +218136,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 164,
+  "page_kb": 169,
   "pages": [
    "Storage"
   ],
@@ -220941,7 +220940,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -221002,7 +221001,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -224900,7 +224899,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 14.9,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -225625,7 +225624,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 34.6,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -226844,13 +226843,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://takoboto.jp/\", waiting until \"domcontentloaded",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 2,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Storage"
   ],
@@ -226858,9 +226857,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Takoboto | Japanese dictionary and Nihongo learning tool",
+  "title": "Jotoba",
   "topics": [
    "File Storage"
   ],
@@ -229149,10 +229148,10 @@
  },
  "temp-sms.org": {
   "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 63.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 66.4,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -229160,13 +229159,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 458,
+  "page_kb": 442,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 76.5,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -229174,7 +229173,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://temp-sms.org/",
   "verdict": "Light advertising"
  },
@@ -229210,30 +229209,28 @@
   "verdict": "Light advertising"
  },
  "temporary-phone-number.com": {
-  "ad_domains": 6,
-  "ad_requests": 39,
-  "ad_slots": 5,
-  "ad_weight_pct": 71.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 4,
+  "ad_requests": 44,
+  "ad_slots": 3,
+  "ad_weight_pct": 41.2,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1138,
+  "page_kb": 2436,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 10.5,
+  "score": 27.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -229241,7 +229238,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://temporary-phone-number.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -230096,8 +230093,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 29.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 30.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -230105,13 +230102,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 581,
+  "page_kb": 585,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 80.2,
+  "score": 80.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -230318,8 +230315,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 65.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 65.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -230327,13 +230324,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 250,
+  "page_kb": 254,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 80.0,
+  "score": 79.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -230341,7 +230338,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://textquery.app/tools/chart-builder/",
   "verdict": "Light advertising"
  },
@@ -232832,32 +232829,31 @@
   "verdict": "Very clean"
  },
  "thepopp.com": {
-  "ad_domains": 5,
-  "ad_requests": 35,
-  "ad_slots": 4,
-  "ad_weight_pct": 17.5,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 4,
+  "ad_requests": 106,
+  "ad_slots": 6,
+  "ad_weight_pct": 32.2,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4266,
+  "page_kb": 5404,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 24.8,
+  "score": 6.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "The Power of PowerPoint | \u8ab0\u3067\u3082\u3001\u898b\u3084\u3059\u304f\u7f8e\u3057\u3044\u30d1\u30ef\u30fc\u30dd\u30a4\u30f3\u30c8\u30c7\u30b6\u30a4\u30f3\u3092",
   "topics": [
    "File Storage"
@@ -241261,7 +241257,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -246993,7 +246989,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -255121,7 +255117,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -255149,8 +255145,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 38.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 39.2,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -255158,7 +255154,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 446,
+  "page_kb": 450,
   "pages": [
    "Storage"
   ],
@@ -257634,22 +257630,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 15.9,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 28.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 999,
+  "page_kb": 564,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 86.0,
+  "score": 79.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -257659,7 +257655,7 @@
   ],
   "trackers": 3,
   "url": "https://webslides.tv/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "websvg.com": {
   "ad_domains": 0,
@@ -262222,7 +262218,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 6.6,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -264621,7 +264617,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 32.6,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -268747,7 +268743,7 @@
   "ad_requests": 8,
   "ad_slots": 0,
   "ad_weight_pct": 33.1,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -272180,7 +272176,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 2.7,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -277659,36 +277655,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.brusheezy.com": {
-  "ad_domains": 85,
-  "ad_requests": 473,
-  "ad_slots": 2,
-  "ad_weight_pct": 39.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 22,
+  "ad_requests": 44,
+  "ad_slots": 1,
+  "ad_weight_pct": 24.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "6d1090e78a1345263a1db53fdbbc028f.safeframe.googlesyndication.com",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
-   "c1.adform.net",
-   "cdn.flashtalking.com",
-   "cdn.id5-sync.com"
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 2782,
+  "page_kb": 1901,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 16.5,
+  "score": 24.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -279440,7 +279436,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 29.2,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -282438,8 +282434,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 27.4,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 27.7,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -282447,13 +282443,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 650,
+  "page_kb": 653,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 81.3,
+  "score": 81.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -286768,13 +286764,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 11441,
+  "page_kb": 2652,
   "pages": [
    "Storage"
   ],
@@ -287156,7 +287152,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.deutsche-digitale-bibliothek.de/?lang=en\",",
   "fails": 1,
   "grade": "A+",
@@ -288589,7 +288585,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -289921,7 +289917,7 @@
   "ad_requests": 9,
   "ad_slots": 1,
   "ad_weight_pct": 16.3,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -292698,10 +292694,10 @@
  },
  "www.eraser.io": {
   "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 16.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 89.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -292710,13 +292706,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1893,
+  "page_kb": 359,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 78.2,
+  "score": 73.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -292724,7 +292720,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://www.eraser.io/diagramgpt",
   "verdict": "Light advertising"
  },
@@ -294991,7 +294987,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -295141,8 +295137,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 12.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 53.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -295151,13 +295147,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2872,
+  "page_kb": 652,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 83.0,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -299036,33 +299032,31 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.freepngimg.com": {
-  "ad_domains": 6,
-  "ad_requests": 70,
-  "ad_slots": 7,
-  "ad_weight_pct": 60.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 4,
+  "ad_requests": 56,
+  "ad_slots": 2,
+  "ad_weight_pct": 65.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1882,
+  "page_kb": 1875,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 6.5,
+  "score": 27.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Free PNG Images & Transparent Illustrations | Unlimited Downloads",
   "topics": [
    "File Storage"
@@ -299072,36 +299066,37 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.freepnglogos.com": {
-  "ad_domains": 2,
-  "ad_requests": 18,
-  "ad_slots": 3,
-  "ad_weight_pct": 8.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 3,
+  "ad_requests": 71,
+  "ad_slots": 4,
+  "ad_weight_pct": 18.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 4446,
+  "page_kb": 5276,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 48.0,
+  "score": 26.6,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Freepnglogos.com : Free Transparent PNG Logos",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://www.freepnglogos.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.freerdp.com": {
   "ad_domains": 0,
@@ -301450,27 +301445,26 @@
   "verdict": "Effectively ad-free"
  },
  "www.getfreedomain.name": {
-  "ad_domains": 9,
-  "ad_requests": 66,
-  "ad_slots": 5,
-  "ad_weight_pct": 77.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 8,
+  "ad_requests": 130,
+  "ad_slots": 7,
+  "ad_weight_pct": 54.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "b1sync.outbrain.com",
    "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "sync-tm.everesttech.net",
-   "sync.teads.tv",
    "tpc.googlesyndication.com",
    "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1086,
+  "page_kb": 3207,
   "pages": [
    "Storage"
   ],
@@ -301479,7 +301473,7 @@
   "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 2,
   "title": "Get Free Domain Name",
   "topics": [
    "File Storage"
@@ -301556,8 +301550,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 8.4,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 12.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -301566,13 +301560,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3611,
+  "page_kb": 2397,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.3,
+  "score": 82.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -301580,7 +301574,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.gfxtra31.com/",
   "verdict": "Light advertising"
  },
@@ -303458,7 +303452,7 @@
   "ad_requests": 69,
   "ad_slots": 0,
   "ad_weight_pct": 36.9,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -304079,7 +304073,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -304089,21 +304083,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 16477,
+  "page_kb": 16474,
   "pages": [
-   "Storage"
+   "Educational"
   ],
   "popups": 0,
-  "refs": 1,
-  "score": 83.4,
+  "refs": 2,
+  "score": 82.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "Digital archive of masterpieces in Gigapixel | Haltadefinizione",
   "topics": [
-   "File Storage"
+   "Courses"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://www.haltadefinizione.com/en/",
   "verdict": "Light advertising"
  },
@@ -309379,7 +309373,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 7.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -310395,39 +310389,33 @@
   "verdict": "Light advertising"
  },
  "www.jiemadi.com": {
-  "ad_domains": 5,
-  "ad_requests": 40,
-  "ad_slots": 4,
-  "ad_weight_pct": 88.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com"
-  ],
-  "ok": true,
-  "page_kb": 1049,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jiemadi.com/en\nCall log:\n  - navigating to \"https://www.jiemadi.com",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 20.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "SMS Verification Platform | Receive SMS Online Instantly | JieMaDi",
+  "title": "TemporaryNumber",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://www.jiemadi.com/en",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.jiosaavn.com": {
   "ad_domains": 0,
@@ -311428,8 +311416,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 29.4,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 25.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -311437,13 +311425,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 962,
+  "page_kb": 1121,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.8,
+  "score": 80.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -312172,7 +312160,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -314952,30 +314940,28 @@
   "verdict": "Light advertising"
  },
  "www.lingual-ninja.com": {
-  "ad_domains": 6,
-  "ad_requests": 35,
+  "ad_domains": 4,
+  "ad_requests": 32,
   "ad_slots": 2,
-  "ad_weight_pct": 14.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 13.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5615,
+  "page_kb": 5551,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 33.6,
+  "score": 40.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -317466,7 +317452,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -319621,7 +319607,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -319847,13 +319833,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 554,
+  "page_kb": 288,
   "pages": [
    "Storage"
   ],
@@ -324673,7 +324659,7 @@
   "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 2.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -324684,7 +324670,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 16794,
+  "page_kb": 16802,
   "pages": [
    "Storage"
   ],
@@ -326045,7 +326031,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -327391,7 +327377,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -329336,8 +329322,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 13.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 13.7,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -329348,13 +329334,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2326,
+  "page_kb": 2277,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 72.9,
+  "score": 73.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -329362,7 +329348,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://www.openelearning.org/",
   "verdict": "Light advertising"
  },
@@ -331046,8 +331032,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 7.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 7.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -331056,13 +331042,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4346,
+  "page_kb": 4449,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 84.4,
+  "score": 84.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -331070,7 +331056,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 4,
   "url": "https://www.paraview.org/",
   "verdict": "Light advertising"
  },
@@ -332886,8 +332872,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 2.8,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -332895,13 +332881,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5402,
+  "page_kb": 6185,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 93.0,
+  "score": 93.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -333355,7 +333341,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 95.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -333364,7 +333350,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 165,
+  "page_kb": 170,
   "pages": [
    "Storage"
   ],
@@ -333917,38 +333903,33 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.pngall.com": {
-  "ad_domains": 4,
-  "ad_requests": 23,
-  "ad_slots": 1,
-  "ad_weight_pct": 22.3,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "E",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 3004,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 4,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 41.4,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Find High-Quality Transparent PNG Images - PNG All",
+  "title": "Just a moment...",
   "topics": [
    "File Storage"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://www.pngall.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.pngegg.com": {
   "ad_domains": 0,
@@ -334038,75 +334019,62 @@
   "verdict": "Effectively ad-free"
  },
  "www.pngmart.com": {
-  "ad_domains": 9,
-  "ad_requests": 131,
-  "ad_slots": 8,
-  "ad_weight_pct": 11.9,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "www.googletagservices.com"
-  ],
-  "ok": true,
-  "page_kb": 13275,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 9.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Download Transparent Free PNG Images - PNG Mart",
+  "title": "Just a moment...",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://www.pngmart.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.pngplay.com": {
-  "ad_domains": 2,
-  "ad_requests": 16,
-  "ad_slots": 5,
-  "ad_weight_pct": 15.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "E",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
-  ],
-  "ok": true,
-  "page_kb": 1748,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 37.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Free PNG Transparent Images Background - PNG Play",
+  "title": "Just a moment...",
   "topics": [
    "File Storage"
   ],
   "trackers": 0,
   "url": "https://www.pngplay.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.pngwing.com": {
   "ad_domains": 0,
@@ -334733,8 +334701,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 76.9,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 77.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -334742,7 +334710,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 206,
+  "page_kb": 210,
   "pages": [
    "Storage"
   ],
@@ -335127,26 +335095,23 @@
   "verdict": "Effectively ad-free"
  },
  "www.powerpointhub.com": {
-  "ad_domains": 2,
-  "ad_requests": 7,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 39.4,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 626,
+  "page_kb": 353,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 68.5,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -335156,7 +335121,7 @@
   ],
   "trackers": 0,
   "url": "https://www.powerpointhub.com/freetemplate/?lang=en",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.powerthesaurus.org": {
   "ad_domains": 86,
@@ -335259,38 +335224,46 @@
   "verdict": "Effectively ad-free"
  },
  "www.presentationgo.com": {
-  "ad_domains": 4,
-  "ad_requests": 16,
-  "ad_slots": 4,
-  "ad_weight_pct": 23.9,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 16,
+  "ad_requests": 129,
+  "ad_slots": 7,
+  "ad_weight_pct": 85.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "ad-events.flashtalking.com",
+   "ade.googlesyndication.com",
+   "bid.g.doubleclick.net",
+   "cdn.flashtalking.com",
+   "cm.g.doubleclick.net",
+   "d9.flashtalking.com",
    "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "secure.flashtalking.com",
+   "servedby.flashtalking.com",
+   "sync.search.spotxchange.com"
   ],
   "ok": true,
-  "page_kb": 2223,
+  "page_kb": 14135,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 31.0,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 2,
   "title": "3,500+ Free PowerPoint Templates & Google Slides Themes",
   "topics": [
    "File Storage"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://www.presentationgo.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.presidency.ucsb.edu": {
   "ad_domains": 3,
@@ -335662,7 +335635,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 16.9,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -336372,8 +336345,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 41.6,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 42.1,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -336382,7 +336355,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 422,
+  "page_kb": 424,
   "pages": [
    "Storage"
   ],
@@ -336392,7 +336365,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "1 new message",
+  "title": "Free proxy list - Free proxy servers - proxydocker.com",
   "topics": [
    "File Storage"
   ],
@@ -336401,64 +336374,67 @@
   "verdict": "Light advertising"
  },
  "www.proxynations.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A+",
-  "networks": [],
-  "ok": true,
-  "page_kb": 71,
-  "pages": [
-   "Storage"
-  ],
-  "popups": 0,
-  "refs": 1,
-  "score": 100.0,
-  "starred": 0,
-  "status": "online",
-  "sticky_ads": 0,
-  "title": "Redirecting...",
-  "topics": [
-   "File Storage"
-  ],
-  "trackers": 0,
-  "url": "https://www.proxynations.com/",
-  "verdict": "Effectively ad-free"
- },
- "www.proxynova.com": {
-  "ad_domains": 7,
-  "ad_requests": 46,
-  "ad_slots": 2,
-  "ad_weight_pct": 74.7,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 4,
+  "ad_requests": 65,
+  "ad_slots": 3,
+  "ad_weight_pct": 79.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1170,
+  "page_kb": 1491,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 18.5,
+  "score": 22.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
-  "title": "Proxy Server List - List of Free Public Proxy Servers (Updated September 2026)",
+  "title": "Proxynations - Free Proxy Directory - myspace proxy, free proxies, web proxies, php proxie",
+  "topics": [
+   "File Storage"
+  ],
+  "trackers": 1,
+  "url": "https://www.proxynations.com/",
+  "verdict": "Ad-saturated / hostile"
+ },
+ "www.proxynova.com": {
+  "ad_domains": 5,
+  "ad_requests": 43,
+  "ad_slots": 2,
+  "ad_weight_pct": 74.9,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1229,
+  "pages": [
+   "Storage"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 1,
+  "title": "Proxy Server List - List of Free Public Proxy Servers (Updated October 2026)",
   "topics": [
    "File Storage"
   ],
@@ -336470,8 +336446,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 15.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 15.3,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -336482,13 +336458,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2357,
+  "page_kb": 2373,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 69.5,
+  "score": 69.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -336496,7 +336472,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 7,
+  "trackers": 6,
   "url": "https://www.proxyscrape.com/free-proxy-list",
   "verdict": "Moderate advertising"
  },
@@ -338900,7 +338876,7 @@
   "ad_requests": 25,
   "ad_slots": 0,
   "ad_weight_pct": 40.4,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
@@ -338936,8 +338912,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 30.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 30.6,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -338945,7 +338921,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 529,
+  "page_kb": 533,
   "pages": [
    "Storage"
   ],
@@ -340046,13 +340022,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1117,
+  "page_kb": 1113,
   "pages": [
    "Storage"
   ],
@@ -340827,7 +340803,7 @@
   "ad_requests": 1,
   "ad_slots": 1,
   "ad_weight_pct": 7.2,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -342820,7 +342796,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "blocked: bot challenge page",
   "fails": 1,
   "grade": "A+",
@@ -344507,7 +344483,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -346604,8 +346580,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 3.5,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 3.7,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -346613,13 +346589,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9467,
+  "page_kb": 9121,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.8,
+  "score": 90.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -346636,7 +346612,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -349946,32 +349922,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.storytrain.info": {
-  "ad_domains": 8,
-  "ad_requests": 33,
+  "ad_domains": 6,
+  "ad_requests": 42,
   "ad_slots": 3,
-  "ad_weight_pct": 81.8,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 79.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "ad.doubleclick.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 787,
+  "page_kb": 992,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 15.0,
+  "score": 21.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -351879,7 +351853,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -353003,13 +352977,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5265,
+  "page_kb": 5269,
   "pages": [
    "Storage"
   ],
@@ -353019,7 +352993,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\u5929 \u2022 Ten",
+  "title": "Learn Japanese Through Immersion | \u5929\u30fbTen",
   "topics": [
    "File Storage"
   ],
@@ -355638,13 +355612,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2017,
+  "page_kb": 1989,
   "pages": [
    "Storage"
   ],
@@ -356042,10 +356016,10 @@
  },
  "www.toools.design": {
   "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 19.9,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 22.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -356053,13 +356027,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1545,
+  "page_kb": 778,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 80.5,
+  "score": 84.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -356067,7 +356041,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 4,
+  "trackers": 1,
   "url": "https://www.toools.design/",
   "verdict": "Light advertising"
  },
@@ -356843,38 +356817,46 @@
   "verdict": "Effectively ad-free"
  },
  "www.transparentpng.com": {
-  "ad_domains": 4,
-  "ad_requests": 37,
-  "ad_slots": 3,
-  "ad_weight_pct": 25.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_domains": 13,
+  "ad_requests": 112,
+  "ad_slots": 4,
+  "ad_weight_pct": 78.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "ade.googlesyndication.com",
+   "bid.g.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "gcdn.2mdn.net",
    "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "partners.tremorhub.com",
+   "rr3---sn-2op5q5-5f.c.2mdn.net",
    "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4481,
+  "page_kb": 16562,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 29.0,
+  "score": 4.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Transparent PNG, FREE Transparent Background Images",
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://www.transparentpng.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.tree.fm": {
   "ad_domains": 0,
@@ -358700,29 +358682,28 @@
   "verdict": "Very clean"
  },
  "www.uistore.design": {
-  "ad_domains": 5,
-  "ad_requests": 8,
+  "ad_domains": 4,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 17.2,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "ad.doubleclick.net",
-   "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2533,
+  "page_kb": 2541,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 63.9,
+  "score": 68.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -359867,7 +359848,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 21.9,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -362917,7 +362898,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -363518,7 +363499,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 17.2,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -365758,13 +365739,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1141,
+  "page_kb": 1052,
   "pages": [
    "Storage"
   ],
@@ -366246,6 +366227,35 @@
   "url": "https://www.yoturkish.com",
   "verdict": "Light advertising"
  },
+ "www.youreyesinspace.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1932,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Your Eyes In Space \u2014 Explore the observable universe in your browser",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 0,
+  "url": "https://www.youreyesinspace.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.yourworldoftext.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -366437,7 +366447,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -366651,13 +366661,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 16375,
+  "page_kb": 16565,
   "pages": [
    "Storage"
   ],
@@ -368363,30 +368373,30 @@
   "verdict": "Very heavy advertising"
  },
  "xoyondo.com": {
-  "ad_domains": 29,
-  "ad_requests": 42,
+  "ad_domains": 51,
+  "ad_requests": 82,
   "ad_slots": 1,
-  "ad_weight_pct": 53.3,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_weight_pct": 62.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3a753c99e5bb0f2c68b7afb7cde962d1.safeframe.googlesyndication.com",
+   "ad.doubleclick.net",
    "adx.adform.net",
    "api.id5-sync.com",
    "b1h.outbrain.com",
    "c.amazon-adsystem.com",
+   "c1.adform.net",
+   "cd1859643046a209598d5d36d3ad5523.safeframe.googlesyndication.com",
+   "cdn.doubleverify.com",
    "cdn.id5-sync.com",
+   "ce.lijit.com",
    "client.aps.amazon-adsystem.com",
-   "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com",
-   "direct.adsrvr.org",
-   "grid-bidder.criteo.com",
-   "gum.criteo.com"
+   "cm.adform.net"
   ],
   "ok": true,
-  "page_kb": 896,
+  "page_kb": 1118,
   "pages": [
    "Storage"
   ],
@@ -368557,40 +368567,40 @@
  },
  "xsgames.co": {
   "ad_domains": 7,
-  "ad_requests": 48,
-  "ad_slots": 2,
-  "ad_weight_pct": 15.1,
-  "checked_utc": "2026-09-28T07:40:47+00:00",
+  "ad_requests": 79,
+  "ad_slots": 3,
+  "ad_weight_pct": 22.5,
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "cm.g.doubleclick.net",
-   "cms.quantserve.com",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5035,
+  "page_kb": 5720,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 31.0,
+  "score": 17.2,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "DevAssets - Curated List of Resources for Developers",
   "topics": [
    "File Storage"
   ],
   "trackers": 1,
   "url": "https://xsgames.co/devassets/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "xtrance.info": {
   "ad_domains": 0,
@@ -373072,7 +373082,7 @@
   "ad_requests": 403,
   "ad_slots": 0,
   "ad_weight_pct": 30.6,
-  "checked_utc": "2026-10-28T14:31:42+00:00",
+  "checked_utc": "2026-10-28T14:34:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
