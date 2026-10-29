@@ -8633,10 +8633,10 @@
  },
  "allbanglaboi.com": {
   "ad_domains": 4,
-  "ad_requests": 25,
-  "ad_slots": 0,
-  "ad_weight_pct": 38.7,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "ad_requests": 40,
+  "ad_slots": 1,
+  "ad_weight_pct": 44.3,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -8647,16 +8647,16 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2056,
+  "page_kb": 2493,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 42.5,
+  "score": 32.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Bangla Pdf - Bangla Book - Bengali eBook Collection",
   "topics": [
    "Non-English"
@@ -12987,13 +12987,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3172,
+  "page_kb": 4769,
   "pages": [
    "Non-Eng"
   ],
@@ -27667,13 +27667,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 6,
   "pages": [
    "Music"
   ],
@@ -28396,9 +28396,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -28409,7 +28409,7 @@
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "blocked",
   "sticky_ads": 0,
   "title": "Just a moment...",
@@ -30383,33 +30383,35 @@
   "verdict": "Effectively ad-free"
  },
  "blacktorrent.ru": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T18:13:24+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://blacktorrent.ru/\", waiting until \"domcontentlo",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 8.1,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 3660,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 90.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "BlackTorrent",
+  "title": "Black Torrent - Download heavy metal album torrent in HD quality FLAC | MP3 320 kbps",
   "topics": [
    "Music Downloads"
   ],
   "trackers": 0,
   "url": "https://blacktorrent.ru/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "blatants.fyi": {
   "ad_domains": 0,
@@ -33336,9 +33338,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T18:13:24+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://boxradio.net/\nCall log:\n  - navigating to \"https://boxradio.net/\", wait",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -43343,9 +43345,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://cirrusretro.com/\nCall log:\n  - navigating to \"https://cirrusretro.com/",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -46637,35 +46639,33 @@
   "verdict": "Effectively ad-free"
  },
  "colorword.recu3125.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 8.5,
-  "checked_utc": "2026-10-22T06:38:30+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://colorword.recu3125.com/\", waiting until \"domco",
-  "fails": 1,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": false,
-  "page_kb": 2073,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 11,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.8,
+  "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Colorword",
+  "title": "recu3125.com | 502: Bad gateway",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://colorword.recu3125.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "com-x.life": {
   "ad_domains": 0,
@@ -46972,13 +46972,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T06:38:30+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 3,
   "pages": [
    "Reading"
   ],
@@ -83420,13 +83420,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T13:24:57+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://forge.chapril.org/hardcoresushi/DroidFS\", wait",
-  "fails": 1,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 116,
   "pages": [
    "Mobile"
   ],
@@ -83434,9 +83434,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "DroidFS",
+  "title": "hardcoresushi/DroidFS: Migrated to Tangled: https://tangled.org/cipherd.arkensys.dedyn.io/",
   "topics": [
    "Android Apps"
   ],
@@ -110353,23 +110353,23 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-21T18:19:22+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 4,
   "pages": [
    "Misc"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "IndieBlogs",
+  "title": "Discover the IndieWeb, one blog post at a time.",
   "topics": [
    "Everything Else"
   ],
@@ -147158,8 +147158,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 16.5,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "ad_weight_pct": 17.5,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -147167,7 +147167,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1752,
+  "page_kb": 1679,
   "pages": [
    "Non-Eng"
   ],
@@ -147181,7 +147181,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://mlsbd.co/",
   "verdict": "Light advertising"
  },
@@ -150043,31 +150043,31 @@
  "moviesfoundonline.com": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 4,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://moviesfoundonline.com/\", waiting until \"domcon",
-  "fails": 3,
-  "grade": "A+",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
   "networks": [],
-  "ok": false,
-  "page_kb": 887,
+  "ok": true,
+  "page_kb": 994,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 80.0,
   "starred": 0,
-  "status": "offline",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Video Dictionary",
+  "title": "MoviesFoundOnline.com \u2013 Free Movies, Series & Documentaries",
   "topics": [
    "Movies & TV"
   ],
   "trackers": 0,
   "url": "https://moviesfoundonline.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "moviesleech.bar": {
   "ad_domains": 0,
@@ -153806,13 +153806,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1418,
+  "page_kb": 1504,
   "pages": [
    "Non-Eng"
   ],
@@ -154126,13 +154126,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T18:13:24+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 2,
   "pages": [
    "Music"
   ],
@@ -208753,13 +208753,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://sheet.host/\", waiting until \"domcontentloaded\"",
-  "fails": 1,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 129,
   "pages": [
    "Music"
   ],
@@ -208767,9 +208767,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Sheet Host",
+  "title": "Sheethost \u00b7 Upload, share, and discover sheet music",
   "topics": [
    "Audio Tools"
   ],
@@ -215724,13 +215724,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 6,
   "pages": [
    "Music"
   ],
@@ -222813,33 +222813,43 @@
   "verdict": "Effectively ad-free"
  },
  "streema.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 9,
+  "ad_requests": 12,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T18:13:24+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 42.6,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com",
+   "cm.g.doubleclick.net",
+   "config.aps.amazon-adsystem.com",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "tags.crwdcntrl.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1298,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 41.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "ERROR: The request could not be satisfied",
+  "title": "Streema - Listen to Live Internet Radio - Global AM and FM Online Radio Stations",
   "topics": [
    "Radio"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://streema.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "streetcomplete.app": {
   "ad_domains": 0,
@@ -288437,13 +288447,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -307983,21 +307993,21 @@
  "www.icourse163.org": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 30629,
+  "page_kb": 28769,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -310394,13 +310404,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 2,
   "pages": [
    "Non-Eng"
   ],
@@ -360846,8 +360856,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 62.7,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "ad_weight_pct": 62.9,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -360855,7 +360865,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 384,
+  "page_kb": 390,
   "pages": [
    "Music"
   ],
@@ -363767,8 +363777,8 @@
   "ad_domains": 3,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 50.2,
-  "checked_utc": "2026-09-28T23:57:59+00:00",
+  "ad_weight_pct": 50.5,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -363778,7 +363788,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 834,
+  "page_kb": 841,
   "pages": [
    "Streaming"
   ],
@@ -366645,13 +366655,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
+  "checked_utc": "2026-10-29T23:35:50+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1759,
+  "page_kb": 6541,
   "pages": [
    "Non-Eng"
   ],
@@ -367371,13 +367381,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-29T23:12:15+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-29T23:35:50+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.zongheng.com/\", waiting until \"domcontentl",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 7545,
+  "ok": false,
+  "page_kb": 4171,
   "pages": [
    "Non-Eng"
   ],
@@ -367385,9 +367395,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "\u5c0f\u8bf4,\u5c0f\u8bf4\u7f51,\u6700\u65b0\u70ed\u95e8\u5c0f\u8bf4-\u7eb5\u6a2a\u4e2d\u6587\u7f51",
+  "title": "Zongheng",
   "topics": [
    "Non-English"
   ],
