@@ -43589,6 +43589,37 @@
   "url": "https://citationmachine.net/",
   "verdict": "Ad-saturated / hostile"
  },
+ "citationtree.org": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 3.4,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 5162,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Citation Tree",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
+  "url": "https://citationtree.org/",
+  "verdict": "Very clean"
+ },
  "citizen-dj.labs.loc.gov": {
   "ad_domains": 3,
   "ad_requests": 4,
@@ -51408,7 +51439,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80079,13 +80110,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 3,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 500,
+  "page_kb": 240,
   "pages": [
    "Gaming"
   ],
@@ -80093,7 +80124,7 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
-  "status": "offline",
+  "status": "blocked",
   "sticky_ads": 0,
   "title": "FitGirl Repacks",
   "topics": [
@@ -88676,9 +88707,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -108792,13 +108823,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 822,
   "pages": [
    "Reading"
   ],
@@ -108806,9 +108837,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "IDoc",
+  "title": "idoc.pub",
   "topics": [
    "Articles & Docs"
   ],
@@ -120774,9 +120805,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -120790,7 +120821,7 @@
   "starred": 2,
   "status": "blocked",
   "sticky_ads": 0,
-  "title": "503 Service Temporarily Unavailable",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
@@ -128680,9 +128711,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -133755,27 +133786,26 @@
   "verdict": "Effectively ad-free"
  },
  "lolmythesis.com": {
-  "ad_domains": 3,
-  "ad_requests": 10,
+  "ad_domains": 2,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 73.6,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "ad_weight_pct": 20.5,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "C",
+  "fails": 2,
+  "grade": "B",
   "networks": [
-   "sb.scorecardresearch.com",
    "securepubads.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": false,
-  "page_kb": 558,
+  "page_kb": 185,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 59.5,
+  "score": 76.8,
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
@@ -133783,9 +133813,9 @@
   "topics": [
    "Articles & Docs"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://lolmythesis.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Light advertising"
  },
  "lolshot.io": {
   "ad_domains": 22,
@@ -139233,22 +139263,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 4,
-  "ad_weight_pct": 0.3,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "ad_weight_pct": 3.3,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "C",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 50669,
+  "page_kb": 5306,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 72.3,
+  "score": 70.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -139258,7 +139288,7 @@
   ],
   "trackers": 6,
   "url": "https://mangahub.io/",
-  "verdict": "Light advertising"
+  "verdict": "Moderate advertising"
  },
  "mangahub.ru": {
   "ad_domains": 0,
@@ -163114,33 +163144,35 @@
   "verdict": "Effectively ad-free"
  },
  "oa.mg": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 57.7,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 545,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 77.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "503 Service Unavailable",
+  "title": "OA.mg \u00b7 Open Access for Everyone \u00b7 Download and read over 240 million research papers",
   "topics": [
    "Textbooks"
   ],
-  "trackers": 0,
+  "trackers": 3,
   "url": "https://oa.mg/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "oapen.org": {
   "ad_domains": 1,
@@ -190836,6 +190868,37 @@
   "url": "https://radionations.com/",
   "verdict": "Light advertising"
  },
+ "radiooooo.com": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.6,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 10180,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 93.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Hey \u2014 Kone\u0107 | Germany 1982",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 3,
+  "url": "https://radiooooo.com/",
+  "verdict": "Very clean"
+ },
  "radiopaedia.org": {
   "ad_domains": 47,
   "ad_requests": 148,
@@ -204593,41 +204656,33 @@
   "verdict": "Very clean"
  },
  "schmitztimo.wordpress.com": {
-  "ad_domains": 7,
-  "ad_requests": 11,
-  "ad_slots": 3,
-  "ad_weight_pct": 90.3,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
-  "grade": "F",
-  "networks": [
-   "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "config.aps.amazon-adsystem.com",
-   "gum.criteo.com",
-   "id5-sync.com",
-   "securepubads.g.doubleclick.net",
-   "sync.smartadserver.com"
-  ],
+  "fails": 4,
+  "grade": "A+",
+  "networks": [],
   "ok": false,
-  "page_kb": 299,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 26.5,
+  "score": 100.0,
   "starred": 0,
   "status": "blocked",
-  "sticky_ads": 1,
-  "title": "A Brief Cantonese Manual \u2013 Timo Schmitz",
+  "sticky_ads": 0,
+  "title": "Checking your browser...",
   "topics": [
    "Courses"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://schmitztimo.wordpress.com/2026/04/07/a-brief-cantonese-manual/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "scholar.archive.org": {
   "ad_domains": 0,
@@ -236660,6 +236715,35 @@
   "url": "https://timst.top//",
   "verdict": "Effectively ad-free"
  },
+ "timstreams.co.rw": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5878,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TimStreams | Watch Live Sports Free",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://timstreams.co.rw/",
+  "verdict": "Effectively ad-free"
+ },
  "timstreams.st": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -244898,6 +244982,38 @@
   ],
   "trackers": 3,
   "url": "https://tweek.so/",
+  "verdict": "Light advertising"
+ },
+ "twgeema.com": {
+  "ad_domains": 2,
+  "ad_requests": 6,
+  "ad_slots": 0,
+  "ad_weight_pct": 13.4,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com"
+  ],
+  "ok": true,
+  "page_kb": 1852,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 78.3,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Best New Electronic Music: Album of the Month",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://twgeema.com/",
   "verdict": "Light advertising"
  },
  "twilitrealm.dev": {
@@ -271893,6 +272009,35 @@
   "url": "https://www.animesrbija.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.animeunity.co": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Access denied | www.animeunity.co used Cloudflare to restrict access | www.animeunity.co |",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://www.animeunity.co/",
+  "verdict": "Effectively ad-free"
+ },
  "www.animeunity.so": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -274497,13 +274642,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2919,
+  "page_kb": 2782,
   "pages": [
    "Reading"
   ],
@@ -278094,9 +278239,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -303595,6 +303740,35 @@
   "url": "https://www.gnooks.com/",
   "verdict": "Effectively ad-free"
  },
+ "www.gnoosic.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 27,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Gnoosic - Discover new Music",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://www.gnoosic.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.gnosis.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -306444,7 +306618,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -324705,6 +324879,35 @@
   "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html",
   "verdict": "Very clean"
  },
+ "www.music-map.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "ERROR: The request could not be satisfied",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://www.music-map.com/",
+  "verdict": "Effectively ad-free"
+ },
  "www.music.com.bd": {
   "ad_domains": 2,
   "ad_requests": 2,
@@ -327794,9 +327997,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -345506,13 +345709,13 @@
  },
  "www.sefaria.org": {
   "ad_domains": 5,
-  "ad_requests": 11,
+  "ad_requests": 12,
   "ad_slots": 0,
-  "ad_weight_pct": 39.0,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "ad_weight_pct": 44.5,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -345521,13 +345724,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1831,
+  "page_kb": 2039,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 44.0,
+  "score": 43.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -345535,9 +345738,9 @@
   "topics": [
    "Ebooks"
   ],
-  "trackers": 19,
+  "trackers": 17,
   "url": "https://www.sefaria.org/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.selezen.club": {
   "ad_domains": 0,
@@ -348523,13 +348726,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 4,
   "pages": [
    "Storage"
   ],
@@ -366023,22 +366226,22 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 12.7,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "ad_weight_pct": 17.5,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2540,
+  "page_kb": 1854,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.7,
+  "score": 84.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -366048,7 +366251,7 @@
   ],
   "trackers": 2,
   "url": "https://www.worldcat.org/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "www.worldconcerthall.com": {
   "ad_domains": 6,
@@ -373299,13 +373502,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 5367,
   "pages": [
    "Reading"
   ],
@@ -373313,9 +373516,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "403 Forbidden",
+  "title": "Zenodo",
   "topics": [
    "Textbooks"
   ],
