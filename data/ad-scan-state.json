@@ -689,13 +689,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 8,
+  "page_kb": 1,
   "pages": [
    "Torrenting"
   ],
@@ -6503,13 +6503,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 2,
+  "ok": true,
+  "page_kb": 512,
   "pages": [
    "Streaming"
   ],
@@ -6517,9 +6517,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "Afterdusk \u2014 Your evening, sorted.",
   "topics": [
    "Movies & TV"
   ],
@@ -11548,9 +11548,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -11926,8 +11926,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.9,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 5.7,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -11935,13 +11935,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2950,
+  "page_kb": 3106,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 91.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -11949,7 +11949,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://aniliberty.top/",
   "verdict": "Very clean"
  },
@@ -11989,13 +11989,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 7,
+  "page_kb": 5,
   "pages": [
    "Streaming"
   ],
@@ -12726,23 +12726,23 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 10.6,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 13.1,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2168,
+  "page_kb": 1780,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 85.2,
+  "score": 84.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -12750,9 +12750,9 @@
   "topics": [
    "Anime & Specialty"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://anime.uniquestream.net/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "anime1.me": {
   "ad_domains": 2,
@@ -19490,13 +19490,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 8,
+  "page_kb": 5,
   "pages": [
    "Misc"
   ],
@@ -31220,9 +31220,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bluebooky.org/\nCall log:\n  - navigating to \"https://bluebooky.org/\", wa",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -51122,33 +51122,36 @@
   "verdict": "Very clean"
  },
  "crocheting101.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 3,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 7324,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 88.0,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "Crocheting101 \u2013 How to Crochet for Complete Beginners",
   "topics": [
    "Learning"
   ],
   "trackers": 0,
   "url": "https://crocheting101.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "cronobook.com": {
   "ad_domains": 9,
@@ -53752,7 +53755,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -55990,13 +55993,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 553,
+  "page_kb": 449,
   "pages": [
    "Streaming"
   ],
@@ -59917,13 +59920,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://digital.library.unt.edu/explore/collections/VR",
-  "fails": 1,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 34,
   "pages": [
    "Storage"
   ],
@@ -59931,9 +59934,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "UNT Digital Library",
+  "title": "DAM",
   "topics": [
    "File Storage"
   ],
@@ -76914,13 +76917,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 3,
   "pages": [
    "Misc"
   ],
@@ -82991,28 +82994,32 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 58,
+  "page_kb": 1688,
   "pages": [
+   "Mobile",
    "Streaming"
   ],
   "popups": 0,
-  "refs": 2,
+  "refs": 10,
   "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Making sure you're not a bot!",
+  "title": "FlyStream apps for Android, iPhone, Windows, Mac and TV",
   "topics": [
-   "Movies & TV"
+   "Android Apps",
+   "Movies & TV",
+   "Smart TV",
+   "iOS Apps"
   ],
   "trackers": 0,
-  "url": "https://flystream.net/",
+  "url": "https://flystream.net/apps",
   "verdict": "Effectively ad-free"
  },
  "flyx.org": {
@@ -100051,13 +100058,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 3082,
+  "ok": false,
+  "page_kb": 197,
   "pages": [
    "Reading"
   ],
@@ -100065,9 +100072,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Home - Archive ouverte HAL",
+  "title": "HAL",
   "topics": [
    "Textbooks"
   ],
@@ -103891,37 +103898,33 @@
   "verdict": "Effectively ad-free"
  },
  "hiringcafe.com": {
-  "ad_domains": 3,
-  "ad_requests": 8,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 76.1,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 553,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 5,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 63.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "HiringCafe: More Jobs, Smarter Search, Free AI Tools",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://hiringcafe.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "hiroppy.github.io": {
   "ad_domains": 0,
@@ -110780,13 +110783,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 2,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 2,
+  "ok": true,
+  "page_kb": 166,
   "pages": [
    "Gaming"
   ],
@@ -110794,9 +110797,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "Infinite Craft Browser",
   "topics": [
    "Browser Games"
   ],
@@ -120863,13 +120866,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 0,
+  "page_kb": 2,
   "pages": [
    "Non-Eng"
   ],
@@ -120879,7 +120882,7 @@
   "starred": 1,
   "status": "blocked",
   "sticky_ads": 0,
-  "title": "503 Service Temporarily Unavailable",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
@@ -120892,9 +120895,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-16T12:50:10+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -121408,9 +121411,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kissasian.video/\nCall log:\n  - navigating to \"https://kissasian.video/\"",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -135866,13 +135869,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 27352,
+  "page_kb": 32148,
   "pages": [
    "Streaming"
   ],
@@ -137524,13 +137527,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -138007,13 +138010,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 322,
+  "page_kb": 328,
   "pages": [
    "Mobile"
   ],
@@ -144503,33 +144506,36 @@
   "verdict": "Effectively ad-free"
  },
  "meowly.qzz.io": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 11,
+  "page_kb": 3366,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 87.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "meowly.qzz.io | 502: Bad gateway",
+  "title": "Meowly | Stream Unlimited Movies & TV Shows Online Free",
   "topics": [
    "Movies & TV"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://meowly.qzz.io/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "meowni.ca": {
   "ad_domains": 0,
@@ -151938,22 +151944,22 @@
   "ad_requests": 0,
   "ad_slots": 6,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [],
   "ok": true,
-  "page_kb": 31479,
+  "page_kb": 30015,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 65.0,
-  "starred": 0,
+  "score": 70.0,
+  "starred": 1,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "TonkaCine \u2014 Stream Movies & TV Series",
   "topics": [
    "Movies & TV"
@@ -165861,8 +165867,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 2.3,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 3.1,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -165870,13 +165876,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 15109,
+  "page_kb": 11296,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.8,
+  "score": 92.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -165884,7 +165890,7 @@
   "topics": [
    "Movies & TV"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://onionplay.st/",
   "verdict": "Very clean"
  },
@@ -168142,9 +168148,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://openmedialibrary.com/\", waiting until \"domcont",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -171573,12 +171579,12 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
+  "ok": true,
   "page_kb": 2461,
   "pages": [
    "Streaming"
@@ -171587,7 +171593,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
   "title": "Overlook",
   "topics": [
@@ -174619,26 +174625,30 @@
   "verdict": "Effectively ad-free"
  },
  "pegasus-online.pl": {
-  "ad_domains": 2,
-  "ad_requests": 6,
-  "ad_slots": 1,
-  "ad_weight_pct": 19.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_domains": 6,
+  "ad_requests": 88,
+  "ad_slots": 6,
+  "ad_weight_pct": 47.2,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "dsp.adkernel.com",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1297,
+  "page_kb": 2422,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 70.5,
+  "score": 7.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -174648,7 +174658,7 @@
   ],
   "trackers": 0,
   "url": "https://pegasus-online.pl/en/",
-  "verdict": "Moderate advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "peliculas-dvdrip.com": {
   "ad_domains": 1,
@@ -175262,9 +175272,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://personaldata.info/\nCall log:\n  - navigating to \"https://personaldata.in",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -183940,13 +183950,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 9,
+  "page_kb": 10,
   "pages": [
    "Gaming"
   ],
@@ -214410,36 +214420,33 @@
   "verdict": "Light advertising"
  },
  "softkomik.co": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 26.8,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1049,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.6,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Softkomik \u2014 Baca Manga, Manhwa, dan Manhua Bahasa Indonesia",
+  "title": "Attention Required! | Cloudflare",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://softkomik.co/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "softkomik.com": {
   "ad_domains": 2,
@@ -222355,13 +222362,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 225,
+  "page_kb": 1615,
   "pages": [
    "Streaming"
   ],
@@ -222371,7 +222378,7 @@
   "starred": 2,
   "status": "online",
   "sticky_ads": 0,
-  "title": "StreamCorner",
+  "title": "Google",
   "topics": [
    "Live TV & Sports"
   ],
@@ -222384,13 +222391,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 2,
   "pages": [
    "Streaming"
   ],
@@ -222797,9 +222804,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://streamingcommunityz.photos/\nCall log:\n  - navigating to \"https://stream",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -239808,7 +239815,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -240438,13 +240445,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 5,
   "pages": [
    "Torrenting"
   ],
@@ -244134,13 +244141,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 4,
+  "page_kb": 9,
   "pages": [
    "Non-Eng"
   ],
@@ -247027,8 +247034,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.9,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 2.4,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -247036,13 +247043,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 37565,
+  "page_kb": 15055,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.5,
+  "score": 91.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -255001,8 +255008,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.1,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 5.8,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -255010,14 +255017,14 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2854,
+  "page_kb": 3060,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 2,
-  "score": 92.0,
-  "starred": 0,
+  "refs": 1,
+  "score": 92.1,
+  "starred": 1,
   "status": "online",
   "sticky_ads": 0,
   "title": "Home - Explore Thousands of Movies & Series | Vuflix",
@@ -256568,9 +256575,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://watchfooty.st/\nCall log:\n  - navigating to \"https://watchfooty.st/\", wa",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -264788,9 +264795,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T17:00:18+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://worldfree4u.expert/\nCall log:\n  - navigating to \"https://worldfree4u.ex",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -267911,41 +267918,38 @@
   "verdict": "Effectively ad-free"
  },
  "www.8bbit.com": {
-  "ad_domains": 7,
-  "ad_requests": 42,
+  "ad_domains": 4,
+  "ad_requests": 60,
   "ad_slots": 2,
-  "ad_weight_pct": 12.7,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_weight_pct": 33.5,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5996,
+  "page_kb": 7780,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 31.2,
+  "score": 26.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "8bbit The best Place to Play all your favorite Retro NES / Nintendo 8bit Games online",
   "topics": [
    "File Storage"
   ],
   "trackers": 3,
   "url": "https://www.8bbit.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.8notes.com": {
   "ad_domains": 3,
@@ -293870,33 +293874,36 @@
   "verdict": "Very heavy advertising"
  },
  "www.enma.lol": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T21:56:23+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation.",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 12002,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net"
+  ],
+  "ok": true,
+  "page_kb": 15915,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 89.5,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Enma",
+  "title": "Galaxy Brain meme 1 Hour - YouTube",
   "topics": [
    "Anime & Specialty"
   ],
   "trackers": 0,
   "url": "https://www.enma.lol/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "www.entertainme.fun": {
   "ad_domains": 0,
@@ -300374,23 +300381,23 @@
   "ad_domains": 2,
   "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 22.5,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "ad_weight_pct": 40.6,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.freegreatmovies.com/\", waiting until \"domc",
-  "fails": 3,
+  "fails": 4,
   "grade": "B",
   "networks": [
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": false,
-  "page_kb": 2006,
+  "page_kb": 1145,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 75.8,
+  "score": 72.0,
   "starred": 0,
   "status": "offline",
   "sticky_ads": 0,
@@ -304691,35 +304698,43 @@
   "verdict": "Effectively ad-free"
  },
  "www.greenssh.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
-  "ad_slots": 0,
-  "ad_weight_pct": 24.7,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_domains": 9,
+  "ad_requests": 83,
+  "ad_slots": 4,
+  "ad_weight_pct": 17.2,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "F",
   "networks": [
-   "www.googletagmanager.com"
+   "cm.g.doubleclick.net",
+   "dis.criteo.com",
+   "googleads.g.doubleclick.net",
+   "onetag-sys.com",
+   "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
   ],
   "ok": true,
-  "page_kb": 696,
+  "page_kb": 6898,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.7,
+  "score": 15.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "GreenSSH - Eco-friendly Premium SSH and VPN Accounts",
+  "title": "GreenSSH - Premium SSH and VPN Accounts",
   "topics": [
    "File Storage"
   ],
   "trackers": 1,
   "url": "https://www.greenssh.com/",
-  "verdict": "Light advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.gresham.ac.uk": {
   "ad_domains": 1,
@@ -326829,34 +326844,31 @@
   "verdict": "Very clean"
  },
  "www.neogeofun.com": {
-  "ad_domains": 7,
-  "ad_requests": 45,
-  "ad_slots": 2,
-  "ad_weight_pct": 53.4,
-  "checked_utc": "2026-10-01T19:03:08+00:00",
+  "ad_domains": 4,
+  "ad_requests": 71,
+  "ad_slots": 3,
+  "ad_weight_pct": 77.8,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1421,
+  "page_kb": 2768,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 22.5,
+  "score": 21.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Play Retro SNK Neo Geo games online | NEOGEOFUN is a website let you play retro SNK Neo Ge",
   "topics": [
    "File Storage"
@@ -365964,30 +365976,30 @@
   "verdict": "Moderate advertising"
  },
  "www.wonderhowto.com": {
-  "ad_domains": 80,
-  "ad_requests": 718,
-  "ad_slots": 30,
-  "ad_weight_pct": 62.2,
-  "checked_utc": "2026-10-01T07:48:47+00:00",
+  "ad_domains": 76,
+  "ad_requests": 590,
+  "ad_slots": 24,
+  "ad_weight_pct": 49.0,
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "a2026.casalemedia.com",
    "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
-   "adx-useast.adnxs.com",
-   "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
+   "beacon.bidder.taboola.com",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
    "c1.adform.net",
    "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 13860,
+  "page_kb": 11612,
   "pages": [
    "Reading"
   ],
@@ -366001,7 +366013,7 @@
   "topics": [
    "Textbooks"
   ],
-  "trackers": 21,
+  "trackers": 17,
   "url": "https://www.wonderhowto.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -369191,13 +369203,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 3,
   "pages": [
    "Torrenting"
   ],
@@ -369220,13 +369232,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-13T12:54:24+00:00",
+  "checked_utc": "2026-10-31T22:50:24+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 2,
   "pages": [
    "Torrenting"
   ],
