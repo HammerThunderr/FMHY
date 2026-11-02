@@ -11543,6 +11543,35 @@
   "url": "https://aniguessr.com/",
   "verdict": "Very heavy advertising"
  },
+ "anihosts.xyz": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 2215,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home \u00b7 AniHost",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://anihosts.xyz/",
+  "verdict": "Effectively ad-free"
+ },
  "anihq.cc": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -16038,26 +16067,29 @@
   "verdict": "Heavy advertising"
  },
  "anruler.com": {
-  "ad_domains": 2,
-  "ad_requests": 11,
-  "ad_slots": 1,
-  "ad_weight_pct": 86.5,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_domains": 5,
+  "ad_requests": 61,
+  "ad_slots": 2,
+  "ad_weight_pct": 76.9,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 356,
+  "page_kb": 1175,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 57.5,
+  "score": 30.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -16067,7 +16099,7 @@
   ],
   "trackers": 0,
   "url": "https://anruler.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "anslayer.com": {
   "ad_domains": 0,
@@ -16923,6 +16955,35 @@
   ],
   "trackers": 0,
   "url": "https://api.altstore.io/source/api.naikamu.com/api/store?app=com.tltcode.naikamu",
+  "verdict": "Effectively ad-free"
+ },
+ "api.bookbrainz.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Swagger UI",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://api.bookbrainz.org/1/docs/",
   "verdict": "Effectively ad-free"
  },
  "api.nasa.gov": {
@@ -23143,13 +23204,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 32,
+  "page_kb": 282,
   "pages": [
    "Music"
   ],
@@ -24403,38 +24464,33 @@
   "verdict": "Heavy advertising"
  },
  "aviewfrommyseat.co.uk": {
-  "ad_domains": 4,
-  "ad_requests": 7,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 58.8,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googleadservices.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 884,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 58.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "A view from my seat",
+  "title": "Just a moment...",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 8,
+  "trackers": 0,
   "url": "https://aviewfrommyseat.co.uk/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "aviewfrommyseat.com": {
   "ad_domains": 0,
@@ -32284,6 +32340,35 @@
   "trackers": 0,
   "url": "https://bookaudiobooks.com/",
   "verdict": "Light advertising"
+ },
+ "bookbrainz.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 71,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "BookBrainz \u2013 The Open Book Database",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://bookbrainz.org/",
+  "verdict": "Effectively ad-free"
  },
  "bookdna.com": {
   "ad_domains": 0,
@@ -62277,13 +62362,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 190,
+  "page_kb": 122,
   "pages": [
    "Storage"
   ],
@@ -83143,13 +83228,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3102,
+  "page_kb": 3336,
   "pages": [
    "Streaming"
   ],
@@ -91404,22 +91489,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 18.8,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 20.2,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 919,
+  "page_kb": 835,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 85.6,
+  "score": 84.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -91429,7 +91514,7 @@
   ],
   "trackers": 1,
   "url": "https://gem.app/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "geminigen.ai": {
   "ad_domains": 4,
@@ -92000,6 +92085,48 @@
   "trackers": 2,
   "url": "https://geotips.net/",
   "verdict": "Light advertising"
+ },
+ "geotrivia.com": {
+  "ad_domains": 13,
+  "ad_requests": 22,
+  "ad_slots": 1,
+  "ad_weight_pct": 79.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "F",
+  "networks": [
+   "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "dsum-sec.casalemedia.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "image6.pubmatic.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "pixel.quantserve.com",
+   "pixel.rubiconproject.com",
+   "rules.quantcount.com",
+   "secure.quantserve.com"
+  ],
+  "ok": true,
+  "page_kb": 226,
+  "pages": [
+   "Educational"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 24.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Flag Quiz \u2013 All 197 Flags of the World | Geotrivia",
+  "topics": [
+   "Learning"
+  ],
+  "trackers": 1,
+  "url": "https://geotrivia.com/world/flags",
+  "verdict": "Ad-saturated / hostile"
  },
  "geph.io": {
   "ad_domains": 3,
@@ -115378,13 +115505,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1778,
+  "page_kb": 1811,
   "pages": [
    "Misc"
   ],
@@ -116657,7 +116784,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -122748,9 +122875,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -124335,6 +124462,35 @@
   ],
   "trackers": 0,
   "url": "https://kuroiru.co/",
+  "verdict": "Effectively ad-free"
+ },
+ "kuroko.cc": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 6657,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Kuroko.cc \u2014 Watch Anime",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://kuroko.cc/",
   "verdict": "Effectively ad-free"
  },
  "kushview.net": {
@@ -126839,13 +126995,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T17:37:22+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://learningseo.io/\nCall log:\n  - navigating to \"https://learningseo.io/",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
@@ -126853,9 +127009,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "LearningSEO.io",
   "topics": [
    "Courses"
   ],
@@ -127464,13 +127620,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 939,
+  "page_kb": 1191,
   "pages": [
    "Mobile"
   ],
@@ -127480,7 +127636,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Legacy Store",
+  "title": "Legacy Store \u2014 Archive of Classic iPhone & iPad Apps",
   "topics": [
    "iOS Apps"
   ],
@@ -145361,6 +145517,37 @@
   "url": "http://mgdb.himitsukichi.com/pukiwiki/index.php",
   "verdict": "Effectively ad-free"
  },
+ "mgread.io": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.5,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1859,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 90.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Mgread.io \u2013 Read Free Manga \u2013 Manhwa \u2013 Manhua \u2013 Anime Online",
+  "topics": [
+   "Comics & Manga"
+  ],
+  "trackers": 1,
+  "url": "https://mgread.io/",
+  "verdict": "Very clean"
+ },
  "mianfeijiema.com": {
   "ad_domains": 17,
   "ad_requests": 136,
@@ -151238,9 +151425,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -153522,7 +153709,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -156842,7 +157029,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -160310,13 +160497,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 210,
+  "page_kb": 201,
   "pages": [
    "Streaming"
   ],
@@ -162835,7 +163022,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164949,6 +165136,35 @@
   "trackers": 1,
   "url": "https://oldgameshelf.com/",
   "verdict": "Very clean"
+ },
+ "oldkingscrown.fly.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1657,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.5,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Old King's Crown",
+  "topics": [
+   "Tabletop Games"
+  ],
+  "trackers": 1,
+  "url": "https://oldkingscrown.fly.dev/",
+  "verdict": "Effectively ad-free"
  },
  "oldschoolmetalmusicz.blogspot.com": {
   "ad_domains": 1,
@@ -167626,13 +167842,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 39643,
+  "page_kb": 8302,
   "pages": [
    "Non-Eng"
   ],
@@ -172875,8 +173091,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.2,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 9.9,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -172884,13 +173100,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2549,
+  "page_kb": 1629,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 91.9,
+  "score": 90.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -173692,13 +173908,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 0,
+  "page_kb": 55,
   "pages": [
    "Streaming"
   ],
@@ -195303,7 +195519,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -206897,6 +207113,37 @@
   "url": "https://search.tiago.zip/",
   "verdict": "Effectively ad-free"
  },
+ "search.worldcat.org": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2542,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 86.7,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "WorldCat.org",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 2,
+  "url": "https://search.worldcat.org/",
+  "verdict": "Very clean"
+ },
  "search.yahoo.co.jp": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -210592,6 +210839,35 @@
   ],
   "trackers": 0,
   "url": "https://siarchives.si.edu/",
+  "verdict": "Effectively ad-free"
+ },
+ "sideinstaller.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1139,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "SideInstaller",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://sideinstaller.net/",
   "verdict": "Effectively ad-free"
  },
  "sideloadly.io": {
@@ -217162,20 +217438,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-18T21:51:55+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 6,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "blocked",
   "sticky_ads": 0,
   "title": "Just a moment...",
@@ -218411,7 +218687,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -229010,6 +229286,37 @@
   "url": "https://tastedive.com/",
   "verdict": "Effectively ad-free"
  },
+ "tatakai.me": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.8,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 22129,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.1,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Tatakai \u2014 The Otaku Community for Anime & Manga Fans",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 2,
+  "url": "https://tatakai.me/browse",
+  "verdict": "Very clean"
+ },
  "taterai.github.io": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -238585,6 +238892,35 @@
   "url": "https://tools.rmv.fyi/",
   "verdict": "Effectively ad-free"
  },
+ "tools.techlore.tech": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 160,
+  "pages": [
+   "Adblock"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Techlore SPA Tools: Find The Best Privacy and Security Tools",
+  "topics": [
+   "Adblocking"
+  ],
+  "trackers": 0,
+  "url": "https://tools.techlore.tech/",
+  "verdict": "Effectively ad-free"
+ },
  "toonhub4u.co": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -243242,6 +243578,35 @@
   "trackers": 3,
   "url": "https://tuhoc.dolenglish.vn/",
   "verdict": "Heavy advertising"
+ },
+ "tuktukcinemas.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://tuktukcinemas.com/",
+  "verdict": "Effectively ad-free"
  },
  "tunebat.com": {
   "ad_domains": 58,
@@ -263541,20 +263906,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "blocked",
   "sticky_ads": 0,
   "title": "Just a moment...",
@@ -267548,36 +267913,36 @@
   "verdict": "Moderate advertising"
  },
  "www.365chess.com": {
-  "ad_domains": 131,
-  "ad_requests": 1753,
+  "ad_domains": 105,
+  "ad_requests": 839,
   "ad_slots": 1,
-  "ad_weight_pct": 66.5,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 28.5,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "3315d0aa7d519ab26df5a036f554ecc8.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
-   "ade.googlesyndication.com",
    "ads.pubmatic.com",
-   "ads.scorecardresearch.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
-   "apps.smartadserver.com"
+   "apps.smartadserver.com",
+   "b1sync.outbrain.com",
+   "bcp.crwdcntrl.net",
+   "c.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 7417,
+  "page_kb": 3091,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 24.5,
+  "score": 25.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -273161,36 +273526,33 @@
   "verdict": "Light advertising"
  },
  "www.aqua-calc.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 38.1,
-  "checked_utc": "2026-10-03T22:26:22+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 467,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 10,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 75.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Aqua-Calc: Unit Conversions and Online Calculators",
+  "title": "Just a moment...",
   "topics": [
    "Learning"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://www.aqua-calc.com/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.aquariumofpacific.org": {
   "ad_domains": 2,
@@ -274072,9 +274434,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.arvindguptatoys.com/toys.html\nCall log:\n  - navigating to \"https",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -297149,9 +297511,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.fieggen.com/shoelace/\nCall log:\n  - navigating to \"https://www.f",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -298080,25 +298442,23 @@
   "verdict": "Effectively ad-free"
  },
  "www.fizzpoker.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 3.7,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 4734,
+  "page_kb": 4760,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.2,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -298106,9 +298466,9 @@
   "topics": [
    "Tabletop Games"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://www.fizzpoker.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.flacmusic.info": {
   "ad_domains": 0,
@@ -311201,6 +311561,35 @@
   "url": "https://www.is-a.dev/",
   "verdict": "Very clean"
  },
+ "www.isfdb.org": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1107,
+  "pages": [
+   "Reading"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "The Internet Speculative Fiction Database",
+  "topics": [
+   "Trackers & Databases"
+  ],
+  "trackers": 0,
+  "url": "https://www.isfdb.org/",
+  "verdict": "Effectively ad-free"
+ },
  "www.islegitsite.com": {
   "ad_domains": 2,
   "ad_requests": 11,
@@ -311999,7 +312388,7 @@
   "ad_requests": 0,
   "ad_slots": 4,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -317601,13 +317990,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T17:37:22+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.livelingua.com/courses/Cantonese\nCall log:\n  - navigating to \"ht",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 61,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Educational"
   ],
@@ -317615,9 +318004,9 @@
   "refs": 3,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Robot Challenge Screen",
+  "title": "Yojik",
   "topics": [
    "Courses"
   ],
@@ -319132,13 +319521,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1375,
+  "page_kb": 292,
   "pages": [
    "Educational"
   ],
@@ -330330,8 +330719,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 4.9,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 5.6,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -330340,13 +330729,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3706,
+  "page_kb": 3274,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.0,
+  "score": 87.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -331983,9 +332372,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -337892,8 +338281,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 6.2,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 6.4,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -337901,13 +338290,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2803,
+  "page_kb": 2785,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.9,
+  "score": 91.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -350462,35 +350851,33 @@
   "verdict": "Very heavy advertising"
  },
  "www.spnmanga.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 3.1,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 5601,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "SpnManga - Lee Manga Online Gratis en Espa\u00f1ol",
+  "title": "\u2060Spnmanga",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://www.spnmanga.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "www.spoolscout.com": {
   "ad_domains": 0,
@@ -360436,9 +360823,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ufocasebook.com/\nCall log:\n  - navigating to \"https://www.ufocas",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -370824,32 +371211,23 @@
   "verdict": "Moderate advertising"
  },
  "yam.ahwaktv.net": {
-  "ad_domains": 8,
-  "ad_requests": 18,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 0.5,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-02T22:28:53+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
-  "networks": [
-   "aa.agkn.com",
-   "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
-   "d.agkn.com",
-   "match.adsrvr.org",
-   "pxdrop.lijit.com",
-   "secure.adnxs.com",
-   "tags.crwdcntrl.net"
-  ],
+  "grade": "A+",
+  "networks": [],
   "ok": true,
-  "page_kb": 3271,
+  "page_kb": 3240,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 48.8,
+  "score": 100.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -370859,7 +371237,7 @@
   ],
   "trackers": 0,
   "url": "https://yam.ahwaktv.net/",
-  "verdict": "Heavy advertising"
+  "verdict": "Effectively ad-free"
  },
  "yameda.me": {
   "ad_domains": 0,
