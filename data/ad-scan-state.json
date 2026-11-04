@@ -2325,13 +2325,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 9,
+  "page_kb": 1,
   "pages": [
    "Streaming"
   ],
@@ -9605,13 +9605,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T07:24:13+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 1,
   "pages": [
    "Misc"
   ],
@@ -33117,13 +33117,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-04T22:31:26+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1582,
+  "page_kb": 1811,
   "pages": [
    "Reading"
   ],
@@ -39233,13 +39233,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://characterdesignreferences.com/visual-library\",",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2332,
+  "page_kb": 2482,
   "pages": [
    "Educational"
   ],
@@ -41351,7 +41351,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -50500,13 +50500,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T13:46:49+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://cp.iciba.com/\", waiting until \"domcontentloade",
-  "fails": 1,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 662,
   "pages": [
    "Non-Eng"
   ],
@@ -50514,9 +50514,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "ICIBA",
+  "title": "\u91d1\u5c71\u8bcd\u9738\u5b98\u65b9\u4e0b\u8f7d_\u91d1\u5c71\u8bcd\u97382024\u684c\u9762\u7248_\u7ffb\u8bd1\u8f6f\u4ef6_\u7ffb\u8bd1\u5668_\u8bcd\u5178\u8f6f\u4ef6",
   "topics": [
    "Non-English"
   ],
@@ -54635,36 +54635,37 @@
   "verdict": "Light advertising"
  },
  "darkclassics.blogspot.com": {
-  "ad_domains": 2,
-  "ad_requests": 9,
+  "ad_domains": 3,
+  "ad_requests": 21,
   "ad_slots": 1,
-  "ad_weight_pct": 11.6,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
+  "ad_weight_pct": 18.5,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "D",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2141,
+  "page_kb": 2398,
   "pages": [
-   "Storage"
+   "Educational"
   ],
   "popups": 0,
-  "refs": 1,
-  "score": 68.7,
+  "refs": 2,
+  "score": 45.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
   "title": "Dark Classics",
   "topics": [
-   "File Storage"
+   "Courses"
   ],
   "trackers": 2,
   "url": "https://darkclassics.blogspot.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Heavy advertising"
  },
  "darkforcefreefire.github.io": {
   "ad_domains": 0,
@@ -78627,9 +78628,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -84921,13 +84922,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T14:46:14+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 6,
   "pages": [
    "Misc"
   ],
@@ -93518,35 +93519,33 @@
   "verdict": "Effectively ad-free"
  },
  "gfxmountain.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 6.8,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2348,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 71,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 90.6,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Free Download Graphics, Fonts, Vectors, Print Templates - GFXMountain.com",
+  "title": "Account disabled by server administrator",
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://gfxmountain.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "gg.deals": {
   "ad_domains": 0,
@@ -96401,13 +96400,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T13:46:49+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -120932,29 +120931,25 @@
   "verdict": "Effectively ad-free"
  },
  "kindlescreensavers.tumblr.com": {
-  "ad_domains": 5,
-  "ad_requests": 16,
+  "ad_domains": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 27.9,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
+  "ad_weight_pct": 4.9,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "D",
+  "fails": 2,
+  "grade": "A",
   "networks": [
-   "cm.g.doubleclick.net",
-   "e796d38bc15b8a95054dd9c4a90203fa.safeframe.googlesyndication.com",
-   "pagead2.googlesyndication.com",
-   "sb.scorecardresearch.com",
    "securepubads.g.doubleclick.net"
   ],
   "ok": false,
-  "page_kb": 1162,
+  "page_kb": 801,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 47.0,
+  "score": 91.5,
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
@@ -120964,17 +120959,17 @@
   ],
   "trackers": 0,
   "url": "https://kindlescreensavers.tumblr.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very clean"
  },
  "kindlewalls.tumblr.com": {
   "ad_domains": 1,
-  "ad_requests": 3,
+  "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.4,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A",
+  "fails": 2,
+  "grade": "A+",
   "networks": [
    "securepubads.g.doubleclick.net"
   ],
@@ -120985,7 +120980,7 @@
   ],
   "popups": 0,
   "refs": 1,
-  "score": 92.3,
+  "score": 95.3,
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
@@ -120995,7 +120990,7 @@
   ],
   "trackers": 0,
   "url": "https://kindlewalls.tumblr.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "kinkeadtech.com": {
   "ad_domains": 1,
@@ -129060,7 +129055,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -136475,33 +136470,35 @@
   "verdict": "Effectively ad-free"
  },
  "lyrhub.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 1,
+  "ad_weight_pct": 11.2,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1586,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 100.0,
+  "score": 87.9,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "lrc.red",
+  "title": "Lyrics and translations",
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 0,
+  "trackers": 4,
   "url": "https://lyrhub.com/en",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "lyricfluent.com": {
   "ad_domains": 1,
@@ -153492,9 +153489,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T07:24:13+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://musicguessr.io/\nCall log:\n  - navigating to \"https://musicguessr.io/\", ",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -157002,13 +156999,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T13:46:49+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 1,
   "pages": [
    "Music"
   ],
@@ -166825,8 +166822,8 @@
   "ad_domains": 4,
   "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 65.7,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
+  "ad_weight_pct": 68.4,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -166837,13 +166834,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1090,
+  "page_kb": 1059,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 53.5,
+  "score": 56.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -166851,7 +166848,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 15,
+  "trackers": 9,
   "url": "https://onlinesim.io/",
   "verdict": "Heavy advertising"
  },
@@ -252748,13 +252745,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T23:21:59+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 6,
+  "page_kb": 2,
   "pages": [
    "Educational"
   ],
@@ -280303,13 +280300,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T07:24:13+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -287105,38 +287102,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.creativefabrica.com": {
-  "ad_domains": 4,
-  "ad_requests": 6,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 7.7,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "ad.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 4732,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 7,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 70.7,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Freebies - Daily Free Goods for Crafters & Designers - Creative Fabrica",
+  "title": "Just a moment...",
   "topics": [
    "File Storage"
   ],
-  "trackers": 9,
+  "trackers": 0,
   "url": "https://www.creativefabrica.com/freebies/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.creativeuncut.com": {
   "ad_domains": 81,
@@ -297161,46 +297153,33 @@
   "verdict": "Moderate advertising"
  },
  "www.fandom.com": {
-  "ad_domains": 26,
-  "ad_requests": 62,
-  "ad_slots": 3,
-  "ad_weight_pct": 26.0,
-  "checked_utc": "2026-10-05T07:41:23+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "109ac4daae9c77ef1c1be412ab9a68a7.safeframe.googlesyndication.com",
-   "cdn.adsafeprotected.com",
-   "cm.g.doubleclick.net",
-   "dis.criteo.com",
-   "dsum-sec.casalemedia.com",
-   "g2.gumgum.com",
-   "ib.adnxs.com",
-   "image2.pubmatic.com",
-   "match.adsrvr.org",
-   "pagead2.googlesyndication.com",
-   "pixel.adsafeprotected.com",
-   "pixel.quantserve.com"
-  ],
-  "ok": true,
-  "page_kb": 3987,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-04T08:00:33+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 6,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 14.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Fandom",
+  "title": "Just a moment...",
   "topics": [
    "File Storage"
   ],
-  "trackers": 5,
+  "trackers": 0,
   "url": "https://www.fandom.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.faneo.es": {
   "ad_domains": 1,
@@ -328094,9 +328073,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T07:24:13+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.netplayfinder.com/\", waiting until \"domcon",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -328108,7 +328087,7 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "offline",
   "sticky_ads": 0,
   "title": "NetplayFinder",
   "topics": [
@@ -345081,13 +345060,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-26T23:21:59+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 5,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
@@ -349019,9 +348998,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T13:46:49+00:00",
+  "checked_utc": "2026-11-04T08:00:33+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
