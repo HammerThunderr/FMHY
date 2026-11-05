@@ -3037,9 +3037,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-09-20T21:52:34+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -13043,13 +13043,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1027,
+  "page_kb": 934,
   "pages": [
    "Non-Eng"
   ],
@@ -24526,13 +24526,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T23:34:21+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -26526,13 +26526,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6712,
+  "page_kb": 10112,
   "pages": [
    "Streaming"
   ],
@@ -48963,7 +48963,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -49942,33 +49942,35 @@
   "verdict": "Effectively ad-free"
  },
  "couchmoney.tv": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://couchmoney.tv/\", waiting until \"domcontentload",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 17.0,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 1713,
   "pages": [
    "Storage"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 85.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Recommendations",
+  "title": "couchmoney",
   "topics": [
    "File Storage"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://couchmoney.tv/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very clean"
  },
  "countdown.tv": {
   "ad_domains": 3,
@@ -53896,17 +53898,16 @@
   "verdict": "Effectively ad-free"
  },
  "dailycommercials.com": {
-  "ad_domains": 104,
-  "ad_requests": 1233,
-  "ad_slots": 12,
-  "ad_weight_pct": 35.3,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "ad_domains": 83,
+  "ad_requests": 523,
+  "ad_slots": 13,
+  "ad_weight_pct": 57.5,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "557b47f29b661f015185d4d6083462f1.safeframe.googlesyndication.com",
-   "aa.agkn.com",
+   "91db7992bdc30a46912a22e2079b785a.safeframe.googlesyndication.com",
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
@@ -53915,11 +53916,12 @@
    "ap.lijit.com",
    "api.id5-sync.com",
    "b1sync.outbrain.com",
+   "bid.g.doubleclick.net",
    "btlr.sharethrough.com",
    "c.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 6772,
+  "page_kb": 9169,
   "pages": [
    "Streaming"
   ],
@@ -53928,7 +53930,7 @@
   "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "The best funny TV commercials - DAILY COMMERCIALS",
   "topics": [
    "Anime & Specialty"
@@ -60238,13 +60240,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://digitaler-lesesaal.bundesarchiv.de/en\", waitin",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 377,
+  "ok": false,
+  "page_kb": 11,
   "pages": [
    "Streaming"
   ],
@@ -60252,9 +60254,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Search - Digitaler Lesesaal",
+  "title": "Stiftung imai",
   "topics": [
    "Anime & Specialty"
   ],
@@ -71807,32 +71809,39 @@
   "verdict": "Effectively ad-free"
  },
  "en.everybodywiki.com": {
-  "ad_domains": 5,
-  "ad_requests": 76,
-  "ad_slots": 5,
-  "ad_weight_pct": 55.2,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "ad_domains": 12,
+  "ad_requests": 120,
+  "ad_slots": 7,
+  "ad_weight_pct": 50.1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
+   "dis.criteo.com",
    "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
    "stats.g.doubleclick.net",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1866,
+  "page_kb": 2830,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 8.0,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "EverybodyWiki Bios & Wiki",
   "topics": [
    "Learning"
@@ -80112,7 +80121,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -105284,36 +105293,25 @@
   "verdict": "Light advertising"
  },
  "hoofoot.net": {
-  "ad_domains": 67,
-  "ad_requests": 297,
-  "ad_slots": 4,
-  "ad_weight_pct": 72.1,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 2,
+  "ad_weight_pct": 26.3,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "C",
   "networks": [
-   "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
-   "ads.pubmatic.com",
-   "ads.yieldmo.com",
-   "ap.lijit.com",
-   "b1sync.outbrain.com",
-   "c.mgid.com",
-   "c1.adform.net",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net",
-   "cm.g.doubleclick.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1685,
+  "page_kb": 614,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.5,
+  "score": 71.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -105323,7 +105321,7 @@
   ],
   "trackers": 1,
   "url": "https://hoofoot.net/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Moderate advertising"
  },
  "hoofoot.ru": {
   "ad_domains": 7,
@@ -115153,13 +115151,13 @@
  },
  "javagames.cc": {
   "ad_domains": 4,
-  "ad_requests": 17,
-  "ad_slots": 1,
-  "ad_weight_pct": 84.8,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "ad_requests": 82,
+  "ad_slots": 2,
+  "ad_weight_pct": 93.5,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
@@ -115167,23 +115165,23 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 785,
+  "page_kb": 2652,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 42.0,
+  "score": 27.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "JavaGames.cc - Play java games online in your browser",
   "topics": [
    "Emulation & ROMs"
   ],
   "trackers": 1,
   "url": "https://javagames.cc/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "javalab.org": {
   "ad_domains": 4,
@@ -117685,7 +117683,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -117954,8 +117952,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "ad_weight_pct": 10.1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -117964,7 +117962,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3399,
+  "page_kb": 3054,
   "pages": [
    "Misc"
   ],
@@ -117978,7 +117976,7 @@
   "topics": [
    "Everything Else"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://justforfun.io/",
   "verdict": "Light advertising"
  },
@@ -118136,13 +118134,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30",
-  "fails": 2,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 11,
+  "ok": true,
+  "page_kb": 1893,
   "pages": [
    "Misc"
   ],
@@ -118150,9 +118148,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just Type Stuff",
+  "title": "Constellation",
   "topics": [
    "Everything Else"
   ],
@@ -123940,7 +123938,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -128080,35 +128078,36 @@
   "verdict": "Effectively ad-free"
  },
  "lendrive.web.id": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 2,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at eval (eval at evaluate (:370:30",
-  "fails": 1,
-  "grade": "A+",
+  "ad_weight_pct": 7.6,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
   "networks": [
+   "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com"
   ],
-  "ok": false,
-  "page_kb": 11,
+  "ok": true,
+  "page_kb": 3300,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 95.5,
+  "score": 80.7,
   "starred": 2,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Lendrive",
+  "title": "Lendrive - Anime x265/Hevc Sub Indonesia & English",
   "topics": [
    "Non-English"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://lendrive.web.id/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "lens.google": {
   "ad_domains": 1,
@@ -129521,13 +129520,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 100,
+  "page_kb": 188,
   "pages": [
    "Non-Eng",
    "Reading"
@@ -130286,9 +130285,9 @@
  "lilymanga.net": {
   "ad_domains": 1,
   "ad_requests": 1,
-  "ad_slots": 2,
-  "ad_weight_pct": 10.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "ad_slots": 0,
+  "ad_weight_pct": 84.6,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -130296,7 +130295,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1741,
+  "page_kb": 208,
   "pages": [
    "Reading"
   ],
@@ -130306,7 +130305,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Read Yuri Manga, Manhwa, Manhua & WebComics for Girls \u22c6 Lily Manga",
+  "title": "LilyManga \u2014 We'll be back soon",
   "topics": [
    "Comics & Manga"
   ],
@@ -137829,29 +137828,25 @@
   "verdict": "Effectively ad-free"
  },
  "magazinelib.com": {
-  "ad_domains": 5,
-  "ad_requests": 12,
+  "ad_domains": 1,
+  "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 16.9,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "ad_weight_pct": 26.8,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "B",
   "networks": [
-   "content.adriver.ru",
-   "match.adsrvr.org",
-   "r.bidswitch.net",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1784,
+  "page_kb": 1121,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 57.0,
+  "score": 77.6,
   "starred": 2,
   "status": "online",
   "sticky_ads": 0,
@@ -137861,7 +137856,7 @@
   ],
   "trackers": 3,
   "url": "https://magazinelib.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Light advertising"
  },
  "magcius.github.io": {
   "ad_domains": 1,
@@ -141940,7 +141935,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -148152,13 +148147,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -168949,9 +168944,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -170071,13 +170066,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 272,
+  "page_kb": 287,
   "pages": [
    "Linux"
   ],
@@ -178358,13 +178353,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 69,
+  "page_kb": 82,
   "pages": [
    "Music"
   ],
@@ -184877,33 +184872,38 @@
   "verdict": "Ad-saturated / hostile"
  },
  "poweroutage.us": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_domains": 4,
+  "ad_requests": 5,
+  "ad_slots": 1,
+  "ad_weight_pct": 80.1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "C",
+  "networks": [
+   "ad.doubleclick.net",
+   "googleads.g.doubleclick.net",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 237,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 59.5,
   "starred": 0,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "United States Power Outage Map",
   "topics": [
    "Everything Else"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://poweroutage.us/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Moderate advertising"
  },
  "ppv.bi": {
   "ad_domains": 0,
@@ -195951,13 +195951,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://reelix.ac/\", waiting until \"domcontentloaded\"\n",
-  "fails": 1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 3543,
   "pages": [
    "Streaming"
   ],
@@ -195965,9 +195965,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 2,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Reelix",
+  "title": "Reelix - Watch Movies, TV Shows & Anime Free in HD",
   "topics": [
    "Movies & TV"
   ],
@@ -209073,13 +209073,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1419,
+  "page_kb": 760,
   "pages": [
    "Streaming"
   ],
@@ -209789,13 +209789,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 395,
   "pages": [
    "Music"
   ],
@@ -209803,9 +209803,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "ShareMania",
+  "title": "ShareMania.US",
   "topics": [
    "Music Downloads"
   ],
@@ -221528,13 +221528,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 58,
+  "page_kb": 63,
   "pages": [
    "Streaming"
   ],
@@ -222955,13 +222955,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 248,
+  "page_kb": 1270,
   "pages": [
    "Streaming"
   ],
@@ -222971,7 +222971,7 @@
   "starred": 1,
   "status": "online",
   "sticky_ads": 0,
-  "title": "StreamCorner",
+  "title": "Google",
   "topics": [
    "Live TV & Sports"
   ],
@@ -225919,13 +225919,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 0,
+  "page_kb": 118,
   "pages": [
    "Misc"
   ],
@@ -261303,7 +261303,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 99.9,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -261311,7 +261311,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 162,
+  "page_kb": 164,
   "pages": [
    "Misc"
   ],
@@ -263902,26 +263902,27 @@
  "willowmovies.com": {
   "ad_domains": 0,
   "ad_requests": 0,
-  "ad_slots": 0,
+  "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 98,
+  "page_kb": 11360,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
-  "refs": 2,
-  "score": 100.0,
+  "refs": 4,
+  "score": 95.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Willow Movies",
+  "title": "Willow \u2013 movies and shows",
   "topics": [
+   "Movies & TV",
    "Video Downloads"
   ],
   "trackers": 0,
@@ -283122,26 +283123,25 @@
   "verdict": "Effectively ad-free"
  },
  "www.chessvariants.com": {
-  "ad_domains": 2,
-  "ad_requests": 9,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 13.7,
-  "checked_utc": "2026-10-06T08:08:08+00:00",
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "A+",
   "networks": [
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "z-na.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 1895,
+  "page_kb": 1600,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 73.7,
+  "score": 95.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -283151,7 +283151,7 @@
   ],
   "trackers": 0,
   "url": "https://www.chessvariants.com/index/favorites.php",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "www.chezmoi.io": {
   "ad_domains": 0,
@@ -289649,13 +289649,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.deutsche-digitale-bibliothek.de/?lang=en\",",
-  "fails": 1,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 1202,
+  "ok": true,
+  "page_kb": 1179,
   "pages": [
    "Educational"
   ],
@@ -289663,9 +289663,9 @@
   "refs": 2,
   "score": 99.0,
   "starred": 0,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Deutsche Digitale",
+  "title": "Deutsche Digitale Bibliothek - Kultur und Wissen online",
   "topics": [
    "Courses"
   ],
@@ -296494,7 +296494,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -297489,9 +297489,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -312966,9 +312966,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jiemadi.com/en\nCall log:\n  - navigating to \"https://www.jiemadi.com",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -320967,13 +320967,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-27T19:08:37+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 1,
   "pages": [
    "Reading"
   ],
@@ -328102,13 +328102,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 0,
+  "page_kb": 2,
   "pages": [
    "Misc"
   ],
@@ -328284,13 +328284,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 3,
+  "page_kb": 0,
   "pages": [
    "Misc"
   ],
@@ -328648,33 +328648,46 @@
   "verdict": "Effectively ad-free"
  },
  "www.nga.gov": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 12,
+  "ad_requests": 29,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 7.5,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "E",
+  "networks": [
+   "15686668.fls.doubleclick.net",
+   "ad.doubleclick.net",
+   "adservice.google.com",
+   "dsum-sec.casalemedia.com",
+   "googleads.g.doubleclick.net",
+   "insight.adsrvr.org",
+   "js.adsrvr.org",
+   "match.adsrvr.org",
+   "simage2.pubmatic.com",
+   "www.googleadservices.com",
+   "www.googletagmanager.com",
+   "x.bidswitch.net"
+  ],
+  "ok": true,
+  "page_kb": 11548,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 38.8,
   "starred": 2,
-  "status": "blocked",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Just a moment...",
+  "title": "National Gallery of Art",
   "topics": [
    "Courses"
   ],
-  "trackers": 0,
+  "trackers": 5,
   "url": "https://www.nga.gov/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Very heavy advertising"
  },
  "www.ngataonga.org.nz": {
   "ad_domains": 2,
@@ -329898,13 +329911,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 97,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Streaming"
   ],
@@ -329912,9 +329925,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "wyzie-lib - npm",
+  "title": "Just a moment...",
   "topics": [
    "Torrents"
   ],
@@ -331495,29 +331508,30 @@
   "verdict": "Very heavy advertising"
  },
  "www.onlinetutorials.org": {
-  "ad_domains": 11,
-  "ad_requests": 121,
-  "ad_slots": 7,
-  "ad_weight_pct": 53.8,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "ad_domains": 24,
+  "ad_requests": 220,
+  "ad_slots": 9,
+  "ad_weight_pct": 90.2,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "ade.googlesyndication.com",
    "b1sync.outbrain.com",
+   "bid.g.doubleclick.net",
    "cm.g.doubleclick.net",
-   "dis.criteo.com",
-   "dsp.adkernel.com",
+   "dsum-sec.casalemedia.com",
+   "dt.adsafeprotected.com",
+   "fw.adsafeprotected.com",
+   "gcdn.2mdn.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "sync-tm.everesttech.net",
-   "sync.teads.tv",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com",
-   "x.bidswitch.net"
+   "googleads4.g.doubleclick.net",
+   "ib.adnxs.com"
   ],
   "ok": true,
-  "page_kb": 3027,
+  "page_kb": 24116,
   "pages": [
    "Storage"
   ],
@@ -331531,7 +331545,7 @@
   "topics": [
    "File Storage"
   ],
-  "trackers": 3,
+  "trackers": 5,
   "url": "https://www.onlinetutorials.org/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -334773,13 +334787,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.photonlexicon.com/forums/\nCall log:\n  - navigating to \"https://www",
-  "fails": 2,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
   "grade": "A+",
   "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ok": true,
+  "page_kb": 92,
   "pages": [
    "Misc"
   ],
@@ -334787,9 +334801,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "offline",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Photonlexicon",
+  "title": "Photonlexicon Laser Forum",
   "topics": [
    "Everything Else"
   ],
@@ -342052,9 +342066,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -342429,33 +342443,36 @@
   "verdict": "Light advertising"
  },
  "www.rekhtadictionary.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 2,
+  "ad_requests": 4,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-29T07:42:59+00:00",
-  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.rekhtadictionary.com/\", waiting until \"dom",
-  "fails": 1,
-  "grade": "A+",
-  "networks": [],
-  "ok": false,
-  "page_kb": 0,
+  "ad_weight_pct": 7.4,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 6862,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 75.3,
   "starred": 2,
-  "status": "error",
+  "status": "online",
   "sticky_ads": 0,
-  "title": "Rekhta Dictionary",
+  "title": "Urdu dictionary with meanings in Hindi & English | Rekhta Dictionary",
   "topics": [
    "Courses"
   ],
-  "trackers": 0,
+  "trackers": 18,
   "url": "https://www.rekhtadictionary.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Light advertising"
  },
  "www.relay.fm": {
   "ad_domains": 1,
@@ -345412,9 +345429,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-28T14:35:00+00:00",
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -360580,33 +360597,25 @@
   "verdict": "Light advertising"
  },
  "www.tvids.net": {
-  "ad_domains": 9,
-  "ad_requests": 21,
+  "ad_domains": 1,
+  "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 15.6,
-  "checked_utc": "2026-10-05T21:14:51+00:00",
+  "ad_weight_pct": 16.7,
+  "checked_utc": "2026-11-05T08:31:30+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "B",
   "networks": [
-   "aa.agkn.com",
-   "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
-   "d.agkn.com",
-   "match.adsrvr.org",
-   "pxdrop.lijit.com",
-   "secure.adnxs.com",
-   "tags.crwdcntrl.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1980,
+  "page_kb": 1760,
   "pages": [
    "Streaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 34.7,
+  "score": 83.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -360616,7 +360625,7 @@
   ],
   "trackers": 5,
   "url": "https://www.tvids.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Light advertising"
  },
  "www.tvids.to": {
   "ad_domains": 0,
