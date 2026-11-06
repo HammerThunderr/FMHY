@@ -19794,6 +19794,37 @@
   "url": "https://arca.live/",
   "verdict": "Effectively ad-free"
  },
+ "arcadia.baby": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 8259,
+  "pages": [
+   "Gaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 94.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "ARCADIA \u2014 WebAssembly, Recompiled & Retro Preservation Archive",
+  "topics": [
+   "Browser Games"
+  ],
+  "trackers": 1,
+  "url": "https://arcadia.baby/",
+  "verdict": "Very clean"
+ },
  "arcadia.net": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -38199,13 +38230,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 7,
+  "page_kb": 0,
   "pages": [
    "Gaming"
   ],
@@ -54290,13 +54321,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://dalton-nrs.manchester.ac.uk/\", waiting until \"",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 12121,
+  "ok": false,
+  "page_kb": 39,
   "pages": [
    "Educational"
   ],
@@ -54304,9 +54335,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Nuclear Reactor Simulator",
+  "title": "\u2060Nuclear Reactor Simulator",
   "topics": [
    "Science & Maths"
   ],
@@ -62756,7 +62787,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -70865,6 +70896,37 @@
   ],
   "trackers": 0,
   "url": "https://elamigos.site/",
+  "verdict": "Effectively ad-free"
+ },
+ "election.run": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 86,
+  "pages": [
+   "Misc",
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "election.run \u00b7 The live dashboard for elections and politics",
+  "topics": [
+   "Everything Else",
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://election.run/",
   "verdict": "Effectively ad-free"
  },
  "electro-torrent.pl": {
@@ -87415,6 +87477,35 @@
   "trackers": 2,
   "url": "https://freehire.me/",
   "verdict": "Light advertising"
+ },
+ "freekino.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 12094,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 99.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Yangi Tarjima Kinolar 2026 - Freekino.net",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 2,
+  "url": "https://freekino.net/",
+  "verdict": "Effectively ad-free"
  },
  "freekz.to": {
   "ad_domains": 1,
@@ -145183,6 +145274,35 @@
   "url": "https://meionovels.com/",
   "verdict": "Effectively ad-free"
  },
+ "meiro.elianiva.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 686,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Meiro \u00b7 YouTube Music, without the bloat",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://meiro.elianiva.com/",
+  "verdict": "Effectively ad-free"
+ },
  "melondy.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -154257,20 +154377,20 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 61,
+  "page_kb": 67,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "online",
   "sticky_ads": 0,
   "title": "Robot Challenge Screen",
@@ -178561,6 +178681,35 @@
   "url": "https://pinball.alula.me/",
   "verdict": "Effectively ad-free"
  },
+ "pinepods.online": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5137,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "PinePods \u2014 Your Complete Podcast Ecosystem | PinePods Docs",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://pinepods.online/",
+  "verdict": "Effectively ad-free"
+ },
  "pinetools.com": {
   "ad_domains": 72,
   "ad_requests": 227,
@@ -178972,13 +179121,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 10005,
+  "page_kb": 5544,
   "pages": [
    "Gaming"
   ],
@@ -183290,6 +183439,35 @@
   "url": "https://podcast24.fi/",
   "verdict": "Very clean"
  },
+ "podcastindex-org.github.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 238,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "API Docs | PodcastIndex.org",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://podcastindex-org.github.io/docs-api/",
+  "verdict": "Effectively ad-free"
+ },
  "podcastindex.org": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -183534,6 +183712,35 @@
   "trackers": 1,
   "url": "https://podstatus.com/charts",
   "verdict": "Moderate advertising"
+ },
+ "podverse.fm": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 125,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Podverse",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://podverse.fm/",
+  "verdict": "Effectively ad-free"
  },
  "poeltl.nbpa.com": {
   "ad_domains": 2,
@@ -183780,6 +183987,35 @@
   ],
   "trackers": 0,
   "url": "https://pointerpointerclone.shiprzq.workers.dev/",
+  "verdict": "Effectively ad-free"
+ },
+ "pointify.qzz.io": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 24190,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "pointify",
+  "topics": [
+   "Music Streaming"
+  ],
+  "trackers": 0,
+  "url": "https://pointify.qzz.io/",
   "verdict": "Effectively ad-free"
  },
  "poipiku.com": {
@@ -188549,6 +188785,35 @@
   "url": "https://ps.waltheri.net/",
   "verdict": "Effectively ad-free"
  },
+ "psa.rip": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "blocked",
+  "sticky_ads": 0,
+  "title": "Just a moment...",
+  "topics": [
+   "Video Downloads"
+  ],
+  "trackers": 0,
+  "url": "https://psa.rip/",
+  "verdict": "Effectively ad-free"
+ },
  "psa.wf": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -190304,6 +190569,38 @@
   "trackers": 0,
   "url": "https://q.uiver.app/",
   "verdict": "Effectively ad-free"
+ },
+ "q62flix.ws": {
+  "ad_domains": 2,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 9.6,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2027,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 85.7,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Q62 - Watch Movies Online, Watch TV Shows Online",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://q62flix.ws/",
+  "verdict": "Very clean"
  },
  "qalculate.github.io": {
   "ad_domains": 0,
@@ -220297,6 +220594,35 @@
   "url": "http://sportsurge.st/",
   "verdict": "Effectively ad-free"
  },
+ "sportsurges.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Sportsurge - Simple Guide to Streaming Sports Online",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://sportsurges.st/",
+  "verdict": "Effectively ad-free"
+ },
  "spot-transfer.vercel.app": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -225430,6 +225756,35 @@
   ],
   "trackers": 0,
   "url": "https://strmfree.link/",
+  "verdict": "Effectively ad-free"
+ },
+ "strmfree.pk": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1060,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 96.0,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamFree - Watch Live Sports Free | NBA, NFL, UFC, Soccer & PPV",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 8,
+  "url": "https://strmfree.pk/",
   "verdict": "Effectively ad-free"
  },
  "strmfree.st": {
@@ -239817,13 +240172,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 61,
+  "page_kb": 67,
   "pages": [
    "Music"
   ],
@@ -241649,6 +242004,35 @@
   ],
   "trackers": 0,
   "url": "https://totallynormalchess.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "totalsport-ek.st": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 0,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "TotalSportek - Official Live Sports Streams",
+  "topics": [
+   "Live TV & Sports"
+  ],
+  "trackers": 0,
+  "url": "https://totalsport-ek.st/",
   "verdict": "Effectively ad-free"
  },
  "totalsportek.st": {
@@ -258339,6 +258723,35 @@
   "trackers": 1,
   "url": "https://watchdocumentaries.com/",
   "verdict": "Ad-saturated / hostile"
+ },
+ "watched.cx": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5976,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Home \u00b7 watched",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 0,
+  "url": "https://watched.cx/",
+  "verdict": "Effectively ad-free"
  },
  "watchfooty.st": {
   "ad_domains": 0,
@@ -283404,8 +283817,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.3,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -283413,17 +283826,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5774,
+  "page_kb": 4920,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 4,
-  "score": 92.3,
+  "score": 92.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "On Sale - Apple Book Deals",
+  "title": "Apple Books Deals: eBooks on Sale Today | CheapCharts",
   "topics": [
    "Everything Else"
   ],
@@ -302710,13 +303123,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 151,
+  "ok": false,
+  "page_kb": 67,
   "pages": [
    "Music"
   ],
@@ -302724,9 +303137,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "FreeSoundsLibrary",
   "topics": [
    "Audio Tools"
   ],
@@ -368662,6 +369075,35 @@
   "url": "https://www.worldtimebuddy.com/",
   "verdict": "Very heavy advertising"
  },
+ "www.worldwidefm.net": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-06T20:05:34+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 1897,
+  "pages": [
+   "Music"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Worldwide FM",
+  "topics": [
+   "Radio"
+  ],
+  "trackers": 0,
+  "url": "https://www.worldwidefm.net/",
+  "verdict": "Effectively ad-free"
+ },
  "www.worseonpurpose.com": {
   "ad_domains": 1,
   "ad_requests": 4,
@@ -369720,13 +370162,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 151,
+  "page_kb": 67,
   "pages": [
    "Music"
   ],
@@ -369736,7 +370178,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "Robot Challenge Screen",
   "topics": [
    "Audio Tools"
   ],
@@ -375691,7 +376133,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-07T19:33:18+00:00",
+  "checked_utc": "2026-11-06T20:05:34+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
