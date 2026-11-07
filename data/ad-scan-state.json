@@ -1894,6 +1894,35 @@
   "url": "https://29a.ch/timestretch/",
   "verdict": "Effectively ad-free"
  },
+ "2dhive.com": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 1,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 5092,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 95.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Watch Free Anime Online in HD \u2013 Sub & Dub | 2Dhive",
+  "topics": [
+   "Anime & Specialty"
+  ],
+  "trackers": 0,
+  "url": "https://2dhive.com/",
+  "verdict": "Effectively ad-free"
+ },
  "2ecbbd610840-trakt.baby-beamup.club": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -3528,6 +3557,35 @@
   ],
   "trackers": 0,
   "url": "https://8ghrb.com/",
+  "verdict": "Effectively ad-free"
+ },
+ "8spine-moduels.pages.dev": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://8spine-moduels.pages.dev/\nCall log:\n  - navigating to \"https://8spine-m",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
+  "pages": [
+   "Mobile"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 1,
+  "status": "offline",
+  "sticky_ads": 0,
+  "title": "\u20608SPINE",
+  "topics": [
+   "iOS Apps"
+  ],
+  "trackers": 0,
+  "url": "https://8spine-moduels.pages.dev/",
   "verdict": "Effectively ad-free"
  },
  "8spine-modules.vercel.app": {
@@ -72196,46 +72254,33 @@
   "verdict": "Ad-saturated / hostile"
  },
  "en.kiosko.net": {
-  "ad_domains": 21,
-  "ad_requests": 63,
-  "ad_slots": 3,
-  "ad_weight_pct": 61.3,
-  "checked_utc": "2026-10-08T07:59:08+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "ads.pubmatic.com",
-   "akl-navvy.media.net",
-   "bcp.crwdcntrl.net",
-   "cc8cbd4ceaff6f63e756f995262de369.safeframe.googlesyndication.com",
-   "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "contextual.media.net",
-   "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "hblg.media.net",
-   "hbx.media.net",
-   "id5-sync.com"
-  ],
-  "ok": true,
-  "page_kb": 1654,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "Error: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://en.kiosko.net/\nCall log:\n  - navigating to \"https://en.kiosko.net/\", w",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 13.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "Today's newspapers. Today's press covers. Kiosko.net",
+  "title": "Kiosko",
   "topics": [
    "Ebooks"
   ],
-  "trackers": 4,
+  "trackers": 0,
   "url": "https://en.kiosko.net/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "en.metal-tracker.com": {
   "ad_domains": 2,
@@ -88579,6 +88624,35 @@
   "url": "https://frembed.surf/",
   "verdict": "Effectively ad-free"
  },
+ "frembed.uno": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 4245,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "Frembed : Voir des Films, S\u00e9ries TV et TV en Direct Gratuitement",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://frembed.uno/",
+  "verdict": "Effectively ad-free"
+ },
  "french-anime.com": {
   "ad_domains": 0,
   "ad_requests": 0,
@@ -89172,6 +89246,35 @@
   "trackers": 0,
   "url": "https://fstv.rest/",
   "verdict": "Moderate advertising"
+ },
+ "fsurl.top": {
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A+",
+  "networks": [],
+  "ok": true,
+  "page_kb": 228,
+  "pages": [
+   "Non-Eng"
+  ],
+  "popups": 0,
+  "refs": 1,
+  "score": 100.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "French Stream - Acc\u00e8s au site",
+  "topics": [
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://fsurl.top/",
+  "verdict": "Effectively ad-free"
  },
  "fswb.codeberg.page": {
   "ad_domains": 0,
@@ -134872,15 +134975,16 @@
   "verdict": "Effectively ad-free"
  },
  "lolmythesis.com": {
-  "ad_domains": 2,
-  "ad_requests": 4,
+  "ad_domains": 3,
+  "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 20.5,
-  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "ad_weight_pct": 20.7,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "B",
   "networks": [
+   "sb.scorecardresearch.com",
    "securepubads.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
@@ -134891,7 +134995,7 @@
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.8,
+  "score": 72.2,
   "starred": 0,
   "status": "blocked",
   "sticky_ads": 0,
@@ -140082,9 +140186,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T07:30:08+00:00",
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -167194,6 +167298,37 @@
   "trackers": 3,
   "url": "https://onionhoney.github.io/roux-trainers/",
   "verdict": "Light advertising"
+ },
+ "onionplay.ae": {
+  "ad_domains": 1,
+  "ad_requests": 2,
+  "ad_slots": 0,
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 17687,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 92.0,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "OnionPlay 2026 - Watch Latest Movies And TVShows Online Free",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 2,
+  "url": "https://onionplay.ae/",
+  "verdict": "Very clean"
  },
  "onionplay.st": {
   "ad_domains": 1,
@@ -224737,6 +224872,39 @@
   "url": "https://streamingunity.dog/",
   "verdict": "Very clean"
  },
+ "streamingunity.fun": {
+  "ad_domains": 1,
+  "ad_requests": 1,
+  "ad_slots": 0,
+  "ad_weight_pct": 6.7,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "A",
+  "networks": [
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 2510,
+  "pages": [
+   "Non-Eng",
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 4,
+  "score": 92.2,
+  "starred": 0,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "StreamingUnity",
+  "topics": [
+   "Movies & TV",
+   "Non-English"
+  ],
+  "trackers": 0,
+  "url": "https://streamingunity.fun/",
+  "verdict": "Very clean"
+ },
  "streamingunity.vip": {
   "ad_domains": 1,
   "ad_requests": 1,
@@ -274269,9 +274437,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -277087,6 +277255,39 @@
   "url": "https://www.audubon.org/",
   "verdict": "Ad-saturated / hostile"
  },
+ "www.aurorascreen.mov": {
+  "ad_domains": 3,
+  "ad_requests": 4,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.7,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "",
+  "fails": 0,
+  "grade": "B",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "static.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
+  "ok": true,
+  "page_kb": 22629,
+  "pages": [
+   "Streaming"
+  ],
+  "popups": 0,
+  "refs": 2,
+  "score": 84.2,
+  "starred": 2,
+  "status": "online",
+  "sticky_ads": 0,
+  "title": "AuroraScreen",
+  "topics": [
+   "Movies & TV"
+  ],
+  "trackers": 1,
+  "url": "https://www.aurorascreen.mov/",
+  "verdict": "Light advertising"
+ },
  "www.aurorascreen.org": {
   "ad_domains": 3,
   "ad_requests": 3,
@@ -279826,8 +280027,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 27.6,
-  "checked_utc": "2026-10-08T07:59:08+00:00",
+  "ad_weight_pct": 37.3,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -279835,13 +280036,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 586,
+  "page_kb": 676,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.7,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -280525,9 +280726,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -308476,13 +308677,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T07:30:08+00:00",
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 2,
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 2,
   "pages": [
    "Reading"
   ],
@@ -327244,9 +327445,9 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T13:53:30+00:00",
+  "checked_utc": "2026-11-07T18:18:11+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 1,
+  "fails": 2,
   "grade": "A+",
   "networks": [],
   "ok": false,
@@ -363466,13 +363667,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-31T07:30:08+00:00",
-  "error": "Error: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
-  "fails": 2,
+  "checked_utc": "2026-11-07T18:18:11+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 3,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
@@ -363480,9 +363681,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "error",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "UpTracker",
+  "title": "403 Forbidden",
   "topics": [
    "Non-English"
   ],
