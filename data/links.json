@@ -420,7 +420,7 @@
     "subsubsection": null,
     "title": "HaGeZi Blocklists",
     "url": "https://github.com/hagezi/dns-blocklists",
-    "description": ", / - Blocklist Collection / Use Mini Editions /",
+    "description": ", / - Multi-Source Domain Blocklist / Use Full Edition for DNS Servers / Mini Edition for Browser Adblockers /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -448,20 +448,46 @@
     "section": "Adblocking",
     "subsection": "Adblock Filters",
     "subsubsection": null,
-    "title": "hBlock",
-    "url": "https://hblock.molinero.dev/",
-    "description": "Blocklist Collection /",
-    "starred": false,
+    "title": "OISD",
+    "url": "https://oisd.nl/",
+    "description": "Multi-Source Domain Blocklist /",
+    "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "hBlock",
-        "url": "https://hblock.molinero.dev/"
+        "text": "OISD",
+        "url": "https://oisd.nl/"
       },
       {
         "text": "GitHub",
-        "url": "https://github.com/hectorm/hblock"
+        "url": "https://github.com/sjhgvr/oisd"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "Adblock Filters",
+    "subsubsection": null,
+    "title": "Rethink DNS",
+    "url": "https://rethinkdns.com/configure",
+    "description": "DNS Adblocker / Mix Multiple Blocklists / /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Rethink DNS",
+        "url": "https://rethinkdns.com/configure"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/rethinkdns/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/rethinkdns"
       }
     ]
   },
@@ -504,18 +530,26 @@
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Adblocking",
+    "subsection": "Adblock Filters",
     "subsubsection": null,
-    "title": "DNS Providers",
-    "url": "https://adguard-dns.io/kb/general/dns-providers/",
-    "description": "DNS Provider Index",
+    "title": "neodevhost",
+    "url": "https://github.com/neodevpro/neodevhost",
+    "description": ", or - Blocklists & Aggregated Feeds",
     "starred": false,
-    "third_party_index": true,
+    "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "DNS Providers",
-        "url": "https://adguard-dns.io/kb/general/dns-providers/"
+        "text": "neodevhost",
+        "url": "https://github.com/neodevpro/neodevhost"
+      },
+      {
+        "text": "StevenBlack Hosts",
+        "url": "https://github.com/StevenBlack/hosts"
+      },
+      {
+        "text": "black-mirror",
+        "url": "https://github.com/T145/black-mirror"
       }
     ]
   },
@@ -524,16 +558,16 @@
     "section": "Adblocking",
     "subsection": "DNS Adblocking",
     "subsubsection": null,
-    "title": "Free DNS Resolvers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers",
-    "description": null,
+    "title": "DNS Tools",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools",
+    "description": "Lookup, Propagation & Benchmarking",
     "starred": false,
     "third_party_index": false,
     "section_link": true,
     "all_links": [
       {
-        "text": "Free DNS Resolvers",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers"
+        "text": "DNS Tools",
+        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_dns_tools"
       }
     ]
   },
@@ -544,7 +578,7 @@
     "subsubsection": null,
     "title": "Pi-Hole",
     "url": "https://pi-hole.net/",
-    "description": "Self-Hosted DNS Adblocking / / /",
+    "description": "Self-Hosted DNS Adblocking / / / / Linux, Docker",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -574,7 +608,7 @@
     "subsubsection": null,
     "title": "Filters",
     "url": "https://firebog.net/",
-    "description": ", / / (root)",
+    "description": ", / / (root) / Windows, Android",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -604,7 +638,7 @@
     "subsubsection": null,
     "title": "AdGuard Home",
     "url": "https://adguard.com/en/adguard-home/overview.html",
-    "description": "Self-Hosted DNS Adblocking / / / / /",
+    "description": "Self-Hosted DNS Adblocking / / / / / Windows, macOS, Linux",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -612,10 +646,6 @@
       {
         "text": "AdGuard Home",
         "url": "https://adguard.com/en/adguard-home/overview.html"
-      },
-      {
-        "text": "Balena-AdGuard",
-        "url": "https://github.com/klutchell/balena-adguard"
       },
       {
         "text": "X",
@@ -640,24 +670,20 @@
     "section": "Adblocking",
     "subsection": "DNS Adblocking",
     "subsubsection": null,
-    "title": "DNS Speed Test",
-    "url": "https://dnsspeedtest.online/",
-    "description": "or - DNS Speed Tests",
-    "starred": false,
+    "title": "DNSveil",
+    "url": "https://msasanmh.github.io/DNSveil/",
+    "description": "DNSCrypt, DoH & DoT Client / Windows /",
+    "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "DNS Speed Test",
-        "url": "https://dnsspeedtest.online/"
+        "text": "DNSveil",
+        "url": "https://msasanmh.github.io/DNSveil/"
       },
       {
         "text": "GitHub",
-        "url": "https://github.com/BrainicHQ/DoHSpeedTest"
-      },
-      {
-        "text": "DNS Perf",
-        "url": "https://dnsperf.com/dns-speed-benchmark"
+        "url": "https://github.com/msasanmh/DNSveil"
       }
     ]
   },
@@ -666,46 +692,24 @@
     "section": "Adblocking",
     "subsection": "DNS Adblocking",
     "subsubsection": null,
-    "title": "Tiarap",
-    "url": "https://doh.tiar.app/",
-    "description": "DNS Adblocking /",
+    "title": "DNSTT.XYZ",
+    "url": "https://dnstt.xyz/",
+    "description": "DNS Tunnel Client / / / Windows, Linux, Android",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Tiarap",
-        "url": "https://doh.tiar.app/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/pengelana/blocklist"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
-    "title": "Rethink DNS",
-    "url": "https://rethinkdns.com/configure",
-    "description": "DNS Adblocking / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Rethink DNS",
-        "url": "https://rethinkdns.com/configure"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://www.reddit.com/r/rethinkdns/"
+        "text": "DNSTT.XYZ",
+        "url": "https://dnstt.xyz/"
       },
       {
         "text": "Telegram",
-        "url": "https://t.me/rethinkdns"
+        "url": "https://t.me/dnstt_xyz"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
       }
     ]
   },
@@ -716,7 +720,7 @@
     "subsubsection": null,
     "title": "Blocky",
     "url": "https://0xerr0r.github.io/blocky/latest/",
-    "description": "DNS Adblocking /",
+    "description": "DNS Adblocking / / Linux, Docker",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -736,9 +740,57 @@
     "section": "Adblocking",
     "subsection": "DNS Adblocking",
     "subsubsection": null,
+    "title": "Technitium",
+    "url": "https://technitium.com/dns",
+    "description": "Self-Hosted DNS Server / / / Windows, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Technitium",
+        "url": "https://technitium.com/dns"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://reddit.com/r/technitium/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/TechnitiumSoftware/DnsServer"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Adblocking",
+    "subsubsection": null,
+    "title": "Unbound",
+    "url": "https://www.nlnetlabs.nl/projects/unbound/",
+    "description": "Self-Hosted, Validating, Recursive, Caching Resolver /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Unbound",
+        "url": "https://www.nlnetlabs.nl/projects/unbound/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/NLnetLabs/unbound"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Adblocking",
+    "subsubsection": null,
     "title": "AdGuard DNS",
     "url": "https://adguard-dns.io/",
-    "description": "Customizable DNS Adblocking Service / / /",
+    "description": "Customizable DNS Adblocking Service / / / / /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -746,6 +798,10 @@
       {
         "text": "AdGuard DNS",
         "url": "https://adguard-dns.io/"
+      },
+      {
+        "text": "Public DNS",
+        "url": "https://adguard-dns.io/en/public-dns.html"
       },
       {
         "text": "X",
@@ -758,6 +814,10 @@
       {
         "text": "Telegram",
         "url": "https://t.me/adguarden"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/AdguardTeam/AdguardSDNSFilter"
       }
     ]
   },
@@ -796,31 +856,9 @@
     "section": "Adblocking",
     "subsection": "DNS Adblocking",
     "subsubsection": null,
-    "title": "LibreDNS",
-    "url": "https://libredns.gr/",
-    "description": "DNS Adblocking /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "LibreDNS",
-        "url": "https://libredns.gr/"
-      },
-      {
-        "text": "GitLab",
-        "url": "https://gitlab.com/libreops/libredns"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
     "title": "NextDNS",
     "url": "https://nextdns.io",
-    "description": "Customizable DNS Adblocking Service / /",
+    "description": "Customizable DNS Adblocking Service / / /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -828,6 +866,10 @@
       {
         "text": "NextDNS",
         "url": "https://nextdns.io"
+      },
+      {
+        "text": "Provider Info",
+        "url": "https://adguard-dns.io/kb/general/dns-providers/#nextdns"
       },
       {
         "text": "Guide",
@@ -842,318 +884,222 @@
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Adblocking",
+    "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "NxFilter",
-    "url": "https://nxfilter.org/",
-    "description": "Self-Hosted Customizable DNS Adblocking /",
+    "title": "DNS Providers",
+    "url": "https://adguard-dns.io/kb/general/dns-providers/",
+    "description": "DNS Provider Index",
     "starred": false,
-    "third_party_index": false,
+    "third_party_index": true,
     "section_link": false,
     "all_links": [
       {
-        "text": "NxFilter",
-        "url": "https://nxfilter.org/"
+        "text": "DNS Providers",
+        "url": "https://adguard-dns.io/kb/general/dns-providers/"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "Public DNS indexes",
+    "url": "https://www.publicdns.xyz/",
+    "description": null,
+    "starred": false,
+    "third_party_index": true,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Public DNS indexes",
+        "url": "https://www.publicdns.xyz/"
       },
       {
-        "text": "Subreddit",
-        "url": "https://reddit.com/r/nxfilter"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
-    "title": "TBlock",
-    "url": "https://tblock.me/",
-    "description": "DNS Adblocking Client /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "TBlock",
-        "url": "https://tblock.me/"
+        "text": "2",
+        "url": "https://acavalin.com/p/free_dns"
       },
       {
-        "text": "Source Code",
-        "url": "https://codeberg.org/tblock/tblock"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
-    "title": "YogaDNS",
-    "url": "https://yogadns.com/",
-    "description": "Custom DNS Client for Windows",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "YogaDNS",
-        "url": "https://yogadns.com/"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
-    "title": "Diversion",
-    "url": "https://diversion.ch/",
-    "description": "Asuswrt-Merlin Router Adblock Manager",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Diversion",
-        "url": "https://diversion.ch/"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Adblocking",
-    "subsubsection": null,
-    "title": "Technitium",
-    "url": "https://technitium.com/dns",
-    "description": "Self-Hosted DNS Server / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Technitium",
-        "url": "https://technitium.com/dns"
+        "text": "3",
+        "url": "https://publicdnsserver.com/"
       },
       {
-        "text": "Subreddit",
-        "url": "https://reddit.com/r/technitium/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/TechnitiumSoftware/DnsServer"
+        "text": "4",
+        "url": "https://public-dns.info/"
       }
     ]
   },
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Filters",
+    "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "HaGeZi Blocklists",
-    "url": "https://github.com/hagezi/dns-blocklists",
-    "description": ", / - Multi-Source Domain Blocklist / Use Full Edition /",
+    "title": "Cloudflare 1.1.1.1",
+    "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
+    "description": null,
     "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "HaGeZi Blocklists",
-        "url": "https://github.com/hagezi/dns-blocklists"
+        "text": "Cloudflare 1.1.1.1",
+        "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/"
       },
       {
-        "text": "2",
-        "url": "https://gitlab.com/hagezi/mirror"
-      },
-      {
-        "text": "Host Format",
-        "url": "https://github.com/hagezi/dns-blocklists-legacy"
-      },
-      {
-        "text": "Note",
-        "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md"
+        "text": "DNS",
+        "url": "https://www.cloudflare.com/products/dns/"
       }
     ]
   },
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Filters",
+    "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "OISD",
-    "url": "https://oisd.nl/",
-    "description": "Multi-Source Domain Blocklist /",
+    "title": "Quad9",
+    "url": "https://quad9.net/",
+    "description": "Malware, Phishing, Spyware & Botnet DNS Protection /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "OISD",
-        "url": "https://oisd.nl/"
+        "text": "Quad9",
+        "url": "https://quad9.net/"
       },
       {
         "text": "GitHub",
-        "url": "https://github.com/sjhgvr/oisd"
+        "url": "https://github.com/quad9dns"
       }
     ]
   },
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Filters",
+    "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "hBlock",
-    "url": "https://github.com/hectorm/hblock",
-    "description": null,
+    "title": "Artemis",
+    "url": "https://dns.fuzzing.uk/",
+    "description": "Piracy Site DNS Resolver /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "hBlock",
-        "url": "https://github.com/hectorm/hblock"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "StevenBlack Hosts",
-    "url": "https://github.com/StevenBlack/hosts",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "StevenBlack Hosts",
-        "url": "https://github.com/StevenBlack/hosts"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "Spamhaus",
-    "url": "https://www.spamhaus.org/blocklists/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Spamhaus",
-        "url": "https://www.spamhaus.org/blocklists/"
-      },
-      {
-        "text": "X",
-        "url": "https://x.com/spamhaus"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "black-mirror",
-    "url": "https://github.com/T145/black-mirror",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "black-mirror",
-        "url": "https://github.com/T145/black-mirror"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "Scam Blocklist",
-    "url": "https://github.com/durablenapkin/scamblocklist",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Scam Blocklist",
-        "url": "https://github.com/durablenapkin/scamblocklist"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "neodevhost",
-    "url": "https://github.com/neodevpro/neodevhost",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "neodevhost",
-        "url": "https://github.com/neodevpro/neodevhost"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Adblocking",
-    "subsection": "DNS Filters",
-    "subsubsection": null,
-    "title": "1Hosts",
-    "url": "https://o0.pages.dev/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "1Hosts",
-        "url": "https://o0.pages.dev/"
-      },
-      {
-        "text": "2",
-        "url": "https://badmojr.github.io/1Hosts/"
+        "text": "Artemis",
+        "url": "https://dns.fuzzing.uk/"
       },
       {
         "text": "GitHub",
-        "url": "https://github.com/badmojr/1Hosts"
+        "url": "https://github.com/PUT-Request/Artemis/"
       }
     ]
   },
   {
     "page": "Adblock",
     "section": "Adblocking",
-    "subsection": "DNS Filters",
+    "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "Phishing Army",
-    "url": "https://phishing.army/",
-    "description": "DNS Phishing Blocklist /",
+    "title": "DNSBunker",
+    "url": "https://dnsbunker.org/",
+    "description": "Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Phishing Army",
-        "url": "https://phishing.army/"
-      },
+        "text": "DNSBunker",
+        "url": "https://dnsbunker.org/"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "HaGeZi DNS",
+    "url": "https://github.com/hagezi/dns-servers",
+    "description": "Free, Non-Commercial EU DNS Servers",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
       {
-        "text": "X",
-        "url": "https://x.com/PhishingArmy"
+        "text": "HaGeZi DNS",
+        "url": "https://github.com/hagezi/dns-servers"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "DNS for Family",
+    "url": "https://dnsforfamily.com/",
+    "description": "Family Filtering with Safe Search & Malware Protection",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "DNS for Family",
+        "url": "https://dnsforfamily.com/"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "DNS Forge",
+    "url": "https://dnsforge.de/",
+    "description": "German DNS Servers with Four Filtering Levels",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "DNS Forge",
+        "url": "https://dnsforge.de/"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "LibreDNS",
+    "url": "https://libredns.gr/",
+    "description": "DNS Adblocking",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "LibreDNS",
+        "url": "https://libredns.gr/"
+      }
+    ]
+  },
+  {
+    "page": "Adblock",
+    "section": "Adblocking",
+    "subsection": "DNS Providers",
+    "subsubsection": null,
+    "title": "dns.sb",
+    "url": "https://dns.sb/",
+    "description": "Free, Fast & No-Log Public DNS Resolver",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "dns.sb",
+        "url": "https://dns.sb/"
       }
     ]
   },
@@ -7394,28 +7340,6 @@
     "section": "Proxy",
     "subsection": "Anti Censorship",
     "subsubsection": null,
-    "title": "DNSveil",
-    "url": "https://msasanmh.github.io/DNSveil/",
-    "description": "DNS Client /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DNSveil",
-        "url": "https://msasanmh.github.io/DNSveil/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/msasanmh/DNSveil"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Proxy",
-    "subsection": "Anti Censorship",
-    "subsubsection": null,
     "title": "⁠Geph",
     "url": "https://geph.io/",
     "description": "Anti-Censorship Proxy /",
@@ -7430,64 +7354,6 @@
       {
         "text": "GitHub",
         "url": "https://github.com/geph-official"
-      }
-    ]
-  },
-  {
-    "page": "Adblock",
-    "section": "Proxy",
-    "subsection": "Anti Censorship",
-    "subsubsection": null,
-    "title": "DNSTT.XYZ",
-    "url": "https://dnstt.xyz/",
-    "description": ", , , , / / , or - Mobile DNS Tunnels / Censorship Bypass",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DNSTT.XYZ",
-        "url": "https://dnstt.xyz/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/dnstt_xyz"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/dnstt-xyz/dnstt_xyz_app"
-      },
-      {
-        "text": "⁠HTTP Injector",
-        "url": "https://play.google.com/store/apps/details?id=com.evozi.injector"
-      },
-      {
-        "text": "⁠HTTP Custom",
-        "url": "https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom"
-      },
-      {
-        "text": "⁠NetMod VPN",
-        "url": "https://play.google.com/store/apps/details?id=com.netmod.syna"
-      },
-      {
-        "text": "SlipNet",
-        "url": "https://github.com/anonvector/SlipNet"
-      },
-      {
-        "text": "Troubleshooting",
-        "url": "https://t.me/SlipNet_app"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/slipnet_chat"
-      },
-      {
-        "text": "⁠WhiteDNS",
-        "url": "https://github.com/iampedii/WhiteDNS"
-      },
-      {
-        "text": "DarkTunnel",
-        "url": "https://play.google.com/store/apps/details?id=net.darktunnel.app"
       }
     ]
   },
@@ -7516,7 +7382,7 @@
     "subsubsection": null,
     "title": "ByeByeDPI",
     "url": "https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md",
-    "description": ", , , or - Network Packet Alter / Packet Level Proxies",
+    "description": ", , or - Network Packet Alter / Packet Level Proxies",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -7524,10 +7390,6 @@
       {
         "text": "ByeByeDPI",
         "url": "https://github.com/romanvht/ByeByeDPI/blob/master/README-en.md"
-      },
-      {
-        "text": "Rethink DNS",
-        "url": "https://rethinkdns.com/app"
       },
       {
         "text": "⁠Paqet",
@@ -10260,25 +10122,13 @@
     "section": "AI Chatbots",
     "subsection": "Roleplaying Chatbots",
     "subsubsection": null,
-    "title": "AI Dungeon",
-    "url": "https://aidungeon.com/",
-    "description": ", or / - Roleplaying + Story Chatbot / No Sign-Up",
+    "title": "Spellbound",
+    "url": "https://www.tryspellbound.com/",
+    "description": "or / - Roleplaying + Story Chatbot / No Sign-Up",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
-      {
-        "text": "AI Dungeon",
-        "url": "https://aidungeon.com/"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://www.reddit.com/r/AIDungeon/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/HB2YBZYjyf"
-      },
       {
         "text": "Spellbound",
         "url": "https://www.tryspellbound.com/"
@@ -52294,6 +52144,10 @@
         "url": "https://github.com/hiz0147/HizSteamButton"
       },
       {
+        "text": "Discord",
+        "url": "https://discord.gg/QFnktdhedT"
+      },
+      {
         "text": "Virgil Game Search",
         "url": "https://virgil.samidy.com/?engine=games"
       },
@@ -58448,7 +58302,7 @@
     "section": "Emulation / ROMs",
     "subsection": "Nintendo ROMs",
     "subsubsection": null,
-    "title": "NXbrew",
+    "title": "NXBrew",
     "url": "https://nxbrew.net/",
     "description": "ROMs / Switch 2 / Switch",
     "starred": false,
@@ -58456,7 +58310,7 @@
     "section_link": false,
     "all_links": [
       {
-        "text": "NXbrew",
+        "text": "NXBrew",
         "url": "https://nxbrew.net/"
       }
     ]
@@ -67280,6 +67134,32 @@
       {
         "text": "TextAventures",
         "url": "https://textadventures.co.uk/"
+      }
+    ]
+  },
+  {
+    "page": "Gaming",
+    "section": "Browser Games",
+    "subsection": "Text Adventures",
+    "subsubsection": null,
+    "title": "AI Dungeon",
+    "url": "https://aidungeon.com/",
+    "description": "Open World Text RPG / / ,",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "AI Dungeon",
+        "url": "https://aidungeon.com/"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/AIDungeon/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/HB2YBZYjyf"
       }
     ]
   },
@@ -121314,7 +121194,7 @@
     "subsubsection": null,
     "title": "piko (Instagram)",
     "url": "https://github.com/crimera/piko",
-    "description": ", / / or / - Modded Instagram Clients /",
+    "description": ", / / , or / - Modded Instagram Clients /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -121342,6 +121222,10 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/HqkMnY3yX5"
+      },
+      {
+        "text": "HushGram",
+        "url": "https://github.com/SysAdminDoc/HushGram"
       },
       {
         "text": "⁠Instafel",
@@ -125380,7 +125264,7 @@
     "subsubsection": null,
     "title": "Unified Remote",
     "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks",
-    "description": "(search), or - Control PC with App",
+    "description": "(search), or - Phone / PC Controllers + Connectors",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -126494,6 +126378,52 @@
       {
         "text": "PrivateDNSAndroid",
         "url": "https://github.com/karasevm/PrivateDNSAndroid"
+      }
+    ]
+  },
+  {
+    "page": "Mobile",
+    "section": "Android Tools",
+    "subsection": "Android Adblocking",
+    "subsubsection": null,
+    "title": "⁠HTTP Injector",
+    "url": "https://play.google.com/store/apps/details?id=com.evozi.injector",
+    "description": ", , , / / , or - Mobile DNS Tunnels / Censorship Bypass",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠HTTP Injector",
+        "url": "https://play.google.com/store/apps/details?id=com.evozi.injector"
+      },
+      {
+        "text": "⁠HTTP Custom",
+        "url": "https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom"
+      },
+      {
+        "text": "⁠NetMod VPN",
+        "url": "https://play.google.com/store/apps/details?id=com.netmod.syna"
+      },
+      {
+        "text": "SlipNet",
+        "url": "https://github.com/anonvector/SlipNet"
+      },
+      {
+        "text": "Troubleshooting",
+        "url": "https://t.me/SlipNet_app"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/slipnet_chat"
+      },
+      {
+        "text": "⁠WhiteDNS",
+        "url": "https://github.com/iampedii/WhiteDNS"
+      },
+      {
+        "text": "DarkTunnel",
+        "url": "https://play.google.com/store/apps/details?id=net.darktunnel.app"
       }
     ]
   },
@@ -133516,7 +133446,7 @@
     "subsubsection": null,
     "title": "Metrolist",
     "url": "https://metrolist.meowery.eu/",
-    "description": "YouTube Music Player / / /",
+    "description": "YouTube Music Player / / / /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -133524,6 +133454,10 @@
       {
         "text": "Metrolist",
         "url": "https://metrolist.meowery.eu/"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/metrolist/"
       },
       {
         "text": "Telegram",
@@ -139722,7 +139656,7 @@
     "subsubsection": null,
     "title": "DNSecure",
     "url": "https://apps.apple.com/en/app/dnsecure/id1533413232",
-    "description": "Encrypted DNS / /",
+    "description": "Encrypted DNS /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -139730,10 +139664,6 @@
       {
         "text": "DNSecure",
         "url": "https://apps.apple.com/en/app/dnsecure/id1533413232"
-      },
-      {
-        "text": "TestFlight",
-        "url": "https://testflight.apple.com/join/A8GwCnq8"
       },
       {
         "text": "GitHub",
@@ -141221,7 +141151,7 @@
       },
       {
         "text": "Modules",
-        "url": "https://8spine-modules.vercel.app/"
+        "url": "https://8spine-moduels.pages.dev/"
       }
     ]
   },
@@ -167612,6 +167542,24 @@
     "section": "French / Français",
     "subsection": "Streaming",
     "subsubsection": null,
+    "title": "⁠FlixVison",
+    "url": "https://flixvision.xyz/",
+    "description": "Movies / TV / Anime",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠FlixVison",
+        "url": "https://flixvision.xyz/"
+      }
+    ]
+  },
+  {
+    "page": "Non-Eng",
+    "section": "French / Français",
+    "subsection": "Streaming",
+    "subsubsection": null,
     "title": "OpenFlix",
     "url": "https://openflix.pro/",
     "description": "Movies / TV / Anime",
@@ -167650,7 +167598,7 @@
     "subsubsection": null,
     "title": "French Stream",
     "url": "https://fs27.lol/",
-    "description": "Movies / TV / Anime /",
+    "description": ", - Movies / TV / Anime /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -167658,6 +167606,10 @@
       {
         "text": "French Stream",
         "url": "https://fs27.lol/"
+      },
+      {
+        "text": "2",
+        "url": "https://fsurl.top/"
       },
       {
         "text": "Status",
@@ -167718,26 +167670,8 @@
     "section": "French / Français",
     "subsection": "Streaming",
     "subsubsection": null,
-    "title": "dulourd",
-    "url": "https://www.dulourd.boo/",
-    "description": "Movies / TV",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "dulourd",
-        "url": "https://www.dulourd.boo/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "French / Français",
-    "subsection": "Streaming",
-    "subsubsection": null,
     "title": "frembed",
-    "url": "https://frembed.surf/",
+    "url": "https://frembed.uno/",
     "description": "Movies / TV / Anime / Dub",
     "starred": false,
     "third_party_index": false,
@@ -167745,7 +167679,7 @@
     "all_links": [
       {
         "text": "frembed",
-        "url": "https://frembed.surf/"
+        "url": "https://frembed.uno/"
       }
     ]
   },
@@ -167872,24 +167806,6 @@
       {
         "text": "myfluneo",
         "url": "https://myfluneo.eu/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "French / Français",
-    "subsection": "Streaming",
-    "subsubsection": null,
-    "title": "⁠FlixVison",
-    "url": "https://flixvision.xyz/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠FlixVison",
-        "url": "https://flixvision.xyz/"
       }
     ]
   },
@@ -171762,6 +171678,24 @@
     "section": "Indian Languages",
     "subsection": "Streaming",
     "subsubsection": null,
+    "title": "UniqueStream",
+    "url": "https://uniquestream.net/",
+    "description": "Movies / TV / Anime / 720p",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "UniqueStream",
+        "url": "https://uniquestream.net/"
+      }
+    ]
+  },
+  {
+    "page": "Non-Eng",
+    "section": "Indian Languages",
+    "subsection": "Streaming",
+    "subsubsection": null,
     "title": "Screenscape",
     "url": "https://screenscape.me/",
     "description": "Movies / TV / Anime",
@@ -173015,7 +172949,7 @@
     "subsection": "Streaming",
     "subsubsection": null,
     "title": "StreamingUnity",
-    "url": "https://streamingunity.win/it",
+    "url": "https://streamingunity.fun/it",
     "description": "Movies / TV / Anime",
     "starred": false,
     "third_party_index": false,
@@ -173023,7 +172957,7 @@
     "all_links": [
       {
         "text": "StreamingUnity",
-        "url": "https://streamingunity.win/it"
+        "url": "https://streamingunity.fun/it"
       }
     ]
   },
@@ -174902,7 +174836,7 @@
     "subsubsection": null,
     "title": "OnDemandKorean",
     "url": "https://www.ondemandkorea.com/",
-    "description": "Korean Movies / TV / 720p",
+    "description": "Movies / TV / 720p",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -174910,6 +174844,24 @@
       {
         "text": "OnDemandKorean",
         "url": "https://www.ondemandkorea.com/"
+      }
+    ]
+  },
+  {
+    "page": "Non-Eng",
+    "section": "Korean / 한국어",
+    "subsection": "Streaming",
+    "subsubsection": null,
+    "title": "UniqueStream",
+    "url": "https://uniquestream.net/",
+    "description": "Movies / TV / Anime / 720p",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "UniqueStream",
+        "url": "https://uniquestream.net/"
       }
     ]
   },
@@ -194432,42 +194384,6 @@
     "section": "Visual Media",
     "subsection": "Manga",
     "subsubsection": null,
-    "title": "Manga Readers / Managers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": true,
-    "all_links": [
-      {
-        "text": "Manga Readers / Managers",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers"
-      }
-    ]
-  },
-  {
-    "page": "Reading",
-    "section": "Visual Media",
-    "subsection": "Manga",
-    "subsubsection": null,
-    "title": "Manga Downloaders",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": true,
-    "all_links": [
-      {
-        "text": "Manga Downloaders",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders"
-      }
-    ]
-  },
-  {
-    "page": "Reading",
-    "section": "Visual Media",
-    "subsection": "Manga",
-    "subsubsection": null,
     "title": "Kagane",
     "url": "https://kagane.org/",
     "description": null,
@@ -195388,11 +195304,157 @@
   {
     "page": "Reading",
     "section": "Visual Media",
-    "subsection": "Manga",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Android Readers",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga",
+    "description": null,
+    "starred": false,
+    "third_party_index": false,
+    "section_link": true,
+    "all_links": [
+      {
+        "text": "Android Readers",
+        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga"
+      },
+      {
+        "text": "iOS Readers",
+        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Suwayomi",
+    "url": "https://github.com/Suwayomi",
+    "description": "Manga Reader / , /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Suwayomi",
+        "url": "https://github.com/Suwayomi"
+      },
+      {
+        "text": "Extensions",
+        "url": "https://keiyoushi.github.io/"
+      },
+      {
+        "text": "2",
+        "url": "https://discord.gg/3FbCpdKbdY"
+      },
+      {
+        "text": "Desktop",
+        "url": "https://github.com/Suwayomi/Suwayomi-Server"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "AllMangasReader",
+    "url": "https://allmangasreader.com/",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "AllMangasReader",
+        "url": "https://allmangasreader.com/"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Houdoku",
+    "url": "https://houdoku.org/",
+    "description": "Manga Reader /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Houdoku",
+        "url": "https://houdoku.org/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/xgi/houdoku"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Adolla",
+    "url": "https://github.com/AdollaApp/Adolla",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Adolla",
+        "url": "https://github.com/AdollaApp/Adolla"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "OpenComic",
+    "url": "https://github.com/ollm/OpenComic",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "OpenComic",
+        "url": "https://github.com/ollm/OpenComic"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Manga-Organizer",
+    "url": "https://gitgud.io/Nagru/Manga-Organizer",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Manga-Organizer",
+        "url": "https://gitgud.io/Nagru/Manga-Organizer"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
     "subsubsection": null,
     "title": "PlayTorrio",
     "url": "https://playtorrio.xyz/",
-    "description": ", - Manga App / Windows, macOS, Linux, Android, iOS / /",
+    "description": ", - Manga Reader / /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -195418,47 +195480,113 @@
   {
     "page": "Reading",
     "section": "Visual Media",
-    "subsection": "Manga",
+    "subsection": "Manga Readers / Tools",
     "subsubsection": null,
-    "title": "Seanime",
-    "url": "https://seanime.app/",
-    "description": "Self-Hosted Manga App /",
+    "title": "MangaOnlineViewer",
+    "url": "https://github.com/TagoDR/MangaOnlineViewer",
+    "description": "Manga Reader",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Seanime",
-        "url": "https://seanime.app/"
+        "text": "MangaOnlineViewer",
+        "url": "https://github.com/TagoDR/MangaOnlineViewer"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "LANraragi",
+    "url": "https://github.com/Difegue/LANraragi",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "LANraragi",
+        "url": "https://github.com/Difegue/LANraragi"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Unyo",
+    "url": "https://github.com/K3vinb5/Unyo",
+    "description": "Manga Reader",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Unyo",
+        "url": "https://github.com/K3vinb5/Unyo"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Manga-Manager",
+    "url": "https://github.com/MangaManagerORG/Manga-Manager",
+    "description": "Manga Manager",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Manga-Manager",
+        "url": "https://github.com/MangaManagerORG/Manga-Manager"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Comics Downloader",
+    "url": "https://github.com/Girbons/comics-downloader",
+    "description": ", , , or - Manga Download Tools",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Comics Downloader",
+        "url": "https://github.com/Girbons/comics-downloader"
       },
       {
-        "text": "Discord",
-        "url": "https://discord.com/invite/3AuhRGqUqh"
-      }
-    ]
-  },
-  {
-    "page": "Reading",
-    "section": "Visual Media",
-    "subsection": "Manga",
-    "subsubsection": null,
-    "title": "Webcomic Reader",
-    "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader",
-    "description": "Preloads Images, Remembers Progress and Keyboard Support",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
+        "text": "work_crawler",
+        "url": "https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md"
+      },
       {
-        "text": "Webcomic Reader",
-        "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader"
+        "text": "HDoujinDownloader",
+        "url": "https://github.com/HDoujinDownloader/HDoujinDownloader"
+      },
+      {
+        "text": "FMD2",
+        "url": "https://github.com/dazedcat19/FMD2"
+      },
+      {
+        "text": "anime-dl",
+        "url": "https://github.com/vrienstudios/anime-dl"
       }
     ]
   },
   {
     "page": "Reading",
     "section": "Visual Media",
-    "subsection": "Manga",
+    "subsection": "Manga Readers / Tools",
     "subsubsection": null,
     "title": "BallonsTranslator",
     "url": "https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md",
@@ -195492,18 +195620,60 @@
   {
     "page": "Reading",
     "section": "Visual Media",
-    "subsection": "Manga",
+    "subsection": "Manga Readers / Tools",
     "subsubsection": null,
-    "title": "Manga-Manager",
-    "url": "https://github.com/MangaManagerORG/Manga-Manager",
-    "description": "Manga Managers",
+    "title": "Seanime",
+    "url": "https://seanime.app/",
+    "description": ", , / / or - Self-Hosted Manga Readers",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Manga-Manager",
-        "url": "https://github.com/MangaManagerORG/Manga-Manager"
+        "text": "Seanime",
+        "url": "https://seanime.app/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/3AuhRGqUqh"
+      },
+      {
+        "text": "KavitaReader",
+        "url": "https://www.kavitareader.com/"
+      },
+      {
+        "text": "Komga",
+        "url": "https://komga.org/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/gotson/komga"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/TdRpkDu"
+      },
+      {
+        "text": "atsumeru",
+        "url": "https://atsumeru.xyz/"
+      }
+    ]
+  },
+  {
+    "page": "Reading",
+    "section": "Visual Media",
+    "subsection": "Manga Readers / Tools",
+    "subsubsection": null,
+    "title": "Webcomic Reader",
+    "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader",
+    "description": "Preloads Images, Remembers Progress and Keyboard Support",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Webcomic Reader",
+        "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader"
       }
     ]
   },
@@ -205114,126 +205284,6 @@
   {
     "page": "Storage",
     "section": null,
-    "subsection": "Dynamic DNS Services / Subdomains",
-    "subsubsection": null,
-    "title": "Cloudflare DNS",
-    "url": "https://www.cloudflare.com/products/dns/",
-    "description": null,
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Cloudflare DNS",
-        "url": "https://www.cloudflare.com/products/dns/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Dynamic DNS Services / Subdomains",
-    "subsubsection": null,
-    "title": "deSEC",
-    "url": "https://desec.io/",
-    "description": null,
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "deSEC",
-        "url": "https://desec.io/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Dynamic DNS Services / Subdomains",
-    "subsubsection": null,
-    "title": "DuckDNS",
-    "url": "https://www.duckdns.org/",
-    "description": ", , / , , , /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DuckDNS",
-        "url": "https://www.duckdns.org/"
-      },
-      {
-        "text": "ClouDNS",
-        "url": "https://www.cloudns.net/"
-      },
-      {
-        "text": "FreeDNS",
-        "url": "https://freedns.afraid.org/"
-      },
-      {
-        "text": "Warning",
-        "url": "https://freedns.afraid.org/queue/explanation.php"
-      },
-      {
-        "text": "dynu",
-        "url": "https://dynu.com/"
-      },
-      {
-        "text": "myaddr",
-        "url": "https://myaddr.tools/"
-      },
-      {
-        "text": "nsupdate",
-        "url": "https://www.nsupdate.info/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/nsupdate-info/nsupdate.info"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Dynamic DNS Services / Subdomains",
-    "subsubsection": "Subdomains Services",
-    "title": "DigitalPlat",
-    "url": "https://domain.digitalplat.org/",
-    "description": ", , , ,",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DigitalPlat",
-        "url": "https://domain.digitalplat.org/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/DigitalPlatDev/FreeDomain"
-      },
-      {
-        "text": "is-a.dev",
-        "url": "https://www.is-a.dev/"
-      },
-      {
-        "text": "JS.ORG",
-        "url": "https://js.org/"
-      },
-      {
-        "text": "TheDev",
-        "url": "https://upset.dev/"
-      },
-      {
-        "text": "GetFreeDomain",
-        "url": "https://www.getfreedomain.name/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
     "subsection": "EmulatorJS / NeptunJS",
     "subsubsection": null,
     "title": "RetroGames.cc",
@@ -205498,364 +205548,6 @@
       {
         "text": "NeoGeoFun",
         "url": "https://www.neogeofun.com/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Public DNS indexes",
-    "url": "https://www.publicdns.xyz/",
-    "description": null,
-    "starred": false,
-    "third_party_index": true,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Public DNS indexes",
-        "url": "https://www.publicdns.xyz/"
-      },
-      {
-        "text": "2",
-        "url": "https://acavalin.com/p/free_dns"
-      },
-      {
-        "text": "3",
-        "url": "https://publicdnsserver.com/"
-      },
-      {
-        "text": "4",
-        "url": "https://public-dns.info/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Cloudflare 1.1.1.1",
-    "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/",
-    "description": null,
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Cloudflare 1.1.1.1",
-        "url": "https://developers.cloudflare.com/1.1.1.1/ip-addresses/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Quad9",
-    "url": "https://quad9.net/",
-    "description": "Malware, Phishing, Spyware & Botnet DNS Protection /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Quad9",
-        "url": "https://quad9.net/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/Quad9DNS"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Artemis",
-    "url": "https://dns.fuzzing.uk/",
-    "description": "Piracy Site DNS Resolver /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Artemis",
-        "url": "https://dns.fuzzing.uk/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/PUT-Request/Artemis/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Unbound",
-    "url": "https://www.nlnetlabs.nl/projects/unbound/",
-    "description": "Self-Hosted, Validating, Recursive, Caching Resolver /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Unbound",
-        "url": "https://www.nlnetlabs.nl/projects/unbound/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/NLnetLabs/unbound"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Control D",
-    "url": "https://controld.com/free-dns",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Control D",
-        "url": "https://controld.com/free-dns"
-      },
-      {
-        "text": "X",
-        "url": "https://x.com/controldns"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://reddit.com/r/ControlD/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/dns"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "NextDNS",
-    "url": "https://nextdns.io",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "NextDNS",
-        "url": "https://nextdns.io"
-      },
-      {
-        "text": "2",
-        "url": "https://adguard-dns.io/kb/general/dns-providers/#nextdns"
-      },
-      {
-        "text": "Guide",
-        "url": "https://github.com/yokoffing/NextDNS-Config"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Rethink DNS",
-    "url": "https://rethinkdns.com/configure",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Rethink DNS",
-        "url": "https://rethinkdns.com/configure"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "DNSBunker",
-    "url": "https://dnsbunker.org/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DNSBunker",
-        "url": "https://dnsbunker.org/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "HaGeZi DNS",
-    "url": "https://github.com/hagezi/dns-servers",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "HaGeZi DNS",
-        "url": "https://github.com/hagezi/dns-servers"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Bancuh",
-    "url": "https://bancuh.com/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Bancuh",
-        "url": "https://bancuh.com/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/ragibkl/adblock-dns-server"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "AdGuard",
-    "url": "https://adguard-dns.io/en/public-dns.html",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "AdGuard",
-        "url": "https://adguard-dns.io/en/public-dns.html"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/AdguardTeam/AdguardSDNSFilter"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "DNS for Family",
-    "url": "https://dnsforfamily.com/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DNS for Family",
-        "url": "https://dnsforfamily.com/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "DNS Forge",
-    "url": "https://dnsforge.de/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DNS Forge",
-        "url": "https://dnsforge.de/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "Hurricane Electric",
-    "url": "https://dns.he.net/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Hurricane Electric",
-        "url": "https://dns.he.net/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "UncensoredDNS",
-    "url": "https://blog.uncensoreddns.org/dns-servers/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "UncensoredDNS",
-        "url": "https://blog.uncensoreddns.org/dns-servers/"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Free DNS Resolvers",
-    "subsubsection": null,
-    "title": "dns.sb",
-    "url": "https://dns.sb/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "dns.sb",
-        "url": "https://dns.sb/"
       }
     ]
   },
@@ -207010,190 +206702,6 @@
       {
         "text": "Backup",
         "url": "https://redd.it/edwi9b"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Downloaders",
-    "subsubsection": null,
-    "title": "Comics Downloader",
-    "url": "https://github.com/Girbons/comics-downloader",
-    "description": ", , , ,",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Comics Downloader",
-        "url": "https://github.com/Girbons/comics-downloader"
-      },
-      {
-        "text": "work_crawler",
-        "url": "https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md"
-      },
-      {
-        "text": "HDoujinDownloader",
-        "url": "https://github.com/HDoujinDownloader/HDoujinDownloader"
-      },
-      {
-        "text": "FMD2",
-        "url": "https://github.com/dazedcat19/FMD2"
-      },
-      {
-        "text": "anime-dl",
-        "url": "https://github.com/vrienstudios/anime-dl"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Readers",
-    "subsubsection": null,
-    "title": "Android Readers",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": true,
-    "all_links": [
-      {
-        "text": "Android Readers",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga"
-      },
-      {
-        "text": "iOS Readers",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Readers",
-    "subsubsection": null,
-    "title": "Suwayomi",
-    "url": "https://github.com/Suwayomi",
-    "description": null,
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Suwayomi",
-        "url": "https://github.com/Suwayomi"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Readers",
-    "subsubsection": null,
-    "title": "Extensions",
-    "url": "https://keiyoushi.github.io/",
-    "description": ", /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Extensions",
-        "url": "https://keiyoushi.github.io/"
-      },
-      {
-        "text": "2",
-        "url": "https://discord.gg/3FbCpdKbdY"
-      },
-      {
-        "text": "Desktop Client",
-        "url": "https://github.com/Suwayomi/Suwayomi-Server"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Readers",
-    "subsubsection": null,
-    "title": "AllMangasReader",
-    "url": "https://allmangasreader.com/",
-    "description": ", / , , , , , ,",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "AllMangasReader",
-        "url": "https://allmangasreader.com/"
-      },
-      {
-        "text": "Houdoku",
-        "url": "https://houdoku.org/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/xgi/houdoku"
-      },
-      {
-        "text": "Adolla",
-        "url": "https://github.com/AdollaApp/Adolla"
-      },
-      {
-        "text": "OpenComic",
-        "url": "https://github.com/ollm/OpenComic"
-      },
-      {
-        "text": "Manga-Organizer",
-        "url": "https://gitgud.io/Nagru/Manga-Organizer"
-      },
-      {
-        "text": "MangaOnlineViewer",
-        "url": "https://github.com/TagoDR/MangaOnlineViewer"
-      },
-      {
-        "text": "LANraragi",
-        "url": "https://github.com/Difegue/LANraragi"
-      },
-      {
-        "text": "Unyo",
-        "url": "https://github.com/K3vinb5/Unyo"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Manga Readers",
-    "subsubsection": "Self-Hosted",
-    "title": "KavitaReader",
-    "url": "https://www.kavitareader.com/",
-    "description": ", / / ,",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "KavitaReader",
-        "url": "https://www.kavitareader.com/"
-      },
-      {
-        "text": "Komga",
-        "url": "https://komga.org/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/gotson/komga"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/TdRpkDu"
-      },
-      {
-        "text": "atsumeru",
-        "url": "https://atsumeru.xyz/"
       }
     ]
   },
@@ -209102,58 +208610,6 @@
   {
     "page": "Storage",
     "section": null,
-    "subsection": "Tab Managers",
-    "subsubsection": null,
-    "title": "Sidebery",
-    "url": "https://github.com/mbnuqw/sidebery",
-    "description": "or - Firefox",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Sidebery",
-        "url": "https://github.com/mbnuqw/sidebery"
-      },
-      {
-        "text": "Simple Tab Groups",
-        "url": "https://github.com/drive4ik/simple-tab-groups"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
-    "subsection": "Tab Managers",
-    "subsubsection": null,
-    "title": "Tab Stash",
-    "url": "https://josh-berry.github.io/tab-stash/",
-    "description": ", , ,",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Tab Stash",
-        "url": "https://josh-berry.github.io/tab-stash/"
-      },
-      {
-        "text": "⁠OneTab",
-        "url": "https://www.one-tab.com/"
-      },
-      {
-        "text": "One Tab Group",
-        "url": "https://www.tabdeck.so/"
-      },
-      {
-        "text": "TreeStyleTabs",
-        "url": "https://github.com/piroor/treestyletab"
-      }
-    ]
-  },
-  {
-    "page": "Storage",
-    "section": null,
     "subsection": "TypeScript Tools",
     "subsubsection": null,
     "title": "React TypeScript Cheatsheets",
@@ -209564,7 +209020,7 @@
     "subsubsection": null,
     "title": "7Movies",
     "url": "https://7movies.ac/",
-    "description": ", - Movies / TV / Anime / Auto-Next / /",
+    "description": ", - Movies / TV / Anime / 4k / Auto-Next / /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -210010,28 +209466,6 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
-    "title": "Movie Night",
-    "url": "https://movienig.ht/",
-    "description": "Movies / TV / Anime / Auto-Next /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Movie Night",
-        "url": "https://movienig.ht/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/kPJ2yJxYng"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
     "title": "Reelix",
     "url": "https://reelix.ac/",
     "description": "or - Movies / TV / Anime / Auto-Next",
@@ -210046,6 +209480,28 @@
       {
         "text": "Coreflix",
         "url": "https://coreflix.tv/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Stream Aggregators",
+    "subsubsection": null,
+    "title": "moanatv.",
+    "url": "https://lfmx.app/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "moanatv.",
+        "url": "https://lfmx.app/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/EPHJzCZEq"
       }
     ]
   },
@@ -210076,20 +209532,20 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
-    "title": "moanatv.",
-    "url": "https://lfmx.app/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K /",
+    "title": "Movie Night",
+    "url": "https://movienig.ht/",
+    "description": "Movies / TV / Anime / Auto-Next /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "moanatv.",
-        "url": "https://lfmx.app/"
+        "text": "Movie Night",
+        "url": "https://movienig.ht/"
       },
       {
         "text": "Discord",
-        "url": "https://discord.gg/EPHJzCZEq"
+        "url": "https://discord.com/invite/kPJ2yJxYng"
       }
     ]
   },
@@ -210216,6 +209672,28 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
+    "title": "Cinema (BZ)",
+    "url": "https://cinema.army/",
+    "description": "Movies / TV / Anime / Auto-Next /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Cinema (BZ)",
+        "url": "https://cinema.army/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/cinemabz"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Stream Aggregators",
+    "subsubsection": null,
     "title": "Zenox",
     "url": "https://zenox.lol/",
     "description": "Movies / TV / Anime / Auto-Next / 4K /",
@@ -210326,28 +209804,6 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/Dxq6bFv4FP"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
-    "title": "Cinema (BZ)",
-    "url": "https://cinema.army/",
-    "description": "Movies / TV / Anime / Auto-Next /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Cinema (BZ)",
-        "url": "https://cinema.army/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/cinemabz"
       }
     ]
   },
@@ -210618,50 +210074,6 @@
       {
         "text": "HiveX",
         "url": "https://hivex.stream/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
-    "title": "Overlook",
-    "url": "https://overlook.cx/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Overlook",
-        "url": "https://overlook.cx/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/rbe9DJNuhH"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
-    "title": "Cineapse",
-    "url": "https://www.cineapse.net/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Cineapse",
-        "url": "https://www.cineapse.net/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/5XzXsD9wnJ"
       }
     ]
   },
@@ -211324,28 +210736,6 @@
     "section": "Streaming Sites",
     "subsection": "Dedicated-Server",
     "subsubsection": null,
-    "title": "Cno",
-    "url": "https://cno.to/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Cno",
-        "url": "https://cno.to/"
-      },
-      {
-        "text": "Beta",
-        "url": "https://beta.cno.to/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Dedicated-Server",
-    "subsubsection": null,
     "title": "NEPU",
     "url": "https://nepu.io/",
     "description": ", , , - Movies / TV / Anime / Auto-Next / 4K / /",
@@ -211384,6 +210774,28 @@
     "section": "Streaming Sites",
     "subsection": "Dedicated-Server",
     "subsubsection": null,
+    "title": "Cno",
+    "url": "https://cno.to/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Cno",
+        "url": "https://cno.to/"
+      },
+      {
+        "text": "Beta",
+        "url": "https://beta.cno.to/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Dedicated-Server",
+    "subsubsection": null,
     "title": "PressPlay",
     "url": "https://pressplayx.to/",
     "description": "Movies / TV / Anime /",
@@ -211409,7 +210821,7 @@
     "title": "Q62",
     "url": "https://q62flix.ws/",
     "description": "Movies / TV",
-    "starred": true,
+    "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
@@ -211424,16 +210836,16 @@
     "section": "Streaming Sites",
     "subsection": "Dedicated-Server",
     "subsubsection": null,
-    "title": "Streaming Unity",
-    "url": "https://streamingunity.vip/",
-    "description": "Movies / TV / Anime",
+    "title": "StreamingUnity",
+    "url": "https://streamingunity.fun/",
+    "description": "Movies / TV / Anime / 720p",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Streaming Unity",
-        "url": "https://streamingunity.vip/"
+        "text": "StreamingUnity",
+        "url": "https://streamingunity.fun/"
       }
     ]
   },
@@ -211577,7 +210989,7 @@
     "subsection": "Dedicated-Server",
     "subsubsection": null,
     "title": "OnionPlay",
-    "url": "https://onionplay.st/",
+    "url": "https://onionplay.ae/",
     "description": "Movies / TV / Anime /",
     "starred": false,
     "third_party_index": false,
@@ -211585,7 +210997,7 @@
     "all_links": [
       {
         "text": "OnionPlay",
-        "url": "https://onionplay.st/"
+        "url": "https://onionplay.ae/"
       },
       {
         "text": "Discord",
@@ -211612,42 +211024,6 @@
       {
         "text": "Throwaway Gmail",
         "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Dedicated-Server",
-    "subsubsection": null,
-    "title": "UniqueStream",
-    "url": "https://uniquestream.net/",
-    "description": "Movies / TV / Anime / 720p",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "UniqueStream",
-        "url": "https://uniquestream.net/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Dedicated-Server",
-    "subsubsection": null,
-    "title": "BFLIX",
-    "url": "https://bbflix.one/",
-    "description": "Movies / TV",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "BFLIX",
-        "url": "https://bbflix.one/"
       }
     ]
   },
@@ -211746,7 +211122,7 @@
     "subsubsection": null,
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / 720p /",
+    "description": "Movies / TV /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -212017,14 +211393,18 @@
     "subsection": "Multi-Server",
     "subsubsection": null,
     "title": "AuroraScreen",
-    "url": "https://www.aurorascreen.org/",
-    "description": "Movies / TV / Anime / Auto-Next /",
+    "url": "https://www.aurorascreen.mov/",
+    "description": ", - Movies / TV / Anime / Auto-Next /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
         "text": "AuroraScreen",
+        "url": "https://www.aurorascreen.mov/"
+      },
+      {
+        "text": "2",
         "url": "https://www.aurorascreen.org/"
       },
       {
@@ -212176,8 +211556,8 @@
     "subsubsection": null,
     "title": "Primeshows",
     "url": "https://www.primeshows.org/",
-    "description": ", or , - Movies / TV / Anime /",
-    "starred": false,
+    "description": ", , - Movies / TV / Anime /",
+    "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
@@ -212186,15 +211566,11 @@
         "url": "https://www.primeshows.org/"
       },
       {
-        "text": "Zencine",
-        "url": "https://zencine.org/"
-      },
-      {
         "text": "NetShows",
         "url": "https://netshows.xyz/"
       },
       {
-        "text": "2",
+        "text": "YouShows",
         "url": "https://youshows.org/"
       },
       {
@@ -215044,36 +214420,6 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "Miruro",
-    "url": "https://miruro.cx",
-    "description": "or - Hard Subs / Soft Subs / Dub / Auto-Next / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Miruro",
-        "url": "https://miruro.cx"
-      },
-      {
-        "text": "AniVault",
-        "url": "https://anivault.tv/"
-      },
-      {
-        "text": "Status",
-        "url": "https://status.miruro.com/"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://www.reddit.com/r/miruro/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
     "title": "animepahe",
     "url": "https://animepahe.pw/",
     "description": "Hard Sub / Dub / Some NSFW / /",
@@ -215092,32 +214438,6 @@
       {
         "text": "Downloader",
         "url": "https://github.com/KevCui/animepahe-dl"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
-    "title": "MKissa",
-    "url": "https://mkissa.to/",
-    "description": "or - Sub / Dub /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "MKissa",
-        "url": "https://mkissa.to/"
-      },
-      {
-        "text": "All Manga",
-        "url": "https://allmanga.to/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/6nce6cyJyM"
       }
     ]
   },
@@ -215164,16 +214484,28 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "⁠Gotaku",
-    "url": "https://gotaku.to/",
-    "description": "Sub / Dub / Auto-Next",
-    "starred": true,
+    "title": "Miruro",
+    "url": "https://miruro.cx",
+    "description": "or - Hard Subs / Soft Subs / Dub / Auto-Next / /",
+    "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "⁠Gotaku",
-        "url": "https://gotaku.to/"
+        "text": "Miruro",
+        "url": "https://miruro.cx"
+      },
+      {
+        "text": "AniVault",
+        "url": "https://anivault.tv/"
+      },
+      {
+        "text": "Status",
+        "url": "https://status.miruro.com/"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/miruro/"
       }
     ]
   },
@@ -215185,7 +214517,7 @@
     "title": "Re:ANIME",
     "url": "https://reanime.to/",
     "description": ", , - Sub / Dub / Auto-Next / / /",
-    "starred": true,
+    "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
@@ -215220,20 +214552,42 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "AnimeX",
-    "url": "https://animex.one/",
-    "description": "Sub / Dub / Auto-Next /",
+    "title": "⁠Gotaku",
+    "url": "https://gotaku.to/",
+    "description": "Sub / Dub / Auto-Next",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "AnimeX",
-        "url": "https://animex.one/"
+        "text": "⁠Gotaku",
+        "url": "https://gotaku.to/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
+    "title": "MKissa",
+    "url": "https://mkissa.to/",
+    "description": "or - Sub / Dub /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "MKissa",
+        "url": "https://mkissa.to/"
+      },
+      {
+        "text": "All Manga",
+        "url": "https://allmanga.to/"
       },
       {
         "text": "Discord",
-        "url": "https://discord.com/invite/xNZcSQRbTm"
+        "url": "https://discord.com/invite/6nce6cyJyM"
       }
     ]
   },
@@ -215264,6 +214618,28 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/anipm"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
+    "title": "AnimeX",
+    "url": "https://animex.one/",
+    "description": "Sub / Dub / Auto-Next /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "AnimeX",
+        "url": "https://animex.one/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/xNZcSQRbTm"
       }
     ]
   },
@@ -215334,6 +214710,24 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
+    "title": "⁠AniXo",
+    "url": "https://anixo.online/",
+    "description": "Sub / Dub",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠AniXo",
+        "url": "https://anixo.online/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
     "title": "⁠Anistream",
     "url": "https://anistream.one/",
     "description": "Sub / Dub / Auto-Next /",
@@ -215392,24 +214786,6 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/yPxFt6tFRw"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
-    "title": "⁠Anixo",
-    "url": "https://anixo.online/",
-    "description": "Sub / Dub",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Anixo",
-        "url": "https://anixo.online/"
       }
     ]
   },
@@ -215810,6 +215186,24 @@
       {
         "text": "AniHost",
         "url": "https://anihosts.xyz/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
+    "title": "⁠2Dhive",
+    "url": "https://2dhive.com/",
+    "description": "Sub / Dub",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠2Dhive",
+        "url": "https://2dhive.com/"
       }
     ]
   },
@@ -219346,6 +218740,36 @@
     "section": "Live TV / Sports",
     "subsection": "Live Sports",
     "subsubsection": null,
+    "title": "SportsBite",
+    "url": "https://sportsbite.org/",
+    "description": ", / /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "SportsBite",
+        "url": "https://sportsbite.org/"
+      },
+      {
+        "text": "2",
+        "url": "https://sportsbite.org/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/+Zo7CoigxqRczMjRk"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/Qg7uRXWAhU"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Live TV / Sports",
+    "subsection": "Live Sports",
+    "subsubsection": null,
     "title": "StreamSports99",
     "url": "https://streamsports99.ru",
     "description": null,
@@ -219398,36 +218822,6 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/eJs8FRqt7G"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Live TV / Sports",
-    "subsection": "Live Sports",
-    "subsubsection": null,
-    "title": "SportsBite",
-    "url": "https://sportsbite.org/",
-    "description": ", / /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "SportsBite",
-        "url": "https://sportsbite.org/"
-      },
-      {
-        "text": "2",
-        "url": "https://sportsbite.org/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/+Zo7CoigxqRczMjRk"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/Qg7uRXWAhU"
       }
     ]
   },
@@ -223168,8 +222562,8 @@
         "url": "https://rentry.co/FMHYB64#directory-111477"
       },
       {
-        "text": "Search Filters / Stars",
-        "url": "https://greasyfork.org/scripts/585901"
+        "text": "Features / Posters",
+        "url": "https://greasyfork.org/scripts/603382"
       },
       {
         "text": "Discord",
@@ -224114,7 +223508,7 @@
     "subsubsection": null,
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / 360p /",
+    "description": "Movies / TV /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
