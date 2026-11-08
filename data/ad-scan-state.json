@@ -33816,13 +33816,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-03T12:44:38+00:00",
+  "checked_utc": "2026-11-08T18:30:05+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1510,
+  "page_kb": 1552,
   "pages": [
    "Non-Eng"
   ],
@@ -33832,7 +33832,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Bowd \u2014 Streaming gratuit : TV en direct, films et s\u00e9ries",
+  "title": "Bowd \u2014 Free streaming: live TV, films and series",
   "topics": [
    "Non-English"
   ],
@@ -153700,46 +153700,46 @@
   "verdict": "Effectively ad-free"
  },
  "muryou-aigazou.com": {
-  "ad_domains": 16,
-  "ad_requests": 36,
-  "ad_slots": 0,
-  "ad_weight_pct": 73.0,
-  "checked_utc": "2026-10-09T08:00:18+00:00",
+  "ad_domains": 35,
+  "ad_requests": 132,
+  "ad_slots": 2,
+  "ad_weight_pct": 98.4,
+  "checked_utc": "2026-11-08T18:30:05+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "F",
   "networks": [
+   "ad-events.flashtalking.com",
+   "ade.googlesyndication.com",
+   "bb.lijit.com",
    "bcp.crwdcntrl.net",
+   "bid.g.doubleclick.net",
+   "cdn.flashtalking.com",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
-   "google-bidout-d.openx.net",
-   "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "id5-sync.com",
-   "match.adsrvr.org",
-   "pagead2.googlesyndication.com",
-   "rtb.openx.net",
-   "securepubads.g.doubleclick.net",
-   "static.criteo.net"
+   "d9.flashtalking.com",
+   "dis.criteo.com",
+   "dsum-sec.casalemedia.com",
+   "e3555e71c9826a47d88c006f28e3460b.safeframe.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1365,
+  "page_kb": 72050,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 29.5,
+  "score": 15.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Free AI Image Generator & Maker - No login required\u2728 | AIGAZOU",
   "topics": [
    "AI Tools"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://muryou-aigazou.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "musclewiki.com": {
   "ad_domains": 0,
@@ -269080,7 +269080,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 99.6,
-  "checked_utc": "2026-10-09T08:00:18+00:00",
+  "checked_utc": "2026-11-08T18:30:05+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -269088,7 +269088,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 176,
+  "page_kb": 177,
   "pages": [
    "Torrenting"
   ],
