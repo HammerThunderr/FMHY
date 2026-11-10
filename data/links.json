@@ -882,7 +882,7 @@
     "section": "Adblocking",
     "subsection": "DNS Providers",
     "subsubsection": null,
-    "title": "Rethink DNS",
+    "title": "Rethink DNS Resolver",
     "url": "https://rethinkdns.com/configure",
     "description": "DNS Provider / Mix Multiple Blocklists / /",
     "starred": true,
@@ -890,7 +890,7 @@
     "section_link": false,
     "all_links": [
       {
-        "text": "Rethink DNS",
+        "text": "Rethink DNS Resolver",
         "url": "https://rethinkdns.com/configure"
       },
       {
@@ -5354,7 +5354,7 @@
     "subsubsection": null,
     "title": "Startpage",
     "url": "https://www.startpage.com/",
-    "description": "Google Based /",
+    "description": "Google + Bing Based /",
     "starred": true,
     "third_party_index": false,
     "section_link": false,
@@ -51554,6 +51554,24 @@
     "section": "Educational Tools",
     "subsection": "Wikipedia Tools",
     "subsubsection": null,
+    "title": "⁠Compend",
+    "url": "https://compend.org/",
+    "description": "Comments / Reviews for Wikipedia Articles",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Compend",
+        "url": "https://compend.org/"
+      }
+    ]
+  },
+  {
+    "page": "Educational",
+    "section": "Educational Tools",
+    "subsection": "Wikipedia Tools",
+    "subsubsection": null,
     "title": "wik",
     "url": "https://github.com/yashsinghcodes/wik",
     "description": "Wiki TUI",
@@ -52340,6 +52358,24 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/juegos"
+      }
+    ]
+  },
+  {
+    "page": "Gaming",
+    "section": "Download Games",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠Arkona",
+    "url": "https://arkona.dev/",
+    "description": "Download",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Arkona",
+        "url": "https://arkona.dev/"
       }
     ]
   },
@@ -58406,7 +58442,7 @@
     "subsubsection": null,
     "title": "nswvault",
     "url": "https://nswvault.com/",
-    "description": "ROMs / Switch",
+    "description": "ROMs / Switch / Avoid Fake Download Buttons",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -83340,24 +83376,6 @@
     "section": "Mac Apps",
     "subsection": null,
     "subsubsection": null,
-    "title": "ProperTree",
-    "url": "https://github.com/corpnewt/ProperTree",
-    "description": "GUI Plist Editor",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "ProperTree",
-        "url": "https://github.com/corpnewt/ProperTree"
-      }
-    ]
-  },
-  {
-    "page": "Linux",
-    "section": "Mac Apps",
-    "subsection": null,
-    "subsubsection": null,
     "title": "Does It Arm?",
     "url": "https://doesitarm.com/",
     "description": "Apple Silicon App Compatibility Chart",
@@ -86026,6 +86044,46 @@
       {
         "text": "Scroll Reverser",
         "url": "https://pilotmoon.com/scrollreverser/"
+      }
+    ]
+  },
+  {
+    "page": "Linux",
+    "section": "Mac Tools",
+    "subsection": "System Tools",
+    "subsubsection": null,
+    "title": "ProperTree",
+    "url": "https://github.com/corpnewt/ProperTree",
+    "description": "GUI Plist Editor",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "ProperTree",
+        "url": "https://github.com/corpnewt/ProperTree"
+      }
+    ]
+  },
+  {
+    "page": "Linux",
+    "section": "Mac Tools",
+    "subsection": "System Tools",
+    "subsubsection": null,
+    "title": "macOS defaults",
+    "url": "https://macos-defaults.com/",
+    "description": "macOS defaults Commands List /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "macOS defaults",
+        "url": "https://macos-defaults.com/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/yannbertrand/macos-defaults"
       }
     ]
   },
@@ -115942,7 +116000,7 @@
     "subsubsection": null,
     "title": "PoliticalTests",
     "url": "https://politicaltests.github.io/",
-    "description": "or - Political Alignment Tests",
+    "description": "Political Alignment Tests",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -115950,10 +116008,6 @@
       {
         "text": "PoliticalTests",
         "url": "https://politicaltests.github.io/"
-      },
-      {
-        "text": "⁠12 Axes",
-        "url": "https://12axes.vercel.app/"
       }
     ]
   },
@@ -121496,24 +121550,6 @@
     "section": "Android APKs",
     "subsection": "Social Media Apps",
     "subsubsection": null,
-    "title": "Fluxer",
-    "url": "https://github.com/fluxerapp/flutter_client",
-    "description": "⁠Fluxer Client",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Fluxer",
-        "url": "https://github.com/fluxerapp/flutter_client"
-      }
-    ]
-  },
-  {
-    "page": "Mobile",
-    "section": "Android APKs",
-    "subsection": "Social Media Apps",
-    "subsubsection": null,
     "title": "Graysky",
     "url": "https://graysky.app/",
     "description": "Bluesky Client /",
@@ -123910,6 +123946,24 @@
       {
         "text": "Amazing Temp Root",
         "url": "https://xdaforums.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/"
+      }
+    ]
+  },
+  {
+    "page": "Mobile",
+    "section": "Android Device",
+    "subsection": "Root / Flash",
+    "subsubsection": null,
+    "title": "⁠GhostLock",
+    "url": "https://github.com/YuKongA/ghostlock-app",
+    "description": "One-Tap Temp Root",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠GhostLock",
+        "url": "https://github.com/YuKongA/ghostlock-app"
       }
     ]
   },
@@ -141350,6 +141404,28 @@
     "section": "iOS Audio",
     "subsection": null,
     "subsubsection": null,
+    "title": "⁠Shrubify",
+    "url": "https://shrubify.pages.dev/",
+    "description": "Spotify / Ad-Free / Sideloaded /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Shrubify",
+        "url": "https://shrubify.pages.dev/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/ShrubHub-iOS/Shrubify"
+      }
+    ]
+  },
+  {
+    "page": "Mobile",
+    "section": "iOS Audio",
+    "subsection": null,
+    "subsubsection": null,
     "title": "⁠Vitrine",
     "url": "https://github.com/My-Name-Is-Jeff/vitrine",
     "description": "Spotify / Ad-Free / Sideloaded",
@@ -148248,24 +148324,6 @@
     "section": "Radio Streaming",
     "subsection": "Genre Specific Radio",
     "subsubsection": null,
-    "title": "J1 Radio",
-    "url": "https://rec.torontocast.stream/player/",
-    "description": "J-Pop Radio",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "J1 Radio",
-        "url": "https://rec.torontocast.stream/player/"
-      }
-    ]
-  },
-  {
-    "page": "Music",
-    "section": "Radio Streaming",
-    "subsection": "Genre Specific Radio",
-    "subsubsection": null,
     "title": "⁠WQXR",
     "url": "https://www.wqxr.org/streams/",
     "description": ", or - Classical Music Radio",
@@ -149888,6 +149946,28 @@
     "section": "Audio Ripping",
     "subsection": "Audio Ripping Tools",
     "subsubsection": null,
+    "title": "[Mornye",
+    "url": "https://desktop.mornye.com/",
+    "description": "Amazon Music / Qobuz / Tidal / Deezer /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "[Mornye",
+        "url": "https://desktop.mornye.com/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/mornyeapp/Mornye-Desktop"
+      }
+    ]
+  },
+  {
+    "page": "Music",
+    "section": "Audio Ripping",
+    "subsection": "Audio Ripping Tools",
+    "subsubsection": null,
     "title": "Nicotine+",
     "url": "https://nicotine-plus.org/",
     "description": "or - P2P Audio Sharing Networks / / /",
@@ -150080,28 +150160,6 @@
       {
         "text": "Deezer Mod",
         "url": "https://github.com/uhwot/orpheusdl-deezer"
-      }
-    ]
-  },
-  {
-    "page": "Music",
-    "section": "Audio Ripping",
-    "subsection": "Audio Ripping Tools",
-    "subsubsection": null,
-    "title": "Mornye",
-    "url": "https://desktop.mornye.com/",
-    "description": "Amazon Music / Qobuz / Tidal / Deezer /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Mornye",
-        "url": "https://desktop.mornye.com/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/mornyeapp/Mornye-Desktop"
       }
     ]
   },
@@ -167610,24 +167668,6 @@
     "section": "French / Français",
     "subsection": "Streaming",
     "subsubsection": null,
-    "title": "OpenFlix",
-    "url": "https://openflix.pro/",
-    "description": "Movies / TV / Anime",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "OpenFlix",
-        "url": "https://openflix.pro/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "French / Français",
-    "subsection": "Streaming",
-    "subsubsection": null,
     "title": "⁠FlixVison",
     "url": "https://flixvision.xyz/",
     "description": "Movies / TV / Anime",
@@ -169488,42 +169528,6 @@
     "section": "German / Deutsch",
     "subsection": "Streaming",
     "subsubsection": null,
-    "title": "FireAnime",
-    "url": "https://fireani.me/",
-    "description": "Anime / Sub",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "FireAnime",
-        "url": "https://fireani.me/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "German / Deutsch",
-    "subsection": "Streaming",
-    "subsubsection": null,
-    "title": "⁠Fireani",
-    "url": "https://fireani.me/app",
-    "description": "Anime Android App",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Fireani",
-        "url": "https://fireani.me/app"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "German / Deutsch",
-    "subsection": "Streaming",
-    "subsubsection": null,
     "title": "⁠TOGGO",
     "url": "https://www.toggo.de/",
     "description": "Cartoons",
@@ -170440,24 +170444,6 @@
     "section": "Hungarian / Magyar",
     "subsection": "Streaming / Streamelés",
     "subsubsection": null,
-    "title": "moviedrive",
-    "url": "https://moviedrive.hu/",
-    "description": "Movies / TV / Sub / Dub / 1080p",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "moviedrive",
-        "url": "https://moviedrive.hu/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "Hungarian / Magyar",
-    "subsection": "Streaming / Streamelés",
-    "subsubsection": null,
     "title": "hdmozi",
     "url": "https://hdmozi.hu/",
     "description": "Movies / TV / Sub / Dub / 1080p",
@@ -171323,7 +171309,7 @@
     "subsection": "Streaming",
     "subsubsection": null,
     "title": "Kartoons",
-    "url": "https://kartoons.me/",
+    "url": "https://kartoons.to/home",
     "description": "Cartoons /",
     "starred": true,
     "third_party_index": false,
@@ -171331,7 +171317,7 @@
     "all_links": [
       {
         "text": "Kartoons",
-        "url": "https://kartoons.me/"
+        "url": "https://kartoons.to/home"
       },
       {
         "text": "Discord",
@@ -174768,24 +174754,6 @@
     "section": "Korean / 한국어",
     "subsection": null,
     "subsubsection": null,
-    "title": "NAVER",
-    "url": "https://www.naver.com/",
-    "description": "Search",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "NAVER",
-        "url": "https://www.naver.com/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "Korean / 한국어",
-    "subsection": null,
-    "subsubsection": null,
     "title": "Free Korean Fonts",
     "url": "https://www.freekoreanfont.com/",
     "description": "Korean Fonts",
@@ -174980,24 +174948,6 @@
       {
         "text": "Chzzk",
         "url": "https://chzzk.naver.com/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "Korean / 한국어",
-    "subsection": "Streaming",
-    "subsubsection": null,
-    "title": "Naver",
-    "url": "https://tv.naver.com/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Naver",
-        "url": "https://tv.naver.com/"
       }
     ]
   },
@@ -183410,24 +183360,6 @@
       {
         "text": "Cinedeantes",
         "url": "https://cinedeantes2.weebly.com/"
-      }
-    ]
-  },
-  {
-    "page": "Non-Eng",
-    "section": "Spanish / Español",
-    "subsection": "Streaming / Streamear",
-    "subsubsection": null,
-    "title": "Tlnovelas",
-    "url": "https://tlnovelas.net/",
-    "description": "TV / Drama",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Tlnovelas",
-        "url": "https://tlnovelas.net/"
       }
     ]
   },
@@ -210182,6 +210114,24 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
+    "title": "4Movie",
+    "url": "https://4movie.in/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "4Movie",
+        "url": "https://4movie.in/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Stream Aggregators",
+    "subsubsection": null,
     "title": "TaroFlix",
     "url": "https://taroflix.net/",
     "description": "or - Movies / TV / Anime / Auto-Next /",
@@ -210280,24 +210230,20 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
-    "title": "All You Can Watch",
-    "url": "https://allyoucanwatch.net/",
-    "description": "Movies / TV / Anime / /",
+    "title": "Sleepy",
+    "url": "https://sleepy.lat/",
+    "description": "Movies / TV / Anime / Auto-Next /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "All You Can Watch",
-        "url": "https://allyoucanwatch.net/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/allyoucanwatchh"
+        "text": "Sleepy",
+        "url": "https://sleepy.lat/"
       },
       {
         "text": "Discord",
-        "url": "https://discord.gg/allyoucanwatch"
+        "url": "https://discord.gg/uqHZy7NPRt"
       }
     ]
   },
@@ -210508,28 +210454,6 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
-    "title": "Youplex",
-    "url": "https://youplex.site/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Youplex",
-        "url": "https://youplex.site/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/5eWu9Vz6tQ"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
     "title": "Zoryva X",
     "url": "https://zoryva.me/",
     "description": "Movies / TV / Anime",
@@ -210574,6 +210498,50 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
+    "title": "Kofi",
+    "url": "https://kofi.mov/",
+    "description": "Movies / TV / Anime / Auto-Next /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Kofi",
+        "url": "https://kofi.mov/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/JsJqRzrjaG"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Stream Aggregators",
+    "subsubsection": null,
+    "title": "Nxsha",
+    "url": "https://web.nxsha.app/",
+    "description": "Movies / TV / Anime /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Nxsha",
+        "url": "https://web.nxsha.app/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://telegram.me/+8_u943HkSAY5ODA1"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Stream Aggregators",
+    "subsubsection": null,
     "title": "Screenscape",
     "url": "https://screenscape.me/",
     "description": "Movies / TV / Anime / Auto-Next /",
@@ -210596,20 +210564,20 @@
     "section": "Streaming Sites",
     "subsection": "Stream Aggregators",
     "subsubsection": null,
-    "title": "Kofi",
-    "url": "https://kofi.mov/",
-    "description": "Movies / TV / Anime / Auto-Next /",
+    "title": "Youplex",
+    "url": "https://youplex.site/",
+    "description": "Movies / TV / Anime /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "Kofi",
-        "url": "https://kofi.mov/"
+        "text": "Youplex",
+        "url": "https://youplex.site/"
       },
       {
         "text": "Discord",
-        "url": "https://discord.com/invite/JsJqRzrjaG"
+        "url": "https://discord.com/invite/5eWu9Vz6tQ"
       }
     ]
   },
@@ -210650,28 +210618,6 @@
       {
         "text": "All About Movies",
         "url": "https://allaboutmovies.pages.dev/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Stream Aggregators",
-    "subsubsection": null,
-    "title": "Nxsha",
-    "url": "https://web.nxsha.app/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Nxsha",
-        "url": "https://web.nxsha.app/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://telegram.me/+8_u943HkSAY5ODA1"
       }
     ]
   },
@@ -210890,24 +210836,6 @@
   {
     "page": "Streaming",
     "section": "Streaming Sites",
-    "subsection": "P-Stream Forks",
-    "subsubsection": null,
-    "title": "peestream",
-    "url": "https://peestream.in/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "peestream",
-        "url": "https://peestream.in/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
     "subsection": "Dedicated-Server",
     "subsubsection": null,
     "title": "adblocker",
@@ -211064,6 +210992,24 @@
       {
         "text": "Flixtrz",
         "url": "https://flixtrz.com/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Dedicated-Server",
+    "subsubsection": null,
+    "title": "CyberMovies",
+    "url": "https://cybermovies.ru/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "CyberMovies",
+        "url": "https://cybermovies.ru/"
       }
     ]
   },
@@ -211610,32 +211556,6 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "AuroraScreen",
-    "url": "https://www.aurorascreen.mov/",
-    "description": ", - Movies / TV / Anime / Auto-Next /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "AuroraScreen",
-        "url": "https://www.aurorascreen.mov/"
-      },
-      {
-        "text": "2",
-        "url": "https://www.aurorascreen.org/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/kPUWwAQCzk"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "ZetMoon",
     "url": "https://zetmoon.live/",
     "description": "Movies / TV / Anime",
@@ -211664,28 +211584,6 @@
       {
         "text": "TonkaCine",
         "url": "https://tonkacine.watch/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "Moovie",
-    "url": "https://moovie.fun/",
-    "description": "or - Movies / TV / Anime / Auto-Next",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Moovie",
-        "url": "https://moovie.fun/"
-      },
-      {
-        "text": "StreamAggregator",
-        "url": "https://streamaggregator.in/"
       }
     ]
   },
@@ -211724,10 +211622,28 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
+    "title": "CineWave",
+    "url": "https://watch.cinewave.qzz.io/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "CineWave",
+        "url": "https://watch.cinewave.qzz.io/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
     "title": "HydraHD",
     "url": "https://hydrahd.gd/",
     "description": ", - Movies / TV / Anime / Auto-Next / /",
-    "starred": true,
+    "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
@@ -211754,28 +211670,10 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "Fireflix",
-    "url": "https://fireflix4.pages.dev/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Fireflix",
-        "url": "https://fireflix4.pages.dev/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "Primeshows",
     "url": "https://www.primeshows.org/",
     "description": ", , - Movies / TV / Anime /",
-    "starred": true,
+    "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
@@ -211794,6 +211692,32 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/nmtywkrZjd"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "AuroraScreen",
+    "url": "https://www.aurorascreen.mov/",
+    "description": ", - Movies / TV / Anime / Auto-Next /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "AuroraScreen",
+        "url": "https://www.aurorascreen.mov/"
+      },
+      {
+        "text": "2",
+        "url": "https://www.aurorascreen.org/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/kPUWwAQCzk"
       }
     ]
   },
@@ -211836,24 +211760,6 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "CineWave",
-    "url": "https://watch.cinewave.qzz.io/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "CineWave",
-        "url": "https://watch.cinewave.qzz.io/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "Youflex",
     "url": "https://youflex.top/",
     "description": "Movies / TV / Anime",
@@ -211872,20 +211778,52 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "KaitoVault",
-    "url": "https://kaitotv.com/",
-    "description": "Movies / TV / Anime /",
+    "title": "CandleStream",
+    "url": "https://candlestream.xyz/#home",
+    "description": "Movies / TV / Anime / Auto-Next",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "KaitoVault",
-        "url": "https://kaitotv.com/"
-      },
+        "text": "CandleStream",
+        "url": "https://candlestream.xyz/#home"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "Fireflix",
+    "url": "https://fireflix4.pages.dev/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
       {
-        "text": "Discord",
-        "url": "https://discord.gg/vm2XbdcZtm"
+        "text": "Fireflix",
+        "url": "https://fireflix4.pages.dev/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "Heartive",
+    "url": "https://heartiveplaystv.pages.dev/",
+    "description": "Movies / TV / Anime",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Heartive",
+        "url": "https://heartiveplaystv.pages.dev/"
       }
     ]
   },
@@ -211908,24 +211846,6 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/sssvheMsVT"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "CandleStream",
-    "url": "https://candlestream.xyz/#home",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "CandleStream",
-        "url": "https://candlestream.xyz/#home"
       }
     ]
   },
@@ -211970,24 +211890,6 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/p7XVyk6vs"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "Heartive",
-    "url": "https://heartiveplaystv.pages.dev/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Heartive",
-        "url": "https://heartiveplaystv.pages.dev/"
       }
     ]
   },
@@ -212080,24 +211982,38 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "WatchSeries",
-    "url": "https://watchseries.cool/",
-    "description": ", - Movies / TV / Anime /",
+    "title": "Snowstream",
+    "url": "https://snowstream.vercel.app/",
+    "description": "Movies / TV / Anime /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "WatchSeries",
-        "url": "https://watchseries.cool/"
+        "text": "Snowstream",
+        "url": "https://snowstream.vercel.app/"
       },
       {
-        "text": "2",
-        "url": "https://watchseries.bar/"
-      },
+        "text": "Telegram",
+        "url": "https://t.me/snowstreamchat"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "CineNest",
+    "url": "https://cine-nest-nine.vercel.app/",
+    "description": "Movies / TV / Anime",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
       {
-        "text": "Mirrors",
-        "url": "https://Watchseries.domains/"
+        "text": "CineNest",
+        "url": "https://cine-nest-nine.vercel.app/"
       }
     ]
   },
@@ -212150,28 +212066,6 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "Meowly",
-    "url": "https://meowly.qzz.io/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Meowly",
-        "url": "https://meowly.qzz.io/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/utkarshgupta188/meowly"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "Moviepire",
     "url": "https://moviepire.ru/",
     "description": ", - Movies / TV / Anime /",
@@ -212190,6 +212084,90 @@
       {
         "text": "Telegram",
         "url": "https://t.me/hdoboxapk2"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "MilkBox",
+    "url": "https://milkbox.fyi/",
+    "description": "Movies / TV / Anime /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "MilkBox",
+        "url": "https://milkbox.fyi/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/N2eUKVWu5e"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "FishyStream",
+    "url": "https://fishystream-app.pages.dev/",
+    "description": "Movies / TV / Anime /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "FishyStream",
+        "url": "https://fishystream-app.pages.dev/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/FishyServices/FishyStream"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "DuaFile",
+    "url": "https://download.duafile.com/",
+    "description": "Movies / TV / Anime",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "DuaFile",
+        "url": "https://download.duafile.com/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "Meowly",
+    "url": "https://meowly.qzz.io/",
+    "description": "Movies / TV / Anime /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Meowly",
+        "url": "https://meowly.qzz.io/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/utkarshgupta188/meowly"
       }
     ]
   },
@@ -212268,68 +212246,6 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "Zerostream",
-    "url": "https://zerostream.alwaysdata.net/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Zerostream",
-        "url": "https://zerostream.alwaysdata.net/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "FishyStream",
-    "url": "https://fishystream-app.pages.dev/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "FishyStream",
-        "url": "https://fishystream-app.pages.dev/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/FishyServices/FishyStream"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "Snowstream",
-    "url": "https://snowstream.vercel.app/",
-    "description": "Movies / TV / Anime /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Snowstream",
-        "url": "https://snowstream.vercel.app/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/snowstreamchat"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "WatchOrbit",
     "url": "https://watchorbit.me/",
     "description": "Movies / TV / Anime",
@@ -212348,42 +212264,6 @@
     "section": "Streaming Sites",
     "subsection": "Multi-Server",
     "subsubsection": null,
-    "title": "CineNest",
-    "url": "https://cine-nest-nine.vercel.app/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "CineNest",
-        "url": "https://cine-nest-nine.vercel.app/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "DuaFile",
-    "url": "https://download.duafile.com/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DuaFile",
-        "url": "https://download.duafile.com/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
     "title": "RabbitMeow",
     "url": "https://rabbitmeow.online/",
     "description": "Movies / TV / Anime",
@@ -212394,24 +212274,6 @@
       {
         "text": "RabbitMeow",
         "url": "https://rabbitmeow.online/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Multi-Server",
-    "subsubsection": null,
-    "title": "FluxFusion",
-    "url": "https://flixfusion.cyou/",
-    "description": "Movies / TV / Anime",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "FluxFusion",
-        "url": "https://flixfusion.cyou/"
       }
     ]
   },
@@ -212442,6 +212304,24 @@
       {
         "text": "Discord",
         "url": "https://discord.gg/qc4jksxk7a"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Sites",
+    "subsection": "Multi-Server",
+    "subsubsection": null,
+    "title": "FlixFusion",
+    "url": "https://flixfusion.cyou/",
+    "description": "Movies / TV / Anime",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "FlixFusion",
+        "url": "https://flixfusion.cyou/"
       }
     ]
   },
@@ -213576,24 +213456,6 @@
     "section": "Streaming Sites",
     "subsection": "Video Streaming",
     "subsubsection": null,
-    "title": "Naver",
-    "url": "https://tv.naver.com/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Naver",
-        "url": "https://tv.naver.com/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Sites",
-    "subsection": "Video Streaming",
-    "subsubsection": null,
     "title": "ultimedia",
     "url": "https://www.ultimedia.com/",
     "description": null,
@@ -213662,454 +213524,6 @@
       {
         "text": "DeafVideo",
         "url": "https://www.deafvideo.tv/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "Torrent Streaming",
-    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps",
-    "description": "Torrent Streaming Apps",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": true,
-    "all_links": [
-      {
-        "text": "Torrent Streaming",
-        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "PlayTorrio",
-    "url": "https://playtorrio.xyz/",
-    "description": ", - Streaming App / Use PlayTorrioHTTP Plugin / Windows, macOS, Linux / /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "PlayTorrio",
-        "url": "https://playtorrio.xyz/"
-      },
-      {
-        "text": "2",
-        "url": "https://playtorrio.pages.dev/"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://www.reddit.com/r/PlayTorrio/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/bbkVHRHnRk"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠Vyla Home",
-    "url": "https://vyla.cc/products/home",
-    "description": ", - Streaming App / Windows, macOS, Linux / / /",
-    "starred": true,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Vyla Home",
-        "url": "https://vyla.cc/products/home"
-      },
-      {
-        "text": "2",
-        "url": "https://vyla.qzz.io"
-      },
-      {
-        "text": "Subreddit",
-        "url": "https://www.reddit.com/r/Vyla/"
-      },
-      {
-        "text": "Discord",
-        "url": "http://discord.gg/5eqRhKeywG"
-      },
-      {
-        "text": "GitLab",
-        "url": "https://gitlab.com/vyla-entertainment/home"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠SkyStream",
-    "url": "https://github.com/akashdh11/skystream",
-    "description": "Streaming App / Extension-Based / Windows, macOS, Linux /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠SkyStream",
-        "url": "https://github.com/akashdh11/skystream"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/73XGA8Mxn9"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠FlyStream",
-    "url": "https://flystream.net/apps",
-    "description": "Streaming App / Windows, macOS, Linux /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠FlyStream",
-        "url": "https://flystream.net/apps"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/flystream"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠Atlas",
-    "url": "https://atlas.hls.lol/",
-    "description": "Streaming App / Windows",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Atlas",
-        "url": "https://atlas.hls.lol/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠Vega-Desktop",
-    "url": "https://github.com/vega-org/vega-desktop",
-    "description": "Streaming App / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Vega-Desktop",
-        "url": "https://github.com/vega-org/vega-desktop"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠Showberry",
-    "url": "https://github.com/Dackerie/showberry",
-    "description": "Streaming App / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Showberry",
-        "url": "https://github.com/Dackerie/showberry"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠WatchWave",
-    "url": "https://watchwave.pro/",
-    "description": "Streaming App / Download in Top Right / Windows",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠WatchWave",
-        "url": "https://watchwave.pro/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "⁠AIOStreams",
-    "url": "https://docs.aiostreams.viren070.me/apps/",
-    "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠AIOStreams",
-        "url": "https://docs.aiostreams.viren070.me/apps/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "mov-cli",
-    "url": "https://mov-cli.github.io/",
-    "description": "Streaming CLI / / Windows, macOS, Linux / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "mov-cli",
-        "url": "https://mov-cli.github.io/"
-      },
-      {
-        "text": "Plugins",
-        "url": "https://github.com/topics/mov-cli-plugin"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/BMzC7ePsBV"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/mov-cli/mov-cli"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": null,
-    "subsubsection": null,
-    "title": "Gir Society",
-    "url": "https://discord.gg/WHxeZ3aTtb",
-    "description": "Plex + Jellyfin Public Playlist / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Gir Society",
-        "url": "https://discord.gg/WHxeZ3aTtb"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "Seanime",
-    "url": "https://seanime.app/",
-    "description": "Anime Streaming App / Windows, macOS, Linux / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Seanime",
-        "url": "https://seanime.app/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/3AuhRGqUqh"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/5rahim/seanime"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "AnymeX",
-    "url": "https://anymex.vercel.app/",
-    "description": "Anime Streaming App / / Windows, macOS, Linux /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "AnymeX",
-        "url": "https://anymex.vercel.app/"
-      },
-      {
-        "text": "Extension Guide",
-        "url": "https://wotaku.wiki/ext/mangayomi"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/RyanYuuki/AnymeX"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "Anikin",
-    "url": "https://github.com/jerry08/Anikin",
-    "description": "Anime Streaming App / Windows /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Anikin",
-        "url": "https://github.com/jerry08/Anikin"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/U7XweVubJN"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "Mizuki",
-    "url": "http://mizuki.to/",
-    "description": "Anime Streaming App / Windows, macOS, Linux /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Mizuki",
-        "url": "http://mizuki.to/"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/Anisurge/App"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "Unyo",
-    "url": "https://github.com/K3vinb5/Unyo",
-    "description": "Anime Streaming App / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Unyo",
-        "url": "https://github.com/K3vinb5/Unyo"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
-    "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Tatakai",
-        "url": "https://tatakai.me/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/TWmbr7NYAW"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/snozxyx/tatakai"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "Miru",
-    "url": "https://miru.js.org/en/",
-    "description": "Anime Streaming App / Windows, macOS, Linux / /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Miru",
-        "url": "https://miru.js.org/en/"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/MiruChat"
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/miru-project/miru-app"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Streaming Apps",
-    "subsection": "Anime Streaming Apps",
-    "subsubsection": null,
-    "title": "ani-cli",
-    "url": "https://github.com/pystardust/ani-cli",
-    "description": "Anime Streaming CLI / Windows, macOS, Linux",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "ani-cli",
-        "url": "https://github.com/pystardust/ani-cli"
       }
     ]
   },
@@ -215016,46 +214430,6 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "Yenime",
-    "url": "https://yenime.net/",
-    "description": "Sub / Dub /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Yenime",
-        "url": "https://yenime.net/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.com/invite/yPxFt6tFRw"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
-    "title": "Senshi",
-    "url": "https://senshi.to/",
-    "description": "Sub / Dub / Auto-Next",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Senshi",
-        "url": "https://senshi.to/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
     "title": "⁠JustAnime",
     "url": "https://justanime.to/",
     "description": "Sub / Dub / Auto-Next / / /",
@@ -215332,6 +214706,28 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
+    "title": "⁠YumeZone",
+    "url": "https://yumezone.live/",
+    "description": "Hard Subs / Soft Subs / Dub / Auto-Next /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠YumeZone",
+        "url": "https://yumezone.live/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/VPNSMcG6jM"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
     "title": "⁠Anime Nexus",
     "url": "https://anime.nexus/",
     "description": "Sub / Dub / Auto-Next /",
@@ -215392,7 +214788,7 @@
     "subsubsection": null,
     "title": "animeTVplus",
     "url": "https://animetvplus.xyz/",
-    "description": "or - Sub / Dub",
+    "description": "or - Sub / Dub /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
@@ -215404,6 +214800,10 @@
       {
         "text": "AniHost",
         "url": "https://anihosts.xyz/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/CW9kFv2SPT"
       }
     ]
   },
@@ -215422,28 +214822,6 @@
       {
         "text": "⁠2Dhive",
         "url": "https://2dhive.com/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
-    "title": "⁠YumeZone",
-    "url": "https://yumezone.live/",
-    "description": "Hard Subs / Soft Subs / Dub / Auto-Next /",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠YumeZone",
-        "url": "https://yumezone.live/"
-      },
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/VPNSMcG6jM"
       }
     ]
   },
@@ -215478,24 +214856,6 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "⁠Aniclover",
-    "url": "https://aniclover.cc/",
-    "description": "Sub / Dub",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Aniclover",
-        "url": "https://aniclover.cc/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
     "title": "AnimeParadise",
     "url": "https://www.animeparadise.moe/",
     "description": "Sub / Dub /",
@@ -215510,24 +214870,6 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/q3N6eWMMNP"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Specialty Streaming",
-    "subsection": "Anime Streaming",
-    "subsubsection": null,
-    "title": "AnimeDex",
-    "url": "https://animedex.fun/",
-    "description": "Sub / Dub / Auto-Next",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "AnimeDex",
-        "url": "https://animedex.fun/"
       }
     ]
   },
@@ -215612,6 +214954,46 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
+    "title": "⁠WatchAnimeX",
+    "url": "https://watchanimez.me/",
+    "description": "Sub / Dub / Auto-Next",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠WatchAnimeX",
+        "url": "https://watchanimez.me/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
+    "title": "Yenime",
+    "url": "https://yenime.net/",
+    "description": "Sub / Dub /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Yenime",
+        "url": "https://yenime.net/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/yPxFt6tFRw"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
     "title": "⁠Shonen",
     "url": "https://shonen.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -215648,16 +215030,34 @@
     "section": "Specialty Streaming",
     "subsection": "Anime Streaming",
     "subsubsection": null,
-    "title": "⁠WatchAnimeX",
-    "url": "https://watchanimez.me/",
+    "title": "⁠Aniclover",
+    "url": "https://aniclover.cc/",
+    "description": "Sub / Dub",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Aniclover",
+        "url": "https://aniclover.cc/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Specialty Streaming",
+    "subsection": "Anime Streaming",
+    "subsubsection": null,
+    "title": "AnimeDex",
+    "url": "https://animedex.fun/",
     "description": "Sub / Dub / Auto-Next",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
-        "text": "⁠WatchAnimeX",
-        "url": "https://watchanimez.me/"
+        "text": "AnimeDex",
+        "url": "https://animedex.fun/"
       }
     ]
   },
@@ -218177,15 +217577,19 @@
     "subsection": "Live TV",
     "subsubsection": null,
     "title": "Cinevid",
-    "url": "https://cinevid.st/channels",
-    "description": "TV / Sports",
+    "url": "https://cinevid.sbs/channels",
+    "description": "TV / Sports /",
     "starred": false,
     "third_party_index": false,
     "section_link": false,
     "all_links": [
       {
         "text": "Cinevid",
-        "url": "https://cinevid.st/channels"
+        "url": "https://cinevid.sbs/channels"
+      },
+      {
+        "text": "Status",
+        "url": "https://cinevid.link/"
       }
     ]
   },
@@ -218500,24 +217904,6 @@
       {
         "text": "Discord",
         "url": "https://discord.com/invite/6xJmJja8fV"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Live TV / Sports",
-    "subsection": "Live TV",
-    "subsubsection": null,
-    "title": "Zerostream",
-    "url": "https://zerostream.alwaysdata.net/",
-    "description": "TV",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "Zerostream",
-        "url": "https://zerostream.alwaysdata.net/"
       }
     ]
   },
@@ -219123,7 +218509,7 @@
     "subsection": "Live Sports",
     "subsubsection": null,
     "title": "Cinevid",
-    "url": "https://cinevid.st/events",
+    "url": "https://cinevid.sbs/events",
     "description": null,
     "starred": false,
     "third_party_index": false,
@@ -219131,7 +218517,11 @@
     "all_links": [
       {
         "text": "Cinevid",
-        "url": "https://cinevid.st/events"
+        "url": "https://cinevid.sbs/events"
+      },
+      {
+        "text": "Status",
+        "url": "https://cinevid.link/"
       }
     ]
   },
@@ -219438,24 +218828,6 @@
       {
         "text": "⁠Matchora",
         "url": "https://matchora.to/"
-      }
-    ]
-  },
-  {
-    "page": "Streaming",
-    "section": "Live TV / Sports",
-    "subsection": "Live Sports",
-    "subsubsection": null,
-    "title": "⁠Stability",
-    "url": "https://stability.taxidev.me/",
-    "description": null,
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "⁠Stability",
-        "url": "https://stability.taxidev.me/"
       }
     ]
   },
@@ -221911,7 +221283,7 @@
     "subsection": null,
     "subsubsection": null,
     "title": "PSArips",
-    "url": "https://psa.rip/",
+    "url": "https://psarips.com/",
     "description": "Movies / TV / 4K / HEVC",
     "starred": false,
     "third_party_index": false,
@@ -221919,7 +221291,7 @@
     "all_links": [
       {
         "text": "PSArips",
-        "url": "https://psa.rip/"
+        "url": "https://psarips.com/"
       }
     ]
   },
@@ -223368,6 +222740,454 @@
       {
         "text": "AniconforAnilist",
         "url": "https://github.com/EnArvy/AniconforAnilist"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "Torrent Streaming",
+    "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps",
+    "description": "Torrent Streaming Apps",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": true,
+    "all_links": [
+      {
+        "text": "Torrent Streaming",
+        "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "PlayTorrio",
+    "url": "https://playtorrio.xyz/",
+    "description": ", - Streaming App / Use PlayTorrioHTTP Plugin / Windows, macOS, Linux / /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "PlayTorrio",
+        "url": "https://playtorrio.xyz/"
+      },
+      {
+        "text": "2",
+        "url": "https://playtorrio.pages.dev/"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/PlayTorrio/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/bbkVHRHnRk"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠Vyla Home",
+    "url": "https://vyla.cc/products/home",
+    "description": ", - Streaming App / Windows, macOS, Linux / / /",
+    "starred": true,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Vyla Home",
+        "url": "https://vyla.cc/products/home"
+      },
+      {
+        "text": "2",
+        "url": "https://vyla.qzz.io"
+      },
+      {
+        "text": "Subreddit",
+        "url": "https://www.reddit.com/r/Vyla/"
+      },
+      {
+        "text": "Discord",
+        "url": "http://discord.gg/5eqRhKeywG"
+      },
+      {
+        "text": "GitLab",
+        "url": "https://gitlab.com/vyla-entertainment/home"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Streaming App / Extension-Based / Windows, macOS, Linux /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠SkyStream",
+        "url": "https://github.com/akashdh11/skystream"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/73XGA8Mxn9"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠FlyStream",
+    "url": "https://flystream.net/apps",
+    "description": "Streaming App / Windows, macOS, Linux /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠FlyStream",
+        "url": "https://flystream.net/apps"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/flystream"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠Atlas",
+    "url": "https://atlas.hls.lol/",
+    "description": "Streaming App / Windows",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Atlas",
+        "url": "https://atlas.hls.lol/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠Vega-Desktop",
+    "url": "https://github.com/vega-org/vega-desktop",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Vega-Desktop",
+        "url": "https://github.com/vega-org/vega-desktop"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠Showberry",
+    "url": "https://github.com/Dackerie/showberry",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Showberry",
+        "url": "https://github.com/Dackerie/showberry"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠WatchWave",
+    "url": "https://watchwave.pro/",
+    "description": "Streaming App / Download in Top Right / Windows",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠WatchWave",
+        "url": "https://watchwave.pro/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "⁠AIOStreams",
+    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠AIOStreams",
+        "url": "https://docs.aiostreams.viren070.me/apps/"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "mov-cli",
+    "url": "https://mov-cli.github.io/",
+    "description": "Streaming CLI / / Windows, macOS, Linux / /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "mov-cli",
+        "url": "https://mov-cli.github.io/"
+      },
+      {
+        "text": "Plugins",
+        "url": "https://github.com/topics/mov-cli-plugin"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/BMzC7ePsBV"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/mov-cli/mov-cli"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": null,
+    "subsubsection": null,
+    "title": "Gir Society",
+    "url": "https://discord.gg/WHxeZ3aTtb",
+    "description": "Plex + Jellyfin Public Playlist / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Gir Society",
+        "url": "https://discord.gg/WHxeZ3aTtb"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "Seanime",
+    "url": "https://seanime.app/",
+    "description": "Anime Streaming App / Windows, macOS, Linux / /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Seanime",
+        "url": "https://seanime.app/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/3AuhRGqUqh"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/5rahim/seanime"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "AnymeX",
+    "url": "https://anymex.vercel.app/",
+    "description": "Anime Streaming App / / Windows, macOS, Linux /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "AnymeX",
+        "url": "https://anymex.vercel.app/"
+      },
+      {
+        "text": "Extension Guide",
+        "url": "https://wotaku.wiki/ext/mangayomi"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/RyanYuuki/AnymeX"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "Anikin",
+    "url": "https://github.com/jerry08/Anikin",
+    "description": "Anime Streaming App / Windows /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Anikin",
+        "url": "https://github.com/jerry08/Anikin"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/U7XweVubJN"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "Mizuki",
+    "url": "http://mizuki.to/",
+    "description": "Anime Streaming App / Windows, macOS, Linux /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Mizuki",
+        "url": "http://mizuki.to/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/Anisurge/App"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "Unyo",
+    "url": "https://github.com/K3vinb5/Unyo",
+    "description": "Anime Streaming App / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Unyo",
+        "url": "https://github.com/K3vinb5/Unyo"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "⁠Tatakai",
+    "url": "https://tatakai.me/",
+    "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "⁠Tatakai",
+        "url": "https://tatakai.me/"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/TWmbr7NYAW"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/snozxyx/tatakai"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "Miru",
+    "url": "https://miru.js.org/en/",
+    "description": "Anime Streaming App / Windows, macOS, Linux / /",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "Miru",
+        "url": "https://miru.js.org/en/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/MiruChat"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/miru-project/miru-app"
+      }
+    ]
+  },
+  {
+    "page": "Streaming",
+    "section": "Streaming Apps",
+    "subsection": "Anime Streaming Apps",
+    "subsubsection": null,
+    "title": "ani-cli",
+    "url": "https://github.com/pystardust/ani-cli",
+    "description": "Anime Streaming CLI / Windows, macOS, Linux",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "ani-cli",
+        "url": "https://github.com/pystardust/ani-cli"
       }
     ]
   },
@@ -230464,24 +230284,6 @@
     "section": "Torrent Sites",
     "subsection": "Aggregators",
     "subsubsection": null,
-    "title": "DaMagNet",
-    "url": "https://damag.net/",
-    "description": "DHT-Based",
-    "starred": false,
-    "third_party_index": false,
-    "section_link": false,
-    "all_links": [
-      {
-        "text": "DaMagNet",
-        "url": "https://damag.net/"
-      }
-    ]
-  },
-  {
-    "page": "Torrenting",
-    "section": "Torrent Sites",
-    "subsection": "Aggregators",
-    "subsubsection": null,
     "title": "BT4G",
     "url": "https://bt4gprx.com/",
     "description": null,
@@ -230500,6 +230302,24 @@
     "section": "Torrent Sites",
     "subsection": "Aggregators",
     "subsubsection": null,
+    "title": "BTDigg",
+    "url": "https://btdig.com/",
+    "description": null,
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "BTDigg",
+        "url": "https://btdig.com/"
+      }
+    ]
+  },
+  {
+    "page": "Torrenting",
+    "section": "Torrent Sites",
+    "subsection": "Aggregators",
+    "subsubsection": null,
     "title": "FileMood",
     "url": "https://filemood.com/",
     "description": null,
@@ -230510,6 +230330,24 @@
       {
         "text": "FileMood",
         "url": "https://filemood.com/"
+      }
+    ]
+  },
+  {
+    "page": "Torrenting",
+    "section": "Torrent Sites",
+    "subsection": "Aggregators",
+    "subsubsection": null,
+    "title": "DaMagNet",
+    "url": "https://damag.net/",
+    "description": "DHT-Based",
+    "starred": false,
+    "third_party_index": false,
+    "section_link": false,
+    "all_links": [
+      {
+        "text": "DaMagNet",
+        "url": "https://damag.net/"
       }
     ]
   },
