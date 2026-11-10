@@ -240416,23 +240416,29 @@
   "verdict": "Effectively ad-free"
  },
  "tomarigi.me": {
-  "ad_domains": 0,
-  "ad_requests": 0,
-  "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-11T07:48:46+00:00",
+  "ad_domains": 5,
+  "ad_requests": 15,
+  "ad_slots": 1,
+  "ad_weight_pct": 5.4,
+  "checked_utc": "2026-11-10T08:49:26+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "D",
+  "networks": [
+   "4afd99adf16c078c541221cce953b998.safeframe.googlesyndication.com",
+   "cm.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "securepubads.g.doubleclick.net",
+   "tpc.googlesyndication.com"
+  ],
   "ok": true,
-  "page_kb": 5717,
+  "page_kb": 6200,
   "pages": [
    "Misc"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 54.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -240442,7 +240448,7 @@
   ],
   "trackers": 0,
   "url": "https://tomarigi.me/world",
-  "verdict": "Effectively ad-free"
+  "verdict": "Heavy advertising"
  },
  "tomlehrersongs.com": {
   "ad_domains": 0,
