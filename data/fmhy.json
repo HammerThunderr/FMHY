@@ -883,32 +883,6 @@
       "section": "Adblocking",
       "subsection": "DNS Providers",
       "subsubsection": null,
-      "title": "Rethink DNS Resolver",
-      "url": "https://rethinkdns.com/configure",
-      "description": "DNS Provider / Mix Multiple Blocklists / /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Rethink DNS Resolver",
-          "url": "https://rethinkdns.com/configure"
-        },
-        {
-          "text": "Subreddit",
-          "url": "https://www.reddit.com/r/rethinkdns/"
-        },
-        {
-          "text": "Telegram",
-          "url": "https://t.me/rethinkdns"
-        }
-      ]
-    },
-    {
-      "page": "Adblock",
-      "section": "Adblocking",
-      "subsection": "DNS Providers",
-      "subsubsection": null,
       "title": "Artemis",
       "url": "https://dns.fuzzing.uk/",
       "description": "Piracy Site DNS Resolver / US Servers /",
@@ -975,6 +949,32 @@
         {
           "text": "DNSBunker",
           "url": "https://dnsbunker.org/"
+        }
+      ]
+    },
+    {
+      "page": "Adblock",
+      "section": "Adblocking",
+      "subsection": "DNS Providers",
+      "subsubsection": null,
+      "title": "Rethink DNS Resolver",
+      "url": "https://rethinkdns.com/configure",
+      "description": "DNS Provider / Mix Multiple Blocklists / /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Rethink DNS Resolver",
+          "url": "https://rethinkdns.com/configure"
+        },
+        {
+          "text": "Subreddit",
+          "url": "https://www.reddit.com/r/rethinkdns/"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/rethinkdns"
         }
       ]
     },
@@ -3512,7 +3512,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
         }
       ]
     },
@@ -3542,7 +3542,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md"
         }
       ]
     },
@@ -14546,7 +14546,7 @@
         },
         {
           "text": "Discord",
-          "url": "https://discord.gg/aAvvUqxGjM"
+          "url": "https://discord.com/invite/Mk298GPZ7V"
         }
       ]
     },
@@ -16889,8 +16889,8 @@
           "url": "https://sastatus.com/"
         },
         {
-          "text": "Note",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-warning.md"
+          "text": "Warning",
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/sanet-critical.md"
         }
       ]
     },
@@ -18123,7 +18123,7 @@
       "subsubsection": null,
       "title": "Official YT Documentary Channels",
       "url": "https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries",
-      "description": "YouTube Documentary Channels",
+      "description": null,
       "starred": false,
       "third_party_index": true,
       "section_link": false,
@@ -18287,6 +18287,24 @@
         {
           "text": "Media Burn Archive",
           "url": "https://mediaburn.org/"
+        }
+      ]
+    },
+    {
+      "page": "Educational",
+      "section": "Documentaries",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "⁠TokyVideo",
+      "url": "https://www.tokyvideo.com/documentaries",
+      "description": null,
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠TokyVideo",
+          "url": "https://www.tokyvideo.com/documentaries"
         }
       ]
     },
@@ -52718,7 +52736,7 @@
         },
         {
           "text": "Site Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-critical.md"
         }
       ]
     },
@@ -53737,32 +53755,6 @@
         {
           "text": "⁠WFGames",
           "url": "https://wfgames.net/"
-        }
-      ]
-    },
-    {
-      "page": "Gaming",
-      "section": "Special Interest",
-      "subsection": "Indie Games",
-      "subsubsection": null,
-      "title": "Ninja Kiwi Archive",
-      "url": "https://ninjakiwi.com/archive",
-      "description": "Ninja Kiwi / Bloons Archive / /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Ninja Kiwi Archive",
-          "url": "https://ninjakiwi.com/archive"
-        },
-        {
-          "text": "Subreddit",
-          "url": "https://www.reddit.com/r/NinjaKiwiOfficial/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/ninjakiwi"
         }
       ]
     },
@@ -59029,7 +59021,7 @@
       "subsubsection": null,
       "title": "GFS Catalog",
       "url": "https://catalog.gfs-dlps.workers.dev/",
-      "description": "ROMs / PS5 /",
+      "description": "ROMs / PS5",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -59037,10 +59029,6 @@
         {
           "text": "GFS Catalog",
           "url": "https://catalog.gfs-dlps.workers.dev/"
-        },
-        {
-          "text": "Telegram",
-          "url": "https://t.me/+N6JTm3sdls04NzU9"
         }
       ]
     },
@@ -65729,6 +65717,28 @@
       "section": "Browser Games",
       "subsection": "Unblocked Games",
       "subsubsection": null,
+      "title": "Ivy",
+      "url": "https://ivy.rest/",
+      "description": "Browser Games / Ports /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Ivy",
+          "url": "https://ivy.rest/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/ivyubg"
+        }
+      ]
+    },
+    {
+      "page": "Gaming",
+      "section": "Browser Games",
+      "subsection": "Unblocked Games",
+      "subsubsection": null,
       "title": "Truffled",
       "url": "https://truffled.lol/g",
       "description": "Browser Games / Ports /",
@@ -68005,7 +68015,7 @@
       "subsubsection": null,
       "title": "Pixel Run",
       "url": "https://pixelrun.localplayer.dev/",
-      "description": "2D Pixel Runner / Platformer / /",
+      "description": "2D Pixel Runner / Platformer /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -68017,10 +68027,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/QZKEVEuFbh"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/Jimm144/pixel-run"
         }
       ]
     },
@@ -80291,7 +80297,7 @@
       "subsubsection": null,
       "title": "Waydroid",
       "url": "https://waydro.id/",
-      "description": "Containerized Android on Linux / / / /",
+      "description": "Containerized Android on Linux / / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -80303,10 +80309,6 @@
         {
           "text": "Scripts",
           "url": "https://github.com/casualsnek/waydroid_script"
-        },
-        {
-          "text": "Magisk Installer",
-          "url": "https://github.com/mistrmochov/WaydroidSU"
         },
         {
           "text": "WayDroid-ATV Images",
@@ -119053,8 +119055,8 @@
           "url": "https://t.me/liteapks"
         },
         {
-          "text": "Note",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md"
+          "text": "Warning",
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-critical.md"
         }
       ]
     },
@@ -119079,8 +119081,8 @@
           "url": "https://t.me/modyolo_official"
         },
         {
-          "text": "Note",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-note.md"
+          "text": "Warning",
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/liteapk-modyolo-critical.md"
         }
       ]
     },
@@ -121394,7 +121396,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/insta-android.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/insta-android-critical.md"
         }
       ]
     },
@@ -125274,7 +125276,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/devanced-image.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/devanced-image-critical.md"
         }
       ]
     },
@@ -132549,7 +132551,7 @@
       "subsubsection": null,
       "title": "Friend Activity",
       "url": "https://spotivity.me/",
-      "description": ", / / ,",
+      "description": ", / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -132573,10 +132575,6 @@
         {
           "text": "Improved Lyrics",
           "url": "https://github.com/WXRIW/Lyricify-App"
-        },
-        {
-          "text": "2",
-          "url": "https://github.com/LeNerd46/SpotifyPlus"
         }
       ]
     },
@@ -135656,7 +135654,7 @@
       "subsection": "Android Anime",
       "subsubsection": null,
       "title": "⁠Tatakai",
-      "url": "https://tatakai.me/",
+      "url": "https://tatakai.app/",
       "description": "Extension-Based / /",
       "starred": false,
       "third_party_index": false,
@@ -135664,7 +135662,7 @@
       "all_links": [
         {
           "text": "⁠Tatakai",
-          "url": "https://tatakai.me/"
+          "url": "https://tatakai.app/"
         },
         {
           "text": "Discord",
@@ -138828,7 +138826,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pangu7.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/pangu7-critical.md"
         }
       ]
     },
@@ -142694,7 +142692,7 @@
       "subsection": "iOS Anime",
       "subsubsection": null,
       "title": "⁠Tatakai",
-      "url": "https://tatakai.me/",
+      "url": "https://tatakai.app/",
       "description": "Extension-Based / /",
       "starred": false,
       "third_party_index": false,
@@ -142702,7 +142700,7 @@
       "all_links": [
         {
           "text": "⁠Tatakai",
-          "url": "https://tatakai.me/"
+          "url": "https://tatakai.app/"
         },
         {
           "text": "Discord",
@@ -148834,7 +148832,7 @@
       "subsection": null,
       "subsubsection": null,
       "title": "Android Spotify Tools",
-      "url": "https://fmhy.net/mobile#android-audio",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio",
       "description": null,
       "starred": false,
       "third_party_index": false,
@@ -148842,7 +148840,7 @@
       "all_links": [
         {
           "text": "Android Spotify Tools",
-          "url": "https://fmhy.net/mobile#android-audio"
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_audio"
         }
       ]
     },
@@ -148852,7 +148850,7 @@
       "subsection": null,
       "subsubsection": null,
       "title": "iOS Spotify Patchers",
-      "url": "https://fmhy.net/mobile#ios-audio",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio",
       "description": null,
       "starred": false,
       "third_party_index": false,
@@ -148860,7 +148858,7 @@
       "all_links": [
         {
           "text": "iOS Spotify Patchers",
-          "url": "https://fmhy.net/mobile#ios-audio"
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_audio"
         }
       ]
     },
@@ -149963,7 +149961,7 @@
       "section": "Audio Ripping",
       "subsection": "Audio Ripping Tools",
       "subsubsection": null,
-      "title": "[Mornye",
+      "title": "Mornye",
       "url": "https://desktop.mornye.com/",
       "description": "Amazon Music / Qobuz / Tidal / Deezer /",
       "starred": true,
@@ -149971,7 +149969,7 @@
       "section_link": false,
       "all_links": [
         {
-          "text": "[Mornye",
+          "text": "Mornye",
           "url": "https://desktop.mornye.com/"
         },
         {
@@ -154937,7 +154935,7 @@
       "subsubsection": null,
       "title": "Talk Classical List",
       "url": "https://talkclassical-list.github.io/",
-      "description": "Classical Music Recommendations /",
+      "description": "or / - Classical Music Recommendations",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -154947,8 +154945,16 @@
           "url": "https://talkclassical-list.github.io/"
         },
         {
-          "text": "Spotify Playlist",
+          "text": "Playlist",
           "url": "https://open.spotify.com/playlist/2ssmoEdwODoE2tPOAcvRge"
+        },
+        {
+          "text": "Classic FM Hall of Fame",
+          "url": "https://rateyourmusic.com/list/Iai/the_classic_fm_hall_of_fame/"
+        },
+        {
+          "text": "Playlist",
+          "url": "https://open.spotify.com/playlist/09abNWaCFQHJo2eqtNdfu8"
         }
       ]
     },
@@ -169263,32 +169269,6 @@
       "section": "German / Deutsch",
       "subsection": "Streaming",
       "subsubsection": null,
-      "title": "KinoX",
-      "url": "https://www.kinox.to/",
-      "description": ", , - Movies / TV / Anime",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "KinoX",
-          "url": "https://www.kinox.to/"
-        },
-        {
-          "text": "2",
-          "url": "https://www.kinos.to"
-        },
-        {
-          "text": "3",
-          "url": "https://www.kinoz.to"
-        }
-      ]
-    },
-    {
-      "page": "Non-Eng",
-      "section": "German / Deutsch",
-      "subsection": "Streaming",
-      "subsubsection": null,
       "title": "Kinoking",
       "url": "https://kinoking.cc/",
       "description": "Movies / TV / Anime / Dub / 1080p",
@@ -171497,7 +171477,7 @@
       "subsubsection": null,
       "title": "PlayTorrio",
       "url": "https://playtorrio.xyz/",
-      "description": ", - All Platforms / Use PlayTorrioHTTP Plugin / / /",
+      "description": ", - All Platforms / Use PlayTorrioHTTP Plugin / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -171517,10 +171497,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/bbkVHRHnRk"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/ayman708-UX/PlayTorrioV3"
         }
       ]
     },
@@ -182615,6 +182591,36 @@
       "section": "Spanish / Español",
       "subsection": "Streaming / Streamear",
       "subsubsection": null,
+      "title": "Cinubo",
+      "url": "https://cinubo.com/",
+      "description": "Movies / TV / Anime / Signup Required / / /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Cinubo",
+          "url": "https://cinubo.com/"
+        },
+        {
+          "text": "Status",
+          "url": "https://enlaces.ly/"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/seriesly"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/pmDQYHxjnA"
+        }
+      ]
+    },
+    {
+      "page": "Non-Eng",
+      "section": "Spanish / Español",
+      "subsection": "Streaming / Streamear",
+      "subsubsection": null,
       "title": "AnimeAV1",
       "url": "https://animeav1.com/",
       "description": "Anime",
@@ -182693,7 +182699,7 @@
       "subsubsection": null,
       "title": "PlayTorrio",
       "url": "https://playtorrio.xyz/",
-      "description": ", - All Platforms / Use PlayTorrioHTTP Plugin / / /",
+      "description": ", - All Platforms / Use PlayTorrioHTTP Plugin / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -182713,40 +182719,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/bbkVHRHnRk"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/ayman708-UX/PlayTorrioV3"
-        }
-      ]
-    },
-    {
-      "page": "Non-Eng",
-      "section": "Spanish / Español",
-      "subsection": "Streaming / Streamear",
-      "subsubsection": null,
-      "title": "Cinubo",
-      "url": "https://cinubo.com/",
-      "description": "Movies / TV / Anime / Signup Required / / /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Cinubo",
-          "url": "https://cinubo.com/"
-        },
-        {
-          "text": "Status",
-          "url": "https://enlaces.ly/"
-        },
-        {
-          "text": "Telegram",
-          "url": "https://t.me/seriesly"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/pmDQYHxjnA"
         }
       ]
     },
@@ -189352,7 +189324,7 @@
         },
         {
           "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-critical.md"
         }
       ]
     },
@@ -192944,7 +192916,7 @@
         },
         {
           "text": "Warning / Link Fix",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md"
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-critical.md"
         }
       ]
     },
@@ -209217,7 +209189,7 @@
       "subsubsection": null,
       "title": "7Movies",
       "url": "https://7movies.ac/",
-      "description": ", - Movies / TV / Anime / 4k / Auto-Next / / /",
+      "description": ", , - Movies / TV / Anime / 4k / Auto-Next / / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -209229,6 +209201,10 @@
         {
           "text": "2",
           "url": "https://7movies.ws/"
+        },
+        {
+          "text": "7Movies (st)",
+          "url": "https://7shows.st/"
         },
         {
           "text": "Mirrors",
@@ -209549,7 +209525,7 @@
       "subsubsection": null,
       "title": "Ghostflix",
       "url": "https://ghostflix.st/",
-      "description": ", , or - Movies / TV / Anime / Auto-Next / /",
+      "description": "or , - Movies / TV / Anime / Auto-Next / / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -209567,8 +209543,8 @@
           "url": "https://redflix.club/"
         },
         {
-          "text": "PantyFlix",
-          "url": "https://pantyflix.com/"
+          "text": "Status",
+          "url": "https://redflix.fans/"
         },
         {
           "text": "Invite",
@@ -209577,36 +209553,6 @@
         {
           "text": "Telegram",
           "url": "https://t.me/multichannelofficial"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "Chillflix",
-      "url": "https://chillflix.lol/",
-      "description": ", or - Movies / TV / Anime / Auto-Next / 4K /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Chillflix",
-          "url": "https://chillflix.lol/"
-        },
-        {
-          "text": "Vuflix",
-          "url": "https://vuflix.co/"
-        },
-        {
-          "text": "Toflix",
-          "url": "https://toflix.co/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.gg/6r5KTZgqXV"
         }
       ]
     },
@@ -209689,6 +209635,28 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
+      "title": "Movie Night",
+      "url": "https://movienig.ht/",
+      "description": "Movies / TV / Anime / Auto-Next /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Movie Night",
+          "url": "https://movienig.ht/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/kPJ2yJxYng"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
       "title": "Reelix",
       "url": "https://reelix.ac/",
       "description": "or - Movies / TV / Anime / Auto-Next",
@@ -209725,28 +209693,6 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/EPHJzCZEq"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "Movie Night",
-      "url": "https://movienig.ht/",
-      "description": "Movies / TV / Anime / Auto-Next /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Movie Night",
-          "url": "https://movienig.ht/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/kPJ2yJxYng"
         }
       ]
     },
@@ -209829,20 +209775,54 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
-      "title": "watched",
-      "url": "https://watched.cx/",
-      "description": "Movies / TV / Anime / Auto-Next /",
+      "title": "M-Zone",
+      "url": "https://m-zone.cc/",
+      "description": ", - Movies / TV / Anime / Auto-Next /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "watched",
-          "url": "https://watched.cx/"
+          "text": "M-Zone",
+          "url": "https://m-zone.cc/"
+        },
+        {
+          "text": "2",
+          "url": "https://m-zone.org/"
         },
         {
           "text": "Discord",
-          "url": "https://discord.gg/t8J7eyY2F"
+          "url": "https://discord.com/invite/PFvCNcZCQC"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
+      "title": "Chillflix",
+      "url": "https://chillflix.lol/",
+      "description": ", or - Movies / TV / Anime / Auto-Next / 4K /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Chillflix",
+          "url": "https://chillflix.lol/"
+        },
+        {
+          "text": "Vuflix",
+          "url": "https://vuflix.co/"
+        },
+        {
+          "text": "Toflix",
+          "url": "https://toflix.co/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/6r5KTZgqXV"
         }
       ]
     },
@@ -209991,32 +209971,6 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
-      "title": "M-Zone",
-      "url": "https://m-zone.cc/",
-      "description": ", - Movies / TV / Anime / Auto-Next /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "M-Zone",
-          "url": "https://m-zone.cc/"
-        },
-        {
-          "text": "2",
-          "url": "https://m-zone.org/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/PFvCNcZCQC"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
       "title": "Bingr",
       "url": "https://bingr.one/",
       "description": "Movies / TV / Anime /",
@@ -210031,6 +209985,28 @@
         {
           "text": "Discord",
           "url": "https://discord.com/invite/Dxq6bFv4FP"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
+      "title": "watched",
+      "url": "https://watched.cx/",
+      "description": "Movies / TV / Anime / Auto-Next /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "watched",
+          "url": "https://watched.cx/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.gg/t8J7eyY2F"
         }
       ]
     },
@@ -210257,7 +210233,7 @@
       "subsubsection": null,
       "title": "Sleepy",
       "url": "https://sleepy.lat/",
-      "description": "Movies / TV / Anime / Auto-Next /",
+      "description": "Movies / TV / Anime / Auto-Next / 4K /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -210891,7 +210867,7 @@
       "subsubsection": null,
       "title": "NEPU",
       "url": "https://nepu.io/",
-      "description": ", , , - Movies / TV / Anime / Auto-Next / 4K / /",
+      "description": ", ), - Movies / TV / Anime / Auto-Next / 4K / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -210902,15 +210878,11 @@
         },
         {
           "text": "2",
-          "url": "https://nepu.io/"
+          "url": "https://nepu.is/"
         },
         {
           "text": "3",
           "url": "https://nepu.app/"
-        },
-        {
-          "text": "4",
-          "url": "https://nepu.is/"
         },
         {
           "text": "Status",
@@ -210950,7 +210922,7 @@
       "subsection": "Dedicated-Server",
       "subsubsection": null,
       "title": "PressPlay",
-      "url": "https://pressplayx.to/",
+      "url": "https://pressplayz.top/",
       "description": "Movies / TV / Anime /",
       "starred": true,
       "third_party_index": false,
@@ -210958,11 +210930,29 @@
       "all_links": [
         {
           "text": "PressPlay",
-          "url": "https://pressplayx.to/"
+          "url": "https://pressplayz.top/"
         },
         {
           "text": "Discord",
           "url": "https://discord.com/invite/r4QrghF4B9"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Dedicated-Server",
+      "subsubsection": null,
+      "title": "arc018",
+      "url": "https://arc018.stream/",
+      "description": "Movies / TV / Anime",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "arc018",
+          "url": "https://arc018.stream/"
         }
       ]
     },
@@ -211007,78 +210997,6 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "Flixtrz",
-      "url": "https://flixtrz.com/",
-      "description": "Movies / TV / Anime / Auto-Next",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Flixtrz",
-          "url": "https://flixtrz.com/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Dedicated-Server",
-      "subsubsection": null,
-      "title": "CyberMovies",
-      "url": "https://cybermovies.ru/",
-      "description": "Movies / TV / Anime / Auto-Next",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "CyberMovies",
-          "url": "https://cybermovies.ru/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Dedicated-Server",
-      "subsubsection": null,
-      "title": "Abibli",
-      "url": "https://abibli.com/",
-      "description": "Movies / TV",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Abibli",
-          "url": "https://abibli.com/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Dedicated-Server",
-      "subsubsection": null,
-      "title": "SoapGo",
-      "url": "https://soapgo.to/",
-      "description": "Movies / TV / Anime",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "SoapGo",
-          "url": "https://soapgo.to/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Dedicated-Server",
-      "subsubsection": null,
       "title": "CinemaCity",
       "url": "https://cinemacity.cc/",
       "description": "Movies / TV / Anime / Requires Sign-Up /",
@@ -211101,16 +211019,56 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "arc018",
-      "url": "https://arc018.stream/",
-      "description": "Movies / TV / Anime",
+      "title": "Flixtrz",
+      "url": "https://flixtrz.com/",
+      "description": "Movies / TV / Anime / Auto-Next",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "arc018",
-          "url": "https://arc018.stream/"
+          "text": "Flixtrz",
+          "url": "https://flixtrz.com/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Dedicated-Server",
+      "subsubsection": null,
+      "title": "ShowBox",
+      "url": "https://www.showbox.media/",
+      "description": "Movies / TV / Anime / Use",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "ShowBox",
+          "url": "https://www.showbox.media/"
+        },
+        {
+          "text": "Throwaway Gmail",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Dedicated-Server",
+      "subsubsection": null,
+      "title": "Abibli",
+      "url": "https://abibli.com/",
+      "description": "Movies / TV",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Abibli",
+          "url": "https://abibli.com/"
         }
       ]
     },
@@ -211159,24 +211117,6 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "AZMovies",
-      "url": "https://azmovies.to/",
-      "description": "Movies / TV / Anime / Some 3rd Party Hosts",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "AZMovies",
-          "url": "https://azmovies.to/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Dedicated-Server",
-      "subsubsection": null,
       "title": "OnionPlay",
       "url": "https://onionplay.ae/",
       "description": "Movies / TV / Anime /",
@@ -211199,20 +211139,16 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "ShowBox",
-      "url": "https://www.showbox.media/",
-      "description": "Movies / TV / Anime / Use",
+      "title": "AZMovies",
+      "url": "https://azmovies.to/",
+      "description": "Movies / TV / Anime / Some 3rd Party Hosts",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "ShowBox",
-          "url": "https://www.showbox.media/"
-        },
-        {
-          "text": "Throwaway Gmail",
-          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail"
+          "text": "AZMovies",
+          "url": "https://azmovies.to/"
         }
       ]
     },
@@ -211221,16 +211157,20 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "FshareTV",
-      "url": "https://fsharetv.co/",
-      "description": "Movies",
+      "title": "M4uHD",
+      "url": "https://m4uhd.vip",
+      "description": "Movies / TV / Anime /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "FshareTV",
-          "url": "https://fsharetv.co/"
+          "text": "M4uHD",
+          "url": "https://m4uhd.vip"
+        },
+        {
+          "text": "Clones",
+          "url": "https://rentry.co/sflix#streamm4u-clones"
         }
       ]
     },
@@ -211261,20 +211201,16 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
-      "title": "M4uHD",
-      "url": "https://m4uhd.vip",
-      "description": "Movies / TV / Anime /",
+      "title": "FshareTV",
+      "url": "https://fsharetv.co/",
+      "description": "Movies",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "M4uHD",
-          "url": "https://m4uhd.vip"
-        },
-        {
-          "text": "Clones",
-          "url": "https://rentry.co/sflix#streamm4u-clones"
+          "text": "FshareTV",
+          "url": "https://fsharetv.co/"
         }
       ]
     },
@@ -211401,6 +211337,28 @@
         {
           "text": "4",
           "url": "https://nmovies.cc/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Dedicated-Server",
+      "subsubsection": null,
+      "title": "SubSL",
+      "url": "https://subsl.top/",
+      "description": "Movies / TV /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "SubSL",
+          "url": "https://subsl.top/"
+        },
+        {
+          "text": "Telegram",
+          "url": "https://t.me/Subsl_top"
         }
       ]
     },
@@ -211647,10 +211605,40 @@
       "section": "Streaming Sites",
       "subsection": "Multi-Server",
       "subsubsection": null,
+      "title": "Primeshows",
+      "url": "https://www.primeshows.org/",
+      "description": ", , - Movies / TV / Anime /",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Primeshows",
+          "url": "https://www.primeshows.org/"
+        },
+        {
+          "text": "NetShows",
+          "url": "https://netshows.xyz/"
+        },
+        {
+          "text": "YouShows",
+          "url": "https://youshows.org/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/nmtywkrZjd"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Multi-Server",
+      "subsubsection": null,
       "title": "CineWave",
       "url": "https://watch.cinewave.qzz.io/",
       "description": "Movies / TV / Anime / Auto-Next",
-      "starred": true,
+      "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
@@ -211687,36 +211675,6 @@
         {
           "text": "Telegram",
           "url": "https://t.me/HDHYDRAHD"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Multi-Server",
-      "subsubsection": null,
-      "title": "Primeshows",
-      "url": "https://www.primeshows.org/",
-      "description": ", , - Movies / TV / Anime /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Primeshows",
-          "url": "https://www.primeshows.org/"
-        },
-        {
-          "text": "NetShows",
-          "url": "https://netshows.xyz/"
-        },
-        {
-          "text": "YouShows",
-          "url": "https://youshows.org/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/nmtywkrZjd"
         }
       ]
     },
@@ -212039,6 +211997,32 @@
         {
           "text": "CineNest",
           "url": "https://cine-nest-nine.vercel.app/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Multi-Server",
+      "subsubsection": null,
+      "title": "WatchSeries",
+      "url": "https://watchseries.cool/",
+      "description": ", - Movies / TV / Anime /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "WatchSeries",
+          "url": "https://watchseries.cool/"
+        },
+        {
+          "text": "2",
+          "url": "https://watchseries.bar/"
+        },
+        {
+          "text": "Mirrors",
+          "url": "https://Watchseries.domains/"
         }
       ]
     },
@@ -213441,6 +213425,24 @@
       "section": "Streaming Sites",
       "subsection": "Video Streaming",
       "subsubsection": null,
+      "title": "⁠TokyVideo",
+      "url": "https://www.tokyvideo.com/",
+      "description": null,
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠TokyVideo",
+          "url": "https://www.tokyvideo.com/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Video Streaming",
+      "subsubsection": null,
       "title": "⁠Vanillo",
       "url": "https://vanillo.tv/",
       "description": null,
@@ -214715,7 +214717,7 @@
       "subsubsection": null,
       "title": "AnimeStream",
       "url": "https://anime.uniquestream.net/",
-      "description": "Sub / 720p",
+      "description": "Sub",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -214803,6 +214805,28 @@
         {
           "text": "⁠AnimoTVSlash",
           "url": "https://animotvslash.org/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Specialty Streaming",
+      "subsection": "Anime Streaming",
+      "subsubsection": null,
+      "title": "Yenime",
+      "url": "https://yenime.net/",
+      "description": "Sub / Dub /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Yenime",
+          "url": "https://yenime.net/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/yPxFt6tFRw"
         }
       ]
     },
@@ -214997,28 +215021,6 @@
       "section": "Specialty Streaming",
       "subsection": "Anime Streaming",
       "subsubsection": null,
-      "title": "Yenime",
-      "url": "https://yenime.net/",
-      "description": "Sub / Dub /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Yenime",
-          "url": "https://yenime.net/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/yPxFt6tFRw"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Specialty Streaming",
-      "subsection": "Anime Streaming",
-      "subsubsection": null,
       "title": "⁠Shonen",
       "url": "https://shonen.to/",
       "description": "Sub / Dub / Auto-Next",
@@ -215039,7 +215041,7 @@
       "subsubsection": null,
       "title": "⁠Tatakai",
       "url": "https://tatakai.me/browse",
-      "description": "Sub / Dub / Extension-Based",
+      "description": "Sub / Dub",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -215111,7 +215113,7 @@
       "subsubsection": null,
       "title": "AnimeLover",
       "url": "https://animelover.site/",
-      "description": "Sub / Dub /",
+      "description": "Sub / Dub",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -215119,10 +215121,6 @@
         {
           "text": "AnimeLover",
           "url": "https://animelover.site/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/3q2t7cssg"
         }
       ]
     },
@@ -218464,19 +218462,27 @@
       "subsection": "Live Sports",
       "subsubsection": null,
       "title": "DamiTV",
-      "url": "https://damitv.st/",
-      "description": "or /",
+      "url": "https://damitv.st/livetv",
+      "description": "or , , /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
           "text": "DamiTV",
-          "url": "https://damitv.st/"
+          "url": "https://damitv.st/livetv"
         },
         {
-          "text": "90minutes",
+          "text": "OnDemand",
+          "url": "https://ondemand.st/"
+        },
+        {
+          "text": "2",
           "url": "https://www.90minutes.pro/"
+        },
+        {
+          "text": "3",
+          "url": "https://ondemand.to"
         },
         {
           "text": "Discord",
@@ -218889,7 +218895,7 @@
       "subsubsection": null,
       "title": "Tap4Sport",
       "url": "https://tap4sport.st/",
-      "description": ", , / /",
+      "description": ", , /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -218909,10 +218915,6 @@
         {
           "text": "Status",
           "url": "http://tap4sport.link/"
-        },
-        {
-          "text": "TG",
-          "url": "https://t.me/+LWp6SUzrbVUwZjE0"
         }
       ]
     },
@@ -223152,7 +223154,7 @@
       "subsection": "Anime Streaming Apps",
       "subsubsection": null,
       "title": "⁠Tatakai",
-      "url": "https://tatakai.me/",
+      "url": "https://tatakai.app/",
       "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / /",
       "starred": false,
       "third_party_index": false,
@@ -223160,7 +223162,7 @@
       "all_links": [
         {
           "text": "⁠Tatakai",
-          "url": "https://tatakai.me/"
+          "url": "https://tatakai.app/"
         },
         {
           "text": "Discord",
@@ -224663,8 +224665,8 @@
           "url": "https://discord.gg/GwDraJjMga"
         },
         {
-          "text": "Note",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/yts-yify-note.md"
+          "text": "Warning",
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/yts-yify-critical.md"
         }
       ]
     },
@@ -226165,7 +226167,7 @@
       "subsubsection": null,
       "title": "⁠StrexoPlayer",
       "url": "https://strexoplayer.onrender.com/",
-      "description": "Video Player w/ Stremio Sync /",
+      "description": "Video Player w/ Stremio Sync",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -226173,10 +226175,6 @@
         {
           "text": "⁠StrexoPlayer",
           "url": "https://strexoplayer.onrender.com/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.gg/PEHZnB5B"
         }
       ]
     },
@@ -226266,7 +226264,7 @@
       "subsection": "Android TV / Firestick",
       "subsubsection": null,
       "title": "⁠Tatakai",
-      "url": "https://tatakai.me/",
+      "url": "https://tatakai.app/",
       "description": "Anime Streaming App / Extension-Based / /",
       "starred": false,
       "third_party_index": false,
@@ -226274,7 +226272,7 @@
       "all_links": [
         {
           "text": "⁠Tatakai",
-          "url": "https://tatakai.me/"
+          "url": "https://tatakai.app/"
         },
         {
           "text": "Discord",
