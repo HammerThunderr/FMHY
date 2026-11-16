@@ -30500,13 +30500,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-02T07:31:51+00:00",
+  "checked_utc": "2026-11-16T08:35:06+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 2,
+  "page_kb": 4,
   "pages": [
    "Streaming"
   ],
@@ -97126,13 +97126,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-02T07:31:51+00:00",
-  "error": "blocked: bot challenge page",
-  "fails": 3,
+  "checked_utc": "2026-11-16T08:35:06+00:00",
+  "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://go.aftvnews.com/\nCall log:\n  - navigating to \"https://go.aftvnews.co",
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 89,
+  "page_kb": 0,
   "pages": [
    "Streaming"
   ],
@@ -97140,9 +97140,9 @@
   "refs": 1,
   "score": 100.0,
   "starred": 1,
-  "status": "blocked",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "403 - Forbidden",
+  "title": "Downloader App",
   "topics": [
    "Smart TV"
   ],
@@ -255942,13 +255942,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-02T07:31:51+00:00",
+  "checked_utc": "2026-11-16T08:35:06+00:00",
   "error": "blocked: bot challenge page",
-  "fails": 3,
+  "fails": 4,
   "grade": "A+",
   "networks": [],
   "ok": false,
-  "page_kb": 1,
+  "page_kb": 2,
   "pages": [
    "Music"
   ],
@@ -316795,28 +316795,36 @@
   "verdict": "Heavy advertising"
  },
  "www.japanesewithanime.com": {
-  "ad_domains": 4,
-  "ad_requests": 17,
+  "ad_domains": 12,
+  "ad_requests": 43,
   "ad_slots": 5,
-  "ad_weight_pct": 46.0,
-  "checked_utc": "2026-10-17T06:11:15+00:00",
+  "ad_weight_pct": 45.1,
+  "checked_utc": "2026-11-16T08:35:06+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "b1sync.outbrain.com",
+   "bid.g.doubleclick.net",
+   "cm.g.doubleclick.net",
+   "gcdn.2mdn.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "rr2---sn-vgqsrnsy.c.2mdn.net",
    "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "www.googletagmanager.com",
+   "www.googletagservices.com"
   ],
   "ok": true,
-  "page_kb": 1132,
+  "page_kb": 1456,
   "pages": [
    "Educational"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 22.0,
+  "score": 4.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -316824,7 +316832,7 @@
   "topics": [
    "Courses"
   ],
-  "trackers": 1,
+  "trackers": 2,
   "url": "https://www.japanesewithanime.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -356555,27 +356563,27 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-17T06:11:15+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-16T08:35:06+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 1375,
+  "ok": false,
+  "page_kb": 1557,
   "pages": [
    "Gaming"
   ],
   "popups": 0,
   "refs": 1,
-  "score": 99.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Stevv Game - Repack PC Games Download",
+  "title": "https://www.stevvgame.com/",
   "topics": [
    "Game Downloads"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://www.stevvgame.com/",
   "verdict": "Effectively ad-free"
  },
