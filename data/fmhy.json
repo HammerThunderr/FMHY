@@ -1005,13 +1005,17 @@
       "section": "Adblocking",
       "subsection": "DNS Providers",
       "subsubsection": null,
-      "title": "DNS for Family",
-      "url": "https://dnsforfamily.com/",
-      "description": "Family Filtering with Safe Search & Malware Protection / German + Finnish Servers",
+      "title": "CleanBrowsing",
+      "url": "https://cleanbrowsing.org/filters/",
+      "description": "or - Family Filtering with Safe Search & Malware Protection",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
+        {
+          "text": "CleanBrowsing",
+          "url": "https://cleanbrowsing.org/filters/"
+        },
         {
           "text": "DNS for Family",
           "url": "https://dnsforfamily.com/"
@@ -7739,36 +7743,6 @@
       "section": "AI Chatbots",
       "subsection": "Official Model Sites",
       "subsubsection": null,
-      "title": "DeepSeek",
-      "url": "https://chat.deepseek.com/",
-      "description": "DeepSeek V4.1 Flash 1017 / Sign-Up / / /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "DeepSeek",
-          "url": "https://chat.deepseek.com/"
-        },
-        {
-          "text": "Subreddit",
-          "url": "https://www.reddit.com/r/DeepSeek/"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/Tc7c45Zzu5"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/deepseek-ai"
-        }
-      ]
-    },
-    {
-      "page": "Artificial-Intelligence",
-      "section": "AI Chatbots",
-      "subsection": "Official Model Sites",
-      "subsubsection": null,
       "title": "Qwen Studio",
       "url": "https://chat.qwen.ai/",
       "description": "Qwen4 Max / No Sign-Up / Agent / Clear Cookies to Reset Limits / / /",
@@ -7847,6 +7821,36 @@
         {
           "text": "Discord",
           "url": "https://discord.com/invite/gemini"
+        }
+      ]
+    },
+    {
+      "page": "Artificial-Intelligence",
+      "section": "AI Chatbots",
+      "subsection": "Official Model Sites",
+      "subsubsection": null,
+      "title": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "description": "DeepSeek V4.1 Flash 1017 / Sign-Up / / /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "DeepSeek",
+          "url": "https://chat.deepseek.com/"
+        },
+        {
+          "text": "Subreddit",
+          "url": "https://www.reddit.com/r/DeepSeek/"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/Tc7c45Zzu5"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/deepseek-ai"
         }
       ]
     },
@@ -11981,7 +11985,7 @@
       "subsubsection": null,
       "title": "Suno",
       "url": "https://suno.com/",
-      "description": "10 Daily / /",
+      "description": "10 Daily / / /",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -11989,6 +11993,10 @@
         {
           "text": "Suno",
           "url": "https://suno.com/"
+        },
+        {
+          "text": "Downloader",
+          "url": "https://sunopull.com/"
         },
         {
           "text": "Guide",
@@ -20045,6 +20053,24 @@
         {
           "text": "Museo",
           "url": "https://museo.app/"
+        }
+      ]
+    },
+    {
+      "page": "Educational",
+      "section": "Learning Sites",
+      "subsection": "Art Galleries / Collections",
+      "subsubsection": null,
+      "title": "⁠Artnap",
+      "url": "https://artnap.com/",
+      "description": "Art Collections / Public-Domain Image Search",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Artnap",
+          "url": "https://artnap.com/"
         }
       ]
     },
@@ -35403,7 +35429,7 @@
       "subsubsection": null,
       "title": "SpeedCubeDB",
       "url": "https://speedcubedb.com/",
-      "description": "Algorithm Database",
+      "description": "or - Algorithm Databases",
       "starred": true,
       "third_party_index": false,
       "section_link": false,
@@ -35411,6 +35437,10 @@
         {
           "text": "SpeedCubeDB",
           "url": "https://speedcubedb.com/"
+        },
+        {
+          "text": "SpeedcubeQuest",
+          "url": "https://speedcube.quest/"
         }
       ]
     },
@@ -49419,6 +49449,28 @@
         {
           "text": "LearnedEasy",
           "url": "https://learnedeasy.com/"
+        }
+      ]
+    },
+    {
+      "page": "Educational",
+      "section": "Educational Tools",
+      "subsection": "Study Tools",
+      "subsubsection": null,
+      "title": "⁠LearnHarness",
+      "url": "https://learnharness.ai/",
+      "description": "AI Learning Agent /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠LearnHarness",
+          "url": "https://learnharness.ai/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/amosblomqvist/learnharness"
         }
       ]
     },
@@ -77464,19 +77516,15 @@
       "subsection": "Linux Gaming",
       "subsubsection": null,
       "title": "DLSS5VKLayer",
-      "url": "https://www.phoronix.com/news/DLSS5VKLayer",
-      "description": "Vulkan DLSS 5 Neural Rendering Layer /",
+      "url": "https://github.com/bmitch87/DLSS5VKLayerr",
+      "description": "Vulkan DLSS 5 Neural Rendering Layer",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
           "text": "DLSS5VKLayer",
-          "url": "https://www.phoronix.com/news/DLSS5VKLayer"
-        },
-        {
-          "text": "GitHub",
-          "url": "https://github.com/bmitch87/DLSS5VKLayer"
+          "url": "https://github.com/bmitch87/DLSS5VKLayerr"
         }
       ]
     },
@@ -77703,28 +77751,28 @@
       "section": "Linux Apps",
       "subsection": "Linux Gaming",
       "subsubsection": null,
-      "title": "Sober",
-      "url": "https://sober.vinegarhq.org/",
-      "description": "or - Roblox on Linux /",
+      "title": "⁠Nightcap",
+      "url": "https://coderdayton.github.io/nightcap/",
+      "description": "Roblox on Linux / / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "Sober",
-          "url": "https://sober.vinegarhq.org/"
+          "text": "⁠Nightcap",
+          "url": "https://coderdayton.github.io/nightcap/"
         },
         {
-          "text": "⁠Nightcap",
-          "url": "https://github.com/CoderDayton/nightcap"
+          "text": "Vinegar (Studio Only)",
+          "url": "https://vinegarhq.org/"
         },
         {
           "text": "Discord",
           "url": "https://discord.com/invite/DbAUG9hBFU"
         },
         {
-          "text": "Vinegar (Studio Only)",
-          "url": "https://vinegarhq.org/"
+          "text": "GitHub",
+          "url": "https://github.com/CoderDayton/nightcap"
         }
       ]
     },
@@ -85915,7 +85963,7 @@
       "subsubsection": null,
       "title": "Pearcleaner",
       "url": "https://itsalin.com/appInfo/?id=pearcleaner",
-      "description": "System Cleanup / Uninstaller /",
+      "description": "or - System Cleanup / Uninstallers",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -85927,6 +85975,10 @@
         {
           "text": "GitHub",
           "url": "https://github.com/alienator88/Pearcleaner"
+        },
+        {
+          "text": "⁠MacLean",
+          "url": "https://github.com/Hasan72341/maclean"
         }
       ]
     },
@@ -102081,7 +102133,7 @@
       "subsubsection": null,
       "title": "CleanBrowsing",
       "url": "https://cleanbrowsing.org/filters/",
-      "description": "Family DNS Filters",
+      "description": "or - Family DNS Filters",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -102089,6 +102141,10 @@
         {
           "text": "CleanBrowsing",
           "url": "https://cleanbrowsing.org/filters/"
+        },
+        {
+          "text": "DNS for Family",
+          "url": "https://dnsforfamily.com/"
         }
       ]
     },
@@ -123255,6 +123311,24 @@
       "section": "Android Device",
       "subsection": "Customization",
       "subsubsection": null,
+      "title": "⁠Apple Walls",
+      "url": "https://applewalls.com/",
+      "description": "Apple Wallpapers",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Apple Walls",
+          "url": "https://applewalls.com/"
+        }
+      ]
+    },
+    {
+      "page": "Mobile",
+      "section": "Android Device",
+      "subsection": "Customization",
+      "subsubsection": null,
       "title": "r/Amoledbackgrounds",
       "url": "https://www.reddit.com/r/Amoledbackgrounds/",
       "description": "Amoled Wallpapers ⁠",
@@ -124453,6 +124527,24 @@
       "section": "Android Device",
       "subsection": "Root Managers",
       "subsubsection": null,
+      "title": "Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": null,
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Magisk",
+          "url": "https://github.com/topjohnwu/Magisk"
+        }
+      ]
+    },
+    {
+      "page": "Mobile",
+      "section": "Android Device",
+      "subsection": "Root Managers",
+      "subsubsection": null,
       "title": "KernelSU",
       "url": "https://kernelsu.org/",
       "description": null,
@@ -124467,24 +124559,6 @@
         {
           "text": "GitHub",
           "url": "https://github.com/tiann/KernelSU"
-        }
-      ]
-    },
-    {
-      "page": "Mobile",
-      "section": "Android Device",
-      "subsection": "Root Managers",
-      "subsubsection": null,
-      "title": "Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": null,
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Magisk",
-          "url": "https://github.com/topjohnwu/Magisk"
         }
       ]
     },
@@ -124825,7 +124899,7 @@
       "subsubsection": null,
       "title": "⁠AsteroidOS",
       "url": "https://asteroidos.org/",
-      "description": "Linux Distro for Smart Watches",
+      "description": "Linux Distro for Smart Watches /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -124833,6 +124907,10 @@
         {
           "text": "⁠AsteroidOS",
           "url": "https://asteroidos.org/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/AsteroidOS/"
         }
       ]
     },
@@ -132617,32 +132695,6 @@
       "section": "Android Audio",
       "subsection": null,
       "subsubsection": null,
-      "title": "Orpheon",
-      "url": "https://github.com/kota-zo/Orpheon",
-      "description": "or - Spotify App /",
-      "starred": true,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Orpheon",
-          "url": "https://github.com/kota-zo/Orpheon"
-        },
-        {
-          "text": "Spotify (official)",
-          "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
-        },
-        {
-          "text": "Warning",
-          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md"
-        }
-      ]
-    },
-    {
-      "page": "Mobile",
-      "section": "Android Audio",
-      "subsection": null,
-      "subsubsection": null,
       "title": "⁠Seal+",
       "url": "https://sealplus.in/",
       "description": "or - Multi-Site Audio Downloader",
@@ -132857,6 +132909,28 @@
         {
           "text": "MaterialPods",
           "url": "https://play.google.com/store/apps/details?id=com.pryshedko.materialpods"
+        }
+      ]
+    },
+    {
+      "page": "Mobile",
+      "section": "Android Audio",
+      "subsection": null,
+      "subsubsection": null,
+      "title": "Spotify (official)",
+      "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+      "description": "Spotify App /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Spotify (official)",
+          "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
+        },
+        {
+          "text": "Warning",
+          "url": "https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/android-spotify-note.md"
         }
       ]
     },
@@ -143921,6 +143995,28 @@
         {
           "text": "Flow Desktop",
           "url": "https://github.com/Flow-Tube/Flow-Desktop"
+        }
+      ]
+    },
+    {
+      "page": "Music",
+      "section": "Audio Streaming",
+      "subsection": "Streaming Apps",
+      "subsubsection": null,
+      "title": "⁠ytm-rs",
+      "url": "https://grapedjuice.github.io/ytm-rs/",
+      "description": "YouTube Music Client /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠ytm-rs",
+          "url": "https://grapedjuice.github.io/ytm-rs/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/grapedjuice/ytm-rs"
         }
       ]
     },
@@ -162833,6 +162929,24 @@
         {
           "text": "Telegram",
           "url": "https://t.me/AldiwanNet"
+        }
+      ]
+    },
+    {
+      "page": "Non-Eng",
+      "section": "Arabic / العربية",
+      "subsection": "Reading / القراءة",
+      "subsubsection": null,
+      "title": "⁠Torath",
+      "url": "https://arabicheritagearchive.org/",
+      "description": "Educational Periodicals",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Torath",
+          "url": "https://arabicheritagearchive.org/"
         }
       ]
     },
@@ -186497,6 +186611,24 @@
       "section": "Vietnamese / Tiếng Việt",
       "subsection": null,
       "subsubsection": null,
+      "title": "⁠Zalo Morphe Patches",
+      "url": "https://github.com/zeldrisho/morphe-patches",
+      "description": "Morphe Patches / Vietnamese",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠Zalo Morphe Patches",
+          "url": "https://github.com/zeldrisho/morphe-patches"
+        }
+      ]
+    },
+    {
+      "page": "Non-Eng",
+      "section": "Vietnamese / Tiếng Việt",
+      "subsection": null,
+      "subsubsection": null,
       "title": "Quantrimang",
       "url": "https://quantrimang.com/",
       "description": "or - Tech News",
@@ -186712,7 +186844,7 @@
       "subsection": "Streaming / Phát trực tuyến",
       "subsubsection": null,
       "title": "AnimeTVN",
-      "url": "https://animetvn.com/",
+      "url": "https://animetvn.gay/",
       "description": "Anime / Chinese Animation / Sub / 1080p",
       "starred": false,
       "third_party_index": false,
@@ -186720,7 +186852,7 @@
       "all_links": [
         {
           "text": "AnimeTVN",
-          "url": "https://animetvn.com/"
+          "url": "https://animetvn.gay/"
         }
       ]
     },
@@ -186730,7 +186862,7 @@
       "subsection": "Streaming / Phát trực tuyến",
       "subsubsection": null,
       "title": "AnimeVietsub",
-      "url": "https://animevietsub.link/",
+      "url": "https://animevietsub.bid/",
       "description": "Anime / Chinese Animation / Sub / 1080p /",
       "starred": false,
       "third_party_index": false,
@@ -186738,7 +186870,7 @@
       "all_links": [
         {
           "text": "AnimeVietsub",
-          "url": "https://animevietsub.link/"
+          "url": "https://animevietsub.bid/"
         },
         {
           "text": "Telegram",
@@ -209375,7 +209507,7 @@
       "subsubsection": null,
       "title": "adblocker",
       "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking",
-      "description": "(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on the / .",
+      "description": "(full version of uBlock Origin), and keep in mind some sites have no popups/redirect ads, or allow you to turn them off in settings. We note popup/redirect ad statuses of each site, as well as their other respective pros & cons on the / . Stars and superstars rotate seperately daily to keep things fair (top super moves to bottom super, top normal moves to bottom normal daily).",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -209391,24 +209523,6 @@
         {
           "text": "2",
           "url": "https://fmhy-grading.pages.dev/"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "Movy",
-      "url": "https://www.movy.sx/",
-      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Movy",
-          "url": "https://www.movy.sx/"
         }
       ]
     },
@@ -209634,7 +209748,7 @@
         },
         {
           "text": "2",
-          "url": "https://neonflix.st/"
+          "url": "https://arrowtv.st/"
         },
         {
           "text": "Cinezo",
@@ -209651,24 +209765,16 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
-      "title": "SweetFox",
-      "url": "https://sweetfox.app/",
-      "description": ", or - 4K / Dual Audio / External Subs / Ad-Toggle",
-      "starred": true,
+      "title": "Movy",
+      "url": "https://www.movy.sx/",
+      "description": "4K / Dual Audio / External Subs / Ad-Toggle",
+      "starred": false,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
         {
-          "text": "SweetFox",
-          "url": "https://sweetfox.app/"
-        },
-        {
-          "text": "2",
-          "url": "http://sweetfox.st"
-        },
-        {
-          "text": "67Movies",
-          "url": "https://67movies.st/"
+          "text": "Movy",
+          "url": "https://www.movy.sx/"
         }
       ]
     },
@@ -209993,6 +210099,32 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
+      "title": "SweetFox",
+      "url": "https://sweetfox.app/",
+      "description": ", or - 4K / Dual Audio / External Subs / Ad-Toggle",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "SweetFox",
+          "url": "https://sweetfox.app/"
+        },
+        {
+          "text": "2",
+          "url": "http://sweetfox.st"
+        },
+        {
+          "text": "67Movies",
+          "url": "https://67movies.st/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
       "title": "BingeBang",
       "url": "https://bingebang.st/",
       "description": "4K / External Subs / Popup + Redirect Free / /",
@@ -210033,6 +210165,28 @@
         {
           "text": "Afterdusk",
           "url": "https://afterdusk.app/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
+      "title": "Bingr",
+      "url": "https://bingr.st/home",
+      "description": "1080p / Dual Audio / External Subs / Ad-Toggle /",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Bingr",
+          "url": "https://bingr.st/home"
+        },
+        {
+          "text": "Discord",
+          "url": "https://discord.com/invite/Dxq6bFv4FP"
         }
       ]
     },
@@ -210253,7 +210407,7 @@
       "subsubsection": null,
       "title": "ThugTV",
       "url": "https://thugtv.online/",
-      "description": "1080p / Dual Audio / Ad-Toggle / /",
+      "description": ", - 1080p / Dual Audio / Ad-Toggle / /",
       "starred": false,
       "third_party_index": false,
       "section_link": false,
@@ -210263,34 +210417,16 @@
           "url": "https://thugtv.online/"
         },
         {
+          "text": "2",
+          "url": "https://thugtv.st"
+        },
+        {
           "text": "Telegram",
           "url": "https://t.me/thugtvonline"
         },
         {
           "text": "Discord",
           "url": "https://discord.gg/kZWYkvuGhM"
-        }
-      ]
-    },
-    {
-      "page": "Streaming",
-      "section": "Streaming Sites",
-      "subsection": "Stream Aggregators",
-      "subsubsection": null,
-      "title": "Bingr",
-      "url": "https://bingr.st/home",
-      "description": "1080p / Dual Audio / External Subs / Ad-Toggle /",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "Bingr",
-          "url": "https://bingr.st/home"
-        },
-        {
-          "text": "Discord",
-          "url": "https://discord.com/invite/Dxq6bFv4FP"
         }
       ]
     },
@@ -210395,6 +210531,24 @@
       "section": "Streaming Sites",
       "subsection": "Stream Aggregators",
       "subsubsection": null,
+      "title": "Bowd",
+      "url": "https://bowdtv.com/",
+      "description": "1080p / Dual Audio / Pop up + Redirect Free",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Bowd",
+          "url": "https://bowdtv.com/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
       "title": "CinemaOS",
       "url": "https://cinemaos.live/",
       "description": ", , , - 1080p / Dual Audio / External Subs / Ad-Toggle /",
@@ -210421,6 +210575,24 @@
         {
           "text": "Discord",
           "url": "https://discord.gg/38yFnFCJnA"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Stream Aggregators",
+      "subsubsection": null,
+      "title": "Vumeto",
+      "url": "https://vumeto.live/",
+      "description": "4K / Dual Audio / Pop up + Redirect Free",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Vumeto",
+          "url": "https://vumeto.live/"
         }
       ]
     },
@@ -211379,6 +211551,24 @@
       "section": "Streaming Sites",
       "subsection": "Dedicated-Server",
       "subsubsection": null,
+      "title": "Play4u",
+      "url": "https://play4u.org/",
+      "description": "1080p / Dual Audio / Popup + Redirect Free",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Play4u",
+          "url": "https://play4u.org/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Dedicated-Server",
+      "subsubsection": null,
       "title": "OnionPlay",
       "url": "https://onionplay.ae/",
       "description": "1080p / Switch to Dedicated First Player /",
@@ -212021,6 +212211,24 @@
         {
           "text": "Fireflix",
           "url": "https://fireflix4.pages.dev/"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Streaming Sites",
+      "subsection": "Multi-Server",
+      "subsubsection": null,
+      "title": "Comvie",
+      "url": "https://comvie.lol/",
+      "description": "39 Sources / Popup + Redirect Free",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "Comvie",
+          "url": "https://comvie.lol/"
         }
       ]
     },
@@ -214578,7 +214786,7 @@
       "subsection": "Anime Streaming",
       "subsubsection": null,
       "title": "Anidap",
-      "url": "https://anidap.lol/",
+      "url": "https://anidap.lol",
       "description": "Sub / Dub / Auto-Next /",
       "starred": true,
       "third_party_index": false,
@@ -214586,11 +214794,29 @@
       "all_links": [
         {
           "text": "Anidap",
-          "url": "https://anidap.lol/"
+          "url": "https://anidap.lol"
         },
         {
           "text": "Discord",
           "url": "https://discord.gg/CGZEvjx53u"
+        }
+      ]
+    },
+    {
+      "page": "Streaming",
+      "section": "Specialty Streaming",
+      "subsection": "Anime Streaming",
+      "subsubsection": null,
+      "title": "⁠AniXo",
+      "url": "https://anixo.online/home",
+      "description": "Sub / Dub / Auto-Next",
+      "starred": true,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "⁠AniXo",
+          "url": "https://anixo.online/home"
         }
       ]
     },
@@ -231419,28 +231645,10 @@
       "section": "Torrent Clients",
       "subsection": "qBittorrent Tools",
       "subsubsection": null,
-      "title": "qBitMF",
-      "url": "https://github.com/qBitMF/qBitMF",
-      "description": "Multi-Connection Tool",
-      "starred": false,
-      "third_party_index": false,
-      "section_link": false,
-      "all_links": [
-        {
-          "text": "qBitMF",
-          "url": "https://github.com/qBitMF/qBitMF"
-        }
-      ]
-    },
-    {
-      "page": "Torrenting",
-      "section": "Torrent Clients",
-      "subsection": "qBittorrent Tools",
-      "subsubsection": null,
       "title": "⁠qui",
       "url": "https://getqui.com/",
       "description": ", / or - Alt WebUIs",
-      "starred": false,
+      "starred": true,
       "third_party_index": false,
       "section_link": false,
       "all_links": [
@@ -231463,6 +231671,24 @@
         {
           "text": "iQbit",
           "url": "https://github.com/ntoporcov/iQbit"
+        }
+      ]
+    },
+    {
+      "page": "Torrenting",
+      "section": "Torrent Clients",
+      "subsection": "qBittorrent Tools",
+      "subsubsection": null,
+      "title": "qBitMF",
+      "url": "https://github.com/qBitMF/qBitMF",
+      "description": "Multi-Connection Tool",
+      "starred": false,
+      "third_party_index": false,
+      "section_link": false,
+      "all_links": [
+        {
+          "text": "qBitMF",
+          "url": "https://github.com/qBitMF/qBitMF"
         }
       ]
     },
