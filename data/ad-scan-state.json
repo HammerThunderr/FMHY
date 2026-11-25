@@ -4206,8 +4206,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 16.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -4215,13 +4215,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1072,
+  "page_kb": 1060,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.8,
+  "score": 86.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -10475,7 +10475,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -11266,13 +11266,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 10693,
+  "page_kb": 11974,
   "pages": [
    "Non-Eng"
   ],
@@ -11282,7 +11282,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "ani-cli-arabic",
+  "title": "ani-cli-arabic \u00b7 Direct Terminal Anime Streamer & Downloader",
   "topics": [
    "Non-English"
   ],
@@ -20342,12 +20342,12 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "Error: Page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://ar.mo3jam.com/\nCall log:\n  - navigating to \"https://ar.mo3jam",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
+  "ok": false,
   "page_kb": 0,
   "pages": [
    "Non-Eng"
@@ -20356,9 +20356,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "offline",
   "sticky_ads": 0,
-  "title": "Coming soon....",
+  "title": "Mo3jam",
   "topics": [
    "Non-English"
   ],
@@ -20425,36 +20425,28 @@
   "verdict": "Moderate advertising"
  },
  "arabicfonts.net": {
-  "ad_domains": 14,
-  "ad_requests": 131,
-  "ad_slots": 7,
-  "ad_weight_pct": 74.1,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 4,
+  "ad_requests": 60,
+  "ad_slots": 6,
+  "ad_weight_pct": 72.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "api-taboola.com",
-   "cdn.taboola.com",
-   "cds.taboola.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "images.taboola.com",
    "pagead2.googlesyndication.com",
-   "rtb-csync.smartadserver.com",
-   "s0.2mdn.net",
    "tpc.googlesyndication.com",
-   "trc.taboola.com"
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2546,
+  "page_kb": 1867,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 7.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -20739,36 +20731,33 @@
   "verdict": "Effectively ad-free"
  },
  "archive.alsharekh.org": {
-  "ad_domains": 2,
-  "ad_requests": 3,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 20.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "B",
-  "networks": [
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 1418,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.6,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "\u0623\u0631\u0634\u064a\u0641 \u0627\u0644\u0634\u0627\u0631\u062e \u0644\u0644\u0645\u062c\u0644\u0627\u062a \u0627\u0644\u0623\u062f\u0628\u064a\u0629 \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0640\u0629",
+  "title": "Back soon | \u0646\u0639\u0648\u062f \u0642\u0631\u064a\u0628\u0627\u064b",
   "topics": [
    "Non-English"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://archive.alsharekh.org/",
-  "verdict": "Light advertising"
+  "verdict": "Effectively ad-free"
  },
  "archive.dappermink.me": {
   "ad_domains": 0,
@@ -22475,13 +22464,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 104,
+  "page_kb": 95,
   "pages": [
    "Music"
   ],
@@ -24132,13 +24121,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4681,
+  "page_kb": 4667,
   "pages": [
    "Music"
   ],
@@ -24536,15 +24525,15 @@
  },
  "audiotag.info": {
   "ad_domains": 6,
-  "ad_requests": 49,
+  "ad_requests": 59,
   "ad_slots": 4,
-  "ad_weight_pct": 66.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 68.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
+   "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
@@ -24552,21 +24541,21 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1347,
+  "page_kb": 1743,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 15.5,
+  "score": 11.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "AudioTag.info | Free music recognition robot",
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://audiotag.info/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -24738,7 +24727,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -27575,29 +27564,27 @@
   "verdict": "Effectively ad-free"
  },
  "banglaclassicbooks.blogspot.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
-  "networks": [
-   "pagead2.googlesyndication.com"
-  ],
-  "ok": true,
-  "page_kb": 3826,
+  "networks": [],
+  "ok": false,
+  "page_kb": 1562,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 95.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Bangla Classic Books - An online e-Library",
+  "title": "https://banglaclassicbooks.blogspot.com/",
   "topics": [
    "Non-English"
   ],
@@ -28137,7 +28124,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -29053,7 +29040,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -29236,10 +29223,10 @@
  },
  "beets.io": {
   "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -29248,13 +29235,13 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1085,
+  "page_kb": 1118,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.0,
+  "score": 88.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -29365,34 +29352,30 @@
   "verdict": "Very clean"
  },
  "bengaliebook.com": {
-  "ad_domains": 7,
-  "ad_requests": 53,
-  "ad_slots": 9,
-  "ad_weight_pct": 45.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 3,
+  "ad_requests": 41,
+  "ad_slots": 8,
+  "ad_weight_pct": 37.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2411,
+  "page_kb": 2198,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 15.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "\u09ac\u09be\u0982\u09b2\u09be \u09ac\u0987 \u09ab\u09cd\u09b0\u09bf \u09a4\u09c7 \u09aa\u09dc\u09c1\u09a8 \u0993 \u09a1\u09be\u0989\u09a8\u09b2\u09cb\u09a1 \u0995\u09b0\u09c1\u09a8\u0964Bengali Book Free read and Download",
   "topics": [
    "Non-English"
@@ -30956,31 +30939,30 @@
   "verdict": "Effectively ad-free"
  },
  "bigsoundbank.com": {
-  "ad_domains": 7,
-  "ad_requests": 40,
+  "ad_domains": 6,
+  "ad_requests": 25,
   "ad_slots": 2,
-  "ad_weight_pct": 75.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 79.3,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "ag.innovid.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1215,
+  "page_kb": 1220,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 22.5,
+  "score": 26.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -30988,7 +30970,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 3,
+  "trackers": 2,
   "url": "https://bigsoundbank.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -31675,39 +31657,39 @@
   "verdict": "Effectively ad-free"
  },
  "bitmidi.com": {
-  "ad_domains": 15,
-  "ad_requests": 58,
-  "ad_slots": 3,
-  "ad_weight_pct": 73.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 40,
+  "ad_requests": 210,
+  "ad_slots": 4,
+  "ad_weight_pct": 80.7,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "c1.adform.net",
+   "cdn.doubleverify.com",
+   "cdn.flashtalking.com",
    "ce.lijit.com",
    "cm.g.doubleclick.net",
-   "eb2.3lift.com",
-   "googleads.g.doubleclick.net",
-   "match.sharethrough.com",
-   "pagead2.googlesyndication.com",
-   "partners.tremorhub.com",
-   "pixel.quantserve.com",
-   "rtb-csync.smartadserver.com",
-   "rules.quantcount.com",
-   "secure.quantserve.com",
-   "sync.taboola.com"
+   "content.quantcount.com",
+   "creative-measurement.quantcount.com",
+   "d9.flashtalking.com",
+   "dis.criteo.com",
+   "dsp.adkernel.com",
+   "dt.adsafeprotected.com"
   ],
   "ok": true,
-  "page_kb": 1353,
+  "page_kb": 2546,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 13.5,
+  "score": 3.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Popular MIDIs \u2014 BitMidi",
   "topics": [
    "Audio Tools"
@@ -33148,13 +33130,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 739,
+  "page_kb": 735,
   "pages": [
    "Non-Eng"
   ],
@@ -42957,8 +42939,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 1.9,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 2.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -42967,7 +42949,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9093,
+  "page_kb": 8659,
   "pages": [
    "Non-Eng"
   ],
@@ -43088,36 +43070,37 @@
   "verdict": "Effectively ad-free"
  },
  "chordly.co.uk": {
-  "ad_domains": 2,
-  "ad_requests": 17,
-  "ad_slots": 3,
-  "ad_weight_pct": 13.9,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 3,
+  "ad_requests": 37,
+  "ad_slots": 4,
+  "ad_weight_pct": 22.6,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2145,
+  "page_kb": 2655,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 46.5,
+  "score": 24.7,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Chordly | Free Chord Sheet Maker & Chord Chart Creator Online",
   "topics": [
    "Audio Tools"
   ],
   "trackers": 0,
   "url": "https://chordly.co.uk/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "chords.yottanami.com": {
   "ad_domains": 1,
@@ -45441,7 +45424,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -45451,7 +45434,7 @@
    "unitedstateslibraryofcongress.demdex.net"
   ],
   "ok": true,
-  "page_kb": 1492,
+  "page_kb": 1491,
   "pages": [
    "Music"
   ],
@@ -52127,13 +52110,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1257,
+  "page_kb": 2635,
   "pages": [
    "Music"
   ],
@@ -65368,13 +65351,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 867,
+  "page_kb": 868,
   "pages": [
    "Music"
   ],
@@ -72145,13 +72128,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 6924,
+  "page_kb": 2825,
   "pages": [
    "Non-Eng"
   ],
@@ -75496,8 +75479,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -75505,13 +75488,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2763,
+  "page_kb": 2764,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.1,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -78621,8 +78604,8 @@
   "ad_domains": 4,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 28.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 15.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -78633,13 +78616,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1881,
+  "page_kb": 3522,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 63.5,
+  "score": 70.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -79094,7 +79077,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -79103,7 +79086,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2582,
+  "page_kb": 2655,
   "pages": [
    "Music"
   ],
@@ -80252,8 +80235,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 37.7,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 37.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -80261,7 +80244,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 427,
+  "page_kb": 428,
   "pages": [
    "Music"
   ],
@@ -87754,29 +87737,27 @@
   "verdict": "Effectively ad-free"
  },
  "foulabook.com": {
-  "ad_domains": 5,
-  "ad_requests": 48,
+  "ad_domains": 3,
+  "ad_requests": 20,
   "ad_slots": 3,
-  "ad_weight_pct": 69.1,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 41.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3291,
+  "page_kb": 1798,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 23.0,
+  "score": 29.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -87786,7 +87767,7 @@
   ],
   "trackers": 4,
   "url": "https://foulabook.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "foundation.mozilla.org": {
   "ad_domains": 1,
@@ -90857,7 +90838,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -100225,45 +100206,37 @@
   "verdict": "Very clean"
  },
  "granthagara.com": {
-  "ad_domains": 11,
-  "ad_requests": 45,
-  "ad_slots": 3,
-  "ad_weight_pct": 61.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 3,
+  "ad_requests": 23,
+  "ad_slots": 2,
+  "ad_weight_pct": 50.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "api-taboola.com",
-   "cdn.taboola.com",
-   "cds.taboola.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "images.taboola.com",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1646,
+  "page_kb": 1286,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.0,
+  "score": 35.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Welcome To Granthagara - Granthagara",
   "topics": [
    "Non-English"
   ],
   "trackers": 2,
   "url": "https://granthagara.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "grantkot.com": {
   "ad_domains": 0,
@@ -123711,7 +123684,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -128051,8 +128024,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 12.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 5.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -128060,13 +128033,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1324,
+  "page_kb": 2806,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.8,
+  "score": 92.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -137603,7 +137576,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -138673,13 +138646,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 82,
+  "page_kb": 77,
   "pages": [
    "Music"
   ],
@@ -139590,7 +139563,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -140408,32 +140381,32 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 22.3,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3241,
+  "page_kb": 802,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.8,
+  "score": 83.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "FilmCity12 - \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0645",
+  "title": "FilmCity12 | \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0623\u0641\u0644\u0627\u0645",
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://m.filmcity12.com/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "m.mojevideo.sk": {
   "ad_domains": 19,
@@ -147746,13 +147719,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 784,
+  "page_kb": 874,
   "pages": [
    "Music"
   ],
@@ -149858,7 +149831,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -151498,13 +151471,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1573,
+  "page_kb": 1577,
   "pages": [
    "Music"
   ],
@@ -152512,13 +152485,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 128,
+  "page_kb": 118,
   "pages": [
    "Music"
   ],
@@ -152929,13 +152902,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 23242,
+  "page_kb": 23545,
   "pages": [
    "Music"
   ],
@@ -153296,7 +153269,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -153839,8 +153812,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 21.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 21.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -153848,13 +153821,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 739,
+  "page_kb": 740,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.2,
+  "score": 84.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -155959,13 +155932,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 362,
+  "page_kb": 401,
   "pages": [
    "Music"
   ],
@@ -156272,13 +156245,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4936,
+  "page_kb": 7670,
   "pages": [
    "Music"
   ],
@@ -164328,7 +164301,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -164713,19 +164686,19 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 5663,
+  "page_kb": 5699,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 99.5,
+  "score": 96.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -164733,7 +164706,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 1,
+  "trackers": 8,
   "url": "https://noramusic.netlify.app/",
   "verdict": "Effectively ad-free"
  },
@@ -169311,7 +169284,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -172021,13 +171994,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 33,
+  "page_kb": 34,
   "pages": [
    "Music"
   ],
@@ -175941,7 +175914,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -180594,13 +180567,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 43,
+  "page_kb": 10513,
   "pages": [
    "Music"
   ],
@@ -186719,7 +186692,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -186808,13 +186781,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 3044,
+  "page_kb": 3220,
   "pages": [
    "Music"
   ],
@@ -186833,35 +186806,29 @@
   "verdict": "Effectively ad-free"
  },
  "plugins4free.com": {
-  "ad_domains": 11,
-  "ad_requests": 69,
+  "ad_domains": 5,
+  "ad_requests": 54,
   "ad_slots": 4,
-  "ad_weight_pct": 55.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 46.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "api-taboola.com",
-   "cdn.taboola.com",
-   "cds.taboola.com",
-   "cm.g.doubleclick.net",
+   "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "images.taboola.com",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
-   "us-trc-events.taboola.com"
+   "s0.2mdn.net",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 2119,
+  "page_kb": 1868,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 10.0,
+  "score": 20.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -190634,36 +190601,36 @@
   "verdict": "Effectively ad-free"
  },
  "presetshare.com": {
-  "ad_domains": 47,
-  "ad_requests": 171,
-  "ad_slots": 5,
-  "ad_weight_pct": 23.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 53,
+  "ad_requests": 180,
+  "ad_slots": 6,
+  "ad_weight_pct": 15.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "819cbc3f92ad8f0f622cdc86d8f11d5c.safeframe.googlesyndication.com",
+   "40dfda50a74f474c6ac12b2625834aea.safeframe.googlesyndication.com",
+   "aa.agkn.com",
    "ad.doubleclick.net",
+   "ads.pubmatic.com",
    "ap.lijit.com",
+   "c1.adform.net",
    "cdn.id5-sync.com",
    "ce.lijit.com",
+   "cm.adform.net",
    "cm.g.doubleclick.net",
    "cms.quantserve.com",
-   "cs.media.net",
-   "dt.adsafeprotected.com",
-   "eb2.3lift.com",
-   "eus.rubiconproject.com",
-   "fw.adsafeprotected.com"
+   "contextual.media.net"
   ],
   "ok": true,
-  "page_kb": 8976,
+  "page_kb": 9541,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 2.5,
+  "score": 0.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -190671,7 +190638,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 2,
+  "trackers": 4,
   "url": "https://presetshare.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -194525,7 +194492,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -194541,7 +194508,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\u09b8\u09b9\u099c \u09ad\u09be\u09b7\u09be\u09af\u09bc \u09aa\u09be\u0987\u09a5\u09a8 | \u09b8\u09b9\u099c \u09ad\u09be\u09b7\u09be\u09df \u09aa\u09be\u0987\u09a5\u09a8",
+  "title": "\u09b8\u09b9\u099c \u09ad\u09be\u09b7\u09be\u09af\u09bc \u09aa\u09be\u0987\u09a5\u09a8 \u2022 \u09b8\u09b9\u099c \u09ad\u09be\u09b7\u09be\u09df \u09aa\u09be\u0987\u09a5\u09a8",
   "topics": [
    "Non-English"
   ],
@@ -198680,13 +198647,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1023,
+  "page_kb": 1024,
   "pages": [
    "Music"
   ],
@@ -205507,7 +205474,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -206513,7 +206480,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -214606,7 +214573,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -215302,8 +215269,8 @@
   "ad_domains": 2,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 4.1,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 6.4,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -215312,13 +215279,13 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 6136,
+  "page_kb": 3931,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.0,
+  "score": 81.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -215392,8 +215359,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 35.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 19.6,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -215401,13 +215368,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 460,
+  "page_kb": 838,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.0,
+  "score": 84.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -215846,8 +215813,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 22.2,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 22.3,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -215856,13 +215823,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1390,
+  "page_kb": 1391,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.4,
+  "score": 76.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -217224,7 +217191,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 3.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -217233,7 +217200,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9263,
+  "page_kb": 9264,
   "pages": [
    "Music"
   ],
@@ -219328,26 +219295,28 @@
   "verdict": "Effectively ad-free"
  },
  "slowedandreverb.studio": {
-  "ad_domains": 2,
-  "ad_requests": 7,
-  "ad_slots": 0,
-  "ad_weight_pct": 39.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 4,
+  "ad_requests": 22,
+  "ad_slots": 1,
+  "ad_weight_pct": 47.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "C",
+  "grade": "E",
   "networks": [
+   "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 629,
+  "page_kb": 865,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.5,
+  "score": 38.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -219357,7 +219326,7 @@
   ],
   "trackers": 0,
   "url": "https://slowedandreverb.studio/",
-  "verdict": "Moderate advertising"
+  "verdict": "Very heavy advertising"
  },
  "slowroads.io": {
   "ad_domains": 0,
@@ -221661,29 +221630,28 @@
   "verdict": "Very clean"
  },
  "songfinder.dev": {
-  "ad_domains": 5,
-  "ad_requests": 60,
-  "ad_slots": 7,
-  "ad_weight_pct": 64.4,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 4,
+  "ad_requests": 55,
+  "ad_slots": 2,
+  "ad_weight_pct": 59.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1583,
+  "page_kb": 1784,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 4.5,
+  "score": 27.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -221696,36 +221664,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "songfinder.gg": {
-  "ad_domains": 78,
-  "ad_requests": 340,
-  "ad_slots": 8,
-  "ad_weight_pct": 16.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 98,
+  "ad_requests": 857,
+  "ad_slots": 4,
+  "ad_weight_pct": 21.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "a567f2b8fb0606fa25f7625ec3afac8d.safeframe.googlesyndication.com",
    "aa.agkn.com",
+   "aax-eu.amazon-adsystem.com",
+   "acdn.adnxs.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
-   "api.id5-sync.com",
+   "apps.smartadserver.com",
    "at.teads.tv",
    "b1sync.outbrain.com",
    "bcp.crwdcntrl.net",
    "c1.adform.net",
-   "cdn.id5-sync.com",
-   "ce.lijit.com"
+   "c21lg-d.media.net"
   ],
   "ok": true,
-  "page_kb": 4322,
+  "page_kb": 4319,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 5.8,
+  "score": 14.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -221733,7 +221701,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://songfinder.gg/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -221770,10 +221738,10 @@
  },
  "songguesser.com": {
   "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -221782,13 +221750,13 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 1096,
+  "page_kb": 1129,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.0,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -221875,8 +221843,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 38.9,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 39.4,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -221885,7 +221853,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 469,
+  "page_kb": 472,
   "pages": [
    "Non-Eng"
   ],
@@ -222030,10 +221998,10 @@
  },
  "songstems.net": {
   "ad_domains": 4,
-  "ad_requests": 8,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 14.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 49.4,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -222044,13 +222012,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3025,
+  "page_kb": 924,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.2,
+  "score": 62.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -222243,13 +222211,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 276,
+  "page_kb": 606,
   "pages": [
    "Music"
   ],
@@ -222640,7 +222608,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -223056,7 +223024,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -223291,35 +223259,33 @@
   "verdict": "Effectively ad-free"
  },
  "sovietbooksinbengali.blogspot.com": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "pagead2.googlesyndication.com"
-  ],
-  "ok": true,
-  "page_kb": 2672,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1562,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 94.5,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Soviet Books Translated in Bengali",
+  "title": "https://sovietbooksinbengali.blogspot.com/",
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://sovietbooksinbengali.blogspot.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "sovietmoviesonline.com": {
   "ad_domains": 2,
@@ -223997,7 +223963,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -224144,13 +224110,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "TimeoutError: Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"http://spectro.enpts.com/\", waiting until \"domcontentl",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 3,
+  "ok": false,
+  "page_kb": 0,
   "pages": [
    "Music"
   ],
@@ -224158,9 +224124,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "error",
   "sticky_ads": 0,
-  "title": "Spectro - Freeware Audio File Analyzer",
+  "title": "Spectro",
   "topics": [
    "Audio Tools"
   ],
@@ -233934,8 +233900,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.2,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 1.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -233943,13 +233909,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7935,
+  "page_kb": 9368,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.9,
+  "score": 94.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -245461,13 +245427,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 15064,
+  "page_kb": 18245,
   "pages": [
    "Music"
   ],
@@ -254292,13 +254258,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 653,
+  "page_kb": 662,
   "pages": [
    "Music"
   ],
@@ -254308,7 +254274,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Untitled - UltraBox 2.2.17",
+  "title": "Untitled - UltraBox 2.2.18",
   "topics": [
    "Audio Tools"
   ],
@@ -257608,7 +257574,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -260280,36 +260246,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "virtualpiano.net": {
-  "ad_domains": 105,
-  "ad_requests": 661,
+  "ad_domains": 118,
+  "ad_requests": 729,
   "ad_slots": 4,
-  "ad_weight_pct": 17.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 36.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "37acd62ef45a22588c872b19868155a1.safeframe.googlesyndication.com",
    "aa.agkn.com",
-   "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.scorecardresearch.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
-   "api.id5-sync.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net"
+   "bcp.crwdcntrl.net",
+   "be.durationmedia.net"
   ],
   "ok": true,
-  "page_kb": 5809,
+  "page_kb": 6716,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 8.2,
+  "score": 2.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -261416,7 +261382,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -261425,7 +261391,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 2197,
+  "page_kb": 2270,
   "pages": [
    "Music"
   ],
@@ -262704,7 +262670,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -265419,7 +265385,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -265428,7 +265394,7 @@
    "static.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 3814,
+  "page_kb": 3851,
   "pages": [
    "Music"
   ],
@@ -275438,18 +275404,17 @@
   "verdict": "Very clean"
  },
  "www.24livenewspaper.com": {
-  "ad_domains": 8,
-  "ad_requests": 38,
-  "ad_slots": 5,
-  "ad_weight_pct": 90.7,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 7,
+  "ad_requests": 21,
+  "ad_slots": 2,
+  "ad_weight_pct": 85.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "c846d4687fc5ccd86ce82eef12f11f58.safeframe.googlesyndication.com",
+   "7f4a9700a3a1b8cdab382e858bc342b2.safeframe.googlesyndication.com",
    "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
    "stats.g.doubleclick.net",
@@ -275457,13 +275422,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 964,
+  "page_kb": 774,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 5.0,
+  "score": 23.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -276597,13 +276562,13 @@
  },
  "www.abjjad.com": {
   "ad_domains": 5,
-  "ad_requests": 11,
+  "ad_requests": 8,
   "ad_slots": 0,
-  "ad_weight_pct": 12.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 15.3,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "C",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
@@ -276612,13 +276577,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4673,
+  "page_kb": 2915,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 55.9,
+  "score": 58.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -276628,7 +276593,7 @@
   ],
   "trackers": 13,
   "url": "https://www.abjjad.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Moderate advertising"
  },
  "www.abrathatfits.org": {
   "ad_domains": 0,
@@ -277467,36 +277432,32 @@
   "verdict": "Effectively ad-free"
  },
  "www.aha-music.com": {
-  "ad_domains": 20,
-  "ad_requests": 46,
+  "ad_domains": 8,
+  "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 23.7,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 41.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "D",
   "networks": [
    "ads.pubmatic.com",
-   "ads.yieldmo.com",
-   "cdn.indexww.com",
-   "dsum-sec.casalemedia.com",
-   "dsum.casalemedia.com",
-   "eus.rubiconproject.com",
    "gum.criteo.com",
    "id.crwdcntrl.net",
    "js-sec.indexww.com",
    "match.adsrvr.org",
-   "pixel-us-east.rubiconproject.com",
-   "pixel.rubiconproject.com"
+   "ssum-sec.casalemedia.com",
+   "ut.pubmatic.com",
+   "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 571,
+  "page_kb": 734,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 33.2,
+  "score": 44.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -277504,9 +277465,9 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://www.aha-music.com/identify-songs-music-recognition-online",
-  "verdict": "Very heavy advertising"
+  "verdict": "Heavy advertising"
  },
  "www.aimp.ru": {
   "ad_domains": 0,
@@ -277723,13 +277684,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 74,
+  "page_kb": 82,
   "pages": [
    "Music"
   ],
@@ -277808,30 +277769,28 @@
   "verdict": "Effectively ad-free"
  },
  "www.al-fann.net": {
-  "ad_domains": 6,
-  "ad_requests": 33,
+  "ad_domains": 4,
+  "ad_requests": 13,
   "ad_slots": 1,
-  "ad_weight_pct": 50.9,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 46.7,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "D",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1572,
+  "page_kb": 1380,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 31.5,
+  "score": 48.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -277841,14 +277800,14 @@
   ],
   "trackers": 1,
   "url": "https://www.al-fann.net/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Heavy advertising"
  },
  "www.alarabimag.com": {
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 20.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 20.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -277856,7 +277815,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 782,
+  "page_kb": 795,
   "pages": [
    "Non-Eng"
   ],
@@ -278013,8 +277972,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 11.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 11.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -278023,13 +277982,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1588,
+  "page_kb": 1565,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.3,
+  "score": 83.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -278844,79 +278803,68 @@
   "verdict": "Effectively ad-free"
  },
  "www.amarboi.com": {
-  "ad_domains": 7,
-  "ad_requests": 80,
-  "ad_slots": 7,
-  "ad_weight_pct": 4.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "static.doubleclick.net",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 26219,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1562,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.1,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Amarboi.com",
+  "title": "https://www.amarboi.com/",
   "topics": [
    "Non-English"
   ],
-  "trackers": 5,
+  "trackers": 0,
   "url": "https://www.amarboi.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.amarbooks.org": {
-  "ad_domains": 8,
-  "ad_requests": 73,
-  "ad_slots": 3,
-  "ad_weight_pct": 39.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 5,
+  "ad_requests": 22,
+  "ad_slots": 2,
+  "ad_weight_pct": 29.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
    "bcp.crwdcntrl.net",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "match.adsrvr.org",
    "pagead2.googlesyndication.com",
-   "securepubads.g.doubleclick.net",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3146,
+  "page_kb": 2386,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 10.5,
+  "score": 30.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Bangla Book Download >> Bangla PDF Books",
   "topics": [
    "Non-English"
   ],
   "trackers": 1,
   "url": "https://www.amarbooks.org/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.amazon.com": {
   "ad_domains": 0,
@@ -280144,36 +280092,36 @@
   "verdict": "Light advertising"
  },
  "www.animesonglyrics.com": {
-  "ad_domains": 54,
-  "ad_requests": 115,
+  "ad_domains": 31,
+  "ad_requests": 63,
   "ad_slots": 0,
-  "ad_weight_pct": 14.1,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 12.8,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
    "aax.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "ads.scorecardresearch.com",
-   "ap.lijit.com",
-   "api.id5-sync.com",
    "bcp.crwdcntrl.net",
-   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
-   "direct.adsrvr.org"
+   "dpm.demdex.net",
+   "eb2.3lift.com",
+   "fid.agkn.com",
+   "googleads.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 6682,
+  "page_kb": 7336,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 36.0,
+  "score": 36.6,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -281335,13 +281283,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 198,
+  "page_kb": 562,
   "pages": [
    "Non-Eng"
   ],
@@ -283398,13 +283346,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1662,
+  "page_kb": 3639,
   "pages": [
    "Music"
   ],
@@ -283906,27 +283854,28 @@
   "verdict": "Effectively ad-free"
  },
  "www.banglabook.org": {
-  "ad_domains": 3,
-  "ad_requests": 5,
+  "ad_domains": 4,
+  "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 49.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 42.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
+   "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1143,
+  "page_kb": 1413,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.0,
+  "score": 59.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -283939,38 +283888,30 @@
   "verdict": "Moderate advertising"
  },
  "www.banglabooks.in": {
-  "ad_domains": 11,
-  "ad_requests": 90,
-  "ad_slots": 7,
-  "ad_weight_pct": 50.2,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 3,
+  "ad_requests": 28,
+  "ad_slots": 5,
+  "ad_weight_pct": 36.7,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "api-taboola.com",
-   "cdn.taboola.com",
-   "cds.taboola.com",
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "gumi.criteo.com",
-   "images.taboola.com",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
-   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2867,
+  "page_kb": 2041,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 20.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Bengali Book pdf collection | Bangla eBooks pdf",
   "topics": [
    "Non-English"
@@ -283981,10 +283922,10 @@
  },
  "www.banglabookshelf.com": {
   "ad_domains": 5,
-  "ad_requests": 16,
+  "ad_requests": 17,
   "ad_slots": 1,
-  "ad_weight_pct": 55.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 55.6,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -283996,13 +283937,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1394,
+  "page_kb": 1415,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 40.5,
+  "score": 39.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -291788,42 +291729,33 @@
   "verdict": "Effectively ad-free"
  },
  "www.classic-rock-covers.com": {
-  "ad_domains": 8,
-  "ad_requests": 84,
-  "ad_slots": 6,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "d.agkn.com",
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "static.doubleclick.net",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 14803,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 3515,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "120,000+ Classic Rock Album Covers Database (1948-2026)",
+  "title": "https://www.classic-rock-covers.com/",
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 5,
+  "trackers": 0,
   "url": "https://www.classic-rock-covers.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.classicdosgames.com": {
   "ad_domains": 0,
@@ -298457,8 +298389,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 0.7,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 0.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -298467,13 +298399,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 40728,
+  "page_kb": 65196,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.7,
+  "score": 88.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -303084,8 +303016,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 1.8,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 2.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -303093,13 +303025,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9882,
+  "page_kb": 8586,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.6,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -303107,7 +303039,7 @@
   "topics": [
    "Non-English"
   ],
-  "trackers": 2,
+  "trackers": 7,
   "url": "https://www.etrdream.com/",
   "verdict": "Very clean"
  },
@@ -315561,7 +315493,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -315574,7 +315506,7 @@
   "popups": 0,
   "refs": 2,
   "score": 100.0,
-  "starred": 0,
+  "starred": 2,
   "status": "online",
   "sticky_ads": 0,
   "title": "Home | Hindawi Foundation",
@@ -318315,7 +318247,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -322294,8 +322226,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 8.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -322303,13 +322235,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2458,
+  "page_kb": 2105,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.3,
+  "score": 90.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -325805,13 +325737,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 9,
+  "page_kb": 44,
   "pages": [
    "Music"
   ],
@@ -326595,30 +326527,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.looperman.com": {
-  "ad_domains": 102,
-  "ad_requests": 639,
+  "ad_domains": 110,
+  "ad_requests": 645,
   "ad_slots": 8,
-  "ad_weight_pct": 60.1,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 56.1,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "aa.agkn.com",
+   "28252c3d13f674b4aeeebcf2413a35d3.safeframe.googlesyndication.com",
    "aax-eu.amazon-adsystem.com",
    "acdn.adnxs.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
-   "api.id5-sync.com",
    "apps.smartadserver.com",
    "b1sync.outbrain.com",
+   "bb.lijit.com",
    "bcp.crwdcntrl.net",
-   "c.amazon-adsystem.com"
+   "be.durationmedia.net"
   ],
   "ok": true,
-  "page_kb": 3687,
+  "page_kb": 3755,
   "pages": [
    "Music"
   ],
@@ -326632,7 +326564,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 2,
+  "trackers": 3,
   "url": "https://www.looperman.com/loops",
   "verdict": "Ad-saturated / hostile"
  },
@@ -334028,30 +333960,30 @@
   "verdict": "Very clean"
  },
  "www.myinstants.com": {
-  "ad_domains": 51,
-  "ad_requests": 204,
+  "ad_domains": 69,
+  "ad_requests": 341,
   "ad_slots": 5,
-  "ad_weight_pct": 57.6,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 84.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "178dbeb1fdaaded0c71b766f62f9f0be.safeframe.googlesyndication.com",
-   "aa.agkn.com",
+   "a5564.casalemedia.com",
+   "acdn.adnxs.com",
+   "ade.googlesyndication.com",
+   "ads.pubmatic.com",
+   "ads.yieldmo.com",
    "ap.lijit.com",
    "api.id5-sync.com",
    "bcp.crwdcntrl.net",
+   "bid.g.doubleclick.net",
    "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com",
-   "contextual.media.net",
-   "direct.adsrvr.org",
-   "dis.criteo.com"
+   "c21lg-d.media.net",
+   "c9a8d44a9b2675afed4846ac2fc9fb71.safeframe.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1734,
+  "page_kb": 7933,
   "pages": [
    "Music"
   ],
@@ -334065,7 +333997,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 1,
+  "trackers": 5,
   "url": "https://www.myinstants.com/index/us/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -336914,46 +336846,33 @@
   "verdict": "Light advertising"
  },
  "www.noor-book.com": {
-  "ad_domains": 15,
-  "ad_requests": 83,
-  "ad_slots": 10,
-  "ad_weight_pct": 54.2,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "ad.doubleclick.net",
-   "api-taboola.com",
-   "beacon.taboola.com",
-   "cdn.taboola.com",
-   "cds.taboola.com",
-   "cm.g.doubleclick.net",
-   "googleads.g.doubleclick.net",
-   "gum.criteo.com",
-   "images.taboola.com",
-   "pagead2.googlesyndication.com",
-   "stats.g.doubleclick.net",
-   "tpc.googlesyndication.com"
-  ],
-  "ok": true,
-  "page_kb": 2755,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "noor library the largest arab electronic library open for books",
+  "title": "Just a moment...",
   "topics": [
    "Non-English"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://www.noor-book.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "www.noosfere.org": {
   "ad_domains": 0,
@@ -340094,7 +340013,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -342663,13 +342582,13 @@
   "ad_requests": 0,
   "ad_slots": 2,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [],
   "ok": true,
-  "page_kb": 2536,
+  "page_kb": 2961,
   "pages": [
    "Music"
   ],
@@ -352777,13 +352696,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1046,
+  "page_kb": 1079,
   "pages": [
    "Music"
   ],
@@ -356010,13 +355929,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2073,
+  "page_kb": 2078,
   "pages": [
    "Music"
   ],
@@ -356026,7 +355945,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Visual Analyser 26.10",
+  "title": "Visual Analyser 26.90",
   "topics": [
    "Audio Tools"
   ],
@@ -357363,7 +357282,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 1.2,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -357371,7 +357290,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 14916,
+  "page_kb": 14977,
   "pages": [
    "Music"
   ],
@@ -358322,13 +358241,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 24458,
+  "page_kb": 32672,
   "pages": [
    "Music"
   ],
@@ -358347,26 +358266,25 @@
   "verdict": "Effectively ad-free"
  },
  "www.soundhound.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 1,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 8.9,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
   "networks": [
-   "c.amazon-adsystem.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1483,
+  "page_kb": 1501,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.5,
+  "score": 91.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -359857,13 +359775,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4129,
+  "page_kb": 4760,
   "pages": [
    "Non-Eng"
   ],
@@ -359873,7 +359791,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629",
+  "title": "\u0645\u0648\u0642\u0639 \u0633\u062a\u0627\u0631\u062f\u064a\u0645\u0627 - stardima - \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629",
   "topics": [
    "Non-English"
   ],
@@ -367557,13 +367475,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1419,
+  "page_kb": 699,
   "pages": [
    "Music"
   ],
@@ -367573,7 +367491,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Krush - Bitcrusher & Downsampler Plugin by Tritik",
+  "title": "Krush - Bitcrusher & Downsampler Plugin - Tritik",
   "topics": [
    "Audio Tools"
   ],
@@ -373321,8 +373239,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 30.3,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 30.4,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -373330,7 +373248,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1513,
+  "page_kb": 1515,
   "pages": [
    "Music"
   ],
@@ -374443,8 +374361,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 10.9,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 11.0,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -374452,7 +374370,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1624,
+  "page_kb": 1622,
   "pages": [
    "Music"
   ],
@@ -375451,34 +375369,32 @@
   "verdict": "Very clean"
  },
  "www.worldmets.com": {
-  "ad_domains": 7,
-  "ad_requests": 68,
-  "ad_slots": 9,
-  "ad_weight_pct": 19.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_domains": 5,
+  "ad_requests": 56,
+  "ad_slots": 7,
+  "ad_weight_pct": 65.5,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6159,
+  "page_kb": 1793,
   "pages": [
    "Non-Eng"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 9.0,
+  "score": 4.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Bengali eBook PDF Collection \u2013 Bengali eBook PDF",
   "topics": [
    "Non-English"
@@ -375694,7 +375610,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -378168,13 +378084,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 209,
+  "page_kb": 212,
   "pages": [
    "Music"
   ],
@@ -381588,8 +381504,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 8.5,
-  "checked_utc": "2026-10-22T22:49:00+00:00",
+  "ad_weight_pct": 2.2,
+  "checked_utc": "2026-11-25T10:30:21+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -381599,13 +381515,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1941,
+  "page_kb": 7516,
   "pages": [
    "Music"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.2,
+  "score": 84.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -381613,7 +381529,7 @@
   "topics": [
    "Audio Tools"
   ],
-  "trackers": 0,
+  "trackers": 1,
   "url": "https://yurisizov.itch.io/boscaceoil-blue",
   "verdict": "Light advertising"
  },
