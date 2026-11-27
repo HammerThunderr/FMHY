@@ -2758,8 +2758,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 8.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 8.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -2767,13 +2767,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2102,
+  "page_kb": 2085,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.8,
+  "score": 90.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -21126,8 +21126,8 @@
   "ad_domains": 1,
   "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 41.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 41.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -21135,7 +21135,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2475,
+  "page_kb": 2482,
   "pages": [
    "Reading"
   ],
@@ -24091,13 +24091,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 31476,
+  "page_kb": 4,
   "pages": [
    "Reading"
   ],
@@ -24268,8 +24268,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 19.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 14.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -24278,17 +24278,17 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1009,
+  "page_kb": 1345,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.9,
+  "score": 83.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Free Audiobooks, Podcasts & Public Audio in English | AudioAZ",
+  "title": "Free Audiobooks in English: Listen Online, No Sign-up | AudioAZ",
   "topics": [
    "Audiobooks"
   ],
@@ -24361,13 +24361,13 @@
   "ad_requests": 0,
   "ad_slots": 4,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [],
   "ok": true,
-  "page_kb": 381,
+  "page_kb": 451,
   "pages": [
    "Reading"
   ],
@@ -24390,13 +24390,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2446,
+  "page_kb": 3720,
   "pages": [
    "Reading"
   ],
@@ -24781,33 +24781,38 @@
   "verdict": "Effectively ad-free"
  },
  "audiozaic.com": {
-  "ad_domains": 0,
-  "ad_requests": 0,
+  "ad_domains": 4,
+  "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 60.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A+",
-  "networks": [],
+  "grade": "D",
+  "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
+   "www.googletagmanager.com"
+  ],
   "ok": true,
-  "page_kb": 12,
+  "page_kb": 1313,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 100.0,
+  "score": 57.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "audiozaic.com | 522: Connection timed out",
+  "title": "Audiozaic - Listen And Download Audiobooks For Free",
   "topics": [
    "Audiobooks"
   ],
-  "trackers": 0,
+  "trackers": 2,
   "url": "https://audiozaic.com/",
-  "verdict": "Effectively ad-free"
+  "verdict": "Heavy advertising"
  },
  "audius.co": {
   "ad_domains": 2,
@@ -31594,8 +31599,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 29.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 30.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -31603,13 +31608,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1220,
+  "page_kb": 1186,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.4,
+  "score": 78.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -31617,7 +31622,7 @@
   "topics": [
    "Textbooks"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://biology.com.pk/",
   "verdict": "Light advertising"
  },
@@ -34232,13 +34237,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 15,
+  "page_kb": 49,
   "pages": [
    "Reading"
   ],
@@ -37794,8 +37799,8 @@
   "ad_domains": 4,
   "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 4.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 4.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -37806,13 +37811,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 15007,
+  "page_kb": 15070,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.2,
+  "score": 73.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -37820,7 +37825,7 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 2,
+  "trackers": 4,
   "url": "https://calameo.com/",
   "verdict": "Light advertising"
  },
@@ -40346,7 +40351,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -42064,8 +42069,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 45.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 45.2,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -42074,7 +42079,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 414,
+  "page_kb": 415,
   "pages": [
    "Reading"
   ],
@@ -47311,13 +47316,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 201,
+  "page_kb": 200,
   "pages": [
    "Streaming"
   ],
@@ -47523,7 +47528,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -47531,7 +47536,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 43277,
+  "page_kb": 43282,
   "pages": [
    "Reading"
   ],
@@ -49160,36 +49165,36 @@
   "verdict": "Very heavy advertising"
  },
  "comic.studio": {
-  "ad_domains": 69,
-  "ad_requests": 292,
-  "ad_slots": 1,
-  "ad_weight_pct": 4.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 27,
+  "ad_requests": 50,
+  "ad_slots": 0,
+  "ad_weight_pct": 1.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "8c99ad5ce0897d76452056ddc6224278.safeframe.googlesyndication.com",
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
    "ads.scorecardresearch.com",
-   "ads.yieldmo.com",
-   "api.id5-sync.com",
    "bcp.crwdcntrl.net",
-   "be.durationmedia.net",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
    "ce.lijit.com",
-   "cm.g.doubleclick.net"
+   "cm.g.doubleclick.net",
+   "cm.mgid.com",
+   "config.aps.amazon-adsystem.com",
+   "gum.criteo.com",
+   "id5-sync.com",
+   "image2.pubmatic.com",
+   "lb.eu-1-id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 22874,
+  "page_kb": 26296,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 37.4,
+  "score": 43.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -49368,13 +49373,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 314,
+  "page_kb": 369,
   "pages": [
    "Reading"
   ],
@@ -49397,13 +49402,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 90,
+  "page_kb": 0,
   "pages": [
    "Reading"
   ],
@@ -49514,36 +49519,36 @@
   "verdict": "Very clean"
  },
  "comicskingdom.com": {
-  "ad_domains": 77,
-  "ad_requests": 388,
-  "ad_slots": 3,
-  "ad_weight_pct": 6.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 88,
+  "ad_requests": 579,
+  "ad_slots": 2,
+  "ad_weight_pct": 12.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
-   "50efcdaca2ac83480b40f0f7cc7cc2cb.safeframe.googlesyndication.com",
+   "9e462d21c3b4f88b5c5904d8145fd1c6.safeframe.googlesyndication.com",
    "aa.agkn.com",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
    "ap.lijit.com",
-   "api.id5-sync.com",
    "b1sync.outbrain.com",
    "c.amazon-adsystem.com",
    "c1.adform.net",
    "cdn.id5-sync.com",
+   "cdn.indexww.com",
    "ce.lijit.com",
    "cm.adform.net"
   ],
   "ok": true,
-  "page_kb": 8853,
+  "page_kb": 6469,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 26.8,
+  "score": 29.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -49553,7 +49558,7 @@
   ],
   "trackers": 0,
   "url": "https://comicskingdom.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "comicvine.gamespot.com": {
   "ad_domains": 0,
@@ -49708,8 +49713,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 3.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 6.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -49717,13 +49722,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 5215,
+  "page_kb": 2426,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.4,
+  "score": 89.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -52485,21 +52490,22 @@
   "verdict": "Effectively ad-free"
  },
  "cozyaudiobooks.com": {
-  "ad_domains": 6,
+  "ad_domains": 7,
   "ad_requests": 11,
   "ad_slots": 0,
   "ad_weight_pct": 8.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
    "bcp.crwdcntrl.net",
-   "ib.adnxs.com",
+   "image6.pubmatic.com",
    "pxdrop.lijit.com",
-   "s.amazon-adsystem.com",
-   "sync.smartadserver.com",
-   "tags.crwdcntrl.net"
+   "sync-tm.everesttech.net",
+   "sync.crwdcntrl.net",
+   "tags.crwdcntrl.net",
+   "trc.taboola.com"
   ],
   "ok": true,
   "page_kb": 178,
@@ -52508,7 +52514,7 @@
   ],
   "popups": 0,
   "refs": 2,
-  "score": 61.2,
+  "score": 58.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -55605,7 +55611,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -60077,13 +60083,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 349,
+  "page_kb": 138,
   "pages": [
    "Non-Eng"
   ],
@@ -63057,8 +63063,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 59.3,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "ad_weight_pct": 58.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -63066,7 +63072,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 281,
+  "page_kb": 290,
   "pages": [
    "Reading"
   ],
@@ -71408,42 +71414,33 @@
   "verdict": "Effectively ad-free"
  },
  "ebooksyard.com": {
-  "ad_domains": 8,
-  "ad_requests": 45,
-  "ad_slots": 25,
-  "ad_weight_pct": 51.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "contextual.media.net",
-   "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
-   "secure.quantserve.com",
-   "securepubads.g.doubleclick.net",
-   "tpc.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2698,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 9,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 0.0,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Free Magazines Download | Online PDF Magazine Download",
+  "title": "Just a moment...",
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 2,
+  "trackers": 0,
   "url": "https://ebooksyard.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "ebookzy.com": {
   "ad_domains": 1,
@@ -75651,7 +75648,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -80964,8 +80961,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 5.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 3.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -80974,13 +80971,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3318,
+  "page_kb": 4307,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.0,
+  "score": 88.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -84417,7 +84414,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -84428,13 +84425,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6784,
+  "page_kb": 6240,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 80.3,
+  "score": 81.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -84442,7 +84439,7 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://fliphtml5.com/exploring",
   "verdict": "Light advertising"
  },
@@ -84550,7 +84547,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 5.3,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -84558,7 +84555,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3360,
+  "page_kb": 3362,
   "pages": [
    "Mobile"
   ],
@@ -89224,8 +89221,8 @@
   "ad_domains": 3,
   "ad_requests": 12,
   "ad_slots": 1,
-  "ad_weight_pct": 68.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 68.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -89235,7 +89232,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 676,
+  "page_kb": 683,
   "pages": [
    "Reading"
   ],
@@ -89928,31 +89925,33 @@
   "verdict": "Effectively ad-free"
  },
  "freemagazines.top": {
-  "ad_domains": 7,
-  "ad_requests": 46,
+  "ad_domains": 9,
+  "ad_requests": 92,
   "ad_slots": 4,
-  "ad_weight_pct": 55.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 59.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cdn.flashtalking.com",
    "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "dis.criteo.com",
+   "dsum-sec.casalemedia.com",
    "googleads.g.doubleclick.net",
+   "ib.adnxs.com",
    "pagead2.googlesyndication.com",
-   "securepubads.g.doubleclick.net",
+   "s0.2mdn.net",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1492,
+  "page_kb": 2091,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.0,
+  "score": 10.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -90228,32 +90227,39 @@
   "verdict": "Very heavy advertising"
  },
  "freeplrdownloads.com": {
-  "ad_domains": 5,
-  "ad_requests": 72,
-  "ad_slots": 6,
-  "ad_weight_pct": 39.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 12,
+  "ad_requests": 152,
+  "ad_slots": 7,
+  "ad_weight_pct": 57.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "c1.adform.net",
+   "cm.g.doubleclick.net",
+   "cms.quantserve.com",
    "googleads.g.doubleclick.net",
+   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "s0.2mdn.net",
+   "sync.teads.tv",
    "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2676,
+  "page_kb": 3231,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 8.5,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
+  "sticky_ads": 1,
   "title": "Free PLR Downloads | Download Free eBooks, PLR & MRR Products",
   "topics": [
    "Textbooks"
@@ -91019,7 +91025,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -91685,30 +91691,31 @@
   "verdict": "Effectively ad-free"
  },
  "fulllengthaudiobooks.com": {
-  "ad_domains": 6,
-  "ad_requests": 12,
+  "ad_domains": 7,
+  "ad_requests": 13,
   "ad_slots": 0,
-  "ad_weight_pct": 41.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 25.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
   "networks": [
    "bcp.crwdcntrl.net",
-   "image6.pubmatic.com",
+   "cm.g.doubleclick.net",
+   "match.adsrvr.org",
    "pxdrop.lijit.com",
-   "sync.crwdcntrl.net",
+   "secure.adnxs.com",
    "tags.crwdcntrl.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 743,
+  "page_kb": 606,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 48.5,
+  "score": 46.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -91825,13 +91832,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 121,
+  "page_kb": 489,
   "pages": [
    "Reading"
   ],
@@ -102274,7 +102281,7 @@
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 0.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -102284,7 +102291,7 @@
    "unitedstateslibraryofcongress.demdex.net"
   ],
   "ok": true,
-  "page_kb": 454,
+  "page_kb": 336,
   "pages": [
    "Reading"
   ],
@@ -109015,27 +109022,21 @@
   "verdict": "Effectively ad-free"
  },
  "hotaudiobooks.com": {
-  "ad_domains": 12,
-  "ad_requests": 22,
+  "ad_domains": 6,
+  "ad_requests": 13,
   "ad_slots": 0,
-  "ad_weight_pct": 12.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 12.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "E",
+  "grade": "D",
   "networks": [
-   "aa.agkn.com",
-   "ads.scorecardresearch.com",
    "bcp.crwdcntrl.net",
-   "cm.mgid.com",
-   "d.agkn.com",
+   "cm.g.doubleclick.net",
    "dmp.adform.net",
    "dpm.demdex.net",
    "pxdrop.lijit.com",
-   "tags.crwdcntrl.net",
-   "token.rubiconproject.com",
-   "trc.taboola.com",
-   "us-u.openx.net"
+   "tags.crwdcntrl.net"
   ],
   "ok": true,
   "page_kb": 235,
@@ -109044,7 +109045,7 @@
   ],
   "popups": 0,
   "refs": 2,
-  "score": 38.8,
+  "score": 56.1,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -109054,7 +109055,7 @@
   ],
   "trackers": 0,
   "url": "https://hotaudiobooks.com/",
-  "verdict": "Very heavy advertising"
+  "verdict": "Heavy advertising"
  },
  "hotflix.to": {
   "ad_domains": 0,
@@ -118153,8 +118154,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 48.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 48.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -118162,7 +118163,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 669,
+  "page_kb": 670,
   "pages": [
    "Reading"
   ],
@@ -126675,38 +126676,33 @@
   "verdict": "Light advertising"
  },
  "knowfree.tradepub.com": {
-  "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 23.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "C",
-  "networks": [
-   "googleads.g.doubleclick.net",
-   "stats.g.doubleclick.net",
-   "www.googleadservices.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 955,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 8,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 67.2,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Free Information Technology Research Library of White Papers, Magazines, Reports, and eBoo",
+  "title": "Just a moment...",
   "topics": [
    "Textbooks"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://knowfree.tradepub.com/",
-  "verdict": "Moderate advertising"
+  "verdict": "Effectively ad-free"
  },
  "knowt.com": {
   "ad_domains": 2,
@@ -133565,13 +133561,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4820,
+  "page_kb": 1676,
   "pages": [
    "Reading"
   ],
@@ -134524,36 +134520,36 @@
   "verdict": "Effectively ad-free"
  },
  "liminal-archives.wikidot.com": {
-  "ad_domains": 25,
-  "ad_requests": 65,
+  "ad_domains": 26,
+  "ad_requests": 78,
   "ad_slots": 0,
-  "ad_weight_pct": 18.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 19.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
    "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
-   "api.id5-sync.com",
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
+   "dis.eu.criteo.com",
    "gum.criteo.com",
    "ib.adnxs.com",
    "id5-sync.com",
    "image2.pubmatic.com"
   ],
   "ok": true,
-  "page_kb": 1561,
+  "page_kb": 1564,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 34.6,
+  "score": 34.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -137580,13 +137576,13 @@
   "ad_requests": 0,
   "ad_slots": 1,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1284,
+  "page_kb": 1288,
   "pages": [
    "Reading"
   ],
@@ -142203,8 +142199,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 76.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 76.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -142212,7 +142208,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 212,
+  "page_kb": 214,
   "pages": [
    "Reading"
   ],
@@ -143755,8 +143751,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 2,
-  "ad_weight_pct": 64.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 40.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -143764,7 +143760,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 274,
+  "page_kb": 437,
   "pages": [
    "Reading"
   ],
@@ -144137,7 +144133,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -144165,8 +144161,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 17.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -144174,13 +144170,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1638,
+  "page_kb": 1660,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.7,
+  "score": 84.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -144316,8 +144312,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 2.9,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 3.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -144325,13 +144321,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6164,
+  "page_kb": 5176,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 93.5,
+  "score": 93.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -144463,8 +144459,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 16.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 16.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -144472,7 +144468,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1064,
+  "page_kb": 1066,
   "pages": [
    "Reading"
   ],
@@ -148183,27 +148179,28 @@
   "verdict": "Effectively ad-free"
  },
  "medibang.com": {
-  "ad_domains": 3,
-  "ad_requests": 9,
+  "ad_domains": 4,
+  "ad_requests": 10,
   "ad_slots": 0,
-  "ad_weight_pct": 5.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 5.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "B",
+  "grade": "C",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11411,
+  "page_kb": 10338,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 74.4,
+  "score": 69.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -148213,7 +148210,7 @@
   ],
   "trackers": 1,
   "url": "https://medibang.com/mpc/",
-  "verdict": "Light advertising"
+  "verdict": "Moderate advertising"
  },
  "medicalstudyzone.com": {
   "ad_domains": 3,
@@ -154100,7 +154097,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -160682,13 +160679,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 491,
+  "page_kb": 429,
   "pages": [
    "Reading"
   ],
@@ -162946,8 +162943,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 20.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 18.5,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -162955,13 +162952,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1394,
+  "page_kb": 1578,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.1,
+  "score": 84.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -166294,13 +166291,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 114,
+  "page_kb": 152,
   "pages": [
    "Reading"
   ],
@@ -166310,7 +166307,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "novelyra.com \u2014 Domain welcome page for",
+  "title": "NovelYra Paused \u2013 Support Our Novel Site on Ko-fi to Bring It Back",
   "topics": [
    "Ebooks"
   ],
@@ -168581,8 +168578,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 4.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 0.2,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -168590,13 +168587,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3589,
+  "page_kb": 39140,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.2,
+  "score": 94.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -168604,7 +168601,7 @@
   "topics": [
    "Textbooks"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://oapen.org/",
   "verdict": "Very clean"
  },
@@ -168935,10 +168932,10 @@
  },
  "ocecomic.com": {
   "ad_domains": 1,
-  "ad_requests": 2,
+  "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 12.2,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -168946,13 +168943,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1818,
+  "page_kb": 1460,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.7,
+  "score": 88.9,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -169420,7 +169417,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -169428,7 +169425,7 @@
    "c.amazon-adsystem.com"
   ],
   "ok": true,
-  "page_kb": 270,
+  "page_kb": 267,
   "pages": [
    "Reading"
   ],
@@ -170207,36 +170204,33 @@
   "verdict": "Effectively ad-free"
  },
  "oldcomicsworld.blogspot.com": {
-  "ad_domains": 2,
-  "ad_requests": 2,
+  "ad_domains": 0,
+  "ad_requests": 0,
   "ad_slots": 0,
-  "ad_weight_pct": 6.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "A",
-  "networks": [
-   "pagead2.googlesyndication.com",
-   "www.googletagmanager.com"
-  ],
-  "ok": true,
-  "page_kb": 2432,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1562,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 86.2,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Old Comics world",
+  "title": "https://oldcomicsworld.blogspot.com/",
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 0,
   "url": "https://oldcomicsworld.blogspot.com/",
-  "verdict": "Very clean"
+  "verdict": "Effectively ad-free"
  },
  "oldcomputers.net": {
   "ad_domains": 2,
@@ -170512,8 +170506,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 7.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 6.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -170522,13 +170516,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4673,
+  "page_kb": 5352,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 82.5,
+  "score": 84.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -170536,7 +170530,7 @@
   "topics": [
    "Textbooks"
   ],
-  "trackers": 7,
+  "trackers": 4,
   "url": "https://oll.libertyfund.org/",
   "verdict": "Light advertising"
  },
@@ -171807,7 +171801,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -172375,7 +172369,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -172383,7 +172377,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2227,
+  "page_kb": 2251,
   "pages": [
    "Reading"
   ],
@@ -172531,7 +172525,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 60.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -172591,13 +172585,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1651,
+  "page_kb": 1670,
   "pages": [
    "Reading"
   ],
@@ -179968,13 +179962,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 883,
+  "page_kb": 868,
   "pages": [
    "Reading"
   ],
@@ -179997,13 +179991,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 655,
+  "page_kb": 685,
   "pages": [
    "Reading"
   ],
@@ -181668,7 +181662,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -183755,13 +183749,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 553,
+  "page_kb": 352,
   "pages": [
    "Artificial-Intelligence"
   ],
@@ -184573,7 +184567,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -187744,8 +187738,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 46.4,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "ad_weight_pct": 51.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -187753,7 +187747,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 993,
+  "page_kb": 904,
   "pages": [
    "Misc",
    "Reading"
@@ -193299,13 +193293,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1577,
+  "page_kb": 1467,
   "pages": [
    "Reading"
   ],
@@ -196991,7 +196985,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -199829,8 +199823,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 38.7,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "ad_weight_pct": 38.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -199839,7 +199833,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 422,
+  "page_kb": 424,
   "pages": [
    "Reading"
   ],
@@ -200051,8 +200045,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 4.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 4.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -200061,13 +200055,13 @@
    "stats.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 295,
+  "page_kb": 267,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 89.0,
+  "score": 88.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -203503,7 +203497,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -203532,13 +203526,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 4,
+  "page_kb": 5,
   "pages": [
    "Reading"
   ],
@@ -207516,53 +207510,40 @@
   "verdict": "Effectively ad-free"
  },
  "royalroad.com": {
-  "ad_domains": 50,
-  "ad_requests": 179,
-  "ad_slots": 4,
-  "ad_weight_pct": 19.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
-  "error": "",
-  "fails": 0,
-  "grade": "F",
-  "networks": [
-   "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "ap.lijit.com",
-   "api.id5-sync.com",
-   "b1sync.outbrain.com",
-   "bcp.crwdcntrl.net",
-   "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "config.aps.amazon-adsystem.com",
-   "cs.media.net",
-   "direct.adsrvr.org"
-  ],
-  "ok": true,
-  "page_kb": 8244,
+  "ad_domains": 0,
+  "ad_requests": 0,
+  "ad_slots": 0,
+  "ad_weight_pct": 0.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
+  "grade": "A+",
+  "networks": [],
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 14.7,
+  "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Home | Royal Road",
+  "title": "Just a moment...",
   "topics": [
    "Ebooks"
   ],
-  "trackers": 1,
+  "trackers": 0,
   "url": "https://royalroad.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Effectively ad-free"
  },
  "rpc-wiki.net": {
   "ad_domains": 3,
   "ad_requests": 9,
   "ad_slots": 0,
-  "ad_weight_pct": 59.7,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "ad_weight_pct": 59.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -207572,7 +207553,7 @@
    "stats.g.doubleclick.net"
   ],
   "ok": true,
-  "page_kb": 445,
+  "page_kb": 450,
   "pages": [
    "Reading"
   ],
@@ -211199,13 +211180,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 38,
+  "page_kb": 12,
   "pages": [
    "Reading"
   ],
@@ -211215,7 +211196,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Changelog - Scans.GG",
+  "title": "scans.gg | 522: Connection timed out",
   "topics": [
    "Comics & Manga"
   ],
@@ -214960,8 +214941,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 10.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 52.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -214970,13 +214951,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2960,
+  "page_kb": 589,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.8,
+  "score": 74.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -234986,8 +234967,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 15.8,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "ad_weight_pct": 16.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -234995,13 +234976,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2241,
+  "page_kb": 2235,
   "pages": [
    "Artificial-Intelligence"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 84.1,
+  "score": 84.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -239382,27 +239363,35 @@
   "verdict": "Effectively ad-free"
  },
  "textbookgo.com": {
-  "ad_domains": 3,
-  "ad_requests": 32,
-  "ad_slots": 6,
-  "ad_weight_pct": 51.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 11,
+  "ad_requests": 156,
+  "ad_slots": 7,
+  "ad_weight_pct": 61.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "cm.g.doubleclick.net",
+   "d.agkn.com",
    "googleads.g.doubleclick.net",
+   "googleads4.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com"
+   "partners.tremorhub.com",
+   "s0.2mdn.net",
+   "sync.search.spotxchange.com",
+   "sync.teads.tv",
+   "tpc.googlesyndication.com",
+   "us-u.openx.net"
   ],
   "ok": true,
-  "page_kb": 1287,
+  "page_kb": 2676,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 16.0,
+  "score": 0.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -239480,7 +239469,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -241853,8 +241842,8 @@
   "ad_domains": 1,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 16.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 16.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -241862,7 +241851,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2799,
+  "page_kb": 2797,
   "pages": [
    "Reading"
   ],
@@ -242047,7 +242036,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -245659,7 +245648,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -246740,8 +246729,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 23.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 23.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -246756,7 +246745,7 @@
   ],
   "popups": 0,
   "refs": 2,
-  "score": 78.8,
+  "score": 78.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -247308,7 +247297,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 6.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -247316,7 +247305,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4317,
+  "page_kb": 4318,
   "pages": [
    "Reading"
   ],
@@ -254926,8 +254915,8 @@
   "ad_domains": 1,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 60.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 62.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -254935,7 +254924,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 492,
+  "page_kb": 480,
   "pages": [
    "Reading"
   ],
@@ -258011,13 +258000,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 2212,
+  "page_kb": 2210,
   "pages": [
    "Reading"
   ],
@@ -258413,35 +258402,37 @@
   "verdict": "Very clean"
  },
  "vdoc.pub": {
-  "ad_domains": 1,
-  "ad_requests": 1,
+  "ad_domains": 3,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 5.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 85.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "C",
   "networks": [
+   "googleads.g.doubleclick.net",
+   "pagead2.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3005,
+  "page_kb": 486,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.2,
+  "score": 65.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "E-book library. Search and download for free, instantly.",
+  "title": "Multifunctional tools BCAD PDF - BCAD.INFO",
   "topics": [
    "Textbooks"
   ],
   "trackers": 1,
   "url": "https://vdoc.pub/",
-  "verdict": "Very clean"
+  "verdict": "Moderate advertising"
  },
  "vdwn.cloud": {
   "ad_domains": 0,
@@ -258833,29 +258824,28 @@
   "verdict": "Effectively ad-free"
  },
  "veridiansoftware.com": {
-  "ad_domains": 5,
-  "ad_requests": 7,
+  "ad_domains": 4,
+  "ad_requests": 6,
   "ad_slots": 0,
   "ad_weight_pct": 1.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [
    "ad.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 33808,
+  "page_kb": 33662,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 72.7,
+  "score": 77.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -258863,7 +258853,7 @@
   "topics": [
    "Ebooks"
   ],
-  "trackers": 2,
+  "trackers": 1,
   "url": "https://veridiansoftware.com/collections/",
   "verdict": "Light advertising"
  },
@@ -264236,7 +264226,7 @@
   "ad_requests": 5,
   "ad_slots": 0,
   "ad_weight_pct": 2.0,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -264245,7 +264235,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 9781,
+  "page_kb": 9787,
   "pages": [
    "Reading"
   ],
@@ -266092,8 +266082,8 @@
   "ad_domains": 7,
   "ad_requests": 22,
   "ad_slots": 0,
-  "ad_weight_pct": 22.9,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 23.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -266107,13 +266097,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3494,
+  "page_kb": 3492,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 35.5,
+  "score": 35.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -267048,7 +267038,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -269917,22 +269907,22 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 7.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 20.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "A",
+  "grade": "B",
   "networks": [
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2337,
+  "page_kb": 880,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 91.2,
+  "score": 84.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -269942,7 +269932,7 @@
   ],
   "trackers": 1,
   "url": "https://wholeearth.info/",
-  "verdict": "Very clean"
+  "verdict": "Light advertising"
  },
  "whopayswriters.com": {
   "ad_domains": 1,
@@ -271815,8 +271805,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 73.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 46.2,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -271824,7 +271814,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 221,
+  "page_kb": 351,
   "pages": [
    "Reading"
   ],
@@ -273594,8 +273584,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 33.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 31.5,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -273604,7 +273594,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 498,
+  "page_kb": 532,
   "pages": [
    "Reading"
   ],
@@ -274169,13 +274159,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1782,
+  "page_kb": 1911,
   "pages": [
    "Reading"
   ],
@@ -279540,7 +279530,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -283361,13 +283351,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 318,
+  "page_kb": 322,
   "pages": [
    "Reading"
   ],
@@ -284248,7 +284238,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 7.2,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -284256,7 +284246,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2285,
+  "page_kb": 2286,
   "pages": [
    "Reading"
   ],
@@ -287361,26 +287351,27 @@
   "verdict": "Effectively ad-free"
  },
  "www.bookgoldmine.com": {
-  "ad_domains": 2,
-  "ad_requests": 10,
+  "ad_domains": 3,
+  "ad_requests": 25,
   "ad_slots": 3,
-  "ad_weight_pct": 73.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 76.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
-   "pagead2.googlesyndication.com"
+   "pagead2.googlesyndication.com",
+   "s0.2mdn.net"
   ],
   "ok": true,
-  "page_kb": 359,
+  "page_kb": 608,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 48.0,
+  "score": 30.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -287390,7 +287381,7 @@
   ],
   "trackers": 2,
   "url": "https://www.bookgoldmine.com/",
-  "verdict": "Heavy advertising"
+  "verdict": "Very heavy advertising"
  },
  "www.booknotification.com": {
   "ad_domains": 0,
@@ -290449,7 +290440,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -291851,7 +291842,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -292507,7 +292498,7 @@
   "ad_requests": 3,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -292517,7 +292508,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 799,
+  "page_kb": 734,
   "pages": [
    "Reading"
   ],
@@ -292527,7 +292518,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "K-12 FlexBooks & Concepts | CK-12 Foundation",
+  "title": "Subjects | CK-12 Foundation",
   "topics": [
    "Textbooks"
   ],
@@ -292729,13 +292720,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 341,
+  "page_kb": 350,
   "pages": [
    "Reading"
   ],
@@ -293676,13 +293667,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 395,
+  "page_kb": 488,
   "pages": [
    "Reading"
   ],
@@ -297419,7 +297410,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 2.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -297427,7 +297418,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 6999,
+  "page_kb": 7072,
   "pages": [
    "Reading"
   ],
@@ -300808,8 +300799,8 @@
   "ad_domains": 4,
   "ad_requests": 5,
   "ad_slots": 0,
-  "ad_weight_pct": 55.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 51.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -300820,7 +300811,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 561,
+  "page_kb": 606,
   "pages": [
    "Reading"
   ],
@@ -303957,13 +303948,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1896,
+  "page_kb": 1882,
   "pages": [
    "Reading"
   ],
@@ -304242,8 +304233,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 51.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 52.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -304252,7 +304243,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 312,
+  "page_kb": 313,
   "pages": [
    "Reading"
   ],
@@ -305512,10 +305503,10 @@
  },
  "www.fanmtl.com": {
   "ad_domains": 3,
-  "ad_requests": 8,
+  "ad_requests": 7,
   "ad_slots": 0,
-  "ad_weight_pct": 24.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 22.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -305525,13 +305516,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1677,
+  "page_kb": 1853,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 66.2,
+  "score": 68.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -309322,37 +309313,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.freeclassicaudiobooks.com": {
-  "ad_domains": 5,
-  "ad_requests": 25,
-  "ad_slots": 5,
-  "ad_weight_pct": 52.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 4,
+  "ad_requests": 40,
+  "ad_slots": 2,
+  "ad_weight_pct": 83.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "s0.2mdn.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1545,
+  "page_kb": 1066,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 13.0,
+  "score": 27.0,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 0,
-  "title": "Free Classic AudioBooks. Digital narration for the 21st Century",
+  "sticky_ads": 1,
+  "title": "Free Classic AudioBooks | Free MP3 and M4B Downloads",
   "topics": [
    "Audiobooks"
   ],
-  "trackers": 4,
+  "trackers": 2,
   "url": "https://www.freeclassicaudiobooks.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -310349,38 +310339,37 @@
   "verdict": "Effectively ad-free"
  },
  "www.frontpages.com": {
-  "ad_domains": 4,
-  "ad_requests": 30,
-  "ad_slots": 3,
-  "ad_weight_pct": 56.9,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 3,
+  "ad_requests": 26,
+  "ad_slots": 2,
+  "ad_weight_pct": 60.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "F",
+  "grade": "E",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
-   "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1361,
+  "page_kb": 1286,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 18.0,
+  "score": 31.5,
   "starred": 0,
   "status": "online",
-  "sticky_ads": 1,
+  "sticky_ads": 0,
   "title": "Today's Front Pages | Newspaper Headlines",
   "topics": [
    "Ebooks"
   ],
-  "trackers": 10,
+  "trackers": 9,
   "url": "https://www.frontpages.com/",
-  "verdict": "Ad-saturated / hostile"
+  "verdict": "Very heavy advertising"
  },
  "www.frostyapp.io": {
   "ad_domains": 0,
@@ -313075,36 +313064,36 @@
   "verdict": "Effectively ad-free"
  },
  "www.gocomics.com": {
-  "ad_domains": 14,
-  "ad_requests": 22,
+  "ad_domains": 27,
+  "ad_requests": 57,
   "ad_slots": 2,
-  "ad_weight_pct": 16.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 12.5,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "api.id5-sync.com",
+   "ad.doubleclick.net",
    "cdn.id5-sync.com",
+   "cm.g.doubleclick.net",
+   "cs.media.net",
    "gum.criteo.com",
+   "ib.adnxs.com",
    "id.crwdcntrl.net",
    "id5-sync.com",
-   "lb.eu-1-id5-sync.com",
-   "lbs.eu-1-id5-sync.com",
-   "match.adsrvr.org",
-   "pagead2.googlesyndication.com",
-   "pixel.rubiconproject.com",
-   "sb.scorecardresearch.com",
-   "securepubads.g.doubleclick.net"
+   "image2.pubmatic.com",
+   "image6.pubmatic.com",
+   "insight.adsrvr.org",
+   "js.adsrvr.org"
   ],
   "ok": true,
-  "page_kb": 3924,
+  "page_kb": 5596,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 25.3,
+  "score": 26.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -313112,7 +313101,7 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 5,
   "url": "https://www.gocomics.com/",
   "verdict": "Ad-saturated / hostile"
  },
@@ -313491,7 +313480,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -316816,13 +316805,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 1553,
+  "page_kb": 1287,
   "pages": [
    "Reading"
   ],
@@ -319335,19 +319324,19 @@
   "verdict": "Effectively ad-free"
  },
  "www.infobooks.org": {
-  "ad_domains": 16,
-  "ad_requests": 28,
+  "ad_domains": 18,
+  "ad_requests": 30,
   "ad_slots": 0,
   "ad_weight_pct": 7.5,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
+   "ap.lijit.com",
+   "c1.adform.net",
    "cdn.id5-sync.com",
-   "cm.g.doubleclick.net",
-   "dpm.demdex.net",
-   "eb2.3lift.com",
+   "ce.lijit.com",
    "ib.adnxs.com",
    "id5-sync.com",
    "lb.eu-1-id5-sync.com",
@@ -319358,7 +319347,7 @@
    "rules.quantcount.com"
   ],
   "ok": true,
-  "page_kb": 1618,
+  "page_kb": 1631,
   "pages": [
    "Reading"
   ],
@@ -319451,8 +319440,8 @@
   "ad_domains": 2,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 7.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 22.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -319461,13 +319450,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4518,
+  "page_kb": 1405,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 83.0,
+  "score": 77.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -319475,7 +319464,7 @@
   "topics": [
    "Ebooks"
   ],
-  "trackers": 6,
+  "trackers": 1,
   "url": "https://www.inkitt.com/fanfiction",
   "verdict": "Light advertising"
  },
@@ -319636,7 +319625,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 0.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -319645,7 +319634,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 27525,
+  "page_kb": 27757,
   "pages": [
    "Reading"
   ],
@@ -319762,10 +319751,10 @@
  },
  "www.intratext.com": {
   "ad_domains": 2,
-  "ad_requests": 7,
+  "ad_requests": 6,
   "ad_slots": 0,
-  "ad_weight_pct": 84.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 84.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
@@ -319774,13 +319763,13 @@
    "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 293,
+  "page_kb": 295,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 68.0,
+  "score": 69.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -320215,7 +320204,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 3.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -320223,7 +320212,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 10942,
+  "page_kb": 11266,
   "pages": [
    "Reading"
   ],
@@ -321026,10 +321015,10 @@
  },
  "www.japanesewiki.com": {
   "ad_domains": 4,
-  "ad_requests": 12,
+  "ad_requests": 11,
   "ad_slots": 0,
   "ad_weight_pct": 24.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "D",
@@ -321040,13 +321029,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 2202,
+  "page_kb": 2205,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 56.3,
+  "score": 57.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -321263,28 +321252,36 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.jewishvirtuallibrary.org": {
-  "ad_domains": 4,
-  "ad_requests": 5,
+  "ad_domains": 19,
+  "ad_requests": 31,
   "ad_slots": 4,
-  "ad_weight_pct": 74.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 76.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
-  "grade": "D",
+  "grade": "F",
   "networks": [
    "ad.doubleclick.net",
    "cdn.id5-sync.com",
-   "stats.g.doubleclick.net",
-   "www.googletagmanager.com"
+   "ce.lijit.com",
+   "cm.g.doubleclick.net",
+   "id5-sync.com",
+   "lb.eu-1-id5-sync.com",
+   "lbs.eu-1-id5-sync.com",
+   "match.sharethrough.com",
+   "partners.tremorhub.com",
+   "pixel.quantserve.com",
+   "rtb-csync.smartadserver.com",
+   "rules.quantcount.com"
   ],
   "ok": true,
-  "page_kb": 469,
+  "page_kb": 462,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 44.0,
+  "score": 8.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -321294,7 +321291,7 @@
   ],
   "trackers": 3,
   "url": "https://www.jewishvirtuallibrary.org/",
-  "verdict": "Heavy advertising"
+  "verdict": "Ad-saturated / hostile"
  },
  "www.jezzamon.com": {
   "ad_domains": 1,
@@ -321747,13 +321744,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 171,
+  "page_kb": 159,
   "pages": [
    "Reading"
   ],
@@ -328725,27 +328722,28 @@
   "verdict": "Very clean"
  },
  "www.mangahere.cc": {
-  "ad_domains": 3,
+  "ad_domains": 4,
   "ad_requests": 4,
   "ad_slots": 0,
   "ad_weight_pct": 4.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
   "networks": [
    "bcp.crwdcntrl.net",
+   "cm.g.doubleclick.net",
    "match.adsrvr.org",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3892,
+  "page_kb": 3902,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 79.8,
+  "score": 76.8,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -328824,7 +328822,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 4.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -328832,7 +328830,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 4149,
+  "page_kb": 4110,
   "pages": [
    "Reading"
   ],
@@ -331292,7 +331290,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -331440,8 +331438,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 1,
-  "ad_weight_pct": 5.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 5.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -331449,13 +331447,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3142,
+  "page_kb": 3488,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 87.2,
+  "score": 87.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -338131,30 +338129,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.novelupdates.com": {
-  "ad_domains": 59,
-  "ad_requests": 204,
+  "ad_domains": 73,
+  "ad_requests": 291,
   "ad_slots": 7,
-  "ad_weight_pct": 62.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 64.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "0e1e998e87b36043dbfeea17a08c74a6.safeframe.googlesyndication.com",
+   "67fedcf8f2b907d841518d983368c148.safeframe.googlesyndication.com",
+   "aa.agkn.com",
    "ad.doubleclick.net",
-   "ads.pubmatic.com",
-   "api.id5-sync.com",
+   "ads.yieldmo.com",
+   "ap.lijit.com",
    "b1sync.outbrain.com",
    "bb.lijit.com",
+   "btlr.sharethrough.com",
    "c.amazon-adsystem.com",
-   "cdn.id5-sync.com",
-   "client.aps.amazon-adsystem.com",
-   "cm.g.doubleclick.net",
-   "cms.quantserve.com",
-   "config.aps.amazon-adsystem.com"
+   "c.mgid.com",
+   "c1.adform.net",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 3105,
+  "page_kb": 4127,
   "pages": [
    "Reading"
   ],
@@ -340242,13 +340240,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 568,
+  "page_kb": 588,
   "pages": [
    "Reading"
   ],
@@ -341200,7 +341198,7 @@
   "ad_requests": 1,
   "ad_slots": 0,
   "ad_weight_pct": 0.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -341208,7 +341206,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 24594,
+  "page_kb": 24595,
   "pages": [
    "Reading"
   ],
@@ -342411,8 +342409,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 54.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 56.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -342420,7 +342418,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 295,
+  "page_kb": 291,
   "pages": [
    "Reading"
   ],
@@ -342442,8 +342440,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 9.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 9.3,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -342451,13 +342449,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1745,
+  "page_kb": 1732,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 90.4,
+  "score": 90.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -342473,8 +342471,8 @@
   "ad_domains": 3,
   "ad_requests": 3,
   "ad_slots": 0,
-  "ad_weight_pct": 18.2,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 17.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -342484,13 +342482,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1019,
+  "page_kb": 1074,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 76.9,
+  "score": 77.3,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -342882,8 +342880,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 56.8,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 57.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -342891,7 +342889,7 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 284,
+  "page_kb": 285,
   "pages": [
    "Reading"
   ],
@@ -346008,13 +346006,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
-  "error": "",
-  "fails": 0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
+  "error": "blocked: bot challenge page",
+  "fails": 1,
   "grade": "A+",
   "networks": [],
-  "ok": true,
-  "page_kb": 15,
+  "ok": false,
+  "page_kb": 1,
   "pages": [
    "Reading"
   ],
@@ -346022,9 +346020,9 @@
   "refs": 2,
   "score": 100.0,
   "starred": 0,
-  "status": "online",
+  "status": "blocked",
   "sticky_ads": 0,
-  "title": "Potions and Snitches",
+  "title": "Just a moment...",
   "topics": [
    "Ebooks"
   ],
@@ -347682,7 +347680,7 @@
   "ad_requests": 2,
   "ad_slots": 0,
   "ad_weight_pct": 20.0,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "B",
@@ -348500,7 +348498,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T12:17:12+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -349072,32 +349070,29 @@
   "verdict": "Ad-saturated / hostile"
  },
  "www.radioshackcatalogs.com": {
-  "ad_domains": 8,
-  "ad_requests": 64,
-  "ad_slots": 3,
-  "ad_weight_pct": 8.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 5,
+  "ad_requests": 68,
+  "ad_slots": 4,
+  "ad_weight_pct": 13.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
-   "onetag-sys.com",
    "pagead2.googlesyndication.com",
    "stats.g.doubleclick.net",
-   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 11741,
+  "page_kb": 11717,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 26.2,
+  "score": 27.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -351472,8 +351467,8 @@
   "ad_domains": 2,
   "ad_requests": 2,
   "ad_slots": 0,
-  "ad_weight_pct": 2.3,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 6.0,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -351482,13 +351477,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 7104,
+  "page_kb": 2803,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 88.3,
+  "score": 87.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -351496,7 +351491,7 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 1,
   "url": "https://www.retromags.com/",
   "verdict": "Very clean"
  },
@@ -358064,30 +358059,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.smbc-comics.com": {
-  "ad_domains": 34,
-  "ad_requests": 69,
+  "ad_domains": 31,
+  "ad_requests": 66,
   "ad_slots": 0,
-  "ad_weight_pct": 32.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 49.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "72699a927b93502cdb98d91866c35afe.safeframe.googlesyndication.com",
-   "aa.agkn.com",
-   "ap.lijit.com",
+   "08f83c5f773ae3dcb98a65f1af42b7c4.safeframe.googlesyndication.com",
+   "ads.pubmatic.com",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
-   "contextual.media.net",
-   "cs.media.net",
    "direct.adsrvr.org",
    "fastlane.rubiconproject.com",
-   "hbopenbid.pubmatic.com"
+   "gum.criteo.com",
+   "hbopenbid.pubmatic.com",
+   "hbx.media.net",
+   "htlb.casalemedia.com"
   ],
   "ok": true,
-  "page_kb": 1477,
+  "page_kb": 1034,
   "pages": [
    "Reading"
   ],
@@ -358097,7 +358092,7 @@
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
-  "title": "Saturday Morning Breakfast Cereal - Alignment",
+  "title": "Saturday Morning Breakfast Cereal - Staring",
   "topics": [
    "Comics & Manga"
   ],
@@ -361039,13 +361034,13 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
   "networks": [],
   "ok": true,
-  "page_kb": 545,
+  "page_kb": 465,
   "pages": [
    "Reading"
   ],
@@ -363073,30 +363068,30 @@
   "verdict": "Effectively ad-free"
  },
  "www.taleem360.com": {
-  "ad_domains": 22,
-  "ad_requests": 107,
-  "ad_slots": 8,
-  "ad_weight_pct": 60.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 19,
+  "ad_requests": 89,
+  "ad_slots": 6,
+  "ad_weight_pct": 61.9,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
-   "cdn.flashtalking.com",
+   "a2.adform.net",
+   "aa.agkn.com",
+   "b1sync.outbrain.com",
+   "cdn.doubleverify.com",
    "cm.g.doubleclick.net",
-   "content.quantcount.com",
-   "creative-measurement.quantcount.com",
-   "d9.flashtalking.com",
+   "dis.criteo.com",
+   "dsp.adkernel.com",
    "dt.adsafeprotected.com",
-   "exch.quantcount.com",
    "fw.adsafeprotected.com",
    "googleads.g.doubleclick.net",
    "jsconfig.adsafeprotected.com",
-   "pagead2.googlesyndication.com",
-   "pixel.adsafeprotected.com"
+   "pagead2.googlesyndication.com"
   ],
   "ok": true,
-  "page_kb": 1826,
+  "page_kb": 1862,
   "pages": [
    "Reading"
   ],
@@ -365009,35 +365004,35 @@
  },
  "www.thehiveworks.com": {
   "ad_domains": 25,
-  "ad_requests": 55,
+  "ad_requests": 65,
   "ad_slots": 0,
-  "ad_weight_pct": 9.7,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 13.2,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
   "networks": [
-   "ap.lijit.com",
+   "b2c14254a94215b92690f3c09a960b36.safeframe.googlesyndication.com",
    "c.amazon-adsystem.com",
    "cdn.id5-sync.com",
+   "ce.lijit.com",
    "cm.g.doubleclick.net",
    "config.aps.amazon-adsystem.com",
-   "e63722d76893d3efaa5d7c1cbf1ff879.safeframe.googlesyndication.com",
    "fastlane.rubiconproject.com",
+   "g2.gumgum.com",
    "gum.criteo.com",
    "hbopenbid.pubmatic.com",
    "ib.adnxs.com",
-   "id5-sync.com",
-   "image2.pubmatic.com"
+   "id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 6262,
+  "page_kb": 6087,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 39.1,
+  "score": 37.4,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -365240,10 +365235,10 @@
  },
  "www.thenakedscientists.com": {
   "ad_domains": 3,
-  "ad_requests": 17,
+  "ad_requests": 18,
   "ad_slots": 3,
-  "ad_weight_pct": 31.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 32.1,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "E",
@@ -365253,13 +365248,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1630,
+  "page_kb": 1736,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 34.5,
+  "score": 33.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -366115,15 +366110,16 @@
   "verdict": "Moderate advertising"
  },
  "www.thoughtco.com": {
-  "ad_domains": 79,
-  "ad_requests": 363,
+  "ad_domains": 96,
+  "ad_requests": 475,
   "ad_slots": 6,
-  "ad_weight_pct": 60.6,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 66.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "aax-eu.amazon-adsystem.com",
    "ad.doubleclick.net",
    "ads.pubmatic.com",
    "ads.yieldmo.com",
@@ -366133,12 +366129,11 @@
    "bcp.crwdcntrl.net",
    "c.amazon-adsystem.com",
    "c1.adform.net",
-   "cdn.id5-sync.com",
-   "ce.lijit.com",
-   "cm.adform.net"
+   "cdn.doubleverify.com",
+   "cdn.id5-sync.com"
   ],
   "ok": true,
-  "page_kb": 3615,
+  "page_kb": 4364,
   "pages": [
    "Reading"
   ],
@@ -366152,7 +366147,7 @@
   "topics": [
    "Ebooks"
   ],
-  "trackers": 5,
+  "trackers": 6,
   "url": "https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215",
   "verdict": "Ad-saturated / hostile"
  },
@@ -369767,8 +369762,8 @@
   "ad_domains": 1,
   "ad_requests": 1,
   "ad_slots": 0,
-  "ad_weight_pct": 5.1,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 5.5,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A",
@@ -369776,13 +369771,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3418,
+  "page_kb": 3229,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 92.5,
+  "score": 92.2,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -374090,13 +374085,13 @@
   "ad_domains": 6,
   "ad_requests": 11,
   "ad_slots": 0,
-  "ad_weight_pct": 3.4,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_weight_pct": 3.6,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "C",
   "networks": [
-   "0304c508e618fba0faec5b047df4b4c4.safeframe.googlesyndication.com",
+   "abd4a7514d680f9344eda1a6beebc3a2.safeframe.googlesyndication.com",
    "cm.g.doubleclick.net",
    "pagead2.googlesyndication.com",
    "securepubads.g.doubleclick.net",
@@ -374104,13 +374099,13 @@
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 14173,
+  "page_kb": 13800,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 60.8,
+  "score": 60.7,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
@@ -377536,7 +377531,7 @@
   "ad_requests": 0,
   "ad_slots": 0,
   "ad_weight_pct": 0.0,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "A+",
@@ -377747,28 +377742,32 @@
   "verdict": "Light advertising"
  },
  "www.ysk-comics.com": {
-  "ad_domains": 4,
-  "ad_requests": 33,
-  "ad_slots": 3,
-  "ad_weight_pct": 51.9,
-  "checked_utc": "2026-10-24T06:31:04+00:00",
+  "ad_domains": 8,
+  "ad_requests": 69,
+  "ad_slots": 4,
+  "ad_weight_pct": 49.7,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
+   "ad.doubleclick.net",
+   "cm.g.doubleclick.net",
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "sync-tm.everesttech.net",
    "tpc.googlesyndication.com",
+   "trc.taboola.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 1649,
+  "page_kb": 2507,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.5,
+  "score": 4.0,
   "starred": 0,
   "status": "online",
   "sticky_ads": 1,
@@ -377776,7 +377775,7 @@
   "topics": [
    "Comics & Manga"
   ],
-  "trackers": 3,
+  "trackers": 4,
   "url": "https://www.ysk-comics.com/en",
   "verdict": "Ad-saturated / hostile"
  },
@@ -379981,29 +379980,30 @@
   "verdict": "Effectively ad-free"
  },
  "xpressenglish.com": {
-  "ad_domains": 5,
-  "ad_requests": 33,
+  "ad_domains": 6,
+  "ad_requests": 66,
   "ad_slots": 4,
-  "ad_weight_pct": 23.3,
-  "checked_utc": "2026-10-23T22:41:23+00:00",
+  "ad_weight_pct": 31.4,
+  "checked_utc": "2026-11-27T10:09:35+00:00",
   "error": "",
   "fails": 0,
   "grade": "F",
   "networks": [
    "googleads.g.doubleclick.net",
    "pagead2.googlesyndication.com",
+   "s0.2mdn.net",
    "stats.g.doubleclick.net",
    "tpc.googlesyndication.com",
    "www.googletagmanager.com"
   ],
   "ok": true,
-  "page_kb": 3528,
+  "page_kb": 4343,
   "pages": [
    "Reading"
   ],
   "popups": 0,
   "refs": 2,
-  "score": 21.8,
+  "score": 15.5,
   "starred": 0,
   "status": "online",
   "sticky_ads": 0,
